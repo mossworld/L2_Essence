@@ -14,6 +14,9 @@ python git_clone.py
 // CLONE
 D:\Game\L2\Source\CLONE
 
+// 깃허브 pull
+git pull
+
 // L2_Essence_Token
 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
 
