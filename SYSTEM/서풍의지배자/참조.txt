@@ -1,65 +1,14 @@
 
 
-
-item_name_begin	id=103463	name=[드래곤의 룬 Lv1]	additionalname=[3일 기간제]	description=[<font color=5599ff>용</font>의 체력을 일정 구간 타격할 때 마다 룬 레벨 상승\n\n<font color="00FF00"><기본 효과></font>\n획득 EXP <font color="FFBB00">+5%</font>\n획득 SP <font color="FFBB00">+5%</font>\nMEN <font color="FFBB00">+1</font>]	popup=-1	default_action=[action_none]	use_order=99	name_class=-1	color=1	Tooltip_Texture=[None]	Tooltip_BG_Texture=[None]	Tooltip_BG_Texture_Compare=[None]	Tooltip_BG_Deco_Texture=[None]	is_trade=0	is_drop=0	is_destruct=1	is_private_store=0	keep_type=1	is_npctrade=0	is_commission_store=0	enchant_bless=0	create_items_list=0	sort_order=253	auction_category=0	item_name_end
-item_name_begin	id=103464	name=[드래곤의 룬 Lv2]	additionalname=[3일 기간제]	description=[<font color=5599ff>용</font>의 체력을 일정 구간 타격할 때 마다 룬 레벨 상승\n\n<font color="00FF00"><기본 효과></font>\n획득 EXP <font color="FFBB00">+10%</font>\n획득 SP <font color="FFBB00">+10%</font>\nMEN <font color="FFBB00">+1</font>\nCON <font color="FFBB00">+1</font>]	popup=-1	default_action=[action_none]	use_order=99	name_class=-1	color=1	Tooltip_Texture=[None]	Tooltip_BG_Texture=[None]	Tooltip_BG_Texture_Compare=[None]	Tooltip_BG_Deco_Texture=[None]	is_trade=0	is_drop=0	is_destruct=1	is_private_store=0	keep_type=1	is_npctrade=0	is_commission_store=0	enchant_bless=0	create_items_list=0	sort_order=253	auction_category=0	item_name_end
-item_name_begin	id=103465	name=[드래곤의 룬 Lv3]	additionalname=[3일 기간제]	description=[<font color=5599ff>용</font>의 체력을 일정 구간 타격할 때 마다 룬 레벨 상승\n\n<font color="00FF00"><기본 효과></font>\n획득 EXP <font color="FFBB00">+15%</font>\n획득 SP <font color="FFBB00">+15%</font>\nMEN <font color="FFBB00">+1</font>\nCON <font color="FFBB00">+1</font>\nWIT <font color="FFBB00">+1</font>]	popup=-1	default_action=[action_none]	use_order=99	name_class=-1	color=1	Tooltip_Texture=[None]	Tooltip_BG_Texture=[None]	Tooltip_BG_Texture_Compare=[None]	Tooltip_BG_Deco_Texture=[None]	is_trade=0	is_drop=0	is_destruct=1	is_private_store=0	keep_type=1	is_npctrade=0	is_commission_store=0	enchant_bless=0	create_items_list=0	sort_order=253	auction_category=0	item_name_end
-item_name_begin	id=103466	name=[드래곤의 룬 Lv4]	additionalname=[3일 기간제]	description=[<font color=5599ff>용</font>의 체력을 일정 구간 타격할 때 마다 룬 레벨 상승\n\n<font color="00FF00"><기본 효과></font>\n획득 EXP <font color="FFBB00">+20%</font>\n획득 SP <font color="FFBB00">+20%</font>\nMEN <font color="FFBB00">+1</font>\nCON <font color="FFBB00">+1</font>\nWIT <font color="FFBB00">+1</font>\nDEX <font color="FFBB00">+1</font>]	popup=-1	default_action=[action_none]	use_order=99	name_class=-1	color=1	Tooltip_Texture=[None]	Tooltip_BG_Texture=[None]	Tooltip_BG_Texture_Compare=[None]	Tooltip_BG_Deco_Texture=[None]	is_trade=0	is_drop=0	is_destruct=1	is_private_store=0	keep_type=1	is_npctrade=0	is_commission_store=0	enchant_bless=0	create_items_list=0	sort_order=253	auction_category=0	item_name_end
-item_name_begin	id=103467	name=[드래곤의 룬 Lv5]	additionalname=[3일 기간제]	description=[<font color=5599ff>용</font>의 체력을 일정 구간 타격할 때 마다 룬 레벨 상승\n\n<font color="00FF00"><기본 효과></font>\n획득 EXP <font color="FFBB00">+25%</font>\n획득 SP <font color="FFBB00">+25%</font>\nMEN <font color="FFBB00">+1</font>\nCON <font color="FFBB00">+1</font>\nWIT <font color="FFBB00">+1</font>\nDEX <font color="FFBB00">+1</font>\nINT <font color="FFBB00">+1</font>]	popup=-1	default_action=[action_none]	use_order=99	name_class=-1	color=1	Tooltip_Texture=[None]	Tooltip_BG_Texture=[None]	Tooltip_BG_Texture_Compare=[None]	Tooltip_BG_Deco_Texture=[None]	is_trade=0	is_drop=0	is_destruct=1	is_private_store=0	keep_type=1	is_npctrade=0	is_commission_store=0	enchant_bless=0	create_items_list=0	sort_order=253	auction_category=0	item_name_end
-item_name_begin	id=103468	name=[드래곤의 룬 Lv6]	additionalname=[3일 기간제]	description=[<font color=5599ff>용</font>의 체력을 일정 구간 타격할 때 마다 룬 레벨 상승\n\n<font color="00FF00"><기본 효과></font>\n획득 EXP <font color="FFBB00">+30%</font>\n획득 SP <font color="FFBB00">+30%</font>\nMEN <font color="FFBB00">+1</font>\nCON <font color="FFBB00">+1</font>\nWIT <font color="FFBB00">+1</font>\nDEX <font color="FFBB00">+1</font>\nINT <font color="FFBB00">+1</font>\nSTR <font color="FFBB00">+1</font>]	popup=-1	default_action=[action_none]	use_order=99	name_class=-1	color=1	Tooltip_Texture=[None]	Tooltip_BG_Texture=[None]	Tooltip_BG_Texture_Compare=[None]	Tooltip_BG_Deco_Texture=[None]	is_trade=0	is_drop=0	is_destruct=1	is_private_store=0	keep_type=1	is_npctrade=0	is_commission_store=0	enchant_bless=0	create_items_list=0	sort_order=253	auction_category=0	item_name_end
-item_name_begin	id=103469	name=[드래곤의 룬 Lv7]	additionalname=[3일 기간제]	description=[<font color=5599ff>용</font>의 체력을 일정 구간 타격할 때 마다 룬 레벨 상승\n\n<font color="00FF00"><기본 효과></font>\n획득 EXP <font color="FFBB00">+35%</font>\n획득 SP <font color="FFBB00">+35%</font>\nMEN <font color="FFBB00">+2</font>\nCON <font color="FFBB00">+1</font>\nWIT <font color="FFBB00">+1</font>\nDEX <font color="FFBB00">+1</font>\nINT <font color="FFBB00">+1</font>\nSTR <font color="FFBB00">+1</font>]	popup=-1	default_action=[action_none]	use_order=99	name_class=-1	color=1	Tooltip_Texture=[None]	Tooltip_BG_Texture=[None]	Tooltip_BG_Texture_Compare=[None]	Tooltip_BG_Deco_Texture=[None]	is_trade=0	is_drop=0	is_destruct=1	is_private_store=0	keep_type=1	is_npctrade=0	is_commission_store=0	enchant_bless=0	create_items_list=0	sort_order=253	auction_category=0	item_name_end
-item_name_begin	id=103470	name=[드래곤의 룬 Lv8]	additionalname=[3일 기간제]	description=[<font color=5599ff>용</font>의 체력을 일정 구간 타격할 때 마다 룬 레벨 상승\n\n<font color="00FF00"><기본 효과></font>\n획득 EXP <font color="FFBB00">+50%</font>\n획득 SP <font color="FFBB00">+50%</font>\nMEN <font color="FFBB00">+2</font>\nCON <font color="FFBB00">+2</font>\nWIT <font color="FFBB00">+1</font>\nDEX <font color="FFBB00">+1</font>\nINT <font color="FFBB00">+1</font>\nSTR <font color="FFBB00">+1</font>]	popup=-1	default_action=[action_none]	use_order=99	name_class=-1	color=1	Tooltip_Texture=[None]	Tooltip_BG_Texture=[None]	Tooltip_BG_Texture_Compare=[None]	Tooltip_BG_Deco_Texture=[None]	is_trade=0	is_drop=0	is_destruct=1	is_private_store=0	keep_type=1	is_npctrade=0	is_commission_store=0	enchant_bless=0	create_items_list=0	sort_order=253	auction_category=0	item_name_end
-item_name_begin	id=103471	name=[드래곤의 룬 Lv9]	additionalname=[3일 기간제]	description=[<font color=5599ff>용</font>의 체력을 일정 구간 타격할 때 마다 룬 레벨 상승\n\n<font color="00FF00"><기본 효과></font>\n획득 EXP <font color="FFBB00">+70%</font>\n획득 SP <font color="FFBB00">+70%</font>\nMEN <font color="FFBB00">+2</font>\nCON <font color="FFBB00">+2</font>\nWIT <font color="FFBB00">+2</font>\nDEX <font color="FFBB00">+2</font>\nINT <font color="FFBB00">+1</font>\nSTR <font color="FFBB00">+1</font>]	popup=-1	default_action=[action_none]	use_order=99	name_class=-1	color=1	Tooltip_Texture=[None]	Tooltip_BG_Texture=[None]	Tooltip_BG_Texture_Compare=[None]	Tooltip_BG_Deco_Texture=[None]	is_trade=0	is_drop=0	is_destruct=1	is_private_store=0	keep_type=1	is_npctrade=0	is_commission_store=0	enchant_bless=0	create_items_list=0	sort_order=253	auction_category=0	item_name_end
-item_name_begin	id=103472	name=[드래곤의 룬 Lv10]	additionalname=[3일 기간제]	description=[<font color="00FF00"><기본 효과></font>\n획득 EXP <font color="FFBB00">+100%</font>\n획득 SP <font color="FFBB00">+100%</font>\nMEN <font color="FFBB00">+2</font>\nCON <font color="FFBB00">+2</font>\nWIT <font color="FFBB00">+2</font>\nDEX <font color="FFBB00">+2</font>\nINT <font color="FFBB00">+2</font>\nSTR <font color="FFBB00">+2</font>]	popup=-1	default_action=[action_none]	use_order=99	name_class=-1	color=1	Tooltip_Texture=[None]	Tooltip_BG_Texture=[None]	Tooltip_BG_Texture_Compare=[None]	Tooltip_BG_Deco_Texture=[None]	is_trade=0	is_drop=0	is_destruct=1	is_private_store=0	keep_type=1	is_npctrade=0	is_commission_store=0	enchant_bless=0	create_items_list=0	sort_order=253	auction_category=0	item_name_end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+item_name_begin	id=103463	name=[드래곤의 룬 Lv1]
+item_name_begin	id=103464	name=[드래곤의 룬 Lv2]
+item_name_begin	id=103465	name=[드래곤의 룬 Lv3]
+item_name_begin	id=103466	name=[드래곤의 룬 Lv4]
+item_name_begin	id=103467	name=[드래곤의 룬 Lv5]
+item_name_begin	id=103468	name=[드래곤의 룬 Lv6]
+item_name_begin	id=103469	name=[드래곤의 룬 Lv7]
+item_name_begin	id=103470	name=[드래곤의 룬 Lv8]
+item_name_begin	id=103471	name=[드래곤의 룬 Lv9]
+item_name_begin	id=103472	name=[드래곤의 룬 Lv10]
 
 

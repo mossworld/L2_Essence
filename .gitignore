@@ -1,10 +1,29 @@
+# 빌드 output 및 압축 파일
 /Build/
 /build_temp/
 /dist/
 *.zip
+
+# 대용량 클라이언트 및 SDK/JDK 툴 제외
 /Client/
 jdk*/
+
+# 로그 및 실행 결과 파일
 build_log.txt
 *.log
+
+# IDE 설정 파일
+/.idea/
+/.eclipse/
+*.classpath
+*.project
+.settings/
+*.iml
+
+# OS 파일
+Thumbs.db
+.DS_Store
+
+# 🔒 보안 파일 및 Git 자동화 파이썬 스크립트류 전체 제외
 .env_token
 git_*.py
