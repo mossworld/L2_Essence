@@ -1,0 +1,909 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="90000" name="빛바랜 최고급 민첩의 염약&lt;DEX+4 CON-2&gt;" type="EtcItem">
+		<!-- Required for applying Best DEX Pattern. Can be exchanged for Colorant Booster through the Game Assistant. Note!. Applying the pattern requires 10 colorants. Requirements: all classes after the 3rd class change. Hidden power is not available. -->
+		<set name="icon" val="icon.lv4_1_dye_dex"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90001" name="빛바랜 최고급 지능의 염약&lt;INT+4 MEN-2&gt;" type="EtcItem">
+		<!-- Required for applying Best INT Pattern. Can be exchanged for Colorant Booster through the Game Assistant. Note!. Applying the pattern requires 10 colorants. Requirements: all classes after the 3rd class change. Hidden power is not available. -->
+		<set name="icon" val="icon.lv4_1_dye_int"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90002" name="빛바랜 최고급 지능의 염약&lt;INT+4 WIT-2&gt;" type="EtcItem">
+		<!-- Required for applying Best INT Pattern. Can be exchanged for Colorant Booster through the Game Assistant. Note!. Applying the pattern requires 10 colorants. Requirements: all classes after the 3rd class change. Hidden power is not available. -->
+		<set name="icon" val="icon.lv4_1_dye_int"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90003" name="빛바랜 최고급 정신의 염약&lt;MEN+4 INT-2&gt;" type="EtcItem">
+		<!-- Required for applying Best MEN Pattern. Can be exchanged for Colorant Booster through the Game Assistant. Note!. Applying the pattern requires 10 colorants. Requirements: all classes after the 3rd class change. Hidden power is not available. -->
+		<set name="icon" val="icon.lv4_1_dye_men"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90004" name="빛바랜 최고급 정신의 염약&lt;MEN+4 WIT-2&gt;" type="EtcItem">
+		<!-- Required for applying Best MEN Pattern. Can be exchanged for Colorant Booster through the Game Assistant. Note!. Applying the pattern requires 10 colorants. Requirements: all classes after the 3rd class change. Hidden power is not available. -->
+		<set name="icon" val="icon.lv4_1_dye_men"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90005" name="빛바랜 최고급 재치의 염약&lt;WIT+4 INT-2&gt;" type="EtcItem">
+		<!-- Required for applying Best WIT Pattern. Can be exchanged for Colorant Booster through the Game Assistant. Note!. Applying the pattern requires 10 colorants. Requirements: all classes after the 3rd class change. Hidden power is not available. -->
+		<set name="icon" val="icon.lv4_1_dye_wit"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90006" name="빛바랜 최고급 재치의 염약&lt;WIT+4 MEN-2&gt;" type="EtcItem">
+		<!-- Required for applying Best WIT Pattern. Can be exchanged for Colorant Booster through the Game Assistant. Note!. Applying the pattern requires 10 colorants. Requirements: all classes after the 3rd class change. Hidden power is not available. -->
+		<set name="icon" val="icon.lv4_1_dye_wit"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90007" name="일반 생명의 돌 - 무기" type="EtcItem">
+		<!-- Used for weapon augmentation. Can be exchanged for Dim Life Stone Lv. 1 - Weapon through the Game Assistant. D-grade Gemstones (50 pcs.) are required for augmentation. -->
+		<set name="icon" val="icon.etc_mineral_general_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="2"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="90008" name="죄의 조각" type="EtcItem">
+		<!-- An item you got from a prisoner of the Dungeon of Abyss. -->
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90009" name="죄의 형상" type="EtcItem">
+		<!-- An item you got from an especially dangerous prisoner of the Dungeon of Abyss. -->
+		<set name="icon" val="icon.etc_broken_crystal_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90010" name="심연의 감옥 서쪽 심장부 열쇠" type="EtcItem">
+		<!-- The key to the door in the Dungeon of Abyss' western wing. -->
+		<set name="icon" val="icon.etc_dark_key_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90011" name="심연의 감옥 동쪽 심장부 열쇠" type="EtcItem">
+		<!-- The key to the door in the Dungeon of Abyss' eastern wing. -->
+		<set name="icon" val="icon.etc_dark_key_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90012" name="일반 생명의 돌 - 무기" type="EtcItem">
+		<!-- Used for weapon augmentation. D-grade Gemstones (50 pcs.) are required for augmentation. -->
+		<set name="icon" val="icon.etc_mineral_general_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="2"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90013" name="중급 생명의 돌 - 무기" type="EtcItem">
+		<!-- Used for weapon augmentation. C-grade Gemstones (50 pcs.) are required for augmentation. -->
+		<set name="icon" val="icon.etc_mineral_special_i03"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="2"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90014" name="상급 생명의 돌 - 무기" type="EtcItem">
+		<!-- Used for weapon augmentation. B-grade Gemstones (50 pcs.) are required for augmentation. -->
+		<set name="icon" val="icon.etc_mineral_rare_i03"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="2"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90015" name="최상급 생명의 돌 - 무기" type="EtcItem">
+		<!-- Used for weapon augmentation. A-grade Gemstones (50 pcs.) are required for augmentation. -->
+		<set name="icon" val="icon.etc_mineral_unique_i03"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="2"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90016" name="빛바랜 빛나는 생명의 돌 - 무기" type="EtcItem">
+		<set name="icon" val="icon.renewal_mineral_r"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="2"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90017" name="무기 재료 상자 - A그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39200" level="1"/> <!-- A-grade Weapon Material Pack -->
+		</skills>
+	</item>
+	<item id="90018" name="정예 몬스터 투기장 토큰" type="EtcItem">
+		<!-- A reward for winning in the Elite Monster Arena. Can be traded for a special item by Arena Manager Lau. -->
+		<set name="icon" val="icon.etc_residence_token_royalguard"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90019" name="몬스터 투기장 토큰" type="EtcItem">
+		<!-- A reward for winning in the Monster Arena. Can be traded for a special item by Arena Manager Lau. -->
+		<set name="icon" val="icon.etc_residence_token_giantchaser"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90020" name="최고급 염약 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_4_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="FISH"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39201" level="1"/> <!-- Best Dye Box -->
+		</skills>
+	</item>
+	<item id="90021" name="전사의 탈리스만 - 공격형" type="Armor">
+		<!-- Available for 30 d. PvE damage +3%, P. Critical Damage/ M. Skill Critical Damage +20, P./ M. Skill Power +2%, P./ M. Accuracy +1. -->
+		<set name="icon" val="icon.r90_sp_talisman_dr_mp_active"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="35036" level="1"/> <!-- Warrior's Talisman - Attack -->
+		</skills>
+	</item>
+	<item id="90022" name="전사의 탈리스만 - 방어형" type="Armor">
+		<!-- Available for 40 d. Received PvE damage -3%, M. Damage Resistance +2%, P./ M. Skill Evasion +4%, Debuff Resistance +3%, Pull Resistance +10%. -->
+		<set name="icon" val="icon.r99_talisman_pd_up_passive"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="35037" level="1"/> <!-- Warrior's Talisman - Defense -->
+		</skills>
+	</item>
+	<item id="90023" name="벨트" type="Armor">
+		<!-- Inventory slots +2, weight limit +1000. Can be upgraded to Cloth Belt with Magic Pin. -->
+		<set name="icon" val="icon.belt_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="waist"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="500"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pDef">10</stat>
+		</stats>
+		<skills>
+			<skill id="35040" level="1"/> <!-- Not used - Belt -->
+		</skills>
+	</item>
+	<item id="90024" name="천 벨트" type="Armor">
+		<!-- Inventory slots +2, weight limit +2000, HP Recovery Rate +1.24, MP Recovery Rate +0.83, CP Recovery Rate +1.66. Can be upgraded to Leather Belt with Mid-grade Magic Pin. -->
+		<set name="icon" val="icon.belt_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="waist"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="500"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pDef">10</stat>
+		</stats>
+		<skills>
+			<skill id="35041" level="1"/> <!-- Not used - Cloth Belt -->
+		</skills>
+	</item>
+	<item id="90025" name="가죽 벨트" type="Armor">
+		<!-- Inventory slots +3, weight limit +3000, HP Recovery Rate +1.47, MP Recovery Rate +0.98, CP Recovery Rate +1.96, Max HP/ MP/ CP +100. Can be upgraded to Iron Belt with High-grade Magic Pin. -->
+		<set name="icon" val="icon.belt_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="waist"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="500"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pDef">10</stat>
+		</stats>
+		<skills>
+			<skill id="35042" level="1"/> <!-- Not used - Leather Belt -->
+		</skills>
+	</item>
+	<item id="90026" name="강철 벨트" type="Armor">
+		<!-- Inventory slots +4, weight limit +4000, HP Recovery Rate +1.70, MP Recovery Rate +1.13, CP Recovery Rate +2.26, Max HP/ MP/ CP +150. Can be upgraded to Mithril Belt with Top-grade Magic Pin. -->
+		<set name="icon" val="icon.belt_i03"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="waist"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="500"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pDef">10</stat>
+		</stats>
+		<skills>
+			<skill id="35043" level="1"/> <!-- Not used - Iron Belt -->
+		</skills>
+	</item>
+	<item id="90027" name="미스릴 벨트" type="Armor">
+		<!-- Inventory slots +5, weight limit +5000, HP Recovery Rate +1.92, MP Recovery Rate +1.28, CP Recovery Rate +2.56, Max HP/ MP/ CP +200. -->
+		<set name="icon" val="icon.belt_i04"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="waist"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="500"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pDef">10</stat>
+		</stats>
+		<skills>
+			<skill id="35044" level="1"/> <!-- Not used - Mithril Belt -->
+		</skills>
+	</item>
+	<item id="90028" name="마법 핀" type="EtcItem">
+		<!-- Magic pin required for upgrading belts. Take it to Arena Manager Lau. -->
+		<set name="icon" val="icon.pin_i00"/>
+		<set name="material" val="LEATHER"/>
+		<set name="weight" val="20"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90029" name="중급 마법 핀" type="EtcItem">
+		<!-- Magic pin required for upgrading belts. Take it to Arena Manager Lau. -->
+		<set name="icon" val="icon.pin_i01"/>
+		<set name="material" val="LEATHER"/>
+		<set name="weight" val="20"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90030" name="고급 마법 핀" type="EtcItem">
+		<!-- Magic pin required for upgrading belts. Take it to Arena Manager Lau. -->
+		<set name="icon" val="icon.pin_i02"/>
+		<set name="material" val="LEATHER"/>
+		<set name="weight" val="20"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90031" name="상급 마법 핀" type="EtcItem">
+		<!-- Magic pin required for upgrading belts. Take it to Arena Manager Lau. -->
+		<set name="icon" val="icon.pin_i03"/>
+		<set name="material" val="LEATHER"/>
+		<set name="weight" val="20"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90032" name="생명의 비약" type="EtcItem">
+		<!-- Recovers a large amount of HP. Cooldown: 3 min. -->
+		<set name="icon" val="icon.etc_super_hp_potion_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="ELIXIR"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_sellable" val="false"/>
+		<set name="shared_reuse_group" val="1"/>
+		<set name="reuse_delay" val="180000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="Elixir"/>
+		<set name="commissionItemType" val="POTION"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="9985" level="7"/> <!-- Elixir of Life -->
+		</skills>
+	</item>
+	<item id="90033" name="정신의 비약" type="EtcItem">
+		<!-- Recovers a large amount of MP. Cooldown: 3 min. -->
+		<set name="icon" val="icon.etc_super_mp_potion_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="ELIXIR"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_sellable" val="false"/>
+		<set name="shared_reuse_group" val="1"/>
+		<set name="reuse_delay" val="180000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="Elixir"/>
+		<set name="commissionItemType" val="POTION"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="9986" level="7"/> <!-- Elixir of Mind -->
+		</skills>
+	</item>
+	<item id="90034" name="마법서 상자 - 3차 전직" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_readybox_silver"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="FISH"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39202" level="1"/> <!-- Spellbook Chest -->
+		</skills>
+	</item>
+	<item id="90035" name="제련석 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00"/>
+		<set name="default_action" val="CAPSULE"/>
+		<set name="material" val="FISH"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39203" level="1"/> <!-- Life Stone Pack -->
+		</skills>
+	</item>
+	<item id="90036" name="용사의 탈리스만 - 공격형" type="Armor">
+		<!-- Available for 30 d. PvP damage +3%, P. Critical Damage/ M. Skill Critical Damage +20, P./ M. Skill Power +2%, P./ M. Accuracy +1. -->
+		<set name="icon" val="icon.r90_sp_talisman_dr_hp_active"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="35038" level="1"/> <!-- Hero's Talisman - Attack -->
+		</skills>
+	</item>
+	<item id="90037" name="용사의 탈리스만 - 방어형" type="Armor">
+		<!-- Available for 30 d. Received PvP damage -3%, M. Damage Resistance +2%, P./ M. Skill Evasion +4%, Debuff Resistance +3%. -->
+		<set name="icon" val="icon.r95_talisman_ca_down_active"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="35039" level="1"/> <!-- Hero's Talisman - Defense -->
+		</skills>
+	</item>
+	<item id="90038" name="마법서 - 라이딩 골든 라이온 (기간제)" type="EtcItem">
+		<!-- A spellbook for learning the Mount Golden Lion skill. Required level: 76 (after the 3rd class change). <Classes>. Human classes after the 3rd class change. <Skill effect>. Allows to mount Golden Lion. -->
+		<set name="icon" val="icon.etc_spellbook_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90039" name="마법서 - 라이딩 페가수스 (기간제)" type="EtcItem">
+		<!-- A spellbook for learning the Mount Pegasus skill. Required level: 76 (after the 3rd class change). <Classes>. Elf classes after the 3rd class change. <Skill effect>. Allows to mount Pegasus. -->
+		<set name="icon" val="icon.etc_spellbook_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90040" name="마법서 - 라이딩 세이버투스 쿠거 (기간제)" type="EtcItem">
+		<!-- A spellbook for learning the Mount Saber-toothed Cougar skill. Required level: 76 (after the 3rd class change). <Classes>. Dark Elf classes after the 3rd class change. <Skill effect>. Allows to mount Saber-toothed Cougar. -->
+		<set name="icon" val="icon.etc_spellbook_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90041" name="마법서 - 라이딩 쿠쿠루 (기간제)" type="EtcItem">
+		<!-- A spellbook for learning the Mount Kukuru skill. Required level: 76 (after the 3rd class change). <Classes>. Dwarf classes after the 3rd class change. <Skill effect>. Allows to mount Kukuru. -->
+		<set name="icon" val="icon.etc_spellbook_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90042" name="마법서 - 라이딩 블랙 베어 (기간제)" type="EtcItem">
+		<!-- A spellbook for learning the Mount Black Bear skill. Required level: 76 (after the 3rd class change). <Classes>. Orc classes after the 3rd class change. <Skill effect>. Allows to mount Black Bear. -->
+		<set name="icon" val="icon.etc_spellbook_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90043" name="다크 어쌔신 변신 물약" type="EtcItem">
+		<!-- Transforms into Dark Assassin. <Transformation effect>. P. Atk. +2%. M. Atk. +2%. P. Def. +2%. M. Def. +2%. P. Accuracy +1. M. Accuracy +1. Max HP +5%. Max MP +5%. Atk. Spd. +3%. Speed +4. M. Critical Rate +1. Duration: 20 min. The effect remains after death. -->
+		<set name="icon" val="icon.empty_bottle"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39205" level="1"/> <!-- Dark Assassin Transformation -->
+		</skills>
+	</item>
+	<item id="90044" name="차원의 축복" type="EtcItem">
+		<!-- XP +370,000, SP +1,100. -->
+		<set name="icon" val="icon.etc_blessed_kalie_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<skills>
+			<skill id="39204" level="1"/> <!-- Dimensional Blessing -->
+		</skills>
+	</item>
+	<item id="90045" name="마력의 서판" type="EtcItem">
+		<!-- A tablet filled with magic energy. Required for learning some skills. <font color=bbaa88>Acquisition:</font>. Cruma Tower. Common Craft -->
+		<set name="icon" val="icon.etc_hidden_1st_page_i00"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="90046" name="비전서 - 벤젼스" type="EtcItem">
+		<!-- A scroll for learning the Vengeance skill. <Classes>. Phoenix Knight, Hell Knight, Eva's Templar, Shillien Templar. <Skill effect>. Increases aggression of nearby enemies and changes their targets. Increases P./ M. Def. and Buff Cancel Resistance, decreases Speed. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90047" name="비전서 - 터치 오브 라이프 " type="EtcItem">
+		<!-- A scroll for learning the Touch of Life skill. <Classes>. Phoenix Knight, Eva's Templar. <Skill effect>. Grants a divine blessing by sacrificing oneself. Recovers HP, and increases Buff Cancel Resistance, Debuff/ Anomaly Resistance, and Received Healing. Recovers HP over time. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90048" name="비전서 - 터치 오브 데스" type="EtcItem">
+		<!-- A scroll for learning the Touch of Death skill. <Classes>. Hell Knight, Shillien Templar. <Skill effect>. Curses the enemy by sacrificing oneself. With a certain chance, removes buffs from the enemy decreasing their CP, Max CP, Received Healing, and Debuff/ Anomaly Resistance. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Shillien's Curse -->
+		<set name="icon" val="icon.etc_magic_book_black_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90049" name="비전서 - 실드 오브 페이스" type="EtcItem">
+		<!-- A scroll for learning the Shield of Faith skill. <Classes>. Phoenix Knight, Hell Knight, Eva's Templar, Shillien Templar. <Skill effect>. Increases party members' P./ M. Def. You receive some of the damage inflicted to your party. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90050" name="비전서 - 실드 오브 새크리파이스" type="EtcItem">
+		<!-- A scroll for learning the Shield of Sacrifice skill. <Class>. Phoenix Knight. <Skill effect>. The character sacrifices themselves, decreasing Max HP. Increases party members' P./ M. Def. and Received Healing. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Shield of Security -->
+		<set name="icon" val="icon.etc_magic_book_black_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90051" name="비전서 - 인세인 크러셔" type="EtcItem">
+		<!-- A scroll for learning the Insane Crusher skill. <Class>. Hell Knight. <Skill effect>. Casts a dark curse and unleashes a powerful strike dealing damage to nearby enemies. Cancels at least one of the enemy's buffs, and temporarily decreases their Max CP significantly. Decreases Debuff/ Anomaly Resistance and Received Healing. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Lunatic Crusher -->
+		<set name="icon" val="icon.etc_magic_book_black_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90052" name="비전서 - 프로텍션 오브 에바" type="EtcItem">
+		<!-- A scroll for learning the Eva's Defense skill. <Class>. Eva's Templar. <Skill effect>. Increases P./ M. Def. and Speed. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Eva's Care -->
+		<set name="icon" val="icon.etc_magic_book_black_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90053" name="비전서 - 매스 라이트닝 스트라이크" type="EtcItem">
+		<!-- A spellbook for learning the Mass Lightning Strike skill. <Class>. Shillien Templar. <Skill effect>. Strikes the target and surrounding enemies with a lightning bolt paralyzing them for some time. -->
+		<set name="icon" val="icon.etc_magic_book_black_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90054" name="비전서 - 리셋 무브먼트" type="EtcItem">
+		<!-- A scroll for learning the Clear Movements skill. <Classes>. Adventurer, Wind Rider, Ghost Hunter. <Skill effect>. All senses sharpen, and cooldown time of the Hide and Shadow Step skills is reset. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90055" name="비전서 - 크리티컬 운드" type="EtcItem">
+		<!-- A scroll for learning the Critical Wound skill. <Classes>. Adventurer, Wind Rider, Ghost Hunter. <Skill effect>. Increases the target's received P. Critical Damage, and decreases their Vital Point Attack Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90056" name="비전서 - 포커스 파워" type="EtcItem">
+		<!-- A scroll for learning the Focus Power skill. <Classes>. Adventurer. Wind Rider. Ghost Hunter. <Skill effect>. Increases the bonus to Dagger Damage. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90057" name="비전서 - 포커스 챈스" type="EtcItem">
+		<!-- A scroll for learning the Focus Chance skill. <Classes>. Adventurer. Wind Rider. Ghost Hunter. <Skill effect>. Increases Vital Point Attack Rate and Vital Point Critical Rate. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90058" name="비전서 - 포커스 데스" type="EtcItem">
+		<!-- A scroll for learning the Focus Death skill. <Classes>. Adventurer. Wind Rider. Ghost Hunter. <Skill effect>. Increases Vital Point Critical Damage. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90059" name="비전서 - 미라지" type="EtcItem">
+		<!-- A scroll for learning the Mirage skill. <Class>. Adventurer. <Skill effect>. Increases Vital Point Attack Rate, and decreases received P. Critical Damage/ received M. Skill Critical Damage. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90060" name="비전서 - 닷지 어택" type="EtcItem">
+		<!-- A scroll for learning the Evasion skill. <Class>. Wind Rider. <Skill effect>. Increases P./ M. Skill Evasion. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90061" name="비전서 - 카운터 어택" type="EtcItem">
+		<!-- A scroll for learning the Counterattack skill. <Class>. Ghost Hunter. <Skill effect>. Reflects some of received damage back to the enemy. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90062" name="비전서 - 리얼 타겟" type="EtcItem">
+		<!-- A scroll for learning the Real Target skill. <Classes>. Sagittarius, Moonlight Sentinel, Ghost Sentinel. <Skill effect>. Increases Shock Atk. Rate. With a certain chance on attack, applies a debuff that decreases the target's Bow Resistance and Shock Resistance. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - True Aim -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90063" name="비전서 - 데스 스팅어" type="EtcItem">
+		<!-- A scroll for learning the Death Sting skill. <Classes>. Sagittarius, Moonlight Sentinel, Ghost Sentinel. <Skill effect>. Shoots a deadly arrow at the enemy blocking their M. skills. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90064" name="비전서 - 플레임 호크" type="EtcItem">
+		<!-- A scroll for learning the Flame Hawk skill. <Class>. Sagittarius. <Skill effect>. Fires an arrow imbued with the phoenix energy, attacking the target and enemies at the front. Inflicts additional damage over time. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Flame Arrow -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90065" name="비전서 - 애로우 레인" type="EtcItem">
+		<!-- A scroll for learning the Arrow Rain skill. <Class>. Moonlight Sentinel. <Skill effect>. Causes arrows to rain down from the sky attacking the target and nearby enemies. Deals bonus damage over time. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Arrow Shower -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90066" name="비전서 - 고스트 피어싱" type="EtcItem">
+		<!-- A scroll for learning the Ghost Piercing skill. <Class>. Ghost Sentinel. <Skill effect>. Shoots ghost arrows attacking the target and enemies at the front. Deals bonus damage over time. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Piercing Arrow -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90067" name="비전서 - 얼터미트 바디" type="EtcItem">
+		<!-- A scroll for learning the Tough Body skill. <Class>. Duelist. <Skill effect>. Increases P./ M. Def., Debuff/ Anomaly Resistance, and Buff Cancel Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90068" name="비전서 - 언브레이커블 소닉" type="EtcItem">
+		<!-- A scroll for learning the Indestructible Sound skill. <Class>. Duelist. <Skill effect>. Makes a powerful sword strike completely blocking the target. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90069" name="비전서 - 맥시멈 소드 스피릿" type="EtcItem">
+		<!-- A scroll for learning the Furious Sword Spirit skill. <Class>. Duelist. <Skill effect>. Charges Sword Spirit to the fullest. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90070" name="비전서 - 얼터미트 포스" type="EtcItem">
+		<!-- A scroll for learning the Wondrous Power skill. <Class>. Grand Khavatari. <Skill effect>. Increases P./ M. Def., Debuff/ Anomaly Resistance, and Buff Cancel Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90071" name="비전서 - 러시" type="EtcItem">
+		<!-- Can be exchanged for Upgraded Spellbook Chest - Event through the Farmers' Representative. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90072" name="비전서 - 맥시멈 포커스 포스" type="EtcItem">
+		<!-- A scroll for learning the Maximum Force Focus skill. <Class>. Grand Khavatari. <Skill effect>. Momentarily increases Momentum to its maximum level. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90073" name="비전서 - 디스트로이 로어" type="EtcItem">
+		<!-- A scroll for learning the Destroyer's Roar skill. <Class>. Titan. <Skill effect>. Inflicts Fear on nearby enemies decreasing their Speed. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90074" name="비전서 - 오버 더 바디" type="EtcItem">
+		<!-- A scroll for learning the Over the Body skill. <Class>. Titan. <Skill effect>. Releases combat spirit, increasing Max HP, HP Recovery Rate, P. Atk., P. Def., Atk. Spd. and Speed. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Titan Champion -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90075" name="비전서 - 데몰리션 임팩트" type="EtcItem">
+		<!-- A scroll for learning the Demolition Impact skill. <Class>. Titan. <Skill effect>. Unleashes a destructive shockwave at the target. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90076" name="비전서 - 쇼크 블래스트" type="EtcItem">
+		<!-- A scroll for learning the Shocking Burst skill. <Class>. Dreadnought. <Skill effect>. Creates a powerful shockwave that deals damage to the target and nearby enemies, inflicting Shock on them and decreasing their P./ M. Def. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Spear Cage -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90077" name="비전서 - 하울 스피어" type="EtcItem">
+		<!-- A scroll for learning the Spear Howl skill. <Class>. Dreadnought. <Skill effect>. Strikes the earth with a spear attacking nearby enemies. Removes Speed-increasing buffs. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Spear Rumble -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90078" name="비전서 - 아머 크러쉬" type="EtcItem">
+		<!-- A scroll for learning the Armor Crush skill. <Classes>. Titan, Fortune Seeker, Maestro. <Skill effect>. Attacks the target, inflicting Shock on them and decreasing P./ M. Def. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Titanic Break -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90079" name="비전서 - 스포일 크러쉬" type="EtcItem">
+		<!-- A scroll for learning the Spoil Crush skill. <Class>. Fortune Seeker. <Skill effect>. Causes a change inside the monster while attacking it, and makes it possible to steal valuable items. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Trophy Thief -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90080" name="비전서 - 파이널 시크릿 Lv1" type="EtcItem">
+		<!-- A scroll for learning the Final Secret Lv. 1 skill. <Classes>. Dreadnought. Duelist. Titan. Grand Khavatari. Vanguard Rider. Fortune Seeker. Maestro. Doombringer. <Skill effect>. Releases hidden spirit powers. Increases P. Skill Power, basic PvP damage, Bow Resistance and M. Def. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90081" name="비전서 - 아케인 파워" type="EtcItem">
+		<!-- A scroll for learning the Arcane Power skill. <Classes>. Archmage, Mystic Muse, Storm Screamer. <Skill effect>. Maximizes spells' efficiency increasing M. Atk. and MP Consumption. Consumes HP over time. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90082" name="비전서 - 파이어 보텍스 버스터" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90083" name="비전서 - 아이스 보텍스 크러셔" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90084" name="비전서 - 윈드 보텍스 슬러그" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90085" name="비전서 - 아케인 카오스" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90086" name="비전서 - 아케인 실드" type="EtcItem">
+		<!-- A scroll for learning the Arcane Shield skill. <Classes>. Archmage, Mystic Muse, Storm Screamer, Soul Hound. <Skill effect>. Decreases received damage, blocks the rest of the damage by consuming MP. The effect is cancelled when MP drops to 0. <font color=ff6666>Note!</font>. The skill will be removed after learning a more powerful skill:. - Faery Shield -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90087" name="비전서 - 커스 오브 둠" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90088" name="비전서 - 커스 오브 어비스" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90089" name="비전서 - 뱀피릭 미스트" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90090" name="비전서 - 송 오브 리뉴얼" type="EtcItem">
+		<!-- Can be exchanged for Upgraded Spellbook Chest - Event through the Farmers' Representative. -->
+		<set name="icon" val="icon.etc_magic_book_blue_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90091" name="비전서 - 송 오브 챔피언" type="EtcItem">
+		<!-- Can be exchanged for Upgraded Spellbook Chest - Event through the Farmers' Representative. -->
+		<set name="icon" val="icon.etc_magic_book_blue_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90092" name="비전서 - 송 오브 사일런스" type="EtcItem">
+		<!-- Can be exchanged for Upgraded Spellbook Chest - Event through the Farmers' Representative. -->
+		<set name="icon" val="icon.etc_magic_book_blue_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90093" name="비전서 - 송 오브 퓨리피케이션" type="EtcItem">
+		<!-- Can be exchanged for Upgraded Spellbook Chest - Event through the Farmers' Representative. -->
+		<set name="icon" val="icon.etc_magic_book_blue_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90094" name="비전서 - 댄스 오브 섀도우" type="EtcItem">
+		<!-- Can be exchanged for Upgraded Spellbook Chest - Event through the Farmers' Representative. -->
+		<set name="icon" val="icon.etc_magic_book_blue_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90095" name="비전서 - 댄스 오브 사이렌" type="EtcItem">
+		<!-- Can be exchanged for Upgraded Spellbook Chest - Event through the Farmers' Representative. -->
+		<set name="icon" val="icon.etc_magic_book_blue_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90096" name="비전서 - 댄스 오브 메두사" type="EtcItem">
+		<!-- Can be exchanged for Upgraded Spellbook Chest - Event through the Farmers' Representative. -->
+		<set name="icon" val="icon.etc_magic_book_blue_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90097" name="비전서 - 댄스 오브 버서커" type="EtcItem">
+		<!-- Can be exchanged for Upgraded Spellbook Chest - Event through the Farmers' Representative. -->
+		<set name="icon" val="icon.etc_magic_book_blue_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90098" name="비전서 - 프로피시 오브 파이어" type="EtcItem">
+		<!-- A scroll for learning the Prophecy of Fire skill. <Class>. Hierophant. <Skill effect>. Increases Max HP, HP Recovery Rate, P./ M. Def., Atk. Spd./ Casting Spd., damage to monsters, P. Skill Critical Damage, M. Skill Critical Rate, and Debuff/ Anomaly Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="90099" name="비전서 - 블록 디펜스" type="EtcItem">
+		<!-- A scroll for learning the Block Defense skill. <Class>. Hierophant. <Skill effect>. Prevents the enemy from getting buffs that increase P./ M. Def. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+</list>

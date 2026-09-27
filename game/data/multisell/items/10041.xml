@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- Item Multisell -->
+	</npcs>
+	<!-- Special Equipment -->
+	<item>
+		<ingredient id="98294" count="1" /> <!-- 특수 장비 교환 티켓 (기간 한정) -->
+		<production id="91864" count="1" /> <!-- Dragon Belt Pack - Sealed -->
+	</item>
+	<item>
+		<ingredient id="98294" count="1" /> <!-- 특수 장비 교환 티켓 (기간 한정) -->
+		<production id="93303" count="1" /> <!-- Package: Cloak of Protection - Sealed -->
+	</item>
+	<item>
+		<ingredient id="98294" count="5" /> <!-- 특수 장비 교환 티켓 (기간 한정) -->
+		<production id="94168" count="1" /> <!-- Enchant Kit: Circlet of Hero - Sealed -->
+	</item>
+	<item>
+		<ingredient id="98294" count="12" /> <!-- 특수 장비 교환 티켓 (기간 한정) -->
+		<production id="97266" count="1" /> <!-- Enchant Kit: Piercing Mask - Sealed -->
+	</item>
+	<item>
+		<ingredient id="98294" count="18" /> <!-- 특수 장비 교환 티켓 (기간 한정) -->
+		<production id="100589" count="1" /> <!-- Enchant Kit: Phantom Mask - Sealed -->
+	</item>
+	<item>
+		<ingredient id="98294" count="18" /> <!-- 특수 장비 교환 티켓 (기간 한정) -->
+		<production id="100555" count="1" /> <!-- Enchant Kit: Heavenly Talisman - Sealed -->
+	</item>
+	<item>
+		<ingredient id="98294" count="10" /> <!-- 특수 장비 교환 티켓 (기간 한정) -->
+		<production id="94258" count="1" /> <!-- Package: Einhasad's Pendant Lv. 1 - Sealed -->
+	</item>
+</list>

@@ -1,0 +1,1743 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2600" name="레이드 소드*카리브스" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1044"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2190"/>
+		<set name="price" val="7830000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">204</stat>
+			<stat type="mAtk">100</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2601" name="레이드 소드*극한의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1044"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2170"/>
+		<set name="price" val="7830000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">204</stat>
+			<stat type="mAtk">100</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2602" name="레이드 소드*미혹의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1044"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2180"/>
+		<set name="price" val="7830000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">204</stat>
+			<stat type="mAtk">100</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2603" name="레이드 소드*악몽의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1044"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2170"/>
+		<set name="price" val="7830000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">204</stat>
+			<stat type="mAtk">100</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2604" name="레이드 소드*츠루기" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1044"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2170"/>
+		<set name="price" val="7830000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">204</stat>
+			<stat type="mAtk">100</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2605" name="레이드 소드*싸울아비" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1273"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2130"/>
+		<set name="price" val="9550000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">220</stat>
+			<stat type="mAtk">106</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2606" name="카리브스*카리브스" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2140"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2607" name="카리브스*극한의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2150"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2608" name="카리브스*미혹의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2140"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2609" name="카리브스*악몽의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2170"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2610" name="카리브스*츠루기" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2150"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2611" name="카리브스*싸울아비" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1506"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2120"/>
+		<set name="price" val="11300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">228</stat>
+			<stat type="mAtk">109</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2612" name="극한의 검*극한의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2140"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2613" name="극한의 검*미혹의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2140"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2614" name="극한의 검*악몽의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2130"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2615" name="극한의 검*츠루기" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2120"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2616" name="극한의 검*싸울아비" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1506"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2100"/>
+		<set name="price" val="11300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">228</stat>
+			<stat type="mAtk">109</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2617" name="미혹의 검*미혹의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2150"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2618" name="미혹의 검*악몽의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2130"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2619" name="미혹의 검*츠루기" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2140"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2620" name="미혹의 검*싸울아비" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1506"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2110"/>
+		<set name="price" val="11300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">228</stat>
+			<stat type="mAtk">109</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2621" name="악몽의 검*악몽의 검" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2130"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2622" name="악몽의 검*츠루기" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2140"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2623" name="악몽의 검*싸울아비" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1506"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2080"/>
+		<set name="price" val="11300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">228</stat>
+			<stat type="mAtk">109</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2624" name="츠루기*츠루기" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2120"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">102</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2625" name="츠루기*싸울아비" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1506"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2090"/>
+		<set name="price" val="11300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">228</stat>
+			<stat type="mAtk">109</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2626" name="싸울아비*싸울아비" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2080"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="DUALSWORD"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">236</stat>
+			<stat type="mAtk">111</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50403" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+		</skills>
+	</item>
+	<item id="2627" name="미공급 - 도전자의 증표" type="EtcItem">
+		<!-- The item is not available. A mark given to those who have passed the Trial of the Challenger. Use it to change your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2628" name="미공급 - 캐쉬의 편지" type="EtcItem">
+		<!-- The item is not available. Kash's letter. Take it to Martien in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2629" name="미공급 - 주시자의 눈" type="EtcItem">
+		<!-- The item is not available. Obtained from Gorr. Take it to Martien in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2630" name="미공급 - 주시자의 눈" type="EtcItem">
+		<!-- The item is not available. Obtained from Baraham. Show it to Raldo and... -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2631" name="미공급 - 쉬스라시스의 고문서" type="EtcItem">
+		<!-- The item is not available. An ancient scroll obtained by slaying Shyslassys. Take it to Kash in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2632" name="미공급 - 부서진 열쇠" type="EtcItem">
+		<!-- The item is not available. A key obtained by slaying Shyslassys. Opens the Chest of Shyslassys. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2633" name="미공급 - 소명의 증표" type="EtcItem">
+		<!-- The item is not available. A mark given to those who have passed the Trial of Duty. Use it to change your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2634" name="미공급 - 더스틴의 편지" type="EtcItem">
+		<!-- The item is not available. A letter written by Dustin. Deliver it to Grand Master Hannavalt in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2635" name="미공급 - 기사의 눈물" type="EtcItem">
+		<!-- The item is not available. Obtained from Spirit of Sir Herod. Take it to Sir Aron Tanford who is waiting for you in a house near Ol Mahum Checkpoint in the southern Wasteland. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2636" name="미공급 - 오르픽 거울" type="EtcItem">
+		<!-- The item is not available. Required for speaking with Spirit of Sir Talianus. Follow him to the Execution Grounds and destroy Hangman Tree. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2637" name="미공급 - 참회의 눈물" type="EtcItem">
+		<!-- The item is not available. A tear from Spirit of Sir Talianus. Take it to Sir Kiel Nighthawk to the Dark Elf Guild in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2638" name="미공급 - 찢어진 보고서 조각" type="EtcItem">
+		<!-- The item is not available. A report piece obtained from killing Lesser Ghoul or Lesser Strain in the Execution Grounds. Collect 10 pieces to get the full Report of Sir Talianus. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2639" name="미공급 - 탤리아누스의 보고서" type="EtcItem">
+		<!-- The item is not available. The whole report. Talk to Sir Kiel Nighthawk of the Dark Elf Guild in Dion and take the report to Spirit of Sir Talianus. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2640" name="미공급 - 충성의 눈물" type="EtcItem">
+		<!-- The item is not available. A tear from Isael Silvershadow in Hunters' Village. Take it to Priest Dustin in the Temple of Einhasad in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2641" name="미공급 - 의용군의 유품" type="EtcItem">
+		<!-- The item is not available. Obtained from killing Leto Lizardmen on the Plains of the Lizardmen. Collect 20 of these and take them to Isael Silvershadow in Hunters' Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2642" name="미공급 - 성자의 유골 단지" type="EtcItem">
+		<!-- The item is not available. Obtained from Priest Dustin of the Temple of Einhasad in Giran. Take it to Sir Windawood who is waiting for you near the Obelisk of Victory on Talking Island. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2643" name="미공급 - 아테발트의 해골" type="EtcItem">
+		<!-- The item is not available. Obtained after killing Breka Orc Prefect in Breka's Stronghold. Take it, along with the ribs and the shin, to Priest Dustin of the Temple of Einhasad in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2644" name="미공급 - 아테발트의 갈비뼈" type="EtcItem">
+		<!-- The item is not available. Obtained after killing Breka Orc Prefect in Breka's Stronghold. Take it, along with the skull and the shin, to Priest Dustin of the Temple of Einhasad in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2645" name="미공급 - 아테발트의 정강이뼈" type="EtcItem">
+		<!-- The item is not available. Obtained after killing Breka Orc Prefect in Breka's Stronghold. Take it, along with the skull and the ribs, to Priest Dustin of the Temple of Einhasad in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2646" name="미공급 - 윈다우드경의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Sir Windawood near the Obelisk of Victory on Talking Island. Show it to Priest Dustin of the Temple of Einhasad in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2647" name="미공급 - 듀프너의 편지" type="EtcItem">
+		<!-- The item is not available. A letter sent by Master Genwitter from the Warrior Guild of Giran to Master Terry in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2648" name="미공급 - 테리의 지령서" type="EtcItem">
+		<!-- The item is not available. 'Kill Ghoul Berserkers in the Execution Grounds.' -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2649" name="미공급 - 테리의 지령서" type="EtcItem">
+		<!-- The item is not available. 'Kill Ol Mahum Chieftain in the Partisan Hideaway, Turek Orc Overlord in the Orc Barracks, Head Ant in the Wasteland or the Ant Nest, Turek Bugbear Warrior in the Gorgon Flower Garden.' -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2650" name="미공급 - 테리의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Master Terry of Dion's Warrior Guild to Merchant Viktor from Hunters' Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2651" name="미공급 - 빅토르의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Merchant Viktor to Master Terry in Dion. It has Terry's seal. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2652" name="미공급 - 매의 눈의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Hawkeye to Merchant Viktor from Hunters' Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2653" name="미공급 - 수수께끼의 마정석" type="EtcItem">
+		<!-- The item is not available. A mysterious rune stone obtained from killing Ghoul Berserkers in the Execution Grounds. Take it to Master Terry. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2654" name="미공급 - 올 마훔의 마정석" type="EtcItem">
+		<!-- The item is not available. A mysterious rune stone obtained from killing Ol Mahum Chieftain in the Partisan Hideaway. Take it to Master Terry of the Warrior Guild in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2655" name="미공급 - 투렉 오크의 마정석" type="EtcItem">
+		<!-- The item is not available. A mysterious rune stone obtained from killing Turek Orc Overlord in the Orc Barracks. Take it to Master Terry of the Warrior Guild in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2656" name="미공급 - 일개미의 마정석" type="EtcItem">
+		<!-- The item is not available. A mysterious rune stone obtained from killing Head Ant in the Ant Nest. Take it to Master Terry of the Warrior Guild in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2657" name="미공급 - 투랙 버그베어의 마정석" type="EtcItem">
+		<!-- The item is not available. A mysterious rune stone obtained after slaying Turak Bugbear Warrior. Take it to Master Terry of the Warrior Guild in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2658" name="미공급 - 테리의 상자" type="EtcItem">
+		<!-- The item is not available. A chest containing mysterious rune stones. Take it to Merchant Viktor in Hunters' Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2659" name="미공급 - 빅토르의 의뢰서" type="EtcItem">
+		<!-- The item is not available. A request issued by Merchant Viktor. 'Please kill Medusa in the Gorgon Flower Garden and collect 10 Medusa Scales.' -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2660" name="미공급 - 메두사의 비늘" type="EtcItem">
+		<!-- The item is not available. Scales obtained from killing Medusa in the Gorgon Flower Garden. Collect 10 of these and take them to Merchant Viktor. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2661" name="미공급 - 심연의 마정석" type="EtcItem">
+		<!-- The item is not available. A strange rune stone obtained from the bodies of mutant species. They seem to be related to Shillien, the Goddess of Death. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2662" name="미공급 - 분석 의뢰서" type="EtcItem">
+		<!-- The item is not available. A request for analyzing Dark Rune Stone. Written by Merchant Viktor to Magister Marina of the Ivory Tower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2663" name="미공급 - 마리나의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Magister Marina to Blacksmith Brunon of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2664" name="미공급 - 실험도구" type="EtcItem">
+		<!-- The item is not available. Tools for experiments crafted by Blacksmith Brunon. Take them to Magister Marina in the Ivory Tower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2665" name="미공급 - 분석 결과서" type="EtcItem">
+		<!-- The item is not available. A document with results of the Dark Rune Stone analysis. Take it to Master Terry in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2666" name="미공급 - 테리의 지령서" type="EtcItem">
+		<!-- The item is not available. Master Terry's order to come back for the next task after reaching Lv. 36. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2667" name="미공급 - 숙주의 목록" type="EtcItem">
+		<!-- The item is not available. The list of rune stone hosts: Marsh Stakato Drone from Cruma Marshlands, Breka Orc Prefect from Breka's Stronghold, Ant Warrior Captain from the Ant Nest, Leto Lizardman Warrior from the Plains of the Lizardmen. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2668" name="미공급 - 심연의 마정석" type="EtcItem">
+		<!-- The item is not available. A rune stone retrieved from the body of Marsh Stakato Drone in Cruma Marshlands. Take it to Master Terry of the Warrior Guild in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2669" name="미공급 - 심연의 마정석" type="EtcItem">
+		<!-- The item is not available. A rune stone retrieved from the body of Breka Orc Prefect in Breka's Stronghold. Take it to Master Terry of the Warrior Guild in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2670" name="미공급 - 심연의 마정석" type="EtcItem">
+		<!-- The item is not available. A rune stone retrieved from the body of Ant Warrior Captain in the Ant Nest. Take it to Master Terry of the Warrior Guild in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2671" name="미공급 - 심연의 마정석" type="EtcItem">
+		<!-- The item is not available. A rune stone retrieved from the body of Leto Lizardman Warrior in the Plains of the Lizardmen. Take it to Master Terry of the Warrior Guild in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2672" name="미공급 - 테리의 보고서" type="EtcItem">
+		<!-- The item is not available. A report detailing information about the rune stone incident. Take it to Master Dufner of the Warrior Guild in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2673" name="미공급 - 수색자의 증표" type="EtcItem">
+		<!-- The item is not available. The mark given to those who have passed the Trial of the Seeker. Required for changing your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2674" name="미공급 - 탐구자의 증표" type="EtcItem">
+		<!-- The item is not available. The mark given to those who have passed the Trial of the Scholar. Required for changing your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2675" name="미공급 - 미리엔의 표식" type="EtcItem">
+		<!-- The item is not available. A badge given by Magister Mirien from Dion while giving orders to complete High Priest Sylvain's request. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2676" name="미공급 - 미리엔의 표식" type="EtcItem">
+		<!-- The item is not available. A badge given by Magister Mirien from Dion while giving orders to complete Grand Magister Jurek's request. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2677" name="미공급 - 미리엔의 표식" type="EtcItem">
+		<!-- The item is not available. A badge given by Magister Mirien from Dion when giving orders to complete Elder Cronos' request. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2678" name="미공급 - 미리엔의 지시서" type="EtcItem">
+		<!-- The item is not available. A note with instructions from Magister Mirien of Dion. You must come back for the next task after reaching Lv. 36. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2679" name="미공급 - 마리아의 편지" type="EtcItem">
+		<!-- The item is not available. A letter sent by Maria from the grocery to Guard Captain Lucas in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2680" name="미공급 - 마리아의 편지" type="EtcItem">
+		<!-- The item is not available. A letter sent by Maria from the grocery in Dion to Astrologer Creta in Floran Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2681" name="미공급 - 루카스의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Guard Captain Lucas to Maria from the grocery in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2682" name="미공급 - 루실라의 손가방" type="EtcItem">
+		<!-- The item is not available. A handbag lost by Lucilla, friend of Maria from the grocery of Dion, on the night of the theft. Take it to Astrologer Creta. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2683" name="미공급 - 크레타의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Astrologer Creta to Maria from the grocery in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2684" name="미공급 - 크레타의 그림" type="EtcItem">
+		<!-- The item is not available. A drawing made by Astrologer Creta. It shows a shadow presumed to be that of the thief. Take it to Maria from the grocery in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2685" name="미공급 - 크레타의 그림" type="EtcItem">
+		<!-- The item is not available. A drawing made by Astrologer Creta. It shows a shadow presumed to be that of the thief. Take it to Guard Captain Lucas. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2686" name="미공급 - 크레타의 그림" type="EtcItem">
+		<!-- The item is not available. A drawing made by Astrologer Creta. The shadow there is that of a Leto Lizardman Warrior from the Plains of the Lizardmen. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2687" name="미공급 - 갈색 두루마리 조각" type="EtcItem">
+		<!-- The item is not available. A scrap of the scroll with the instructions on how to create Cleansing Crystal. Collect 5 of these and take them to Maria from the grocery in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2688" name="미공급 - 정화의 수정" type="EtcItem">
+		<!-- The item is not available. The crystal used for purifying the earth. Take it to High Priest Sylvain. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2689" name="미공급 - 대신관의 표식" type="EtcItem">
+		<!-- The item is not available. A badge received from High Priest Sylvain. It is given to those who are carrying out the orders of the High Priest. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2690" name="미공급 - 그랜드매지스터의 표식" type="EtcItem">
+		<!-- The item is not available. A badge received from Grand Magister Jurek. It is given to those who are carrying out the orders of the Grand Magister. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2691" name="미공급 - 현자의 표식" type="EtcItem">
+		<!-- The item is not available. A badge received from Elder Cronos. It is given to those who are carrying out the orders of the Elder. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2692" name="미공급 - 쉴바인의 편지" type="EtcItem">
+		<!-- The item is not available. High Priest Sylvain's letter. Take it to Maria from the grocery in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2693" name="미공급 - 쉴바인의 증표" type="EtcItem">
+		<!-- The item is not available. The mark given to those who have passed High Priest Sylvain's test. Take it to Magister Mirien in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2694" name="미공급 - 쥬렉의 목록" type="EtcItem">
+		<!-- The item is not available. A list of evil creatures that Grand Magister Jurek asks you to investigate: Monster Eye Destroyer from the Plains of Dion, Breka Orc Shaman from Breka's Stronghold, Convict from Ivory Tower Crater. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2695" name="미공급 - 괴물눈 파괴자의 가죽" type="EtcItem">
+		<!-- The item is not available. Skin of Monster Eye Destroyer from the Plains of Dion. Collect 5 of these and take them to Grand Magister Jurek in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2696" name="미공급 - 주술사의 목걸이" type="EtcItem">
+		<!-- The item is not available. A necklace of Breka Orc Shaman from Breka's Stronghold. Collect 5 of these and take them to Grand Magister Jurek in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2697" name="미공급 - 셰클의 머리 가죽" type="EtcItem">
+		<!-- The item is not available. Skin of the Convict's head from Ivory Tower Crater. Collect 2 of these and take them to Grand Magister Jurek in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2698" name="미공급 - 그랜드매지스터 쥬렉의 증표" type="EtcItem">
+		<!-- The item is not available. The mark given to those who have passed Grand Magister Jurek's test. Take it to Magister Mirien in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2699" name="미공급 - 크로노스의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Elder Cronos to Magister Dieter in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+</list>

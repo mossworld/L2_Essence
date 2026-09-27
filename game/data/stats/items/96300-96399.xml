@@ -1,0 +1,1367 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="96300" name="마법서 - 드래곤 슬레이어" type="EtcItem">
+		<!-- Required for learning the Dragon Slayer Appearance. <Classes>. All classes after the 3rd class change. <Skill effect>. Transforms into Dragon Slayer. Increases Max HP, Max MP, P. Atk./ M. Atk./ P. Def./ M. Def., Atk. Spd., Casting Spd. -->
+		<set name="icon" val="icon.si_phanteon_book"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="9300000"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="96301" name="+5 수호의 흉갑(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Breastplate of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t901_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94842" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 흉갑"/> <!-- Breastplate of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96302" name="+5 수호의 각반(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Gaiters of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t901_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94843" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 각반"/> <!-- Gaiters of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96303" name="+5 수호의 레더 메일(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Leather Armor of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t902_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94846" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 레더 메일"/> <!-- Leather Armor of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96304" name="+5 수호의 레더 레깅스(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Leather Leggings of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t902_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94847" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 레더 레깅스"/> <!-- Leather Leggings of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96305" name="+5 수호의 튜닉(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Tunic of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t903_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94850" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 튜닉"/> <!-- Tunic of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96306" name="+5 수호의 호즈(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Stockings of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t903_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94851" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 호즈"/> <!-- Stockings of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96307" name="+5 전격의 레더 메일 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Leather Armor of Lightning <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t101_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93317" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="전격의 레더 메일"/> <!-- Leather Armor of Lightning - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96308" name="+5 전격의 레더 레깅스 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Leather Leggings of Lightning <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t102_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93318" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="전격의 레더 레깅스"/> <!-- Leather Leggings of Lightning - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96309" name="+5 빙결의 흉갑 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Ice Crystal Breastplate <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t94_u_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93141" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="빙결의 흉갑"/> <!-- Ice Crystal Breastplate - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96310" name="+5 빙결의 각반 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Ice Crystal Gaiters <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t94_l_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93142" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="빙결의 각반"/> <!-- Ice Crystal Gaiters - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96311" name="+5 화염의 튜닉 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Flaming Tunic <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t96_u_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93735" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="화염의 튜닉"/> <!-- Flaming Tunic - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96312" name="+5 화염의 호즈 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Flaming Stockings <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t96_l_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93736" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="화염의 호즈"/> <!-- Flaming Stockings - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96313" name="+5 마나의 투구 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Helmet of Mana <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94084" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="마나의 투구"/> <!-- Helmet of Mana - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96314" name="+5 회피의 부츠 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Boots of Evasion <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t100_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94086" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="회피의 부츠"/> <!-- Boots of Evasion - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96315" name="+5 스턴 건틀렛 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Stun Gauntlets <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t96_g_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94264" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="스턴 건틀렛"/> <!-- Stun Gauntlets - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96316" name="+5 페이탈 시길 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Sigil of Inevitability <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.elos_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94300" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="페이탈 시길"/> <!-- Sigil of Inevitability - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96317" name="+5 리벤지 실드 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Shield of Vengeance <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.shield_of_revenge"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94302" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="리벤지 실드"/> <!-- Shield of Vengeance - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96318" name="+5 수호의 투구(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Helmet of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95935" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 투구"/> <!-- Helmet of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96319" name="+5 수호의 건틀렛(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Gauntlets of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t901_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95936" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 건틀렛"/> <!-- Gauntlets of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96320" name="+5 수호의 부츠(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Boots of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.armor_t901_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95937" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 부츠"/> <!-- Boots of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96321" name="+5 수호의 시길(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Sigil of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.sigil_of_protection"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95664" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 시길"/> <!-- Sigil of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96322" name="+5 수호의 실드(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +5 Shield of Protection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.shield_of_protection"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95666" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 실드"/> <!-- Shield of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96323" name="공격력 강화 주문서 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.scrl_of_ladies_silver_knife_01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94269" min="1000" max="1000" chance="100" name="공격력 강화 주문서"/> <!-- Scroll: Boost Attack - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96324" name="방어력 강화 주문서 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.scrl_of_ench_bracelet_lucien_01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94271" min="1000" max="1000" chance="100" name="방어력 강화 주문서"/> <!-- Scroll: Boost Defense - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96325" name="경험치 향상 주문서 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_recall_exp_scroll"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49674" min="1000" max="1000" chance="100" name="경험치 향상 주문서"/> <!-- XP Growth Scroll - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96326" name="정령탄 교환권 5000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_exchange_ticket_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90907" min="5000" max="5000" chance="100" name="정령탄 교환권"/> <!-- Soulshot Ticket - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96327" name="특급 HP 물약 10000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.icon.br_vitality_potion_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91690" min="1000" max="1000" chance="100" name="특급 HP 물약 (기간제)"/> <!-- Special HP Recovery Potion - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96328" name="+4 에바의 탈리스만 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_eva_talisman"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96172" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="에바의 탈리스만"/> <!-- Talisman of Eva - 30-day -->
+		</capsuled_items>
+	</item>
+	<item id="96329" name="+4 드래곤의 벨트 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.r2_belt_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96173" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="드래곤의 벨트 (기간제)"/> <!-- Dragon Belt (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96330" name="+4 수호의 망토 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.bm_2018_sayha_cloak_back_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96174" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="수호의 망토 (기간제)"/> <!-- Cloak of Protection (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96331" name="+4 권능의 탈리스만 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.sayhas_talisman_new"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96175" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="권능의 탈리스만"/> <!-- Talisman of Authority - 30-day -->
+		</capsuled_items>
+	</item>
+	<item id="96332" name="아인하사드의 펜던트 Lv2 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96176" min="1" max="1" chance="100" name="아인하사드의 펜던트 Lv2 (기간제)"/> <!-- Einhasad's Pendant Lv. 2 (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96333" name="+4 영웅의 서클릿 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.accessory_barka_karm_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96177" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="영웅의 서클릿"/> <!-- Circlet of Hero - 30-day -->
+		</capsuled_items>
+	</item>
+	<item id="96334" name="브로치 Lv5 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_brooch_lavianrose_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96182" min="1" max="1" chance="100" name="브로치 Lv5(기간제)"/> <!-- Brooch Lv. 5 (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96335" name="오팔 Lv4 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_opal_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96183" min="1" max="1" chance="100" name="오팔 Lv4(기간제)"/> <!-- Opal Lv. 4 (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96336" name="코랄 Lv4 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_coral_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96184" min="1" max="1" chance="100" name="코랄 Lv4(기간제)"/> <!-- Coral Lv. 4 (Time-limited) - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="96337" name="오닉스 Lv4 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_onyx_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96185" min="1" max="1" chance="100" name="오닉스 Lv4(기간제)"/> <!-- Onyx Lv. 4 (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96338" name="스피넬 Lv4 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_garnet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96186" min="1" max="1" chance="100" name="스피넬 Lv4(기간제)"/> <!-- Spinel Lv. 4 (Time-limited) - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="96339" name="지르콘 Lv4 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_bloodstone_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96187" min="1" max="1" chance="100" name="지르콘 Lv4(기간제)"/> <!-- Zircon Lv. 4 (Time-limited) - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="96340" name="문스톤 Lv4 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.etc_bm_jewel_moonstone_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96188" min="1" max="1" chance="100" name="문스톤 Lv4(기간제)"/> <!-- Moonstone Lv. 4 (Time-limited) - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="96341" name="아가시온 팔찌 Lv5 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.pi_high_agathion_bracelet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96189" min="1" max="1" chance="100" name="아가시온 팔찌 Lv5(기간제)"/> <!-- Agathion Bracelet Lv. 5 (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96342" name="+5 이그니스 아가시온 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_fire_1"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96190" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="이그니스 아가시온(기간제)"/> <!-- Agathion Ignis (Time-limited) - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="96343" name="+5 네불라 아가시온 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_water_1"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96191" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="네불라 아가시온(기간제)"/> <!-- Agathion Nebula (Time-limited) - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="96344" name="+5 프로첼라 아가시온 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_wind_1"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96192" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="프로첼라 아가시온(기간제)"/> <!-- Agathion Procella (Time-limited) - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="96345" name="+5 페트람 아가시온 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.agathion_earth_1"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96193" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="페트람 아가시온(기간제)"/> <!-- Agathion Petram (Time-limited) - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="96346" name="+5 샤방 아가시온 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.pleasure_agathion_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96194" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="샤방 아가시온(기간제)"/> <!-- Agathion Joy (Time-limited) - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="96347" name="탈리스만 팔찌 Lv5 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.dimension_bracelet_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96195" min="1" max="1" chance="100" name="탈리스만 팔찌 Lv5(기간제)"/> <!-- Talisman Bracelet Lv. 5 (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96348" name="베니르의 탈리스만 Lv12 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following. -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96196" min="1" max="1" chance="100" name="베니르의 탈리스만 Lv12(기간제)"/> <!-- Venir's Talisman Lv. 12 (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="96349" name="기간제 테스트 3" type="EtcItem">
+		<!-- Item type: Cube. Double-click to obtain 1 Scroll: Summon Storm and 1 Sayha's Treasure Chest. (Can be used only once a day.) -->
+		<set name="icon" val="icon.sa_cube"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="32047" level="1"/> <!-- Cube of Sayha - 30 d. -->
+		</skills>
+	</item>
+	<item id="96350" name="안타라스 원정대 증표" type="EtcItem">
+		<!-- Granted to brave adventurers who managed to defeat Antharas. <How to use>. Special Craft - Misc. - Rewards -->
+		<set name="icon" val="icon.etc_kyles_blood_dragon_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="96351" name="빛바랜 안타라스의 귀걸이" type="EtcItem">
+		<!-- Antharas' Earring that lost all its power. <How to use>. Special Craft - Antharas' Earring -->
+		<set name="icon" val="icon.earring_of_antaras_essence_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="96352" name="베레스의 보물 상자 열쇠" type="EtcItem">
+		<!-- Granted to brave adventurers who managed to defeat Beleth. <How to use>. Required for opening Beleth's Treasure Chest. Disappears after use. -->
+		<set name="icon" val="icon.bereth_reward_box_key"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="96353" name="사이하의 폭풍 1000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_storm"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91713" min="1000" max="1000" chance="100" name="사이하의 폭풍 (기간제)"/> <!-- Sayha's Storm (Time-limited) -->
+		</capsuled_items>
+	</item>
+	<item id="96354" name="군단의 망토 강화 주문서" type="EtcItem">
+		<!-- Required for enchanting Aden Cloak. Max enchant value: +5. -->
+		<set name="icon" val="icon.sayha2017_scrl"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="etcitem_type" val="ENCHT_AM"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="40384" level="1"/> <!-- Scroll: Enchant Aden Cloak -->
+		</skills>
+	</item>
+	<item id="96355" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +2. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96356" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +3. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96357" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +15. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96358" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +30. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96359" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +44. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96360" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +58. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96361" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +73. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96362" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +87. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96363" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +102. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96364" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +116. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96365" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +5. <font color=bbaa88><Bonus effect></font>. P. Atk. +130. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96366" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +5. <font color=bbaa88><Bonus effect></font>. P. Atk. +145. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96367" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +5. <font color=bbaa88><Bonus effect></font>. P. Atk. +160. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96368" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +5. <font color=bbaa88><Bonus effect></font>. P. Atk. +174. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96369" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +5. <font color=bbaa88><Bonus effect></font>. P. Atk. +189. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96370" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +5. <font color=bbaa88><Bonus effect></font>. P. Atk. +203. P. Skill Critical Rate +0.13%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96371" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +5. <font color=bbaa88><Bonus effect></font>. P. Atk. +218. P. Skill Critical Rate +0.26%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96372" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +5. <font color=bbaa88><Bonus effect></font>. P. Atk. +232. P. Skill Critical Rate +0.4%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96373" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +5. <font color=bbaa88><Bonus effect></font>. P. Atk. +247. P. Skill Critical Rate +0.54%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96374" name="힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +5. <font color=bbaa88><Bonus effect></font>. P. Atk. +261. P. Skill Critical Rate +0.62%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96375" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +2. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96376" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +3. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96377" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +18. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96378" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +36. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96379" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +54. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96380" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +72. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96381" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +89. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96382" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +107. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96383" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +125. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96384" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +143. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96385" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +5. <font color=bbaa88><Bonus effect></font>. P. Def. +162. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96386" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +5. <font color=bbaa88><Bonus effect></font>. P. Def. +178. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96387" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +5. <font color=bbaa88><Bonus effect></font>. P. Def. +196. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96388" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +5. <font color=bbaa88><Bonus effect></font>. P. Def. +214. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96389" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +5. <font color=bbaa88><Bonus effect></font>. P. Def. +231. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96390" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +5. <font color=bbaa88><Bonus effect></font>. P. Def. +249. Received P. Skill Damage -0.3%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96391" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +5. <font color=bbaa88><Bonus effect></font>. P. Def. +267. Received P. Skill Damage -0.45%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96392" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +5. <font color=bbaa88><Bonus effect></font>. P. Def. +285. Received P. Skill Damage -0.6%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96393" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +5. <font color=bbaa88><Bonus effect></font>. P. Def. +302. Received P. Skill Damage -0.9%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96394" name="체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +5. <font color=bbaa88><Bonus effect></font>. P. Def. +320. Received P. Skill Damage -1.5%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96395" name="민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +2. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96396" name="민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +3. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96397" name="민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +4. <font color=bbaa88><Bonus effect></font>. Received P. Skill Critical Rate -0.1%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96398" name="민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +4. <font color=bbaa88><Bonus effect></font>. Received P. Skill Critical Rate -0.21%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="96399" name="민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +4. <font color=bbaa88><Bonus effect></font>. Received P. Skill Critical Rate -0.32%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+</list>

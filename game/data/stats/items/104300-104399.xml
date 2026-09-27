@@ -1,0 +1,1069 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="104300" name="금빛 아데나 행운 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_gold_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104301" name="루미나의 행운의 꽃 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.dethrone_box04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104302" name="봄비엘의 행운의 꽃 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.dethrone_box01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104303" name="8단계 각인된 염료 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a dye Lv. 8 <font color=00FF00>(sealed)</font> of your choice. -->
+		<set name="icon" val="icon.dye_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104304" name="축복받은 무기/갑옷 강화 주문서 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_a_i04"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104305" name="저주받은 무기/갑옷 강화 주문서 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.etc_cursed_scrl_of_ench_wp_a_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104306" name="+5 레어 방어구(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 piece of +5 Wild Wind/ Flame/ Sea/ Berserker's Armor <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.icon.rare_armor_ticket_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104307" name="+6 레어 방어구(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 piece of +6 Wild Wind/ Flame/ Sea/ Berserker's Armor <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.icon.rare_armor_ticket_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104308" name="+7 레어 방어구(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 piece of +7 Wild Wind/ Red Flame/ Sea/ Berserker's Armor <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.icon.rare_armor_ticket_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104309" name="+5~+7 레어  방어구(각인) 교환권 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_freya_sirr_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104310" name="레어 인형 소환권(희귀) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=5599FF>1 rare doll</font>. Some low-grade dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv4"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104311" name="+6 광풍의 투구(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104312" name="+6 홍염의 건틀렛(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t702_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104313" name="+6 심해의 부츠(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_L_light_shoes"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104314" name="+7 광풍의 투구(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104315" name="+7 홍염의 건틀렛(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t702_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104316" name="+7 심해의 부츠(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_L_light_shoes"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104317" name="+8 광풍의 투구(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104318" name="+8 홍염의 건틀렛(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t702_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104319" name="+8 심해의 부츠(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_L_light_shoes"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104320" name="고급 염료 강화제 10~30개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.dye_charge_meal"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104321" name="잠재력 강화/초기화 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_powder_orange_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104322" name="축복/일반 레어 액세서리 강화 주문서 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_scrl_of_ench_fallen_angel"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104323" name="Lv6~Lv7 레어 보석 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_freya_2016_gift_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104324" name="+7~+8 레어  방어구(각인) 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_freya_sirr_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104325" name="+8~+9 특수 장비 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104326" name="초월 강화석 1~10개 행운 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_gold_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104327" name="Lv7~8 보석 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_shhadai"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104328" name="특수 방어구(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain one piece of special armor <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.rare_armor_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104329" name="+6 버서커 실드(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.shield_of_immortal"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104330" name="+6 버서커 시길(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.sigil_of_immortal"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104331" name="+7 버서커 실드(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.shield_of_immortal"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104332" name="+7 버서커 시길(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.sigil_of_immortal"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104333" name="+8~+9 수호의 망토 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i10"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104334" name="아데나 주머니" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_golden_spice_new_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104335" name="프레스티지 망토 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_2018_sayha_cloak_back_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104336" name="+9 수호의 망토 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The cloak package can be sold through the world trade. Its contents <font color=ff6666>cannot be traded</font>. -->
+		<set name="icon" val="icon.bm_2018_sayha_cloak_back_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104337" name="+10 수호의 망토 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The cloak package can be sold through the world trade. Its contents <font color=ff6666>cannot be traded</font>. -->
+		<set name="icon" val="icon.bm_2018_sayha_cloak_back_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104338" name="울프의 블랙 위크 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_week_package"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104339" name="블랙 위크 티켓 2000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.ev_black_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104340" name="블랙 위크 티켓 1000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.ev_black_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104341" name="블랙 위크 티켓 500개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.ev_black_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104342" name="블랙 위크 티켓 (기간제)" type="EtcItem">
+		<!-- Required for creating various items through the special craft. -->
+		<set name="icon" val="icon.ev_black_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104343" name="울프의 성장 주문서 (기간제)" type="EtcItem">
+		<!-- When used, applies the following buff. <Effect>. <font color="FF8000"><Lv. 92+></font>. Acquired XP/ SP +50%. <font color="FF8000"><Lv. 91+></font>. Acquired XP/ SP +200%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.bm_elmoaden_exp_scrl"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104344" name="프레스티지 특수 장비 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_freya_sirr_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104345" name="Lv6 보석 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 jewel Lv. 6 of your choice. -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104346" name="에메랄드 Lv6 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Emerald Jewelry Box Lv. 6 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104347" name="루비 Lv6 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Ruby Jewelry Box Lv. 6 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104348" name="사파이어 Lv6 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Sapphire Jewelry Box Lv. 6 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104349" name="아쿠아마린 Lv6 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Aquamarine Jewelry Box Lv. 6 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104350" name="오팔 Lv6 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Opal Jewelry Box Lv. 6 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104351" name="앰버 Lv6 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Amber Jewelry Box Lv. 6 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104352" name="에메랄드 Lv7 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Emerald Jewelry Box Lv. 7 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104353" name="루비 Lv7 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Ruby Jewelry Box Lv. 7 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104354" name="사파이어 Lv7 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Sapphire Jewelry Box Lv. 7 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104355" name="아쿠아마린 Lv7 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Aquamarine Jewelry Box Lv. 7 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104356" name="오팔 Lv7 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Opal Jewelry Box Lv. 7 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104357" name="앰버 Lv7 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Amber Jewelry Box Lv. 7 (requires adena). -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104358" name="Lv6~7 보석함 교환권 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_shhadai"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104359" name="+6~+7 에바의 탈리스만 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_treasure_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104360" name="+7~+9 수호의 망토 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_2018_sayha_cloak_back_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104361" name="희귀 인형 선택권 &amp; 각인된 염료 선택권 상자  (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.br_gold_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104362" name="킬 이펙트 - 시원한 물폭탄" type="EtcItem">
+		<!-- A material for changing a kill effect. <font color=ff6666>Note!</font>. Can only be sold through the world trade. -->
+		<set name="icon" val="icon.bm_critical_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104363" name="킬 이펙트 - 시원한 물폭탄" type="EtcItem">
+		<!-- A material for changing a kill effect. -->
+		<set name="icon" val="icon.bm_critical_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104364" name="네임 데코 - 여름 바다" type="EtcItem">
+		<!-- A material for changing a name background. <font color=ff6666>Note!</font>. Can only be sold through the world trade. -->
+		<set name="icon" val="icon.special_chat_background"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104365" name="네임 데코 - 여름 바다" type="EtcItem">
+		<!-- A material for changing a name background. -->
+		<set name="icon" val="icon.special_chat_background"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104366" name="&lt;특별&gt; 장비 보급 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_lucky_pocket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104367" name="&lt;특별&gt; 장비 교환 티켓 5000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_belt_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104368" name="&lt;특별&gt; 장비 교환 티켓 2000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_belt_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104369" name="&lt;특별&gt; 장비 교환 티켓 1000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_belt_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104370" name="&lt;특별&gt; 장비 교환 티켓 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain special equipment of your choice, or to use the item as a material in the special craft. -->
+		<set name="icon" val="icon.bm_belt_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104371" name="&lt;발라카스&gt; 사전 예약 선물" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104372" name="&lt;발라카스&gt; 최초 패스 특전" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104373" name="&lt;발라카스&gt; 5패스 특전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104374" name="&lt;발라카스&gt; 10패스 특전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104375" name="오만의 탑 챌린지 티켓 - 펜던트 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Package: Einhasad's Pendant Lv. 3 or upgraded to Package: Einhasad's Pendant Lv. 4 through the special craft. -->
+		<set name="icon" val="icon.voucher_lev_97"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104376" name="오만의 탑 챌린지 티켓 - 프리미엄 인형 (기간제)" type="EtcItem">
+		<!-- Double-click to exchange for Selection Coupon: Enhanced Premium Doll. -->
+		<set name="icon" val="icon.voucher_lev_90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104377" name="프리미엄 고급 인형 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to exchange for <font color=77FF99>1 enhanced doll</font> or upgraded through the special craft (requires adena). -->
+		<set name="icon" val="icon.bm_boss_doll_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104378" name="프리미엄 최고급 인형 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to exchange for <font color=FF9955>1 superior doll</font> or upgraded through the special craft (requires adena). -->
+		<set name="icon" val="icon.bm_boss_doll_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104379" name="프리미엄 희귀 인형 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to exchange for <font color=5599FF>1 rare doll</font>. Some dolls cannot be obtained. -->
+		<set name="icon" val="icon.bm_boss_doll_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104380" name="드래곤의 벨트 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_readybox_bronze"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104381" name="고급 강화석 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Greater Upgrade Stone (Sealed) (10 pcs.) or Greater Upgrade Stone (20 or 50 pcs.) (requires adena). -->
+		<set name="icon" val="icon.voucher_lev_85"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104382" name="썸머 페스티벌 스펙 지원 티켓 - 무기/방어구 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.voucher_lev_90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104383" name="썸머 부스터 룬 Lv1 (기간제)" type="EtcItem">
+		<!-- Can be leveled up through compounding with <font color=EEAA22>Growth Rune Fragments</font>. <font color=bbaa88><Properties></font>. P. Atk. +100. M. Atk. +100. Acquired XP/ SP +3%. MP Recovery Rate +9. Boosts stats when in inventory. <font color=ff6666><Compounding fee></font>. Summer Upgrade Rune Lv. 1-9: 30,000 adena required -->
+		<set name="icon" val="icon.skill19226"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="104384" name="+8 아덴의 탈리스만 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +8 Talisman of Aden Pack or for +8 Special Equipment Pack - Summer Festival (requires 85 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104385" name="+8 정령 아가시온 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +8 Spirit Agathion or for +8 Special Equipment Pack - Summer Festival (requires 85 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104386" name="+8 드래곤의 알 아가시온 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Package: +8 Agathion Dragon Egg or for +8 Special Equipment Pack - Summer Festival (requires 85 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104387" name="+8 에바의 탈리스만 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +8 Talisman of Eva Pack or for +8 Special Equipment Pack - Summer Festival (requires 85 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104388" name="+8 권능의 탈리스만 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +8 Talisman of Authority Pack or for +8 Special Equipment Pack - Summer Festival (requires 85 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104389" name="+8 신속의 탈리스만 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +8 Talisman of Speed Pack or for +8 Special Equipment Pack - Summer Festival (requires 85 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104390" name="+8 드래곤의 벨트 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +8 Dragon Belt Pack or for +8 Special Equipment Pack - Summer Festival (requires 85 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104391" name="+8 영웅의 서클릿 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Package: +8 Circlet of Hero or for +8 Special Equipment Pack - Summer Festival (requires 85 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104392" name="+8 팬텀 마스크 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Package: +8 Phantom Mask or for +8 Special Equipment Pack - Summer Festival (requires 85 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104393" name="+9 아덴의 탈리스만 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +9 Talisman of Aden Pack or for +9 Special Equipment Pack - Summer Festival (requires 450 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104394" name="+9 정령 아가시온 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +9 Spirit Agathion or for +9 Special Equipment Pack - Summer Festival (requires 450 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104395" name="+9 드래곤의 알 아가시온 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Package: +9 Agathion Dragon Egg or for +9 Special Equipment Pack - Summer Festival (requires 450 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104396" name="+9 에바의 탈리스만 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +9 Talisman of Eva Pack or for +9 Special Equipment Pack - Summer Festival (requires 450 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104397" name="+9 권능의 탈리스만 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +9 Talisman of Authority Pack or for +9 Special Equipment Pack - Summer Festival (requires 450 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104398" name="+9 신속의 탈리스만 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +9 Talisman of Speed Pack or for +9 Special Equipment Pack - Summer Festival (requires 450 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104399" name="+9 드래곤의 벨트 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for +9 Dragon Belt Pack or for +9 Special Equipment Pack - Summer Festival (requires 450 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

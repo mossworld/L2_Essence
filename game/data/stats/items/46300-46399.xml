@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="46338" name="미공급 - 시겔 나이트 변신체 외형" type="Armor">
+		<!-- The item is not available. An appearance of a melee-fighting monster from the Cemetery. -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="46341" name="미공급 - 율 아쳐 변신체 외형" type="Armor">
+		<!-- The item is not available. An appearance of a ranged monster from the Cemetery. -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="46344" name="미공급 - 윈 서머너 변신체 외형" type="Armor">
+		<!-- The item is not available. An appearance of a magic monster from the Cemetery. -->
+		<set name="icon" val="BranchSys3.icon1.g_co_sf_u"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="46396" name="미공급 - NPC전용 시겔 나이트 변신체 망토" type="Armor">
+		<!-- The item is not available. A cloak of a melee-fighting monster from the Cemetery. -->
+		<set name="icon" val="icon.armor_back04"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="back"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pDef">1</stat>
+		</stats>
+	</item>
+	<item id="46399" name="미공급 - NPC전용 율 아쳐 변신체 망토" type="Armor">
+		<!-- The item is not available. A cloak of a melee-fighting monster from the Cemetery. -->
+		<set name="icon" val="icon.armor_back04"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="back"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pDef">1</stat>
+		</stats>
+	</item>
+</list>

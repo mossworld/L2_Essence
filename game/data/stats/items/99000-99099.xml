@@ -1,0 +1,140 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="99000" name="etc 테스트 아이템 1" type="EtcItem">
+		<!-- Opens a multi-slot of test item 1. -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99001" name="etc 테스트 아이템 2" type="EtcItem">
+		<!-- Opens a multi-slot of test item 2. -->
+		<set name="icon" val="icon.etc_exchange_ticket_i03"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99002" name="드래곤의 보물 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_dragon_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97178" min="1" max="1" chance="3.225806" name="영웅 마법서 교환권"/> <!-- Heroic Spellbook Coupon - Sealed -->
+			<item id="96613" min="1" max="1" chance="3.225806" name="마법서 - 익스팬드 다이 포텐셜"/> <!-- Spellbook: Expanded Potential of Dyes -->
+			<item id="97133" min="1" max="1" chance="3.225806" name="얼음 군주의 무기 교환권"/> <!-- Frost Lord's Weapon Coupon - Sealed -->
+			<item id="97132" min="1" max="1" chance="3.225806" name="수호의 방어구 교환권"/> <!-- Armor of Protection Coupon - Sealed -->
+			<item id="97131" min="1" max="1" chance="3.225806" name="보스 무기 교환권"/> <!-- Boss Weapon Coupon - Sealed -->
+			<item id="98300" min="1" max="1" chance="3.225806" name="특수 방어구 상자"/> <!-- Special Armor Pack - Sealed -->
+			<item id="49683" min="1" max="1" chance="3.225806" name="바이움 탈리스만"/> <!-- Talisman of Baium -->
+			<item id="90992" min="1" max="1" chance="3.225806" name="안타라스의 귀걸이"/> <!-- Antharas' Earring -->
+			<item id="91550" min="1" max="1" chance="3.225806" name="프린테사의 목걸이"/> <!-- Frintezza's Necklace -->
+			<item id="49580" min="1" max="1" chance="3.225806" name="바이움의 반지"/> <!-- Baium's Ring -->
+			<item id="96600" min="1" max="1" chance="3.225806" name="베레스의 반지"/> <!-- Beleth's Ring -->
+			<item id="90763" min="1" max="1" chance="3.225806" name="자켄의 귀걸이"/> <!-- Zaken's Earring -->
+			<item id="6660" min="1" max="1" chance="3.225806" name="여왕개미의 반지"/> <!-- Queen Ant's Ring -->
+			<item id="6661" min="1" max="1" chance="3.225806" name="오르펜의 귀걸이"/> <!-- Orfen's Earring -->
+			<item id="6662" min="1" max="1" chance="3.225806" name="코어의 반지"/> <!-- Core's Ring -->
+			<item id="94385" min="1" max="1" chance="3.225806" name="축복받은 레어 액세서리 강화 주문서"/> <!-- Improved Scroll: Enchant Rare Accessories -->
+			<item id="94383" min="1" max="1" chance="3.225806" name="레어 액세서리 강화 주문서"/> <!-- Scroll: Enchant Rare Accessories -->
+			<item id="98997" min="1" max="1" chance="3.225806" name="드래곤의 벨트 500개 팩"/> <!-- Package: Dragon Belt (500 pcs.) - Sealed -->
+			<item id="98998" min="1" max="1" chance="3.225806" name="드래곤의 벨트 1000개 팩"/> <!-- Package: Dragon Belt (1000 pcs.) - Sealed -->
+			<item id="98593" min="1" max="1" chance="3.225806" name="베니르의 탈리스만 조각 500개 팩"/> <!-- Package: Venir's Talisman Fragment (500 pcs.) - Sealed -->
+			<item id="97801" min="1" max="1" chance="3.225806" name="염료 강화제 100개 팩"/> <!-- Package: Dye Booster (100 pcs.) - Sealed -->
+			<item id="94328" min="1" max="1" chance="3.225806" name="엘릭서 가루"/> <!-- Elixir Powder - Sealed -->
+			<item id="96901" min="1" max="1" chance="3.225806" name="아덴의 집혼석 Lv1 - 갑옷"/> <!-- Aden's Soul Crystal Lv. 1 - Armor -->
+			<item id="98999" min="1" max="1" chance="3.225806" name="Lv3 팔찌&amp;브로치 교환권"/> <!-- Bracelet and Brooch Coupon Lv. 3 - Sealed -->
+			<item id="91076" min="5" max="5" chance="3.225806" name="베니르의 탈리스만 조각"/> <!-- Venir's Talisman Fragment -->
+			<item id="97788" min="1" max="1" chance="3.225806" name="특수 장비 제련석"/> <!-- Augmenting Stone: Special Equipment - Sealed -->
+			<item id="92314" min="10" max="10" chance="3.225806" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="5" max="5" chance="3.225806" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="2" max="2" chance="3.225806" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="1" max="1" chance="3.225806" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="91864" min="2" max="2" chance="3.225806" name="드래곤의 벨트 상자"/> <!-- Dragon Belt Pack - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99026" name="신년 감사 큐브 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain Christmas Sack. -->
+		<set name="icon" val="icon.etc_11th_event_group"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="99027" name="Daily Present - VIP 8" type="EtcItem">
+		<!-- Double-click the item to receive 1 Blessed Scroll of Escape, 1 Blessed Scroll of Resurrection, 3 Greater Healing Potions, 150 VIP Coins. -->
+		<set name="icon" val="BranchIcon.Icon.etc_vip_present_i06"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="3"/>
+		<set name="extractableCountMax" val="3"/>
+		<capsuled_items>
+			<item id="91689" min="1" max="1" chance="100" name="축복받은 귀환 주문서"/> <!-- Blessed Scroll of Escape - Sealed -->
+			<item id="3936" min="1" max="1" chance="100" name="축복받은 부활 주문서"/> <!-- Blessed Scroll of Resurrection -->
+			<item id="29652" min="3" max="3" chance="100" name="미공급 - 고급 체력 회복제"/> <!-- Large Healing Potion - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99028" name="Daily Present - VIP 9" type="EtcItem">
+		<!-- Double-click the item to receive 1 Blessed Scroll of Escape, 1 Blessed Scroll of Resurrection, 3 Greater Healing Potions, 150 VIP Coins. -->
+		<set name="icon" val="BranchIcon.Icon.etc_vip_present_i06"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="3"/>
+		<set name="extractableCountMax" val="3"/>
+		<capsuled_items>
+			<item id="91689" min="1" max="1" chance="100" name="축복받은 귀환 주문서"/> <!-- Blessed Scroll of Escape - Sealed -->
+			<item id="3936" min="1" max="1" chance="100" name="축복받은 부활 주문서"/> <!-- Blessed Scroll of Resurrection -->
+			<item id="29652" min="3" max="3" chance="100" name="미공급 - 고급 체력 회복제"/> <!-- Large Healing Potion - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99029" name="Daily Present - VIP 10" type="EtcItem">
+		<!-- Double-click the item to receive 1 Blessed Scroll of Escape, 1 Blessed Scroll of Resurrection, 3 Greater Healing Potions, 150 VIP Coins. -->
+		<set name="icon" val="BranchIcon.Icon.etc_vip_present_i06"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="3"/>
+		<set name="extractableCountMax" val="3"/>
+		<capsuled_items>
+			<item id="91689" min="1" max="1" chance="100" name="축복받은 귀환 주문서"/> <!-- Blessed Scroll of Escape - Sealed -->
+			<item id="3936" min="1" max="1" chance="100" name="축복받은 부활 주문서"/> <!-- Blessed Scroll of Resurrection -->
+			<item id="29652" min="3" max="3" chance="100" name="미공급 - 고급 체력 회복제"/> <!-- Large Healing Potion - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+</list>

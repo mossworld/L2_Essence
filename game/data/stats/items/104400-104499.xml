@@ -1,0 +1,1297 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="104400" name="+9 영웅의 서클릿 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Package: +9 Circlet of Hero or for +9 Special Equipment Pack - Summer Festival (requires 450 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104401" name="+9 팬텀 마스크 교환권 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Package: +9 Phantom Mask or for +9 Special Equipment Pack - Summer Festival (requires 450 mln adena). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104402" name="+8 장비 상자 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_silver_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104403" name="+9 장비 상자 - 썸머 페스티벌 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_gold_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104404" name="썸머 페스티벌 5패스 특전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104405" name="썸머 페스티벌 10패스 특전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104406" name="썸머 부스터 룬 Lv2 (기간제)" type="EtcItem">
+		<!-- Can be leveled up through compounding with <font color=EEAA22>Growth Rune Fragments</font>. <font color=bbaa88><Properties></font>. P. Atk. +100. M. Atk. +100. Acquired XP/ SP +3%. MP Recovery Rate +9. Boosts stats when in inventory. <font color=ff6666><Compounding fee></font>. Summer Upgrade Rune Lv. 1-9: 30,000 adena required -->
+		<set name="icon" val="icon.skill19226"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="104407" name="썸머 부스터 룬 Lv3 (기간제)" type="EtcItem">
+		<!-- Can be leveled up through compounding with <font color=EEAA22>Growth Rune Fragments</font>. <font color=bbaa88><Properties></font>. P. Atk. +100. M. Atk. +100. Acquired XP/ SP +3%. MP Recovery Rate +9. Boosts stats when in inventory. <font color=ff6666><Compounding fee></font>. Summer Upgrade Rune Lv. 1-9: 30,000 adena required -->
+		<set name="icon" val="icon.skill19226"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="104408" name="썸머 부스터 룬 Lv4 (기간제)" type="EtcItem">
+		<!-- Can be leveled up through compounding with <font color=EEAA22>Growth Rune Fragments</font>. <font color=bbaa88><Properties></font>. P. Atk. +160. M. Atk. +160. Acquired XP/ SP +9%. MP Recovery Rate +15. P. Def. +100. M. Def. +100. Skill Power +0.9%. Boosts stats when in inventory. <font color=ff6666><Compounding fee></font>. Summer Upgrade Rune Lv. 1-9: 30,000 adena required -->
+		<set name="icon" val="icon.skill19226"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="104409" name="썸머 부스터 룬 Lv5 (기간제)" type="EtcItem">
+		<!-- Can be leveled up through compounding with <font color=EEAA22>Growth Rune Fragments</font>. <font color=bbaa88><Properties></font>. P. Atk. +160. M. Atk. +160. Acquired XP/ SP +9%. MP Recovery Rate +15. P. Def. +100. M. Def. +100. Skill Power +0.9%. Boosts stats when in inventory. <font color=ff6666><Compounding fee></font>. Summer Upgrade Rune Lv. 1-9: 30,000 adena required -->
+		<set name="icon" val="icon.skill19226"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="104410" name="썸머 부스터 룬 Lv6 (기간제)" type="EtcItem">
+		<!-- Can be leveled up through compounding with <font color=EEAA22>Growth Rune Fragments</font>. <font color=bbaa88><Properties></font>. P. Atk. +160. M. Atk. +160. Acquired XP/ SP +9%. MP Recovery Rate +15. P. Def. +100. M. Def. +100. Skill Power +0.9%. Boosts stats when in inventory. <font color=ff6666><Compounding fee></font>. Summer Upgrade Rune Lv. 1-9: 30,000 adena required -->
+		<set name="icon" val="icon.skill19226"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="104411" name="썸머 부스터 룬 Lv7 (기간제)" type="EtcItem">
+		<!-- Can be leveled up through compounding with <font color=EEAA22>Growth Rune Fragments</font>. <font color=bbaa88><Properties></font>. P. Atk. +210. M. Atk. +210. Acquired XP/ SP +30%. MP Recovery Rate +20. P. Def. +400. M. Def. +400. Skill Power +3.5%. Ring M. Def. <font color=eeaa22>+10</font>. Earring M. Def. <font color=eeaa22>+10</font>. Necklace M. Def. <font color=eeaa22>+10</font>. Boosts stats when in inventory. <font color=ff6666><Compounding fee></font>. Summer Upgrade Rune Lv. 1-9: 30,000 adena required -->
+		<set name="icon" val="icon.skill19226"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="104412" name="썸머 부스터 룬 Lv8 (기간제)" type="EtcItem">
+		<!-- Can be leveled up through compounding with <font color=EEAA22>Growth Rune Fragments</font>. <font color=bbaa88><Properties></font>. P. Atk. +210. M. Atk. +210. Acquired XP/ SP +30%. MP Recovery Rate +20. P. Def. +400. M. Def. +400. Skill Power +3.5%. Ring M. Def. <font color=eeaa22>+10</font>. Earring M. Def. <font color=eeaa22>+10</font>. Necklace M. Def. <font color=eeaa22>+10</font>. Boosts stats when in inventory. <font color=ff6666><Compounding fee></font>. Summer Upgrade Rune Lv. 1-9: 30,000 adena required -->
+		<set name="icon" val="icon.skill19226"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="104413" name="썸머 부스터 룬 Lv9 (기간제)" type="EtcItem">
+		<!-- Can be leveled up through compounding with <font color=EEAA22>Growth Rune Fragments</font>. <font color=bbaa88><Properties></font>. P. Atk. +210. M. Atk. +210. Acquired XP/ SP +30%. MP Recovery Rate +20. P. Def. +400. M. Def. +400. Skill Power +3.5%. Ring M. Def. <font color=eeaa22>+10</font>. Earring M. Def. <font color=eeaa22>+10</font>. Necklace M. Def. <font color=eeaa22>+10</font>. Boosts stats when in inventory. -->
+		<set name="icon" val="icon.skill19226"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="104414" name="썸머 페스티벌 스펙 지원 티켓 - 보석 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.voucher_lev_95"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104415" name="썸머 페스티벌 스펙 지원 티켓 - 레어 액세서리 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.voucher_lev_97"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104416" name="불의 정령왕 이그니스" type="Armor">
+		<!-- Agathion Fire Spirit King Ignis. Can be enchanted with Scroll: Enchant Ornaments. Max enchant value: +5. When equipped, automatically summons the agathion. <font color=ff6666>Note!</font>. When equipped with Agathion Aquarius/ Leo, only the Agathion Ignis effect is active. Effects of two or more agathions with the same name do not stack -->
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="agathion"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="50"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_limit" val="5"/>
+		<skills>
+			<skill id="50326" level="1" type="ON_EQUIP"/> <!-- Summon Agathion Fire Spirit King Ignis -->
+			<skill id="54018" level="1" type="ON_UNEQUIP"/> <!-- Unsummon Agathion -->
+			<skill id="50321" level="12"/> <!-- Fire Spirit King Ignis -->
+			<skill id="50321" level="13" type="ON_ENCHANT" type_value="1"/> <!-- +1 Fire Spirit King Ignis -->
+			<skill id="50321" level="14" type="ON_ENCHANT" type_value="2"/> <!-- +2 Fire Spirit King Ignis -->
+			<skill id="50321" level="15" type="ON_ENCHANT" type_value="3"/> <!-- +3 Fire Spirit King Ignis -->
+			<skill id="50321" level="16" type="ON_ENCHANT" type_value="4"/> <!-- +4 Fire Spirit King Ignis -->
+			<skill id="50321" level="17" type="ON_ENCHANT" type_value="5"/> <!-- +5 Fire Spirit King Ignis -->
+		</skills>
+	</item>
+	<item id="104417" name="물의 정령왕 네불라" type="Armor">
+		<!-- Agathion Water Spirit Queen Nebula. Can be enchanted with Scroll: Enchant Ornaments. Max enchant value: +5. When equipped, automatically summons the agathion. <font color=ff6666>Note!</font>. When equipped with Agathion Scorpio/ Capricorn, only the Agathion Nebula effect is active. Effects of two or more agathions with the same name do not stack -->
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="agathion"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="50"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_limit" val="5"/>
+		<skills>
+			<skill id="50327" level="1" type="ON_EQUIP"/> <!-- Summon Agathion Water Spirit Queen Nebula -->
+			<skill id="54018" level="1" type="ON_UNEQUIP"/> <!-- Unsummon Agathion -->
+			<skill id="50322" level="12"/> <!-- Water Spirit Queen Nebula -->
+			<skill id="50322" level="13" type="ON_ENCHANT" type_value="1"/> <!-- +1 Water Spirit Queen Nebula -->
+			<skill id="50322" level="14" type="ON_ENCHANT" type_value="2"/> <!-- +2 Water Spirit Queen Nebula -->
+			<skill id="50322" level="15" type="ON_ENCHANT" type_value="3"/> <!-- +3 Water Spirit Queen Nebula -->
+			<skill id="50322" level="16" type="ON_ENCHANT" type_value="4"/> <!-- +4 Water Spirit Queen Nebula -->
+			<skill id="50322" level="17" type="ON_ENCHANT" type_value="5"/> <!-- +5 Water Spirit Queen Nebula -->
+		</skills>
+	</item>
+	<item id="104418" name="바람의 정령왕 프로첼라" type="Armor">
+		<!-- Agathion Wind Spirit King Procella. Can be enchanted with Scroll: Enchant Ornaments. Max enchant value: +5. When equipped, automatically summons the agathion. <font color=ff6666>Note!</font>. When equipped with Agathion Libra/ Sagittarius, only the Agathion Procella effect is active. Effects of two or more agathions with the same name do not stack -->
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="agathion"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="50"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_limit" val="5"/>
+		<skills>
+			<skill id="50328" level="1" type="ON_EQUIP"/> <!-- Summon Agathion Wind Spirit King Procella -->
+			<skill id="54018" level="1" type="ON_UNEQUIP"/> <!-- Unsummon Agathion -->
+			<skill id="50323" level="12"/> <!-- Wind Spirit King Procella -->
+			<skill id="50323" level="13" type="ON_ENCHANT" type_value="1"/> <!-- +1 Wind Spirit King Procella -->
+			<skill id="50323" level="14" type="ON_ENCHANT" type_value="2"/> <!-- +2 Wind Spirit King Procella -->
+			<skill id="50323" level="15" type="ON_ENCHANT" type_value="3"/> <!-- +3 Wind Spirit King Procella -->
+			<skill id="50323" level="16" type="ON_ENCHANT" type_value="4"/> <!-- +4 Wind Spirit King Procella -->
+			<skill id="50323" level="17" type="ON_ENCHANT" type_value="5"/> <!-- +5 Wind Spirit King Procella -->
+		</skills>
+	</item>
+	<item id="104419" name="대지의 정령왕 페트람" type="Armor">
+		<!-- Agathion Earth Spirit King Petram. Can be enchanted with Scroll: Enchant Ornaments. Max enchant value: +5. When equipped, automatically summons the agathion. <font color=ff6666>Note!</font>. When equipped with Agathion Taurus/ Virgo, only the Agathion Petram effect is active. Effects of two or more agathions with the same name do not stack -->
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="agathion"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="50"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_limit" val="5"/>
+		<skills>
+			<skill id="50329" level="1" type="ON_EQUIP"/> <!-- Summon Agathion Earth Spirit King Petram -->
+			<skill id="54018" level="1" type="ON_UNEQUIP"/> <!-- Unsummon Agathion -->
+			<skill id="50324" level="12"/> <!-- Earth Spirit King Petram -->
+			<skill id="50324" level="13" type="ON_ENCHANT" type_value="1"/> <!-- +1 Earth Spirit King Petram -->
+			<skill id="50324" level="14" type="ON_ENCHANT" type_value="2"/> <!-- +2 Earth Spirit King Petram -->
+			<skill id="50324" level="15" type="ON_ENCHANT" type_value="3"/> <!-- +3 Earth Spirit King Petram -->
+			<skill id="50324" level="16" type="ON_ENCHANT" type_value="4"/> <!-- +4 Earth Spirit King Petram -->
+			<skill id="50324" level="17" type="ON_ENCHANT" type_value="5"/> <!-- +5 Earth Spirit King Petram -->
+		</skills>
+	</item>
+	<item id="104420" name="빛의 정령왕 루미엘" type="Armor">
+		<!-- An agathion imbued with the power of joy. Can be enchanted with Scroll: Enchant Ornaments. Max enchant value: +10. Greater Upgrade Stone can be used from +5 to +7. Transcendent Upgrade Stone can be used from +8 and higher. Equipping it in the main slot summons Agathion Joy. <font color=ff6666>Note!</font>. If equipped with Agathion Gemini, only the Agathion Joy's effect is applied. Effects of two or more agathions with the same name do not stack -->
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104421" name="가디언 교본 - 마스터 교환권" type="EtcItem">
+		<!-- Double-click to obtain 1 Guardian Book - Pet's Protection <font color=00FF00>(exchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.etc_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104422" name="가디언 글래시카 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104423" name="가디언 불칸 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104424" name="가디언 레이븐 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104425" name="베어러 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104426" name="마법서 - 하이퍼 러시" type="EtcItem">
+		<!-- A spellbook for learning the Hyper Rush skill. <Class>. Titan. <Skill effect>. Charges at the target dealing AoE damage and decreasing Knockback Resistance. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104427" name="마법서 - 챔피언 오브 타이탄: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Titan Champion: Master skill. <Class>. Titan. <Skill effect>. <font color="FFBB00">Base effect</font>. Increases Max HP (momentarily recovers bonus HP). Increases P. Atk. Increases M. Def. Increases P. Def. Increases Critical Rate for basic attacks and P. skills. Increases Critical Damage for basic attacks and P. skills. Increases P. Skill Damage. Increases Knockback/ Knockdown/ Fear Atk. Rate. Increases Knockback/ Knockdown/ Hold Resistance. Increases Speed. When used, deals AoE damage and applies <font color=FFFF00>Titan's Charisma and Defense Break</font> on enemies. <font color=FFFF00>Titan's Charisma</font>. Inflicts Fear on nearby enemies. <font color=FFFF00>Defense Break</font>. Decreases P. Def. of nearby enemies. <Skill upgrade>. Final Secret → <font color=FF6666>Champion's Final Secret: Titan</font>. <font color=FF6666><Champion's Final Secret: Titan></font>. When used, applies <font color=FFFF00><Titan's Weapon></font>. <font color=FFFF00><Titan's Weapon></font>. Your two-handed sword is growing bigger. While the effect is active, knocks the enemy down on attack (including basic attacks and some skills) with a certain chance. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104428" name="마법서 - 하이퍼 러시" type="EtcItem">
+		<!-- A spellbook for learning the Hyper Rush skill. <Class>. Titan. <Skill effect>. Charges at the target dealing AoE damage and decreasing Knockback Resistance. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104429" name="마법서 - 챔피언 오브 타이탄: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Titan Champion: Master skill. <Class>. Titan. <Skill effect>. <font color="FFBB00">Base effect</font>. Increases Max HP (momentarily recovers bonus HP). Increases P. Atk. Increases M. Def. Increases P. Def. Increases Critical Rate for basic attacks and P. skills. Increases Critical Damage for basic attacks and P. skills. Increases P. Skill Damage. Increases Knockback/ Knockdown/ Fear Atk. Rate. Increases Knockback/ Knockdown/ Hold Resistance. Increases Speed. When used, deals AoE damage and applies <font color=FFFF00>Titan's Charisma and Defense Break</font> on enemies. <font color=FFFF00>Titan's Charisma</font>. Inflicts Fear on nearby enemies. <font color=FFFF00>Defense Break</font>. Decreases P. Def. of nearby enemies. <Skill upgrade>. Final Secret → <font color=FF6666>Champion's Final Secret: Titan</font>. <font color=FF6666><Champion's Final Secret: Titan></font>. When used, applies <font color=FFFF00><Titan's Weapon></font>. <font color=FFFF00><Titan's Weapon></font>. Your two-handed sword is growing bigger. While the effect is active, knocks the enemy down on attack (including basic attacks and some skills) with a certain chance. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104430" name="정령의 축복 2000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.icon.br_sevenlove_stone_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104431" name="정령의 축복 1000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.icon.br_sevenlove_stone_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104432" name="정령의 축복 500개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.icon.br_sevenlove_stone_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104433" name="정령의 축복 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain Spirit Agathion Exchange Coupon (Time-limited) (2 pcs.), or to use the item as a material in the special craft. -->
+		<set name="icon" val="BranchSys.icon.br_sevenlove_stone_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104434" name="초월의 힘 - 정령왕의 보물 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_battle_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104435" name="귀검 - 한손검" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_cutter"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="144"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104436" name="귀검 - 단검" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_shaper"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="106"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104437" name="귀검 - 양손검" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_slasher"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="209"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104438" name="귀검 - 격투 무기" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_fist"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="FIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="152"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="104439" name="귀검 - 창" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_spear"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="POLE"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="205"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<skills>
+			<skill id="3599" level="1"/> <!-- Polearm Multiattack -->
+		</skills>
+		<stats>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="104440" name="귀검 - 활" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_bow"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BOW"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="181"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="mp_consume" val="2"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">500</stat>
+		</stats>
+	</item>
+	<item id="104441" name="귀검 - 한손 둔기" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_onehand_blunt"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="172"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="randomDamage">20</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104442" name="귀검 - 양손 둔기" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_slasher"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="101"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="randomDamage">20</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104443" name="귀검 - 한손 마법 둔기" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_onehand_magic_blunt"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="172"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_magic_weapon" val="true"/>
+		<stats>
+			<stat type="randomDamage">20</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104444" name="귀검 - 양손 마법 둔기" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_twohand_magic_blunt"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="101"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_magic_weapon" val="true"/>
+		<stats>
+			<stat type="randomDamage">20</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="104445" name="귀검 - 듀얼 소드" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_dual_sword"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="247"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104446" name="귀검 - 고대검" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_ancientsword"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="ANCIENTSWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="209"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104447" name="귀검 - 세검" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_onehane_magic_sword"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="RAPIER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="144"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104448" name="귀검 - 슈터" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.aegis_gun"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="PISTOLS"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">191</stat>
+			<stat type="mAtk">39</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="104449" name="귀검 - 오브" type="Weapon">
+		<!-- An original appearance-modifying item. -->
+		<set name="icon" val="icon.white_day_twohandstaff_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="WOOD"/>
+		<set name="weight" val="880"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_magic_weapon" val="true"/>
+		<stats>
+			<stat type="pAtk">270</stat>
+			<stat type="mAtk">224</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="104450" name="정령왕의 제작 티켓 2000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_challenger_wp_ench_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104451" name="정령왕의 제작 티켓 1000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_challenger_wp_ench_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104452" name="정령왕의 제작 티켓 500개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_challenger_wp_ench_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104453" name="정령왕의 제작 티켓 (기간제)" type="EtcItem">
+		<!-- Required for creating various items through the special craft. -->
+		<set name="icon" val="icon.bm_challenger_wp_ench_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104454" name="정령왕의 초월 전리품 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_battle_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104455" name="여왕개미의 영혼 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.bm_soul_of_undead"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104456" name="오르펜의 영혼 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.bm_rare_soul_of_undead"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104457" name="자켄의 영혼 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.bm_unique_soul_of_undead"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104458" name="바이움의 영혼 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.bm_soul_of_shilen"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104459" name="프린테사의 영혼 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.bm_highest_soul_of_undead"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104460" name="+0~+3 레어 액세서리 도전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_silver_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104461" name="+5 보스 무기 강화 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i09"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104462" name="+5 특수 방어구 강화 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i11"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104463" name="스페셜 부스터 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.festival_question_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104464" name="정령 아가시온 교환 티켓 2000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104465" name="정령 아가시온 교환 티켓 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104466" name="정령 아가시온 교환 티켓 500개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104467" name="정령왕의 제작 티켓 5000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_challenger_wp_ench_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104468" name="정령 아가시온 교환 티켓 5000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104469" name="정령왕의 기간틱 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_battle_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104470" name="바이움의 거처 이동 주문서" type="EtcItem">
+		<!-- Teleports to Baium's Lair. <Hunting zone>. Tower of Insolence - World Hunting Zone -->
+		<set name="icon" val="icon.etc_scroll_of_return_i04"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104471" name="잠재력 강화 패키지" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayhas_talisman_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104472" name="30단계 각인된 염료 선택 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.dye_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104473" name="25단계 각인된 염료 선택 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.dye_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104474" name="하이퍼 염료 티켓 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.dye_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104475" name="+3 레어 액세서리 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_silver_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104476" name="H.O.T 문자 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_blue"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<!-- Opening the box grants one of the following items with a certain chance. -->
+			<item id="3880" min="1" max="1" chance="33" name="문자 H (기간제)"/> <!-- Letter H (Time-limited) - Sealed -->
+			<item id="3884" min="1" max="1" chance="33" name="문자 O (기간제)"/> <!-- Letter O (Time-limited) - Sealed -->
+			<item id="3887" min="1" max="1" chance="34" name="문자 T (기간제)"/> <!-- Letter T (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="104477" name="S.U.M.M.E.R 문자 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<!-- Opening the box grants one of the following items with a certain chance. -->
+			<item id="3877" min="1" max="1" chance="20" name="문자 E (기간제)"/> <!-- Letter E (Time-limited) - Sealed -->
+			<item id="3885" min="1" max="1" chance="20" name="문자 R (기간제)"/> <!-- Letter R (Time-limited) - Sealed -->
+			<item id="3886" min="1" max="1" chance="20" name="문자 S (기간제)"/> <!-- Letter S (Time-limited) - Sealed -->
+			<item id="34956" min="1" max="1" chance="20" name="문자 M (기간제)"/> <!-- Letter M (Time-limited) - Sealed -->
+			<item id="93413" min="1" max="1" chance="20" name="문자 U (기간제)"/> <!-- Letter U (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="104478" name="H.O.T 문자 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_box_belief_pack"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="103817" min="10" max="30" chance="100" name="영웅의 정수"/>
+		</capsuled_items>
+	</item>
+	<item id="104479" name="S.U.M.M.E.R 문자 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_box_love_pack"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91663" min="100" max="500" chance="100" name="엘코인"/>
+		</capsuled_items>
+	</item>
+	<item id="104480" name="H.O.T 문자 티켓 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for various items, or used as a material in the special craft. -->
+		<set name="icon" val="icon.red_save_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104481" name="S.U.M.M.E.R 문자 티켓 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for various items, or used as a material in the special craft. -->
+		<set name="icon" val="icon.blue_save_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104482" name="L.I.N.E.A.G.E.II 문자 티켓 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for various items, or used as a material in the special craft. -->
+		<set name="icon" val="icon.bm_royal_gold_ticket_all"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104483" name="H.O.T 문자 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_box_belief_pack"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104484" name="S.U.M.M.E.R 문자 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_box_love_pack"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104485" name="강화 주문서 행운 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.L_scrl_of_ench_wp"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104486" name="Lv6 보석함 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104487" name="+2~+3 레어 액세서리 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_box_belief_pack"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104488" name="+8~+9 특수 장비 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_box_wish_pack"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104489" name="가디언 네크리스" type="Armor">
+		<!-- A locket for a guardian. Can be enchanted with Scroll: Enchant Ornaments. Max enchant value: +5 -->
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="mDef">104</stat>
+		</stats>
+	</item>
+	<item id="104490" name="가디언 네크리스" type="Armor">
+		<!-- A locket for a guardian. Can be enchanted with Scroll: Enchant Ornaments. Max enchant value: +5 -->
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="mDef">104</stat>
+		</stats>
+	</item>
+	<item id="104491" name="가디언 교본 - 펫의 가호" type="EtcItem">
+		<!-- A book for learning the Pet's Protection skill. Guardians: Wolf/ Buffalo/ Tiger/ Kookaburra/ Dragon/ Hawk/ Fox. -->
+		<set name="icon" val="icon.guardian_skill_book_yellow"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104492" name="가디언 교본 - 펫의 가호" type="EtcItem">
+		<!-- A book for learning the Pet's Protection skill. Guardians: Wolf/ Buffalo/ Tiger/ Kookaburra/ Dragon/ Hawk/ Fox. -->
+		<set name="icon" val="icon.guardian_skill_book_yellow"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104493" name="시간 충전석 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="Icon.timezone_refill_new_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104494" name="가디언 글래시카 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104495" name="가디언 불칸 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104496" name="가디언 레이븐 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104497" name="베어러 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104498" name="마법서 - 블레이드 인게이지" type="EtcItem">
+		<!-- A spellbook for learning the Crossed Blades skill. <Class>. Duelist. <Skill effect>. Increases P. Atk. <Skill upgrade>. Slashing Blade → Slashing Blade: Slash. Blade Punishment → Blade Punishment: Slash. Blade Wave → Blade Wave: Slash -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104499" name="마법서 - 블레이드 인게이지" type="EtcItem">
+		<!-- A spellbook for learning the Crossed Blades skill. <Class>. Duelist. <Skill effect>. Increases P. Atk. <Skill upgrade>. Slashing Blade → Slashing Blade: Slash. Blade Punishment → Blade Punishment: Slash. Blade Wave → Blade Wave: Slash -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/teleporterData.xsd">
+	<npc id="34232"> <!-- 수정의 기운 - 마력이 가득 담긴 -->
+		<teleport type="OTHER">
+			<location x="146992" y="26879" z="-2207" />
+		</teleport>
+	</npc>
+
+	<npc id="30080"> <!-- 기란성 마을 이동 관리자 -->
+		<teleport type="OTHER">
+			<location x="10483" y="249600" z="-2079" feeCount="150000" /> <!-- 헬바운드 워프존 -->
+			<location x="16607" y="244309" z="10496" feeCount="200000" /> <!-- 강철의 성 11층 -->
+			<location x="59626" y="-93724" z="-357" feeCount="150000" /> <!-- 야수 농장 캠프 -->
+			<location x="168844" y="234416" z="-2304" feeCount="150000" /> <!-- 파푸리온의 신전 -->
+			<location x="213708" y="119350" z="-1264" feeCount="150000" /> <!-- 창세기 정원 -->
+			<location x="-16215" y="-190457" z="-4010" feeCount="150000" /> <!-- 디스론 -->
+			<location x="37993" y="-38449" z="-3635" feeCount="10000" /> <!-- 레인보우 항구 -->
+			<location x="-21371" y="243132" z="-3144" feeCount="150000" /> <!-- 황폐한 땅 -->	
+		</teleport>
+	</npc>
+	
+	<npc id="34230"> <!-- 얼음 군주의 성 - 통로 안내자 -->
+		<teleport type="OTHER">
+			<location x="145598" y="144091" z="-11789" feeCount="15000" /> <!-- Crossroad -->
+			<location x="149478" y="147145" z="-12339" feeCount="15000" /> <!-- Northern Secret Passage -->
+		</teleport>
+	</npc>
+	<npc id="34420"> <!-- 고대의 유적지 텔레포트 -->
+		<teleport type="OTHER">
+			<location x="-19440" y="-215420" z="-2829" feeCount="150000" /> <!-- 데릴의 수원 - 동쪽 -->
+			<location x="-11197" y="-215815" z="-2805" feeCount="150000" /> <!-- 데릴의 수원 - 남쪽 -->
+			<location x="-13499" y="-205266" z="-3108" feeCount="150000" /> <!-- 데릴의 수원 - 서쪽 -->
+			<location x="-26229" y="-202589" z="-3641" feeCount="150000" /> <!-- 데릴의 수원 - 북쪽 -->
+			<location x="-22870" y="-222928" z="-3503" feeCount="150000" /> <!-- 칼리다 홀 -->
+			<location x="-10924" y="-220311" z="-3337" feeCount="150000" /> <!-- 데릴의 수원 -->
+			<location x="-23057" y="-222613" z="-3514" feeCount="150000" /> <!-- 프란 데릴의 수원 -->
+		</teleport>
+	</npc>
+	<npc id="34448"> <!-- 메르메덴 -->
+		<teleport type="OTHER">
+			<location x="6025" y="-2274" z="-2990" feeCount="150000" /> <!-- 원시의 섬 -->
+			<location x="90375" y="234775" z="-12592" feeCount="150000" /> <!-- 잊혀진 정원 -->
+			<location x="39764" y="-37075" z="-3642" feeCount="10000" /> <!-- 레인보우 항구 -->
+
+			<location x="-21371" y="243132" z="-3144" feeCount="150000" /> <!-- 황폐한 땅 -->	
+			<location x="35718" y="-48221" z="893" feeCount="100000" /> <!-- 레인보우 내성 -->
+			<location x="43042" y="-51672" z="-786" feeCount="10000" /> <!-- 레인보우 포털 -->
+			<location x="36479" y="-48237" z="-1156" feeCount="10000" /> <!-- 레인보우 내성 여왕 -->
+			<location x="60682" y="-43735" z="-3009" feeCount="10000" /> <!-- 레인보우 외성 마을 분수대 -->
+			<location x="39764" y="-37075" z="-3642" feeCount="10000" /> <!-- 레인보우 항구 -->
+		</teleport>
+	</npc>
+	<npc id="34417"> <!-- 잊혀진 마을 텔레포트 -->
+		<teleport type="OTHER">
+			<location x="82700" y="53564" z="-1488" feeCount="1000" /> <!-- 오렌성 마을 -->
+			<location x="148024" y="-55281" z="-2728" feeCount="1000" /> <!-- 고다드성 마을 -->
+			<location x="18832" y="145284" z="-3128" feeCount="1000" /> <!-- 디온성 마을 -->
+			<location x="-80684" y="149770" z="-3043" feeCount="1000" /> <!-- 글루딘 마을 -->
+			<location x="-12787" y="122779" z="-3114" feeCount="1000" /> <!-- 글루디오성 마을 -->
+			<location x="-84064" y="243324" z="-3728" feeCount="1000" /> <!-- 말하는 섬 마을 -->
+			<location x="45300" y="48340" z="-3056" feeCount="1000" /> <!-- 엘프 마을 -->
+			<location x="9915" y="12836" z="-4500" feeCount="1000" /> <!-- 다크엘프 마을 -->
+			<location x="-45158" y="-112583" z="-236" feeCount="1000" /> <!-- 오크 마을 -->
+			<location x="115464" y="-178608" z="-928" feeCount="1000" /> <!-- 드워프 마을 -->
+			<location x="-116686" y="46482" z="360" feeCount="1000" /> <!-- 진 카마엘 마을 -->
+			<location x="104277" y="58299" z="-3944" feeCount="1000" /> <!-- 바람의 성소 -->
+			<location x="45252" y="154168" z="-1936" feeCount="1000" /> <!-- 데스나이트 거점 -->
+			<location x="79041" y="-83006" z="-3640" feeCount="1000" /> <!-- 암살자의 안식처 -->
+		</teleport>
+	</npc>
+	<npc id="34419"> <!-- 이벤트 텔레포트 -->
+		<teleport type="OTHER">
+			<location x="35718" y="-48221" z="893" feeCount="1000" /> <!-- 바람 쐬러 가자 싱싱! - 메사이아 성채 내성 -->
+
+			<location x="84180" y="148119" z="-1116" feeCount="10000" /> <!-- 기란성 신전 지붕 -->
+			<location x="107577" y="-122392" z="-3632" feeCount="10000" /> <!-- 프로스트 호수 -->
+			<location x="-149384" y="253392" z="-112" feeCount="10000" /> <!-- 글루디오 비행선 선착장 -->
+			<location x="102402" y="-124491" z="-2768" feeCount="10000" /> <!-- 프레야의 정원 -->
+			<location x="-186216" y="242473" z="2551" feeCount="10000" /> <!-- 메사이아 성채 내성 -->
+		</teleport>
+	</npc>
+	<npc id="34361"> <!-- 지나간 퀘스트 지역 텔레포트 -->
+		<teleport type="OTHER">
+			<!-- 3차 전직 퀘스트[전설의 계승] -->
+			<location x="-76435" y="-185543" z="-11008" feeCount="500000000" /> <!-- 케베르 사원 -->
+			<!-- 퀘스트 구역 -->
+			<location x="-111618" y="16697" z="-10297" feeCount="500000000" /> <!-- 혼돈의 코어 -->
+			<location x="-177132" y="149597" z="-11387" feeCount="500000000" /> <!-- 혼돈의 여왕 개미 -->
+			<location x="44625" y="18519" z="-4396" feeCount="500000000" /> <!-- 혼돈의 오르펜 -->
+			<location x="-179559" y="212881" z="-15518" feeCount="500000000" /> <!-- 혼돈의 쟈켄 -->
+			<location x="141239" y="-123760" z="-1907" feeCount="500000000" /> <!-- 피의 사제 루델토 -->
+		</teleport>
+	</npc>
+	<npc id="34038"> <!-- // -->
+		<teleport type="OTHER">
+			<location x="-22870" y="-222928" z="-3503" feeCount="150000" /> <!-- 칼리다 홀 -->
+			<location x="-10924" y="-220311" z="-3337" feeCount="150000" /> <!-- 데릴의 수원 -->
+			<location x="-23057" y="-222613" z="-3514" feeCount="150000" /> <!-- 프란 데릴의 수원 -->
+		</teleport>
+	</npc>
+	<npc id="34428"> <!-- 메르에덴 - 창세기 정원 -->
+		<teleport type="OTHER">
+			<location x="213713" y="115608" z="-856" feeCount="15000" /> <!-- 창세기 정원(중앙 홀) -->
+			<location x="219946" y="119348" z="-1720" feeCount="15000" /> <!-- 창세기 정원(동쪽 홀) -->
+			<location x="207514" y="119372" z="-1288" feeCount="15000" /> <!-- 창세기 정원(서쪽 홀) -->
+		</teleport>
+	</npc>
+	<npc id="34244"> <!-- 이동 장치 - 강철의 성 이동 매니저 - 스패셜 텔레포트 -->
+		<teleport type="OTHER">
+			<location x="-12543" y="282418" z="-15552" feeCount="150000" /> <!-- 강철의 성 -->
+			<location x="59626" y="-93724" z="-357" feeCount="150000" /> <!-- 야수 농장 캠프 -->
+			
+<!-- 월드 보스 레이드 텔레포트 -->
+			<location x="10483" y="249600" z="-2079" feeCount="150000" /> <!-- 헬바운드 워프존 -->
+			<location x="-12543" y="282418" z="-15552" feeCount="150000" /> <!-- 강철의 성 -->
+			<location x="213708" y="119350" z="-1264" feeCount="150000" /> <!-- 창세기 정원 -->
+			<location x="168844" y="234416" z="-2304" feeCount="150000" /> <!-- 파푸리온의 신전 -->
+			<location x="-21371" y="243132" z="-3144" feeCount="150000" /> <!-- 황폐한 땅 -->	
+			<location x="59626" y="-93724" z="-357" feeCount="150000" /> <!-- 야수 농장 캠프 -->
+			<location x="-16215" y="-190457" z="-4010" feeCount="150000" /> <!-- 디스론 -->
+			<location x="-46530" y="49879" z="-2379" feeCount="150000" /> <!-- 켈빔의 성채 -->
+
+<!-- 월드 보스 레이드 텔레포트 -->
+			<location x="-16375" y="-53934" z="-10452" feeCount="1000000" /> <!-- 페리온-사교의 신전 홀 -->
+			<location x="213927" y="-113762" z="-1639" feeCount="1000000" /> <!-- 발라카스 -->
+			<location x="185131" y="114723" z="-8223" feeCount="1000000" /> <!-- 안타라스 -->
+			<location x="187118" y="255135" z="-3328" feeCount="1000000" /> <!-- 파푸리온 -->
+<!-- 스페셜 보스 레이드 텔레포트 -->
+			<location x="43348" y="204524" z="-3767" feeCount="1000000" /> <!-- 자켄 -->
+			<location x="63725" y="31164" z="-3751" feeCount="1000000" /> <!-- 오르펜 -->
+			<location x="94570" y="9888" z="-3693" feeCount="1000000" /> <!-- 여왕개미 -->
+			<location x="17720" y="112184" z="-6586" feeCount="1000000" /> <!-- 코어 -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- 릴리스-제국위 무덤 -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- 아나킴-제국의 무덤 -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- 엘모아덴의 궁녀-제국의 무덤 -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- 바이움-제국의 무덤 -->
+			<location x="-56334" y="60779" z="-256" feeCount="1000000" /> <!-- 분노한 켈빔-군단 지휘소 -->
+
+		</teleport>
+	</npc>
+	<npc id="34245"> <!-- 점령 장치 - 강철의 성 내부 텔레포트 -->
+		<teleport type="OTHER">
+			<location x="-12543" y="282418" z="-15552" feeCount="150000" /> <!-- 강철의 성 1층 -->
+			<location x="-21380" y="282572" z="-15864" feeCount="150000" /> <!-- 강철의 성 2층 -->
+			<location x="-12422" y="282302" z="-13504" feeCount="150000" /> <!-- 강철의 성 3층 -->
+			<location x="-21360" y="282618" z="-13816" feeCount="150000" /> <!-- 강철의 성 4층 -->
+			<location x="-12781" y="272961" z="-12104" feeCount="150000" /> <!-- 강철의 성 5층 -->
+			<location x="-12539" y="282385" z="-11456" feeCount="150000" /> <!-- 강철의 성 6층 -->
+			<location x="-21415" y="282609" z="-11768" feeCount="150000" /> <!-- 강철의 성 7층 -->
+			<location x="-12472" y="282433" z="-9408" feeCount="150000" /> <!-- 강철의 성 8층 -->
+			<location x="-21397" y="282612" z="-9720" feeCount="150000" /> <!-- 강철의 성 9층 -->
+			<location x="-12111" y="273006" z="-9032" feeCount="150000" /> <!-- 강철의 성 10층 -->
+			<location x="16607" y="244309" z="10496" feeCount="150000" /> <!-- 강철의 성 11층 -->
+		</teleport>
+	</npc>
+
+	<npc id="18828"> <!-- 켈빔의 성채 텔레포트 -->
+		<teleport type="OTHER">
+			<location x="-46530" y="49879" z="-2379" feeCount="1000000" /> <!-- 성채 좌측으로 이동 -->
+			<location x="-55059" y="52017" z="-2159" feeCount="1000000" /> <!-- 성채 중앙으로 이동 -->
+			<location x="-44080" y="43010" z="-1386" feeCount="1000000" /> <!-- 성채 우측으로 이동 -->
+
+		</teleport>
+	</npc>
+
+	<npc id="30754"> <!-- 용의 계곡 관리자 텔레포트 -->
+		<teleport type="OTHER">
+			<location x="88275" y="112886" z="-1960" feeCount="50000" /> <!-- 용의 계곡 서부 -->
+			<location x="88043" y="114518" z="-2968" feeCount="50000" /> <!-- 용의 계곡 서부 해골지역 -->
+			<location x="81274" y="113572" z="-3112" feeCount="50000" /> <!-- 용의 계곡 서부 서큐버스 지역 -->
+			<location x="88991" y="110861" z="-3704" feeCount="50000" /> <!-- 용의 계곡 서부 뱀 지역 -->
+			<location x="87324" y="108938" z="-3048" feeCount="50000" /> <!-- 용의 계곡 서부 용 지역 -->
+			<location x="115231" y="112835" z="-2360" feeCount="50000" /> <!-- 용의 계곡 동부 -->
+			<location x="125314" y="112640" z="-3200" feeCount="50000" /> <!-- 용의 계곡 동부 안쪽 -->
+			<location x="121544" y="117248" z="-3672" feeCount="50000" /> <!-- 몬스터 침공 - 용의 계곡 동부 -->
+			<location x="92157" y="110466" z="-3000" feeCount="50000" /> <!-- 몬스터 침공 - 용의 계곡 서부 -->
+
+		</teleport>
+	</npc>
+
+	<npc id="34233"> <!-- 환상의 섬 텔레포트 -->
+		<teleport type="OTHER">
+			<location x="-75769" y="-51315" z="-3154" /> <!-- 고요한 목초지 -->
+			<location x="-60144" y="-52642" z="-2072" /> <!-- O X 이벤트 -->
+			<location x="-70401" y="-71104" z="-1422" /> <!-- 레드의 별장 -->
+			<location x="-59824" y="-69489" z="-2896" /> <!-- 나나의 화실 -->
+			<location x="-53064" y="-69626" z="-3344" /> <!-- 술래 이벤트 -->
+			<location x="-56927" y="-56351" z="-2096" /> <!-- 콘서트 공연장 -->
+		</teleport>
+	</npc>
+
+	<npc id="34399"> <!-- 성지 안내자 아르페 -->
+		<teleport type="OTHER">
+
+			<location x="1974" y="-220006" z="-3316" feeCount="10000" /> <!-- 이그니스 남부 -->
+			<location x="10590" y="-222444" z="-3719" feeCount="10000" /> <!-- 이그니스 동부 -->
+			<location x="4690" y="-209922" z="-3646" feeCount="10000" /> <!-- 이그니스 서부 -->
+			<location x="9013" y="-208577" z="-3714" feeCount="1000000" /> <!-- 이그니스 -->
+
+		</teleport>
+	</npc>
+
+	<npc id="34434"> <!-- 디멘션 버텍스 - 기란성 마을 스패셜 사냥터 텔레포트 -->
+		<teleport type="OTHER">
+
+<!-- World Boss Raid Teleport -->
+			<location x="10483" y="249600" z="-2079" feeCount="150000" /> <!-- Hellbound Warp Zone -->
+			<location x="-12543" y="282418" z="-15552" feeCount="150000" /> <!-- Steel Citadel -->
+			<location x="213708" y="119350" z="-1264" feeCount="150000" /> <!-- Garden of Genesis -->
+			<location x="168844" y="234416" z="-2304" feeCount="150000" /> <!-- Temple of Fafurion -->
+			<location x="-46530" y="49879" z="-2379" feeCount="150000" /> <!-- Kelbim's Fortress -->
+
+<!-- World Boss Raid Teleport -->
+			<location x="-16375" y="-53934" z="-10452" feeCount="1000000" /> <!-- Pagan's Temple - Hall of Devotion -->
+			<location x="213927" y="-113762" z="-1639" feeCount="1000000" /> <!-- Valakas -->
+			<location x="185131" y="114723" z="-8223" feeCount="1000000" /> <!-- Antharas -->
+			<location x="187118" y="255135" z="-3328" feeCount="1000000" /> <!-- Fafurion -->
+<!-- Special Boss Raid Teleport -->
+			<location x="43348" y="204524" z="-3767" feeCount="1000000" /> <!-- Zaken -->
+			<location x="63725" y="31164" z="-3751" feeCount="1000000" /> <!-- Orfen -->
+			<location x="94570" y="9888" z="-3693" feeCount="1000000" /> <!-- Queen Ant -->
+			<location x="17720" y="112184" z="-6586" feeCount="1000000" /> <!-- Core -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- Lilith - Imperial Tomb -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- Anakim - Imperial Tomb -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- Elmoreden's Lady-in-Waiting - Imperial Tomb -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- Baium - Imperial Tomb -->
+			<location x="-56334" y="60779" z="-256" feeCount="1000000" /> <!-- Enraged Kelbim - Legion Command Post -->
+		
+			<location x="89165" y="-44619" z="-2144" feeCount="1000000" /> <!-- Swamp of Screams [Old Cave Entrance] -->
+			<location x="113797" y="-109329" z="-847" feeCount="1000000" /> <!-- Frozen Canyons [Mammon's Smuggler] -->	
+			<location x="51811" y="-51487" z="-3106" feeCount="1000000" /> <!-- Battlefield Smuggler [Rainbow Outer Castle] -->
+			<location x="42597" y="212445" z="-3716" feeCount="1000000" /> <!-- Krates - Devil's Isle Cave Interior -->
+			<location x="153464" y="-126519" z="-2275" feeCount="100000" /> <!-- Rainbow Arena -->	
+			<location x="80976" y="-56328" z="-6141" feeCount="1000000" /> <!-- Deep Inside the Old Cave -->
+			<location x="87757" y="-109268" z="-3347" feeCount="150000" /> <!-- Ruins of the Old Laboratory -->
+
+<!-- Character Spawn Location -->
+			<location x="61492" y="-42556" z="-2664" feeCount="50000" /> <!-- Cradle of Creation -->
+<!-- Dimensional Rift -->
+			<location x="-16363" y="-40629" z="-10726" feeCount="150000" /> <!-- Pagan's Temple -->
+<!-- Imperial Tomb -->
+			<location x="181389" y="-78672" z="-2732" feeCount="150000" /> <!-- 4 Special Bosses Spawn -->
+
+<!-- Places Worth Visiting -->
+			<location x="107577" y="-122392" z="-3632" feeCount="10000" /> <!-- Frost Lake -->
+			<location x="-149384" y="253392" z="-112" feeCount="10000" /> <!-- Gludio Airship Port -->
+			<location x="-185956" y="243245" z="2552" feeCount="10000" /> <!-- Messiah Citadel Outer Castle -->
+			<location x="-186216" y="242473" z="2551" feeCount="1000" /> <!-- Messiah Citadel Inner Castle -->
+			<location x="102402" y="-124491" z="-2768" feeCount="10000" /> <!-- Freya's Garden -->
+<!-- Chaos Boss Quest -->
+			<location x="-111618" y="16697" z="-10297" feeCount="150000" /> <!-- Chaos Core -->
+			<location x="-177132" y="149597" z="-11387" feeCount="150000" /> <!-- Chaos Queen Ant -->
+			<location x="44625" y="18519" z="-4396" feeCount="150000" /> <!-- Chaos Orfen -->
+			<location x="-179559" y="212881" z="-15518" feeCount="150000" /> <!-- Chaos Zaken -->
+			<location x="141239" y="-123760" z="-1907" feeCount="150000" /> <!-- Blood Priest Rudelto -->
+
+<!-- 월드 보스 레이드 텔레포트 -->
+			<location x="10483" y="249600" z="-2079" feeCount="150000" /> <!-- 헬바운드 워프존 -->
+			<location x="-12543" y="282418" z="-15552" feeCount="150000" /> <!-- 강철의 성 -->
+			<location x="213708" y="119350" z="-1264" feeCount="150000" /> <!-- 창세기 정원 -->
+			<location x="168844" y="234416" z="-2304" feeCount="150000" /> <!-- 파푸리온의 신전 -->
+			<location x="-21371" y="243132" z="-3144" feeCount="150000" /> <!-- 황폐한 땅 -->	
+			<location x="59626" y="-93724" z="-357" feeCount="150000" /> <!-- 야수 농장 캠프 -->
+			<location x="-16215" y="-190457" z="-4010" feeCount="150000" /> <!-- 디스론 -->
+			<location x="-46530" y="49879" z="-2379" feeCount="150000" /> <!-- 켈빔의 성채 -->
+
+<!-- 월드 보스 레이드 텔레포트 -->
+			<location x="-16375" y="-53934" z="-10452" feeCount="1000000" /> <!-- 페리온-사교의 신전 홀 -->
+			<location x="213927" y="-113762" z="-1639" feeCount="1000000" /> <!-- 발라카스 -->
+			<location x="185131" y="114723" z="-8223" feeCount="1000000" /> <!-- 안타라스 -->
+			<location x="187118" y="255135" z="-3328" feeCount="1000000" /> <!-- 파푸리온 -->
+<!-- 스페셜 보스 레이드 텔레포트 -->
+			<location x="43348" y="204524" z="-3767" feeCount="1000000" /> <!-- 자켄 -->
+			<location x="63725" y="31164" z="-3751" feeCount="1000000" /> <!-- 오르펜 -->
+			<location x="94570" y="9888" z="-3693" feeCount="1000000" /> <!-- 여왕개미 -->
+			<location x="17720" y="112184" z="-6586" feeCount="1000000" /> <!-- 코어 -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- 릴리스-제국위 무덤 -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- 아나킴-제국의 무덤 -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- 엘모아덴의 궁녀-제국의 무덤 -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- 바이움-제국의 무덤 -->
+			<location x="-56334" y="60779" z="-256" feeCount="1000000" /> <!-- 분노한 켈빔-군단 지휘소 -->
+		
+			<location x="89165" y="-44619" z="-2144" feeCount="1000000" /> <!-- 비명의 늪지[오래된 동굴 입구] -->
+			<location x="113797" y="-109329" z="-847" feeCount="1000000" /> <!-- 얼어붙은 협곡[마몬의 암매상] -->	
+			<location x="51811" y="-51487" z="-3106" feeCount="1000000" /> <!-- 전장의 암매상[레인보우 외성] -->
+			<location x="42597" y="212445" z="-3716" feeCount="1000000" /> <!-- 크라테스 - 악마의 섬 동굴 안쪽 -->
+			<location x="153464" y="-126519" z="-2275" feeCount="100000" /> <!-- 레인보우  아레나 -->	
+			<location x="80976" y="-56328" z="-6141" feeCount="1000000" /> <!-- 오래된 동굴 깊은 곳 -->
+			<location x="87757" y="-109268" z="-3347" feeCount="150000" /> <!-- 옛 연구소의 유적지 -->
+
+<!-- 캐릭터 생성지 -->
+			<location x="61492" y="-42556" z="-2664" feeCount="50000" /> <!-- 태초의 요람 -->
+<!-- 차원의 균열 -->
+			<location x="-16363" y="-40629" z="-10726" feeCount="150000" /> <!-- 사교의 신전 -->
+<!-- 제국의 무덤 -->
+			<location x="181389" y="-78672" z="-2732" feeCount="150000" /> <!-- 스페셜 보스 4종 스폰 -->
+
+<!-- 한번 가 볼만 한 곳 -->
+			<location x="107577" y="-122392" z="-3632" feeCount="10000" /> <!-- 프로스트 호수 -->
+			<location x="-149384" y="253392" z="-112" feeCount="10000" /> <!-- 글루디오 비행선 선착장 -->
+			<location x="-185956" y="243245" z="2552" feeCount="10000" /> <!-- 메사이아 성채 외성 -->
+			<location x="-186216" y="242473" z="2551" feeCount="1000" /> <!-- 메사이아 성채 내성 -->
+			<location x="102402" y="-124491" z="-2768" feeCount="10000" /> <!-- 프레야의 정원 -->
+<!-- 혼돈의 보스 퀘스트 -->
+			<location x="-111618" y="16697" z="-10297" feeCount="150000" /> <!-- 혼돈의 코어 -->
+			<location x="-177132" y="149597" z="-11387" feeCount="150000" /> <!-- 혼돈의 여왕 개미 -->
+			<location x="44625" y="18519" z="-4396" feeCount="150000" /> <!-- 혼돈의 오르펜 -->
+			<location x="-179559" y="212881" z="-15518" feeCount="150000" /> <!-- 혼돈의 쟈켄 -->
+			<location x="141239" y="-123760" z="-1907" feeCount="150000" /> <!-- 피의 사제 루델토 -->
+
+<!-- World Boss Raid Teleport -->
+			<location x="10483" y="249600" z="-2079" feeCount="150000" /> <!-- Hellbound Warp Zone -->
+			<location x="-12543" y="282418" z="-15552" feeCount="150000" /> <!-- Steel Citadel -->
+			<location x="213708" y="119350" z="-1264" feeCount="150000" /> <!-- Garden of Genesis -->
+			<location x="168844" y="234416" z="-2304" feeCount="150000" /> <!-- Temple of Fafurion -->
+			<location x="-21371" y="243132" z="-3144" feeCount="150000" /> <!-- Desolate Lands -->	
+			<location x="59626" y="-93724" z="-357" feeCount="150000" /> <!-- Beast Farm Camp -->
+			<location x="-16215" y="-190457" z="-4010" feeCount="150000" /> <!-- Disrone -->
+			<location x="-46530" y="49879" z="-2379" feeCount="150000" /> <!-- Kelbim's Fortress -->
+
+<!-- World Boss Raid Teleport -->
+			<location x="-16375" y="-53934" z="-10452" feeCount="1000000" /> <!-- Pagan's Temple - Hall of Devotion -->
+			<location x="213927" y="-113762" z="-1639" feeCount="1000000" /> <!-- Valakas -->
+			<location x="185131" y="114723" z="-8223" feeCount="1000000" /> <!-- Antharas -->
+			<location x="187118" y="255135" z="-3328" feeCount="1000000" /> <!-- Fafurion -->
+<!-- Special Boss Raid Teleport -->
+			<location x="43348" y="204524" z="-3767" feeCount="1000000" /> <!-- Zaken -->
+			<location x="63725" y="31164" z="-3751" feeCount="1000000" /> <!-- Orfen -->
+			<location x="94570" y="9888" z="-3693" feeCount="1000000" /> <!-- Queen Ant -->
+			<location x="17720" y="112184" z="-6586" feeCount="1000000" /> <!-- Core -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- Lilith - Imperial Tomb -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- Anakim - Imperial Tomb -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- Elmoreden's Lady-in-Waiting - Imperial Tomb -->
+			<location x="181389" y="-78672" z="-2732" feeCount="1000000" /> <!-- Baium - Imperial Tomb -->
+			<location x="-56334" y="60779" z="-256" feeCount="1000000" /> <!-- Enraged Kelbim - Legion Command Post -->
+		
+			<location x="89165" y="-44619" z="-2144" feeCount="1000000" /> <!-- Swamp of Screams [Old Cave Entrance] -->
+			<location x="113797" y="-109329" z="-847" feeCount="1000000" /> <!-- Frozen Canyons [Mammon's Smuggler] -->	
+			<location x="51811" y="-51487" z="-3106" feeCount="1000000" /> <!-- Battlefield Smuggler [Rainbow Outer Castle] -->
+			<location x="42597" y="212445" z="-3716" feeCount="1000000" /> <!-- Krates - Devil's Isle Cave Interior -->
+			<location x="153464" y="-126519" z="-2275" feeCount="100000" /> <!-- Rainbow Arena -->	
+			<location x="80976" y="-56328" z="-6141" feeCount="1000000" /> <!-- Deep Inside the Old Cave -->
+			<location x="87757" y="-109268" z="-3347" feeCount="150000" /> <!-- Ruins of the Old Laboratory -->
+
+<!-- Character Spawn Location -->
+			<location x="61492" y="-42556" z="-2664" feeCount="50000" /> <!-- Cradle of Creation -->
+<!-- Dimensional Rift -->
+			<location x="-16363" y="-40629" z="-10726" feeCount="150000" /> <!-- Pagan's Temple -->
+<!-- Imperial Tomb -->
+			<location x="181389" y="-78672" z="-2732" feeCount="150000" /> <!-- 4 Special Bosses Spawn -->
+
+<!-- Places Worth Visiting -->
+			<location x="107577" y="-122392" z="-3632" feeCount="10000" /> <!-- Frost Lake -->
+			<location x="-149384" y="253392" z="-112" feeCount="10000" /> <!-- Gludio Airship Port -->
+			<location x="-185956" y="243245" z="2552" feeCount="10000" /> <!-- Messiah Citadel Outer Castle -->
+			<location x="-186216" y="242473" z="2551" feeCount="1000" /> <!-- Messiah Citadel Inner Castle -->
+			<location x="102402" y="-124491" z="-2768" feeCount="10000" /> <!-- Freya's Garden -->
+<!-- Chaos Boss Quest -->
+			<location x="-111618" y="16697" z="-10297" feeCount="150000" /> <!-- Chaos Core -->
+			<location x="-177132" y="149597" z="-11387" feeCount="150000" /> <!-- Chaos Queen Ant -->
+			<location x="44625" y="18519" z="-4396" feeCount="150000" /> <!-- Chaos Orfen -->
+			<location x="-179559" y="212881" z="-15518" feeCount="150000" /> <!-- Chaos Zaken -->
+			<location x="141239" y="-123760" z="-1907" feeCount="150000" /> <!-- Blood Priest Rudelto -->
+
+		</teleport>
+	</npc>
+
+	<npc id="16003"> <!-- 오크 주술 토템[오래된 동굴] -->
+		<teleport type="OTHER">
+			<location x="83391" y="148023" z="-3395" feeCount="10000" /> <!-- 기란성 마을 -->	
+		</teleport>
+	</npc>
+
+	<npc id="34202"> <!-- 디톤스 - 쌍둥이 형 - 고고학자 -->
+		<teleport type="OTHER">
+			<location x="113797" y="-109329" z="-847" feeCount="1000000" /> <!-- 얼어붙은 협곡[마몬의 암매상] -->	
+			<location x="51811" y="-51487" z="-3106" feeCount="1000000" /> <!-- 전장의 암매상[레인보우 외성] -->
+			<location x="42597" y="212445" z="-3716" feeCount="1000000" /> <!-- 크라테스 - 악마의 섬 동굴 안쪽 -->
+			<location x="153464" y="-126519" z="-2275" feeCount="100000" /> <!-- 레인보우 아레나 -->	
+			<location x="89165" y="-44619" z="-2144" feeCount="1000000" /> <!-- 비명의 늪지[오래된 동굴 입구] -->
+			<location x="80976" y="-56328" z="-6141" feeCount="1000000" /> <!-- 오래된 동굴 안쪽[오크 주술토템] -->
+		</teleport>
+	</npc>
+
+	<npc id="34295"> <!-- 황혼의 사제 - 엘모아덴 아레나 관리자 -->
+		<teleport type="OTHER">
+			<location x="153135" y="-125338" z="-2221" feeCount="1000000" /> <!-- 에메랄드 아레나 -->	
+			<location x="153886" y="-127542" z="-2221" feeCount="1000000" /> <!-- 사파이어 아레나 -->	
+			<location x="151556" y="-127077" z="-2221" feeCount="1000000" /> <!-- 페리도트 아레나 -->	
+			<location x="155655" y="-125756" z="-2221" feeCount="1000000" /> <!-- 다이아몬드 아레나 -->	
+		</teleport>
+	</npc>
+
+	<npc id="34382"> <!-- 율 - 악어의 섬 - 텔레포트 -->
+		<teleport type="OTHER">
+			<location x="107646" y="184651" z="-3517" feeCount="100000" /> <!-- 남부 -->	
+			<location x="121219" y="185828" z="-3604" feeCount="100000" /> <!-- 동부 -->
+			<location x="120759" y="167273" z="-3129" feeCount="100000" /> <!-- 서부 -->
+		</teleport>
+	</npc>
+
+	<npc id="34209"> <!-- 레인보우 여왕 -->
+		<teleport type="OTHER">
+			<location x="-21371" y="243132" z="-3139" feeCount="1000000" /> <!-- 뒤틀린 황야 -->	
+			<location x="9013" y="-208577" z="-3714" feeCount="1000000" /> <!-- 메마른 정원 -->
+		</teleport>
+	</npc>
+
+	<npc id="34400"> <!-- // - 레인보우 스프링 - 텔레포트 -->
+		<teleport type="OTHER">
+			<location x="35574" y="-48218" z="894" feeCount="1000000" /> <!-- 안드레아 여왕 -->
+			<location x="80976" y="-56328" z="-6141" feeCount="1000000" /> <!-- 오래된 동굴 안쪽[오크 주술토템] -->
+			<location x="35718" y="-48221" z="893" feeCount="100000" /> <!-- 레인보우 내성 -->
+			<location x="43042" y="-51672" z="-786" feeCount="10000" /> <!-- 레인보우 외성 -->
+			<location x="153464" y="-126519" z="-2275" feeCount="100000" /> <!-- 레인보우 아레나-온천장 라운지[4곳] -->	
+			<location x="120425" y="-114338" z="-2139" feeCount="100000" /> <!-- 222-얼어붙은 협곡-그냥 좁은곳[이벤트로 활용] -->
+			<location x="105715" y="109705" z="-3202" feeCount="100000" /> <!-- 333-하딘의 사숙[동굴안에 마법상인(머천트,30834) 존재] -->
+			<location x="177945" y="173065" z="-1995" feeCount="100000" /> <!-- 444-바람의 대지 -몬스터 스폰중[76.78,80렙],텔레포트 엔피시(텔레포트,34048)  -->
+			<location x="188611" y="20588" z="-3696" feeCount="100000" /> <!-- 555-실렌의 봉인-몬스터 스폰중[54,61렙] -->
+			<location x="167047" y="20304" z="-328" feeCount="100000" /> <!-- 국립묘지-1 -->
+			<location x="142065" y="81300" z="-300" feeCount="100000" /> <!-- 거울의 숲 - 몹없음 필드 -->
+			<location x="107244" y="86808" z="-3148" feeCount="100000" /> <!-- 사냥꾼의 계곡 - 몹없음 필드 -->
+			<location x="149365" y="255309" z="-86" feeCount="100000" /> <!-- 글루디오 선착장 -->
+			<location x="35574" y="-48218" z="894" feeCount="1000000" /> <!-- 레인보우 내성 여왕 -->
+		</teleport>
+	</npc>
+
+</list>

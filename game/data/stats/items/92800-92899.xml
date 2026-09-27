@@ -1,0 +1,803 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="92800" name="랜시아 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Lance. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92801" name="사자의 영광 돌" type="EtcItem">
+		<!-- Key material for Dwarves to make Deadman's Glory. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92802" name="아트 오브 배틀액스 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Battle Art Axe. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92803" name="사령의 지팡이 머리" type="EtcItem">
+		<!-- Key material for Dwarves to make Staff of Evil Spirits. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92804" name="악마의 단검 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Demon's Dagger. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92805" name="벨리온 세스터스 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Bellion Cestus. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92806" name="해저드 보우 샤프트" type="EtcItem">
+		<!-- Key material for Dwarves to make Bow of Peril. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92807" name="너클 더스트 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Knuckle Duster. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92808" name="아바돈 실드 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Avadon Shield. -->
+		<set name="icon" val="icon.etc_plate_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92809" name="봉인된 다크 크리스탈 레더 메일 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Dark Crystal Leather Armor. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92810" name="봉인된 탈룸 레더 메일 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Tallum Leather Armor. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92811" name="봉인된 악몽의 레더 메일 원단" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Leather Armor of Nightmare. -->
+		<set name="icon" val="icon.etc_leather_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92812" name="봉인된 마제스틱 레더 메일 원단" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Majestic Leather Armor. -->
+		<set name="icon" val="icon.etc_leather_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92813" name="봉인된 레깅 오브 다크 크리스탈 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Dark Crystal Leggings. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92814" name="봉인된 탈룸 튜닉 겉감" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Tallum Tunic. -->
+		<set name="icon" val="icon.etc_leather_yellow_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92815" name="봉인된 다크 크리스탈 로브 원단" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Dark Crystal Robe. -->
+		<set name="icon" val="icon.etc_leather_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92816" name="봉인된 악몽의 로브 원단" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Robe of Nightmare. -->
+		<set name="icon" val="icon.etc_leather_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92817" name="봉인된 마제스틱 로브 원단" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Majestic Robe. -->
+		<set name="icon" val="icon.etc_leather_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92818" name="봉인된 탈룸 호즈 원단" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Tallum Stockings. -->
+		<set name="icon" val="icon.etc_leather_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92819" name="봉인된 다크 크리스탈 실드 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Dark Crystal Shield. -->
+		<set name="icon" val="icon.etc_jewel_box_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92820" name="봉인된 악몽의 실드 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Shield of Nightmare. -->
+		<set name="icon" val="icon.etc_jewel_box_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92821" name="봉인된 다크 크리스탈 부츠 안감" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Dark Crystal Boots. -->
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92822" name="봉인된 탈룸 부츠 안감" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Tallum Boots. -->
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92823" name="봉인된 악몽의 부츠 안감" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Boots of Nightmare. -->
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92824" name="봉인된 마제스틱 부츠 안감" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Majestic Boots. -->
+		<set name="icon" val="icon.etc_piece_of_cloth_black_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92825" name="봉인된 다크 크리스탈 글로브 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Dark Crystal Gloves. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92826" name="봉인된 탈룸 글로브 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Tallum Gloves. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92827" name="봉인된 악몽의 건틀렛 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Gauntlets of Nightmare. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92828" name="봉인된 마제스틱 건틀렛 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Majestic Gauntlets. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92829" name="봉인된 다크 크리스탈 흉갑 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Dark Crystal Breastplate. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92830" name="봉인된 탈룸 플레이트 아머 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Tallum Plate Armor. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92831" name="봉인된 악몽의 갑옷 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Armor of Nightmare. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92832" name="봉인된 마제스틱 플레이트 아머 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Majestic Plate Armor. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92833" name="봉인된 다크 크리스탈 각반 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Dark Crystal Gaiters. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92834" name="봉인된 다크 크리스탈 헬멧 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Dark Crystal Helmet. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92835" name="봉인된 탈룸 헬멧 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Tallum Helmet. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92836" name="봉인된 악몽의 투구 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Helm of Nightmare. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92837" name="봉인된 마제스틱 서클릿 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Majestic Circlet. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92838" name="드래곤 슬레이어 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Dragon Slayer. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92839" name="버서커 블레이드 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Berserker Blade. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92840" name="헤비 소드 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Heavy Sword. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92841" name="미티어 샤워 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Meteor Shower. -->
+		<set name="icon" val="icon.etc_squares_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92842" name="엘리시온 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Elysian. -->
+		<set name="icon" val="icon.etc_squares_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92843" name="영혼의 활 활대" type="EtcItem">
+		<!-- Key material for Dwarves to make Soul Bow. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92844" name="카르니움 활 활대" type="EtcItem">
+		<!-- Key material for Dwarves to make Carnage Bow. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92845" name="블러디 오키드 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Bloody Orchid. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92846" name="소울 세퍼레이터 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Soul Separator. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92847" name="드래곤 그라인더 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Dragon Grinder. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92848" name="블러드 토네이도 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Blood Tornado. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92849" name="탈룸 글레이브 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Tallum Glaive. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92850" name="핼버드 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Halberd. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92851" name="데스페리온의 지팡이 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Dasparion's Staff. -->
+		<set name="icon" val="icon.etc_squares_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92852" name="세계수의 가지 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Branch of the Mother Tree. -->
+		<set name="icon" val="icon.etc_squares_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92853" name="다크 레기온 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Dark Legion's Edge. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92854" name="소드 오브 미라클 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Sword of Miracles. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92855" name="엘레멘탈 소드 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Elemental Sword. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92856" name="탈룸 블레이드 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Tallum Blade. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92857" name="봉인된 피닉스 이어링 젬" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Phoenix Earring. -->
+		<set name="icon" val="icon.etc_gem_blue_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92858" name="봉인된 마제스틱 이어링 젬" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Majestic Earring. -->
+		<set name="icon" val="icon.etc_gem_blue_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92859" name="봉인된 피닉스 네크리스 비즈" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Phoenix Earring. -->
+		<set name="icon" val="BranchSys2.icon.etc_sealed_phoenixbeads_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92860" name="봉인된 마제스틱 네크리스 비즈" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Majestic Necklace. -->
+		<set name="icon" val="BranchSys2.icon.etc_sealed_majesticbeads_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92861" name="봉인된 피닉스 링 젬" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Phoenix Ring. -->
+		<set name="icon" val="icon.etc_gem_blue_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92862" name="봉인된 마제스틱 링 젬" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Majestic Ring. -->
+		<set name="icon" val="icon.etc_gem_blue_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92863" name="포가튼 블레이드 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Forgotten Blade. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92864" name="바살트 배틀해머 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Basalt Battlehammer. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92865" name="임페리얼 스태프 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Imperial Staff. -->
+		<set name="icon" val="icon.etc_bark_blue_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92866" name="엔젤 슬레이어 단검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Angel Slayer. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92867" name="드래곤 헌터 액스 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Dragon Hunter Axe. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92868" name="세인트 스피어 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Divine Spear. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92869" name="데몬 스플린터 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Demon Splinter. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92870" name="헤븐스 디바이더 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Heaven's Divider. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92871" name="아르카나 메이스 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Arcana Mace. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92872" name="봉인된 타테오시안 이어링 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Tateossian Earring. -->
+		<set name="icon" val="icon.etc_broken_crystal_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92873" name="봉인된 타테오시안 링 젬" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Tateossian Ring. -->
+		<set name="icon" val="icon.etc_crystal_ball_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92874" name="봉인된 타테오시안 네크리스 와이어" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Tateossian Necklace. -->
+		<set name="icon" val="icon.etc_jewel_box_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92875" name="봉인된 임페리얼 크루세이더 흉갑 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Imperial Crusader Breastplate. -->
+		<set name="icon" val="icon.etc_plate_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92876" name="봉인된 임페리얼 크루세이더 각반 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Imperial Crusader Gaiters. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92877" name="봉인된 임페리얼 크루세이더 건틀렛 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Imperial Crusader Gauntlets. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92878" name="봉인된 임페리얼 크루세이더 부츠 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Imperial Crusader Boots. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92879" name="봉인된 임페리얼 크루세이더 실드 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Imperial Crusader Shield. -->
+		<set name="icon" val="icon.etc_plate_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92880" name="봉인된 임페리얼 크루세이더 헬멧 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Imperial Crusader Helmet. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92881" name="봉인된 드라코닉 레더 아머 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Draconic Leather Armor. -->
+		<set name="icon" val="icon.etc_leather_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92882" name="봉인된 드라코닉 레더 글로브 원단" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Draconic Leather Gloves. -->
+		<set name="icon" val="icon.etc_leather_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92883" name="봉인된 드라코닉 레더 부츠 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Draconic Leather Boots. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92884" name="봉인된 드라코닉 레더 헬멧 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Draconic Leather Helmet. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92885" name="봉인된 메이저 아르카나 로브 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Major Arcana Robe. -->
+		<set name="icon" val="icon.etc_plate_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92886" name="봉인된 메이저 아르카나 글로브 원단" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Major Arcana Gloves. -->
+		<set name="icon" val="icon.etc_leather_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92887" name="봉인된 메이저 아르카나 부츠 원형" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Major Arcana Boots. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92888" name="봉인된 메이저 아르카나 서클릿 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Sealed Major Arcana Circlet. -->
+		<set name="icon" val="icon.etc_pouch_brown_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92889" name="드라코닉 보우 활대" type="EtcItem">
+		<!-- Key material for Dwarves to make Draconic Bow. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92890" name="강철검 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Steel Sword. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92891" name="인페르노 마스터 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Infernal Master. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92892" name="영혼의 눈 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Spiritual Eye. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92893" name="드래곤 플레임 헤드 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Flaming Dragon Skull. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92894" name="하거인의 망치 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Lesser Giant's Hammer. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92895" name="파괴자의 망치 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Destroyer Hammer. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92896" name="둠 크러셔 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Doom Crusher. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92897" name="시르 블레이드 검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Sirra's Blade. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92898" name="소드 오브 이포스 검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Ipos' Sword. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92899" name="바라키엘 액스 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Barakiel's Axe. -->
+		<set name="icon" val="icon.etc_bark_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

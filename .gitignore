@@ -1,0 +1,10 @@
+/Build/
+/build_temp/
+/dist/
+*.zip
+/Client/
+jdk*/
+build_log.txt
+*.log
+.env_token
+git_*.py

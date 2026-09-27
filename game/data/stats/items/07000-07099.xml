@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="7058" name="크로노 다부카" type="Weapon">
+		<!-- A souvenir of Chronicle V!. <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_chrono_darbuka_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="commissionItemType" val="TWO_HAND_BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<stats>
+			<stat type="pAtk">1</stat>
+			<stat type="mAtk">1</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="7082" name="길드 정보지" type="EtcItem">
+		<!-- A document containing information about Demon Alector. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7083" name="길드 정보지" type="EtcItem">
+		<!-- A document containing information about Demon Alector. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7084" name="길드 정보지" type="EtcItem">
+		<!-- A document containing information about Demon Alector. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7085" name="길드 정보지" type="EtcItem">
+		<!-- A document containing information about Grand Guardian Angel. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7086" name="길드 정보지" type="EtcItem">
+		<!-- A document containing information about Grand Guardian Angel. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7087" name="낡은 책" type="EtcItem">
+		<!-- A document containing information about demons. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_gray_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7088" name="낡은 책" type="EtcItem">
+		<!-- A document containing information about demons. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_gray_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7089" name="낡은 책" type="EtcItem">
+		<!-- A document containing information about demons. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_gray_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7090" name="낡은 책" type="EtcItem">
+		<!-- A document containing information about demons. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_gray_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7091" name="길드 정보지" type="EtcItem">
+		<!-- A secret document used in the Guild. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7092" name="길드 정보지" type="EtcItem">
+		<!-- A secret document used in the Guild. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7093" name="타락한 기사의 형상" type="EtcItem">
+		<!-- Contains information about Fallen Knight Adhil. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_blue_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7094" name="세계수의 수호자의 기록" type="EtcItem">
+		<!-- Contains information about Mother Tree Guardian. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_blue_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7095" name="바이엘의 노래에 대한 비판" type="EtcItem">
+		<!-- Contains information about Biel. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_blue_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7096" name="검성 아이언의 말로" type="EtcItem">
+		<!-- Contains the history of Swordmaster. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_blue_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7097" name="백색 날개단에 관한 고찰" type="EtcItem">
+		<!-- Contains the history of the divine White Wing Army. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_blue_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7098" name="배신자 므하크에 관한 기록" type="EtcItem">
+		<!-- Contains the history of Traitor Muhark. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_blue_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+	<item id="7099" name="카바타리 비전서" type="EtcItem">
+		<!-- Contains instructions on how to use Khavatari energy and how to deal with the servants of his demonic will. Double-click to view the contents. -->
+		<set name="icon" val="icon.etc_spellbook_blue_i00"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_questitem" val="true"/>
+		<set name="handler" val="Book"/>
+	</item>
+</list>

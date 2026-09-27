@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- A그레이드 방어구 -->
+	</npcs>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93815" /> <!-- 악몽의 갑옷 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93816" /> <!-- 악몽의 투구 - 중갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93817" /> <!-- 악몽의 건틀렛 - 중갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93818" /> <!-- 악몽의 부츠 - 중갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93823" /> <!-- 악몽의 레더 메일 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93824" /> <!-- 악몽의 투구 - 경갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93825" /> <!-- 악몽의 건틀렛 - 경갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93826" /> <!-- 악몽의 부츠 - 경갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93831" /> <!-- 악몽의 로브 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93832" /> <!-- 악몽의 투구 - 로브 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93833" /> <!-- 악몽의 건틀렛 - 로브 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93834" /> <!-- 악몽의 부츠 - 로브 팩 -->
+	</item>
+
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93819" /> <!-- 마제스틱 플레이트 아머 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93820" /> <!-- 마제스틱 서클릿 - 중갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93821" /> <!-- 마제스틱 건틀렛 - 중갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93822" /> <!-- 마제스틱 부츠 - 중갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93827" /> <!-- 마제스틱 레더 메일 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93828" /> <!-- 마제스틱 서클릿 - 경갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93829" /> <!-- 마제스틱 건틀렛 - 경갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93830" /> <!-- 마제스틱 부츠 - 경갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93835" /> <!-- 마제스틱 로브 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93836" /> <!-- 마제스틱 서클릿 - 로브 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93837" /> <!-- 마제스틱 건틀렛 - 로브 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101258" /> <!-- A그레이드 방어구 교환권 -->
+		<production count="1" id="93838" /> <!-- 마제스틱 부츠 - 로브 팩 -->
+	</item>
+</list>

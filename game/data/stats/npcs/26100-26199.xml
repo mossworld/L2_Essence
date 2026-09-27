@@ -1,0 +1,2506 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="26100" level="90" type="Monster" name="케이브 키퍼" title="케이브 키퍼" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<equipment rhand="73"/> <!-- Shamshir -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2622150.59319976" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7222" magical="493" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4766" magical="209"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="34"/>
+			<height normal="95"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="3"/> <!-- Beasts -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26101" level="90" type="Monster" name="케이브 메이든" title="케이브 메이든" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<equipment rhand="68"/> <!-- Falchion -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2622150.59319976" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7222" magical="493" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4766" magical="209"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="50"/>
+			<height normal="133"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="3"/> <!-- Beasts -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26102" level="89" type="Monster" name="케이브 밴시" title="케이브 밴시" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="3939"/> <!-- Monster Only (Bensh) - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2383773.26654524" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6668" magical="4552" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4212" magical="1964"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="49"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26103" level="89" type="Monster" name="말룩 서큐버스" title="말룩 서큐버스" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2383773.26654524" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6668" magical="4552" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4212" magical="1964"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="75"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26104" level="89" type="Monster" name="로얄 케이브 서번트" title="로얄 케이브 서번트" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="946" lhand="945"/> <!-- Skeleton Dagger / Skeleton Buckler -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2383773.26654524" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6668" magical="4552" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4212" magical="1964"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22"/>
+			<height normal="60"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26105" level="91" type="Monster" name="듀라한" title="듀라한" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="124"/> <!-- Two-handed Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3337282.57316333" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7776" magical="5308" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="532" magical="2216"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="42" grown="48"/>
+			<height normal="65" grown="79"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26106" level="88" type="Monster" name="케이브 키퍼" title="케이브 키퍼" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<equipment rhand="73"/> <!-- Shamshir -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2383773.26654524" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6114" magical="4174" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="3658" magical="1838"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="34"/>
+			<height normal="95"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="3"/> <!-- Beasts -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26107" level="89" type="Monster" name="케이브 메이든" title="케이브 메이든" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<equipment rhand="68"/> <!-- Falchion -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2622150.59319976" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6668" magical="4552" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4212" magical="1964"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="50"/>
+			<height normal="133"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="3"/> <!-- Beasts -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26108" level="90" type="Monster" name="케이브 밴시" title="케이브 밴시" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="3939"/> <!-- Monster Only (Bensh) - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3098905.24650881" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7222" magical="493" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4766" magical="209"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="49"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26109" level="91" type="Monster" name="말룩 서큐버스" title="말룩 서큐버스" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3337282.57316333" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7776" magical="5308" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="532" magical="2216"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="75"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26110" level="88" type="Monster" name="로얄 케이브 서번트" title="로얄 케이브 서번트" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="946" lhand="945"/> <!-- Skeleton Dagger / Skeleton Buckler -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2383773.26654524" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6114" magical="4174" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="3658" magical="1838"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22"/>
+			<height normal="60"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26111" level="89" type="Monster" name="듀라한" title="듀라한" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="124"/> <!-- Two-handed Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2622150.59319976" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6668" magical="4552" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4212" magical="1964"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="42" grown="48"/>
+			<height normal="65" grown="79"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26112" level="90" type="Monster" name="썬더 웜" title="썬더 웜" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3098905.24650881" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7222" magical="493" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4766" magical="209"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="40"/>
+			<height normal="147"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="10"/> <!-- Dragons -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26113" level="91" type="Monster" name="드래곤 봄버" title="드래곤 봄버" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3337282.57316333" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7776" magical="5308" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="532" magical="2216"/>
+			<speed>
+				<walk ground="35"/>
+				<run ground="250"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="84"/>
+			<height normal="72"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="10"/> <!-- Dragons -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26114" level="89" type="RaidBoss" name="스킬라" title="스킬라" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="8682"/> <!-- Naga's Storm -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="11918866.3327262" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="13336" magical="9104" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="8424" magical="3928"/>
+			<speed>
+				<walk ground="106"/>
+				<run ground="280"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="83"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26115" level="89" type="RaidBoss" name="이시르" title="이시르" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="195"/> <!-- Cursed Staff -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="15017771.579235" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="13336" magical="9104" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="8424" magical="3928"/>
+			<speed>
+				<walk ground="106"/>
+				<run ground="280"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="83"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26116" level="90" type="RaidBoss" name="이포스" title="이포스" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="18355054.1523983" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="14444" magical="986" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="9532" magical="418"/>
+			<speed>
+				<walk ground="140"/>
+				<run ground="360"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="91"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26117" level="90" type="RaidBoss" name="아바카" title="아바카" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="21930714.0522162" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="14444" magical="986" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="9532" magical="418"/>
+			<speed>
+				<walk ground="200"/>
+				<run ground="360"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="41.4"/>
+			<height normal="86.7"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26118" level="91" type="RaidBoss" name="타마쉬" title="타마쉬" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="25744751.2786886" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="15552" magical="10616" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1064" magical="4432"/>
+			<speed>
+				<walk ground="110"/>
+				<run ground="400"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="78"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26119" level="91" type="RaidBoss" name="가잔" title="가잔" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="29797165.8318155" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="15552" magical="10616" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1064" magical="4432"/>
+			<speed>
+				<walk ground="77"/>
+				<run ground="260"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="77"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26120" level="88" type="RaidBoss" name="경비대장" title="경비대장" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="8682"/> <!-- Naga's Storm -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="9535093.06618095" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="12228" magical="8348" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="7316" magical="3676"/>
+			<speed>
+				<walk ground="53"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="45"/>
+			<height normal="65"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26121" level="89" type="RaidBoss" name="주교" title="주교" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="90"/> <!-- Goat Head Staff -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="16090469.5491803" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="13336" magical="9104" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="8424" magical="3928"/>
+			<speed>
+				<walk ground="43"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="28.5"/>
+			<height normal="71"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26122" level="90" type="RaidBoss" name="대주교" title="대주교" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="23837732.6654524" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="14444" magical="986" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="9532" magical="418"/>
+			<speed>
+				<walk ground="75"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="43.5"/>
+			<height normal="72"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26123" level="88" type="RaidBoss" name="조언자" title="조언자" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="195"/> <!-- Cursed Staff -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="11918866.3327262" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="12228" magical="8348" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="7316" magical="3676"/>
+			<speed>
+				<walk ground="53"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="45" grown="54"/>
+			<height normal="63" grown="63"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26124" level="89" type="RaidBoss" name="참모" title="참모" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="14302639.5992714" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="13336" magical="9104" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="8424" magical="3928"/>
+			<speed>
+				<walk ground="90"/>
+				<run ground="140"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="64"/>
+			<height normal="87.4"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26125" level="90" type="RaidBoss" name="군사" title="군사" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="21453959.3989071" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="14444" magical="986" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="9532" magical="418"/>
+			<speed>
+				<walk ground="100"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="75"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26126" level="88" type="RaidBoss" name="강습대장" title="강습대장" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="8682"/> <!-- Naga's Storm -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="11918866.3327262" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="12228" magical="8348" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="7316" magical="3676"/>
+			<speed>
+				<walk ground="53"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="45"/>
+			<height normal="66"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26127" level="89" type="RaidBoss" name="수색대장" title="수색대장" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="17878299.4990893" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="13336" magical="9104" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="8424" magical="3928"/>
+			<speed>
+				<walk ground="77"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="77"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26128" level="90" type="RaidBoss" name="특공대장" title="특공대장" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="19070186.1323619" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="14444" magical="986" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="9532" magical="418"/>
+			<speed>
+				<walk ground="58"/>
+				<run ground="175"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="56"/>
+			<height normal="78"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26129" level="88" type="RaidBoss" name="지휘관" title="지휘관" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="16"/> <!-- Spear -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="10726979.6994536" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="12228" magical="8348" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="7316" magical="3676"/>
+			<speed>
+				<walk ground="52"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24"/>
+			<height normal="63"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26130" level="89" type="RaidBoss" name="군단장" title="군단장" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="17878299.4990893" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="13336" magical="9104" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="8424" magical="3928"/>
+			<speed>
+				<walk ground="58"/>
+				<run ground="175"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="56"/>
+			<height normal="78"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26131" level="90" type="RaidBoss" name="사령관" title="사령관" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="23837732.6654524" hpRegen="10.2" mp="1411.35" mpRegen="3.6"/>
+			<attack physical="14444" magical="986" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="9532" magical="418"/>
+			<speed>
+				<walk ground="77"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="77"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26132" level="90" type="Monster" name="호위병" title="호위병" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="221"/> <!-- Assassin Knife -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2622150.59319976" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7222" magical="493" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4766" magical="209"/>
+			<speed>
+				<walk ground="37"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="48"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26133" level="90" type="Monster" name="기사" title="기사" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="291"/> <!-- Trident -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2622150.59319976" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7222" magical="493" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4766" magical="209"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="53"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26134" level="90" type="Monster" name="심복" title="심복" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="234"/> <!-- Demon's Dagger -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2622150.59319976" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7222" magical="493" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4766" magical="209"/>
+			<speed>
+				<walk ground="37"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="48"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26135" level="90" type="Monster" name="저격수" title="저격수" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="15302"/> <!-- Transparent Bow (NPC) - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2622150.59319976" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7222" magical="493" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="4766" magical="209"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="40.25"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26136" level="89" type="Monster" name="주술사" title="주술사" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="92964"/> <!-- Cabrio's Hand - Sealed -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2383773.26654524" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6668" magical="4552" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4212" magical="1964"/>
+			<speed>
+				<walk ground="43"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="43"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26137" level="89" type="Monster" name="조언자" title="조언자" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="193"/> <!-- Stick of Faith -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2383773.26654524" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6668" magical="4552" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4212" magical="1964"/>
+			<speed>
+				<walk ground="43"/>
+				<run ground="155"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="43"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26138" level="88" type="Monster" name="호위병" title="호위병" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="221"/> <!-- Assassin Knife -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2383773.26654524" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6114" magical="4174" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="3658" magical="1838"/>
+			<speed>
+				<walk ground="37"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="48"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26139" level="89" type="Monster" name="기사" title="기사" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="291"/> <!-- Trident -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2622150.59319976" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6668" magical="4552" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4212" magical="1964"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="41"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26140" level="90" type="Monster" name="호위병" title="호위병" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="8683"/> <!-- Tiphon's Spear -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3098905.24650881" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7222" magical="493" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4766" magical="209"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="41"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26141" level="91" type="Monster" name="저격수" title="저격수" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="15302"/> <!-- Transparent Bow (NPC) - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3337282.57316333" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7776" magical="5308" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="532" magical="2216"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="40.25"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26142" level="88" type="Monster" name="조언자" title="조언자" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="193"/> <!-- Stick of Faith -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2383773.26654524" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6114" magical="4174" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="3658" magical="1838"/>
+			<speed>
+				<walk ground="43"/>
+				<run ground="155"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="42"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26143" level="89" type="Monster" name="심복" title="심복" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="234"/> <!-- Demon's Dagger -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2622150.59319976" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="6668" magical="4552" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4212" magical="1964"/>
+			<speed>
+				<walk ground="37"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="39"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26144" level="90" type="Monster" name="호위병" title="호위병" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="223"/> <!-- Kukuri -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3098905.24650881" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7222" magical="493" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="4766" magical="209"/>
+			<speed>
+				<walk ground="53"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20" grown="24"/>
+			<height normal="40" grown="48"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26145" level="91" type="Monster" name="주술사" title="주술사" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="92964"/> <!-- Cabrio's Hand - Sealed -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3337282.57316333" hpRegen="10.2" mp="1881.8" mpRegen="3.6"/>
+			<attack physical="7776" magical="5308" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="532" magical="2216"/>
+			<speed>
+				<walk ground="43"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="42"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26146" level="79" type="RaidBoss" name="영혼 감시관" title="영혼 감시관" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="70"/> <!-- Claymore -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="3031407.4254294" hpRegen="10.2" mp="3282" mpRegen="3.6"/>
+			<attack physical="5951.552" magical="3048.096" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1617.92" magical="1021.1448"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="81"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26147" level="80" type="RaidBoss" name="어둠의 무녀" title="어둠의 무녀" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="5511649.8644171" hpRegen="10.2" mp="3349.6" mpRegen="3.6"/>
+			<attack physical="6211.456" magical="3181.216" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1638.6" magical="1034.1996"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="75"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26148" level="81" type="RaidBoss" name="어둠의 감시자" title="어둠의 감시자" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="6062814.85085881" hpRegen="10.2" mp="3417.6" mpRegen="3.6"/>
+			<attack physical="6478.88" magical="3318.176" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1658.92" magical="910.44"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22"/>
+			<height normal="71"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26149" level="79" type="RaidBoss" name="처형 집행관" title="처형 집행관" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="96"/> <!-- Scythe -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="3031407.4254294" hpRegen="10.2" mp="3282" mpRegen="3.6"/>
+			<attack physical="5951.552" magical="3048.096" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1617.92" magical="1021.1448"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22"/>
+			<height normal="70"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26150" level="80" type="RaidBoss" name="돌격 대장" title="돌격 대장" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="5511649.8644171" hpRegen="10.2" mp="3349.6" mpRegen="3.6"/>
+			<attack physical="6211.456" magical="3181.216" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1638.6" magical="1034.1996"/>
+			<speed>
+				<walk ground="250"/>
+				<run ground="400"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="93"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26151" level="81" type="RaidBoss" name="데스 로드" title="데스 로드" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="78"/> <!-- Great Sword -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="6062814.85085881" hpRegen="10.2" mp="3417.6" mpRegen="3.6"/>
+			<attack physical="6478.88" magical="3318.176" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1658.92" magical="910.44"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="31"/>
+			<height normal="61.5"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26152" level="79" type="RaidBoss" name="참모" title="참모" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="3031407.4254294" hpRegen="10.2" mp="3282" mpRegen="3.6"/>
+			<attack physical="5951.552" magical="3048.096" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1617.92" magical="1021.1448"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="81.25"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26153" level="80" type="RaidBoss" name="피의 사제" title="피의 사제" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="5511649.8644171" hpRegen="10.2" mp="3349.6" mpRegen="3.6"/>
+			<attack physical="6211.456" magical="3181.216" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1638.6" magical="1034.1996"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="31"/>
+			<height normal="110"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26154" level="81" type="RaidBoss" name="어둠의 여왕" title="어둠의 여왕" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="6062814.85085881" hpRegen="10.2" mp="3417.6" mpRegen="3.6"/>
+			<attack physical="6478.88" magical="3318.176" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1658.92" magical="910.44"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="121.5"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26155" level="79" type="RaidBoss" name="바리온" title="바리온" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="78"/> <!-- Great Sword -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="3031407.4254294" hpRegen="10.2" mp="3282" mpRegen="3.6"/>
+			<attack physical="5951.552" magical="3048.096" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1617.92" magical="1021.1448"/>
+			<speed>
+				<walk ground="132"/>
+				<run ground="450"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="31.5"/>
+			<height normal="95"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26156" level="80" type="RaidBoss" name="클로에" title="클로에" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="3637688.91051529" hpRegen="10.2" mp="3349.6" mpRegen="3.6"/>
+			<attack physical="6211.456" magical="3181.216" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1638.6" magical="1034.1996"/>
+			<speed>
+				<walk ground="150"/>
+				<run ground="350"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="27"/>
+			<height normal="120"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26157" level="79" type="RaidBoss" name="기요틴" title="기요틴" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="96"/> <!-- Scythe -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="4243970.39560117" hpRegen="10.2" mp="3282" mpRegen="3.6"/>
+			<attack physical="5951.552" magical="3048.096" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1617.92" magical="1021.1448"/>
+			<speed>
+				<walk ground="230"/>
+				<run ground="450"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="31.5"/>
+			<height normal="104"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26158" level="81" type="RaidBoss" name="할라트" title="할라트" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="78"/> <!-- Great Sword -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="4850251.88068705" hpRegen="10.2" mp="3417.6" mpRegen="3.6"/>
+			<attack physical="6478.88" magical="3318.176" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1658.92" magical="910.44"/>
+			<speed>
+				<walk ground="85"/>
+				<run ground="450"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="37.5"/>
+			<height normal="107"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26159" level="80" type="RaidBoss" name="루델토" title="루델토" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="5456533.36577293" hpRegen="10.2" mp="3349.6" mpRegen="3.6"/>
+			<attack physical="6211.456" magical="3181.216" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1638.6" magical="1034.1996"/>
+			<speed>
+				<walk ground="90"/>
+				<run ground="300"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="37.5"/>
+			<height normal="134"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26160" level="81" type="RaidBoss" name="아비실리스" title="아비실리스" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="6062814.85085881" hpRegen="10.2" mp="3417.6" mpRegen="3.6"/>
+			<attack physical="6478.88" magical="3318.176" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1658.92" magical="910.44"/>
+			<speed>
+				<walk ground="120"/>
+				<run ground="300"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="40" grown="40"/>
+			<height normal="170" grown="185"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26161" level="80" type="Monster" name="어둠의 소환수" title="어둠의 소환수" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1212141.74869939" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="3105.728" magical="1590.608" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="819.3" magical="517.0998"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="36"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26162" level="80" type="Monster" name="무녀의 소환수" title="무녀의 소환수" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1212141.74869939" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="3105.728" magical="1590.608" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="819.3" magical="517.0998"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="46.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26163" level="81" type="Monster" name="어둠의 사제" title="어둠의 사제" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1224263.16618639" hpRegen="10.2" mp="1708.8" mpRegen="3.6"/>
+			<attack physical="3239.44" magical="1659.088" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="829.46" magical="455.22"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="39"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="3"/> <!-- Beasts -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26164" level="81" type="Monster" name="감시자의 광신도" title="감시자의 광신도" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>BEAST</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1224263.16618639" hpRegen="10.2" mp="1708.8" mpRegen="3.6"/>
+			<attack physical="3239.44" magical="1659.088" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="829.46" magical="455.22"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="64.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="3"/> <!-- Beasts -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26165" level="80" type="Monster" name="군단병" title="군단병" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="946" lhand="945"/> <!-- Skeleton Dagger / Skeleton Buckler -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1212141.74869939" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="3105.728" magical="1590.608" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="819.3" magical="517.0998"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18.7"/>
+			<height normal="45"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26166" level="80" type="Monster" name="친위대" title="친위대" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="124"/> <!-- Two-handed Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1212141.74869939" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="3105.728" magical="1590.608" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="819.3" magical="517.0998"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="35.7" grown="40.8"/>
+			<height normal="58" grown="58"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26167" level="81" type="Monster" name="데스 메이지" title="데스 메이지" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="1472"/> <!-- Monster Only (Death Knight) - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1224263.16618639" hpRegen="10.2" mp="1708.8" mpRegen="3.6"/>
+			<attack physical="3239.44" magical="1659.088" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="829.46" magical="455.22"/>
+			<speed>
+				<walk ground="100"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15" grown="25"/>
+			<height normal="45" grown="45"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26168" level="81" type="Monster" name="데스 파이터" title="데스 파이터" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="75"/> <!-- Caliburs -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1224263.16618639" hpRegen="10.2" mp="1708.8" mpRegen="3.6"/>
+			<attack physical="3239.44" magical="1659.088" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="829.46" magical="455.22"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18" grown="21.75"/>
+			<height normal="45" grown="55.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26169" level="80" type="Monster" name="사제의 밴시" title="사제의 밴시" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1212141.74869939" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="3105.728" magical="1590.608" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="819.3" magical="517.0998"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="49"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26170" level="80" type="Monster" name="피의 드레바눌" title="피의 드레바눌" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1212141.74869939" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="3105.728" magical="1590.608" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="819.3" magical="517.0998"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="28"/>
+			<height normal="75"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26171" level="81" type="Monster" name="어둠의 집행자" title="어둠의 집행자" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1224263.16618639" hpRegen="10.2" mp="1708.8" mpRegen="3.6"/>
+			<attack physical="3239.44" magical="1659.088" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="829.46" magical="455.22"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="58.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26172" level="81" type="Monster" name="여왕의 근위대장" title="여왕의 근위대장" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="5800" lhand="5799"/> <!-- Nephilim Lord - Not Available / Monster Only (Nephilim Lord) -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1224263.16618639" hpRegen="10.2" mp="1708.8" mpRegen="3.6"/>
+			<attack physical="3239.44" magical="1659.088" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="829.46" magical="455.22"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16.9"/>
+			<height normal="67"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26173" level="79" type="Monster" name="흑마법사" title="흑마법사" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="159"/> <!-- Bonebreaker -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1199556.9555266" hpRegen="10.2" mp="1641" mpRegen="3.6"/>
+			<attack physical="2975.776" magical="1524.048" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="808.96" magical="510.5724"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16.5"/>
+			<height normal="25.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26174" level="79" type="Monster" name="병사" title="병사" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="129"/> <!-- Sword of Revolution -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1199556.9555266" hpRegen="10.2" mp="1641" mpRegen="3.6"/>
+			<attack physical="2975.776" magical="1524.048" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="808.96" magical="510.5724"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="21"/>
+			<height normal="52"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26175" level="80" type="Monster" name="소환수" title="소환수" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1212141.74869939" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="3105.728" magical="1590.608" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="819.3" magical="517.0998"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16"/>
+			<height normal="49"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26176" level="80" type="Monster" name="소환수" title="소환수" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1212141.74869939" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="3105.728" magical="1590.608" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="819.3" magical="517.0998"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="63"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26177" level="81" type="Monster" name="데스 메이지" title="데스 메이지" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="1472"/> <!-- Monster Only (Death Knight) - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1224263.16618639" hpRegen="10.2" mp="1708.8" mpRegen="3.6"/>
+			<attack physical="3239.44" magical="1659.088" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="829.46" magical="455.22"/>
+			<speed>
+				<walk ground="100"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.5" grown="37.5"/>
+			<height normal="70" grown="70"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26178" level="81" type="Monster" name="데스 파이터" title="데스 파이터" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="75"/> <!-- Caliburs -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1224263.16618639" hpRegen="10.2" mp="1708.8" mpRegen="3.6"/>
+			<attack physical="3239.44" magical="1659.088" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="829.46" magical="455.22"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24" grown="29"/>
+			<height normal="70" grown="70"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26179" level="80" type="Monster" name="밴시" title="밴시" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1212141.74869939" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="3105.728" magical="1590.608" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="819.3" magical="517.0998"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.5"/>
+			<height normal="62"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26180" level="80" type="Monster" name="드레바눌" title="드레바눌" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1212141.74869939" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="3105.728" magical="1590.608" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="819.3" magical="517.0998"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="35"/>
+			<height normal="100"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26181" level="81" type="Monster" name="집행자" title="집행자" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1224263.16618639" hpRegen="10.2" mp="1708.8" mpRegen="3.6"/>
+			<attack physical="3239.44" magical="1659.088" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="829.46" magical="455.22"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="70.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26182" level="81" type="Monster" name="근위대" title="근위대" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="5800" lhand="5799"/> <!-- Nephilim Lord - Not Available / Monster Only (Nephilim Lord) -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1224263.16618639" hpRegen="10.2" mp="1708.8" mpRegen="3.6"/>
+			<attack physical="3239.44" magical="1659.088" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="829.46" magical="455.22"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="19.5"/>
+			<height normal="77"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26183" level="77" type="RaidBoss" name="사제" title="사제" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="92964"/> <!-- Cabrio's Hand - Sealed -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2505295.39291686" hpRegen="10.2" mp="3148" mpRegen="3.6"/>
+			<attack physical="5481.216" magical="2807.232" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1575.68" magical="994.4832"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="25"/>
+			<height normal="75"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26184" level="78" type="RaidBoss" name="주교" title="주교" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="90"/> <!-- Goat Head Staff -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="3757943.08937529" hpRegen="10.2" mp="3214.8" mpRegen="3.6"/>
+			<attack physical="5699.2" magical="2918.848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1596.96" magical="1007.8968"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="88"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26185" level="79" type="RaidBoss" name="대주교" title="대주교" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="5010590.78583373" hpRegen="10.2" mp="3282" mpRegen="3.6"/>
+			<attack physical="5951.552" magical="3048.096" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1617.92" magical="1021.1448"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="58"/>
+			<height normal="96"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26186" level="77" type="RaidBoss" name="조언자" title="조언자" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="195"/> <!-- Cursed Staff -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2505295.39291686" hpRegen="10.2" mp="3148" mpRegen="3.6"/>
+			<attack physical="5481.216" magical="2807.232" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1575.68" magical="994.4832"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="45" grown="54"/>
+			<height normal="64" grown="64"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26187" level="78" type="RaidBoss" name="참모" title="참모" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="3757943.08937529" hpRegen="10.2" mp="3214.8" mpRegen="3.6"/>
+			<attack physical="5699.2" magical="2918.848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1596.96" magical="1007.8968"/>
+			<speed>
+				<walk ground="90"/>
+				<run ground="140"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="56"/>
+			<height normal="78"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26188" level="79" type="RaidBoss" name="군사" title="군사" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="5010590.78583373" hpRegen="10.2" mp="3282" mpRegen="3.6"/>
+			<attack physical="5951.552" magical="3048.096" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1617.92" magical="1021.1448"/>
+			<speed>
+				<walk ground="100"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="75"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26189" level="77" type="RaidBoss" name="지휘관" title="지휘관" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="16"/> <!-- Spear -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2505295.39291686" hpRegen="10.2" mp="3148" mpRegen="3.6"/>
+			<attack physical="5481.216" magical="2807.232" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1575.68" magical="994.4832"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="27"/>
+			<height normal="69"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26190" level="78" type="RaidBoss" name="군단장" title="군단장" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="3757943.08937529" hpRegen="10.2" mp="3214.8" mpRegen="3.6"/>
+			<attack physical="5699.2" magical="2918.848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1596.96" magical="1007.8968"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="175"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="56"/>
+			<height normal="78"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26191" level="79" type="RaidBoss" name="사령관" title="사령관" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="5010590.78583373" hpRegen="10.2" mp="3282" mpRegen="3.6"/>
+			<attack physical="5951.552" magical="3048.096" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1617.92" magical="1021.1448"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="77"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26192" level="78" type="RaidBoss" name="로베르" title="로베르" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="8682"/> <!-- Naga's Storm -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="2755824.93220855" hpRegen="10.2" mp="3214.8" mpRegen="3.6"/>
+			<attack physical="5699.2" magical="2918.848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1596.96" magical="1007.8968"/>
+			<speed>
+				<walk ground="106"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="83"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26193" level="78" type="RaidBoss" name="루카스" title="루카스" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="195"/> <!-- Cursed Staff -->
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="3306989.91865026" hpRegen="10.2" mp="3214.8" mpRegen="3.6"/>
+			<attack physical="5699.2" magical="2918.848" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1596.96" magical="1007.8968"/>
+			<speed>
+				<walk ground="106"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="45"/>
+			<height normal="104.5"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26194" level="79" type="RaidBoss" name="라자노" title="라자노" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="3858154.90509197" hpRegen="10.2" mp="3282" mpRegen="3.6"/>
+			<attack physical="5951.552" magical="3048.096" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1617.92" magical="1021.1448"/>
+			<speed>
+				<walk ground="140"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="45"/>
+			<height normal="116"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26195" level="79" type="RaidBoss" name="제라르" title="제라르" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="4409319.89153368" hpRegen="10.2" mp="3282" mpRegen="3.6"/>
+			<attack physical="5951.552" magical="3048.096" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1617.92" magical="1021.1448"/>
+			<speed>
+				<walk ground="200"/>
+				<run ground="140"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="54"/>
+			<height normal="114"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26196" level="80" type="RaidBoss" name="크루엘" title="크루엘" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="4960484.87797539" hpRegen="10.2" mp="3349.6" mpRegen="3.6"/>
+			<attack physical="6211.456" magical="3181.216" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1638.6" magical="1034.1996"/>
+			<speed>
+				<walk ground="110"/>
+				<run ground="175"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="50.4"/>
+			<height normal="113"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26197" level="80" type="RaidBoss" name="자크" title="자크" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="5511649.8644171" hpRegen="10.2" mp="3349.6" mpRegen="3.6"/>
+			<attack physical="6211.456" magical="3181.216" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1638.6" magical="1034.1996"/>
+			<speed>
+				<walk ground="77"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="50.4"/>
+			<height normal="111"/>
+		</collision>
+		<skillList>
+			<skill id="4494" level="1"/> <!-- Raid Boss -->
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26198" level="77" type="Monster" name="호위병" title="호위병" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="221"/> <!-- Assassin Knife -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1174074.31249743" hpRegen="10.2" mp="1574" mpRegen="3.6"/>
+			<attack physical="2740.608" magical="1403.616" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="787.84" magical="497.2416"/>
+			<speed>
+				<walk ground="37"/>
+				<run ground="190"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16.5"/>
+			<height normal="49.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="26199" level="78" type="Monster" name="기사" title="기사" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="291"/> <!-- Trident -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1186883.69847899" hpRegen="10.2" mp="1607.4" mpRegen="3.6"/>
+			<attack physical="2849.6" magical="1459.424" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="798.48" magical="503.9484"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6" grown="26.4"/>
+			<height normal="42.6" grown="51.24"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+</list>

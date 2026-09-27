@@ -1,0 +1,211 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="72100" name="Devoted Hero's Doll - Baium" additionalName="1-day" type="EtcItem">
+		<!-- <Baium Doll's Sorcery Lv. 3>. Skill cooldown -4%. P. Def. +15%. M. Def. +15%. Silence Resistance +45%. Fear Resistance +45%. Paralysis Resistance +25%. Knockback Resistance +25%. Pull Resistance +25%. Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_baium_doll_30d"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="time" val="1440"/>
+		<skills>
+			<skill id="39302" level="3"/> <!-- Baium Doll - Superior -->
+		</skills>
+	</item>
+	<item id="72101" name="Devoted Hero's Doll - Orfen" additionalName="1-day" type="EtcItem">
+		<!-- <Orfen Doll's Sorcery Lv. 3>. M. Atk. +15%. M. Skill Critical Damage +10%. Max MP +15%. Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_orfen_doll_30d"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="time" val="1440"/>
+		<skills>
+			<skill id="39304" level="3"/> <!-- Orfen Doll - Superior -->
+		</skills>
+	</item>
+	<item id="72102" name="Devoted Hero's Doll - Frintezza" additionalName="1-day" type="EtcItem">
+		<!-- <Frintezza Doll's Sorcery Lv. 3>. STR/ INT +2. DEX/ WIT +2. CON/ MEN +2. Skill Power +5%. Atk. Spd. +100. Casting Spd. +100. Speed +5. Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_doll_frintessa_30d"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="time" val="1440"/>
+		<skills>
+			<skill id="51297" level="3"/> <!-- Frintezza Doll - Superior -->
+		</skills>
+	</item>
+	<item id="72111" name="New Year Gift (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. Atk. Spd./ Casting Spd. +5%. HP/ MP Recovery Rate +5%. Speed +10. Duration: 30 min. Changes the armor appearance to that of Santa Outfit. -->
+		<set name="icon" val="BranchSys.icon.br_xmas_present_luck_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="59733" level="1"/> <!-- New Year Gift -->
+		</skills>
+	</item>
+	<item id="72114" name="Christmas Kit" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.Icon.Br_santa_gift_click_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="3031" min="1000" max="1000" chance="100" name="마정석"/> <!-- Spirit Ore - Sealed -->
+			<item id="90835" min="3" max="3" chance="100" name="미공급 - 수호탑의 축복 주문서 교환권 (기간제)"/> <!-- Not Available - Life Control Tower's Scroll of Blessing Ticket (Time-limited) - Sealed -->
+			<item id="91641" min="30" max="30" chance="100" name="사이하의 축복"/> <!-- Sayha's Blessing - Sealed -->
+			<item id="93145" min="1" max="1" chance="100" name="초월 던전 추가 입장권"/> <!-- Extra Pass: Transcendent Instance Zone - Sealed -->
+			<item id="94306" min="3" max="3" chance="100" name="스탯 강화 주문서"/> <!-- Scroll: Enchant Stats - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="72115" name="Match Girls' Gift (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pouch_red_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93273" min="1" max="1" chance="7.142857" name="레어 액세서리 상자"/> <!-- Rare Accessory Pack - Sealed -->
+			<item id="92401" min="1" max="1" chance="7.142857" name="마법서 - 화이트 가디언"/> <!-- Spellbook: White Guardian -->
+			<item id="93103" min="1" max="1" chance="7.142857" name="마법서 - 프리스트 레이"/> <!-- Spellbook: Priest's Beam - Not available -->
+			<item id="93631" min="1" max="1" chance="7.142857" name="마법서 - 헬 파이어"/> <!-- Spellbook: Hellfire - Not available -->
+			<item id="94380" min="1" max="1" chance="7.142857" name="공격력 강화 주문서 (기간제)"/> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
+			<item id="94381" min="1" max="1" chance="7.142857" name="방어력 강화 주문서 (기간제)"/> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
+			<item id="91838" min="1" max="1" chance="7.142857" name="자유 텔레포트 주문서 (기간제)"/> <!-- My Teleport Scroll (Time-limited) - Sealed -->
+			<item id="90907" min="5" max="5" chance="7.142857" name="정령탄 교환권"/> <!-- Soulshot Ticket - Sealed -->
+			<item id="94382" min="1" max="1" chance="7.142857" name="특급 HP 물약 (기간제)"/> <!-- Special HP Recovery Potion (Time-limited) - Sealed -->
+			<item id="91840" min="1" max="1" chance="7.142857" name="경험치 향상 주문서 (기간제)"/> <!-- XP Growth Scroll (Time-limited) - Sealed -->
+			<item id="93848" min="1" max="1" chance="7.142857" name="은총 쿠키 (기간제)"/> <!-- Sayha's Cookie (Sealed) - Sealed -->
+			<item id="3031" min="10" max="10" chance="7.142857" name="마정석"/> <!-- Spirit Ore - Sealed -->
+			<item id="71031" min="1" max="1" chance="7.142857"/> <!-- Regular Dish (Time-limited) - Sealed -->
+			<item id="72111" min="1" max="1" chance="7.142857"/> <!-- New Year Gift (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="72179" name="Top-grade A-grade Weapon Pack (Time-limited)" additionalName="Sealed" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="8678" min="1" max="1" chance="7.14" name="시르 블레이드"/> <!-- Sirra's Blade -->
+			<item id="8679" min="1" max="1" chance="7.14" name="소드 오브 이포스"/> <!-- Ipos' Sword -->
+			<item id="8680" min="1" max="1" chance="7.14" name="바라키엘 액스"/> <!-- Barakiel's Axe -->
+			<item id="8681" min="1" max="1" chance="7.14" name="베헤모스의 소리굽쇠"/> <!-- Behemoth's Tuning Fork -->
+			<item id="8682" min="1" max="1" chance="7.14" name="나가 스톰"/> <!-- Naga's Storm -->
+			<item id="8683" min="1" max="1" chance="7.14" name="타이폰 스피어"/> <!-- Tiphon's Spear -->
+			<item id="8684" min="1" max="1" chance="7.14" name="샤이드 보우"/> <!-- Shyeed's Bow -->
+			<item id="8685" min="1" max="1" chance="7.14" name="소베크 허리케인"/> <!-- Sobekk's Hurricane -->
+			<item id="8686" min="1" max="1" chance="7.14" name="테미스의 혀"/> <!-- Themis' Tongue -->
+			<item id="8687" min="1" max="1" chance="7.14" name="핸드 오브 카브리오"/> <!-- Cabrio's Hand -->
+			<item id="8688" min="1" max="1" chance="7.14" name="데이몬의 결정"/> <!-- Daimon Crystal -->
+			<item id="91887" min="1" max="1" chance="7.14" name="불트강"/> <!-- Durendal -->
+			<item id="14339" min="1" max="1" chance="7.14" name="미공급 - 에끌레르 비쥬"/> <!-- Éclair Bijou - Not Available - Not available -->
+			<item id="8938" min="1" max="1" chance="7.14" name="탈룸 블레이드*다마스커스"/> <!-- Tallum Blade*Damascus Sword -->
+		</capsuled_items>
+	</item>
+	<item id="72186" name="Special Kit" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.sayha2017_box_i03"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="91690" min="200" max="200" chance="100" name="특급 HP 물약 (기간제)"/> <!-- Special HP Recovery Potion - Sealed -->
+			<item id="91712" min="20" max="20" chance="100" name="사이하의 폭풍 (기간제)"/> <!-- Sayha's Storm (Time-limited) - Sealed -->
+			<item id="94269" min="25" max="25" chance="100" name="공격력 강화 주문서"/> <!-- Scroll: Boost Attack - Sealed -->
+			<item id="94271" min="25" max="25" chance="100" name="방어력 강화 주문서"/> <!-- Scroll: Boost Defense - Sealed -->
+		</capsuled_items>
+		<skills>
+			<skill id="59734" level="1"/> <!-- Special Kit -->
+		</skills>
+	</item>
+	<item id="72190" name="Lucky Kit" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_goblin_pocket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91641" min="66" max="66" chance="100" name="사이하의 축복"/> <!-- Sayha's Blessing - Sealed -->
+			<item id="94210" min="1" max="1" chance="100" name="무기 제련석"/> <!-- Augmenting Stone: Weapon - Sealed -->
+			<item id="94212" min="2" max="2" chance="100" name="갑옷 제련석"/> <!-- Augmenting Stone: Armor - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="72191" name="L-Coins (1000 pcs.)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_lcoin_box_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91663" min="1000" max="1000" chance="100" name="엘코인"/> <!-- L-Coin -->
+		</capsuled_items>
+	</item>
+	<item id="72192" name="L-Coins (8000 pcs.)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_lcoin_box_i03"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91663" min="8000" max="8000" chance="100" name="엘코인"/> <!-- L-Coin -->
+		</capsuled_items>
+	</item>
+</list>

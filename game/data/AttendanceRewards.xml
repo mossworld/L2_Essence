@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/AttendanceRewards.xsd">
+
+	<item id="95569" count="300" /> <!-- 아데나 주머니 -->
+	<item id="96685" count="200" /> <!-- 미스터리 결정 -->
+	<item id="90143" count="24" /> <!-- 아인하사드의 가호 -->
+	<item id="49088" count="100" /> <!-- 황금 메달 -->
+	<item id="91663" count="30000" /> <!-- 엘코인 -->
+	<item id="100812" count="100" /> <!-- 인형 소환권(일반~최고급) - 11회 -->
+	<item id="104286" count="5" /> <!-- 황금 장미 -->
+
+	<item id="95569" count="300" /> <!-- 아데나 주머니 -->
+	<item id="96685" count="200" /> <!-- 미스터리 결정 -->
+	<item id="90143" count="24" /> <!-- 아인하사드의 가호 -->
+	<item id="49088" count="100" /> <!-- 황금 메달 -->
+	<item id="91663" count="30000" /> <!-- 엘코인 -->
+	<item id="100812" count="100" /> <!-- 인형 소환권(일반~최고급) - 11회 -->
+	<item id="104286" count="5" /> <!-- 황금 장미 -->
+
+	<item id="95569" count="300" /> <!-- 아데나 주머니 -->
+	<item id="96685" count="200" /> <!-- 미스터리 결정 -->
+	<item id="90143" count="24" /> <!-- 아인하사드의 가호 -->
+	<item id="49088" count="100" /> <!-- 황금 메달 -->
+	<item id="91663" count="30000" /> <!-- 엘코인 -->
+	<item id="100812" count="100" /> <!-- 인형 소환권(일반~최고급) - 11회 -->
+	<item id="104286" count="5" /> <!-- 황금 장미 -->
+
+	<item id="95569" count="300" /> <!-- 아데나 주머니 -->
+	<item id="96685" count="200" /> <!-- 미스터리 결정 -->
+	<item id="90143" count="24" /> <!-- 아인하사드의 가호 -->
+	<item id="49088" count="100" /> <!-- 황금 메달 -->
+	<item id="91663" count="30000" /> <!-- 엘코인 -->
+	<item id="100812" count="100" /> <!-- 인형 소환권(일반~최고급) - 11회 -->
+	<item id="104286" count="5" /> <!-- 황금 장미 -->
+
+</list>

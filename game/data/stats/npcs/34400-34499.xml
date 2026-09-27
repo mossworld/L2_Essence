@@ -1,0 +1,1907 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="34400" level="85" type="Folk" name="티아" title="티아">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2578" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24.5"/>
+		</collision>
+	</npc>
+	<npc id="34401" level="85" type="Folk" name="아이울" title="아이울">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3038" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="9.9"/>
+			<height normal="25.6"/>
+		</collision>
+	</npc>
+	<npc id="34402" level="85" type="Merchant" name="시클로" title="시클로">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3038" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24.5"/>
+		</collision>
+	</npc>
+	<npc id="34403" level="85" type="Warehouse" name="라니나" title="라니나">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3038" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="18"/>
+		</collision>
+	</npc>
+	<npc id="34404" level="85" type="Teleporter" name="프리지" title="프리지">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3038" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="25"/>
+		</collision>
+	</npc>
+	<npc id="34405" level="85" type="Folk" name="폰" title="폰">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2578" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="10"/>
+			<height normal="40"/>
+		</collision>
+	</npc>
+	<npc id="34406" level="85" type="Folk" name="레데" title="레데">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="35"/>
+		</collision>
+	</npc>
+	<npc id="34407" level="85" type="Folk" name="드빌" title="드빌">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="35"/>
+		</collision>
+	</npc>
+	<npc id="34408" level="85" type="Folk" name="보조 마법 머신">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="21.3"/>
+		</collision>
+	</npc>
+	<npc id="34409" level="85" type="Folk" name="산타클로스" title="산타클로스">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3105" hpRegen="10.5" mp="1507" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="25"/>
+		</collision>
+	</npc>
+	<npc id="34410" level="85" type="Folk" name="까망 토끼">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="13"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="10"/>
+		</collision>
+	</npc>
+	<npc id="34411" level="85" type="Folk" name="까망 토끼">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="11"/>
+			<height normal="25"/>
+		</collision>
+	</npc>
+	<npc id="34412" level="85" type="Folk" name="투표관리자" title="투표관리자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3105" hpRegen="10.5" mp="1507" mpRegen="3.6"/>
+			<speed>
+				<walk ground="64"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="13.5"/>
+			<height normal="33.75"/>
+		</collision>
+	</npc>
+	<npc id="34413" level="85" type="Folk" name="델로스" title="델로스">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8.4"/>
+			<height normal="27"/>
+		</collision>
+	</npc>
+	<npc id="34414" level="85" type="Folk" name="스벤" title="스벤">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12.3"/>
+			<height normal="29.25"/>
+		</collision>
+	</npc>
+	<npc id="34415" level="85" type="Folk" name="랑" title="랑">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="5063" hpRegen="10.5" mp="2227" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="130"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="21"/>
+			<height normal="86.25"/>
+		</collision>
+	</npc>
+	<npc id="34416" level="85" type="Folk" name="몬드" title="몬드">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3342" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="20"/>
+		</collision>
+	</npc>
+	<npc id="34417" level="85" type="Folk" name="류니" title="류니">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="45"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="31.5"/>
+		</collision>
+	</npc>
+	<npc id="34418" level="85" type="Folk" name="저니" title="저니">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="48"/>
+		</collision>
+	</npc>
+	<npc id="34419" level="85" type="Folk" name="포니" title="포니">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="48"/>
+		</collision>
+	</npc>
+	<npc id="34420" level="85" type="Folk" name="에나드" title="에나드">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12.3"/>
+			<height normal="29.25"/>
+		</collision>
+	</npc>
+	<npc id="34421" level="85" type="Folk" name="미노" title="미노">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="34422" level="85" type="Folk" name="카르비나" title="카르비나">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2578" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="80"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="22.1"/>
+		</collision>
+	</npc>
+	<npc id="34423" level="85" type="Folk" name="앤디쉬" title="앤디쉬">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="34424" level="85" type="Folk" name="티우" title="티우">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="1764" hpRegen="10.5" mp="889" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="27"/>
+		</collision>
+	</npc>
+	<npc id="34425" level="85" type="Folk" name="트리커" title="트리커">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="23"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="19.5"/>
+			<height normal="46.5"/>
+		</collision>
+	</npc>
+	<npc id="34426" level="85" type="Folk" name="킬레만자" title="킬레만자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3038" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="34427" level="85" type="Folk" name="트리커" title="트리커">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="23"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="19.5"/>
+			<height normal="46.5"/>
+		</collision>
+	</npc>
+	<npc id="34428" level="85" type="Folk" name="메르메덴" title="메르메덴">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="192"/> <!-- Crystal Staff -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="1764" hpRegen="10.5" mp="889" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="36.75"/>
+		</collision>
+	</npc>
+	<npc id="34429" level="85" type="Folk" name="더플리" title="더플리">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="11"/>
+			<height normal="17"/>
+		</collision>
+	</npc>
+	<npc id="34430" level="85" type="Teleporter" name="앙리" title="앙리">
+		<!-- Celestial Tower -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="5063" hpRegen="10.5" mp="2227" mpRegen="3.6"/>
+			<speed>
+				<walk ground="64"/>
+				<run ground="130"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="11"/>
+			<height normal="21.75"/>
+		</collision>
+	</npc>
+	<npc id="34431" level="85" type="Merchant" name="쿤" title="쿤">
+		<!-- Celestial Tower -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2578" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="11"/>
+			<height normal="17"/>
+		</collision>
+	</npc>
+	<npc id="34432" level="85" type="Teleporter" name="얀" title="얀">
+		<!-- Celestial Tower -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2578" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="64"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="10.4"/>
+			<height normal="21.7"/>
+		</collision>
+	</npc>
+	<npc id="34433" level="85" type="Folk" name="샤르도나" title="샤르도나">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="36"/>
+				<run ground="80"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="34434" level="85" type="Teleporter" name="디멘션 버텍스" title="디멘션 버텍스">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="35"/>
+		</collision>
+	</npc>
+	<npc id="34435" level="85" type="Folk" name="탐사대원" title="탐사대원">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="6"/>
+			<height normal="26"/>
+		</collision>
+	</npc>
+	<npc id="34436" level="85" type="Teleporter" name="트리아든" title="트리아든">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34437" level="85" type="Folk" name="미누" title="미누">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="34438" level="85" type="Folk" name="침략자의 보급 상자" title="침략자의 보급 상자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="14"/>
+			<height normal="16"/>
+		</collision>
+	</npc>
+	<npc id="34439" level="85" type="Folk" name="침략자의 보급 상자" title="침략자의 보급 상자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="17"/>
+			<height normal="19.5"/>
+		</collision>
+	</npc>
+	<npc id="34440" level="85" type="Folk" name="침략자의 보급 상자" title="침략자의 보급 상자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="22.1"/>
+			<height normal="25.35"/>
+		</collision>
+	</npc>
+	<npc id="34441" level="85" type="Folk" name="레이븐 클로" title="레이븐 클로">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34442" level="85" type="Folk" name="레이븐 클로" title="레이븐 클로">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34443" level="85" type="Folk" name="레이븐 클로" title="레이븐 클로">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34444" level="85" type="Folk" name="차태식" title="차태식">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="7.5"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="34445" level="85" type="Folk" name="불의 정령" title="불의 정령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="45"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="73"/>
+		</collision>
+	</npc>
+	<npc id="34446" level="85" type="Folk" name="불칸의 혼">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="40"/>
+			<height normal="65"/>
+		</collision>
+	</npc>
+	<npc id="34447" level="85" type="Folk" name="불칸의 혼">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="40"/>
+			<height normal="65"/>
+		</collision>
+	</npc>
+	<npc id="34448" level="85" type="Folk" name="메르메덴" title="메르메덴">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="192"/> <!-- Crystal Staff -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="36.75"/>
+		</collision>
+	</npc>
+	<npc id="34449" level="85" type="Folk" name="불칸의 혼">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="40"/>
+			<height normal="65"/>
+		</collision>
+	</npc>
+	<npc id="34450" level="85" type="Folk" name="불칸의 혼">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="40"/>
+			<height normal="65"/>
+		</collision>
+	</npc>
+	<npc id="34451" level="85" type="Folk" name="이동 장치" title="이동 장치">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="0.1"/>
+			<height normal="200"/>
+		</collision>
+	</npc>
+	<npc id="34452" level="85" type="Folk" name="타케온" title="타케온">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2578" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="18.4"/>
+		</collision>
+	</npc>
+	<npc id="34453" level="85" type="Folk" name="텔레포트 큐브" title="텔레포트 큐브">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2444" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="40"/>
+			<height normal="80"/>
+		</collision>
+	</npc>
+	<npc id="34454" level="85" type="Folk" name="엔" title="엔">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2578" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="45"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="31.5"/>
+		</collision>
+	</npc>
+	<npc id="34455" level="85" type="Folk" name="에바의 화신" title="에바의 화신">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3535" hpRegen="10.5" mp="1846" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="16.9"/>
+			<height normal="34.45"/>
+		</collision>
+	</npc>
+	<npc id="34456" level="85" type="Folk" name="아델라" title="아델라">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="80"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="22"/>
+		</collision>
+	</npc>
+	<npc id="34457" level="85" type="Merchant" name="티아레" title="티아레">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="9"/>
+			<height normal="21"/>
+		</collision>
+	</npc>
+	<npc id="34458" level="85" type="Warehouse" name="모노이" title="모노이">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="9"/>
+			<height normal="18"/>
+		</collision>
+	</npc>
+	<npc id="34459" level="85" type="Teleporter" name="이아오라나" title="이아오라나">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="9"/>
+			<height normal="21"/>
+		</collision>
+	</npc>
+	<npc id="34460" level="85" type="Folk" name="빛의 기운">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34461" level="85" type="Folk" name="세계수의 열매">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="22"/>
+		</collision>
+	</npc>
+	<npc id="34462" level="85" type="Folk" name="세계수의 열매">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="10"/>
+			<height normal="40"/>
+		</collision>
+	</npc>
+	<npc id="34463" level="85" type="Folk" name="아니드" title="아니드">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="48"/>
+		</collision>
+	</npc>
+	<npc id="34464" level="85" type="Folk" name="이오스" title="이오스">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12.3"/>
+			<height normal="29.25"/>
+		</collision>
+	</npc>
+	<npc id="34465" level="85" type="Folk" name="마누테아" title="마누테아">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false" talkable="false"/>
+		<collision>
+			<radius normal="14"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34466" level="85" type="Folk" name="마에바" title="마에바">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="11"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34467" level="85" type="Guard" name="헤레마누" title="헤레마누">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="2499"/> <!-- Elven Long Sword -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false" talkable="false"/>
+		<collision>
+			<radius normal="11"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34468" level="85" type="Guard" name="헤레마나" title="헤레마나">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="2499"/> <!-- Elven Long Sword -->
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="1"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false" talkable="false"/>
+		<collision>
+			<radius normal="11"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34469" level="85" type="Folk" name="발아된 세계수">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3342" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="28"/>
+			<height normal="110"/>
+		</collision>
+	</npc>
+	<npc id="34470" level="85" type="Folk" name="연약한 세계수">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3342" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="80"/>
+			<height normal="237.1"/>
+		</collision>
+	</npc>
+	<npc id="34471" level="85" type="Folk" name="헬베티아" title="헬베티아">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="64"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="22.5"/>
+		</collision>
+	</npc>
+	<npc id="34472" level="85" type="Folk" name="홀리" title="홀리">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34473" level="85" type="Folk" name="레이븐 클로" title="레이븐 클로">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34474" level="85" type="Folk" name="레이븐 클로" title="레이븐 클로">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="34475" level="85" type="Folk" name="스미노우" title="스미노우">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="64"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="14.4"/>
+			<height normal="34.44"/>
+		</collision>
+	</npc>
+	<npc id="34476" level="85" type="Folk" name="켄" title="켄">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="10"/>
+			<height normal="23.75"/>
+		</collision>
+	</npc>
+	<npc id="34477" level="85" type="Folk" name="크리스마스 트리 소형">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2676" hpRegen="10.5" mp="1507" mpRegen="3.6"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="27.4"/>
+		</collision>
+	</npc>
+	<npc id="34478" level="85" type="Folk" name="크리스마스 트리 중형">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2676" hpRegen="10.5" mp="1507" mpRegen="3.6"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="50"/>
+			<height normal="73"/>
+		</collision>
+	</npc>
+	<npc id="34479" level="85" type="Folk" name="크리스마스 트리 대형">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2676" hpRegen="10.5" mp="1507" mpRegen="3.6"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="110"/>
+			<height normal="140"/>
+		</collision>
+	</npc>
+	<npc id="34480" level="85" type="Folk" name="산타클로스">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2676" hpRegen="10.5" mp="1507" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="24"/>
+			<height normal="50"/>
+		</collision>
+	</npc>
+	<npc id="34481" level="85" type="Folk" name="썰매">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3290" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="250"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="500"/>
+		</collision>
+	</npc>
+	<npc id="34482" level="85" type="Folk" name="소형 선물상자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="28.5"/>
+			<height normal="22.5"/>
+		</collision>
+	</npc>
+	<npc id="34483" level="85" type="Folk" name="중형 선물상자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="40.5"/>
+			<height normal="36"/>
+		</collision>
+	</npc>
+	<npc id="34484" level="85" type="Folk" name="대형 선물상자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3676" hpRegen="10.5" mp="2023" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="60"/>
+			<height normal="51"/>
+		</collision>
+	</npc>
+	<npc id="34485" level="85" type="Folk" name="아기 루돌프" title="아기 루돌프">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2823" hpRegen="10.5" mp="1507" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="19.5"/>
+			<height normal="39"/>
+		</collision>
+	</npc>
+	<npc id="34486" level="85" type="Folk" name="아기 루돌프" title="아기 루돌프">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2823" hpRegen="10.5" mp="1507" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="19.5"/>
+			<height normal="39"/>
+		</collision>
+	</npc>
+	<npc id="34487" level="85" type="Folk" name="미뇽" title="미뇽">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="34488" level="85" type="Folk" name="청룡의 조각상">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="3213" hpRegen="10.5" mp="1846" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="24"/>
+			<height normal="60"/>
+		</collision>
+	</npc>
+	<npc id="34489" level="85" type="Folk" name="봄이라" title="봄이라">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="10.8"/>
+			<height normal="42.9"/>
+		</collision>
+	</npc>
+	<npc id="34490" level="85" type="Folk" name="봄이라" title="봄이라">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="48"/>
+		</collision>
+	</npc>
+	<npc id="34491" level="85" type="Folk" name="오나봄" title="오나봄">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="5760" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="35"/>
+				<run ground="270"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="11.2"/>
+			<height normal="51.4"/>
+		</collision>
+	</npc>
+	<npc id="34492" level="85" type="Folk" name="꽃봉오리" title="꽃봉오리">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="60"/>
+		</collision>
+	</npc>
+	<npc id="34493" level="85" type="Folk" name="꽃봉오리" title="꽃봉오리">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="60"/>
+		</collision>
+	</npc>
+	<npc id="34494" level="85" type="Folk" name="꽃봉오리" title="꽃봉오리">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="60"/>
+		</collision>
+	</npc>
+	<npc id="34495" level="85" type="Folk" name="꽃봉오리" title="꽃봉오리">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="60"/>
+		</collision>
+	</npc>
+	<npc id="34496" level="85" type="Folk" name="꽃봉오리" title="꽃봉오리">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="60"/>
+		</collision>
+	</npc>
+	<npc id="34497" level="85" type="Folk" name="꽃봉오리" title="꽃봉오리">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="60"/>
+		</collision>
+	</npc>
+	<npc id="34498" level="85" type="Folk" name="꽃봉오리" title="꽃봉오리">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="60"/>
+		</collision>
+	</npc>
+	<npc id="34499" level="85" type="Folk" name="꽃봉오리" title="꽃봉오리">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="2836" hpRegen="10.5" mp="1345" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="60"/>
+		</collision>
+	</npc>
+</list>

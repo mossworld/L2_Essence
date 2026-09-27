@@ -1,0 +1,11 @@
+# 📋 프로젝트 변경 이력 (CHANGELOG)
+
+---
+
+## [2026-03-31]
+- **대상 파일**: `game/data/scripts/events/ThePowerOfLove/ThePowerOfLove.java`
+- **변경 구분**: 수정 (fix)
+- **수정 라인**: Line 267
+- **변경 내용**:
+  * 엘모아덴 주화 -> 아인하사드의 가호 교환 요구 수량 변경 (기존 2개 -> 10개)
+  * `REQ_ROSE_AMOUNT` 상수 값 `2`에서 `10`으로 수정 및 관련 주석 업데이트

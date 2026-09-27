@@ -1,0 +1,1501 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="90900" name="빛나는 아가시온의 혼" type="EtcItem">
+		<!-- Can be used to enhance agathion bracelets. Take it along with an agathion bracelet Lv. 4 to Blacksmith Baggins in Giran. -->
+		<set name="icon" val="icon.etc_raid_e_i02"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="90901" name="아가시온 팔찌 Lv1" type="Armor">
+		<!-- Activates 2 Agathion slots. -->
+		<set name="icon" val="icon.agathion_magmeld_teleport"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="lbracelet"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="100"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="21600"/>
+		<skills>
+			<skill id="51025" level="1"/> <!-- Not used - Expand Primary and Secondary Agathion Slots -->
+		</skills>
+	</item>
+	<item id="90902" name="물고기자리 아가시온" type="Armor">
+		<!-- Available for 15 d. Equipping it in the main slot summons Agathion Pisces and enables its primary skills. -->
+		<set name="icon" val="icon.pis_agathion_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="agathion"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="50"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="21600"/>
+		<skills>
+			<skill id="51028" level="1" type="ON_EQUIP"/> <!-- Summon Agathion Pisces -->
+			<skill id="3267" level="1" type="ON_UNEQUIP"/> <!-- Unsummon Agathion -->
+			<skill id="51030" level="1"/> <!-- Teleport: Gludio -->
+			<skill id="51031" level="1"/> <!-- Teleport: Dion -->
+			<skill id="51032" level="1"/> <!-- Teleport: Giran -->
+			<skill id="51033" level="1"/> <!-- Teleport: Oren -->
+		</skills>
+	</item>
+	<item id="90903" name="게자리 아가시온" type="Armor">
+		<!-- Available for 15 d. Equipping it in the main slot summons Agathion Cancer and enables its primary skills. -->
+		<set name="icon" val="icon.can_agathion_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="agathion"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="50"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="21600"/>
+		<skills>
+			<skill id="51029" level="1" type="ON_EQUIP"/> <!-- Summon Agathion Cancer -->
+			<skill id="3267" level="1" type="ON_UNEQUIP"/> <!-- Unsummon Agathion -->
+			<skill id="51030" level="1"/> <!-- Teleport: Gludio -->
+			<skill id="51031" level="1"/> <!-- Teleport: Dion -->
+			<skill id="51032" level="1"/> <!-- Teleport: Giran -->
+			<skill id="51033" level="1"/> <!-- Teleport: Oren -->
+		</skills>
+	</item>
+	<item id="90904" name="양자리 아가시온 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sheep_agathion_30d_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="86400"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90887" min="1" max="1" chance="100" name="아가시온 팔찌 Lv3"/> <!-- Agathion Bracelet Lv. 3 - 60-day -->
+			<item id="90894" min="1" max="1" chance="100" name="양자리 아가시온"/> <!-- Agathion Aries - 60-day -->
+		</capsuled_items>
+	</item>
+	<item id="90905" name="싱어&amp;댄서 팔찌 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="43200"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90885" min="1" max="1" chance="100" name="아가시온 팔찌 - 싱어&amp;댄서"/> <!-- Agathion Singer and Dancer Bracelet - 30-day -->
+		</capsuled_items>
+	</item>
+	<item id="90906" name="싱어&amp;댄서 팔찌 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="129600"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90886" min="1" max="1" chance="100" name="아가시온 팔찌 - 싱어&amp;댄서"/> <!-- Agathion Singer and Dancer Bracelet - 90-day -->
+		</capsuled_items>
+	</item>
+	<item id="90907" name="정령탄 교환권" type="EtcItem">
+		<!-- Can be exchanged for Soulshots and Blessed Spiritshots through the Game Assistant. -->
+		<set name="icon" val="icon.etc_exchange_ticket_i03"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90908" name="루돌프 아가시온 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="120"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90909" min="1" max="1" chance="100" name="루돌프 아가시온"/> <!-- Agathion Rudolph - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="90909" name="루돌프 아가시온" type="Armor">
+		<!-- Available for 2 h. When equipped in the main agathion slot, summons Agathion Rudolph. Atk. Spd./ Casting Spd. +5%, acquired XP/ SP while hunting +10%. -->
+		<set name="icon" val="BranchSys2.icon.event_lbracelet_rudolph"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="agathion"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="50"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="120"/>
+		<skills>
+			<skill id="51035" level="1" type="ON_EQUIP"/> <!-- Summon Agathion Rudolph -->
+			<skill id="51037" level="1" type="ON_UNEQUIP"/> <!-- Release Agathion -->
+			<skill id="51036" level="1"/> <!-- Rudolph's Blessing -->
+		</skills>
+	</item>
+	<item id="90910" name="크리스마스 빨간 양말" type="EtcItem">
+		<!-- Can be exchanged through the Fishing Guildsmen for XP Growth Scroll (Event), Angel Cat's Energy (30-day), Special Pirate Fruit (Event). -->
+		<set name="icon" val="BranchSys.icon.br_xmas_present_i00"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90911" name="결전의 상자 Lv1" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51038" level="1"/> <!-- Battle Box Lv. 1 -->
+		</skills>
+	</item>
+	<item id="90912" name="결전의 상자 Lv2" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51039" level="1"/> <!-- Battle Box Lv. 2 -->
+		</skills>
+	</item>
+	<item id="90913" name="결전의 상자 Lv3" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51040" level="1"/> <!-- Battle Box Lv. 3 -->
+		</skills>
+	</item>
+	<item id="90914" name="결전의 상자 Lv4" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51041" level="1"/> <!-- Battle Box Lv. 4 -->
+		</skills>
+	</item>
+	<item id="90915" name="용맹의 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="729" min="1" max="1" chance="10" name="무기 강화 주문서"/> <!-- Scroll: Enchant Weapon -->
+			<item id="730" min="1" max="1" chance="10" name="갑옷 강화 주문서"/> <!-- Scroll: Enchant Armor -->
+			<item id="947" min="1" max="1" chance="10" name="무기 강화 주문서 B그레이드"/> <!-- Scroll: Enchant B-grade Weapon -->
+			<item id="948" min="1" max="1" chance="20" name="갑옷 강화 주문서 B그레이드"/> <!-- Scroll: Enchant B-grade Armor -->
+			<item id="2133" min="3" max="3" chance="45" name="젬스톤 - A그레이드"/> <!-- A-grade Gemstone -->
+			<item id="49756" min="1" max="1" chance="5" name="퀼트 조각"/> <!-- Cloth Piece -->
+		</capsuled_items>
+	</item>
+	<item id="90916" name="포장된 떡국" type="EtcItem">
+		<!-- For 5 min., acquired XP/ SP while hunting +10%, P./ M. Atk. +15%, P./ M. Def. +15%, Atk. Spd./ Casting Spd. +10%, Speed +10. The effect disappears on logout. -->
+		<set name="icon" val="BranchSys.icon.br_taiwan_newyear_food_d_i00"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90917" name="10만 경험치 주문서" type="EtcItem">
+		<!-- Recovers 100,000 XP. -->
+		<set name="icon" val="icon.exp_bottle_scroll"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="material" val="PAPER"/>
+		<skills>
+			<skill id="51043" level="1"/> <!-- XP Scroll: 100,000 -->
+		</skills>
+	</item>
+	<item id="90918" name="50만 경험치 주문서" type="EtcItem">
+		<!-- Recovers 500,000 XP. -->
+		<set name="icon" val="icon.exp_bottle_scroll"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="material" val="PAPER"/>
+		<skills>
+			<skill id="51044" level="1"/> <!-- XP Scroll: 500,000 -->
+		</skills>
+	</item>
+	<item id="90919" name="100만 경험치 주문서" type="EtcItem">
+		<!-- Recovers 1,000,000 XP. -->
+		<set name="icon" val="icon.exp_bottle_scroll"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="material" val="PAPER"/>
+		<skills>
+			<skill id="51045" level="1"/> <!-- XP Scroll: 1,000,000 -->
+		</skills>
+	</item>
+	<item id="90920" name="제이드 Lv5" type="Armor">
+		<!-- Available for 7 d. Atk. Spd./ Casting Spd. +14%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_jade_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="10080"/>
+		<skills>
+			<skill id="17707" level="5"/> <!-- Jewel - Jade -->
+		</skills>
+	</item>
+	<item id="90921" name="바이탈스톤 Lv5" type="Armor">
+		<!-- Available for 7 d. When equipped, with Sayha's Grace, acquired XP/ SP while hunting +15%, Sayha's Grace Consumption -30%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_vital"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="10080"/>
+		<set name="weight" val="5"/>
+		<skills>
+			<skill id="17706" level="5"/> <!-- Jewel - Vital Stone -->
+		</skills>
+	</item>
+	<item id="90922" name="빛나는 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i01"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39359" level="1"/> <!-- Shining Jewelry Box -->
+		</skills>
+	</item>
+	<item id="90923" name="빛나는 원석" type="EtcItem">
+		<!-- A certain amount of Shining Ore and a Jewel Lv. 3-5 can be exchanged for a Jewelry Box Lv. 3-5 by the Game Assistant. -->
+		<set name="icon" val="icon.bm_piece_of_ensoul_stone"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90924" name="아쿠아마린 Lv1" type="Armor">
+		<!-- With a certain chance, recovers 12 MP when using skills. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_aquamarine_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="5"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<skills>
+			<skill id="17823" level="1"/> <!-- Jewel - Aquamarine -->
+		</skills>
+	</item>
+	<item id="90925" name="아쿠아마린 Lv2" type="Armor">
+		<!-- With a certain chance, recovers 16 MP when using skills. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_aquamarine_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="5"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<skills>
+			<skill id="17823" level="2"/> <!-- Jewel - Aquamarine -->
+		</skills>
+	</item>
+	<item id="90926" name="아쿠아마린 Lv3" type="Armor">
+		<!-- With a certain chance, recovers 20 MP when using skills. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_aquamarine_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="5"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<skills>
+			<skill id="17823" level="3"/> <!-- Jewel - Aquamarine -->
+		</skills>
+	</item>
+	<item id="90927" name="아쿠아마린 Lv4" type="Armor">
+		<!-- With a certain chance, recovers 30 MP when using skills. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_aquamarine_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="5"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<skills>
+			<skill id="17823" level="4"/> <!-- Jewel - Aquamarine -->
+		</skills>
+	</item>
+	<item id="90928" name="아쿠아마린 Lv5" type="Armor">
+		<!-- With a certain chance, recovers 50 MP when using skills. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_aquamarine_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="5"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<skills>
+			<skill id="17823" level="5"/> <!-- Jewel - Aquamarine -->
+		</skills>
+	</item>
+	<item id="90929" name="캐츠아이 Lv1" type="Armor">
+		<!-- When equipped, P. Critical Damage/ M. Skill Critical Damage +2%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.bm_jewel_red_catseye"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="27440" level="1"/> <!-- Jewel - Cat's Eye -->
+		</skills>
+	</item>
+	<item id="90930" name="캐츠아이 Lv2" type="Armor">
+		<!-- When equipped, P. Critical Damage/ M. Skill Critical Damage +4%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.bm_jewel_red_catseye"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="27440" level="2"/> <!-- Jewel - Cat's Eye -->
+		</skills>
+	</item>
+	<item id="90931" name="캐츠아이 Lv3" type="Armor">
+		<!-- When equipped, P. Critical Damage/ M. Skill Critical Damage +6%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.bm_jewel_red_catseye"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="27440" level="3"/> <!-- Jewel - Cat's Eye -->
+		</skills>
+	</item>
+	<item id="90932" name="캐츠아이 Lv4" type="Armor">
+		<!-- When equipped, P. Critical Damage/ M. Skill Critical Damage +8%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.bm_jewel_red_catseye"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="27440" level="4"/> <!-- Jewel - Cat's Eye -->
+		</skills>
+	</item>
+	<item id="90933" name="캐츠아이 Lv5" type="Armor">
+		<!-- When equipped, P. Critical Damage/ M. Skill Critical Damage +15%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.bm_jewel_red_catseye"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="27440" level="5"/> <!-- Jewel - Cat's Eye -->
+		</skills>
+	</item>
+	<item id="90934" name="브로치 Lv3" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. Jewel slots +4. P. Def. +200. M. Def. +200. <font color=bbaa88><Compounding></font>. Materials: Brooches and packages of the same level. In case of failure, the current level remains the same, but materials disappear. -->
+		<set name="icon" val="icon.etc_bm_brooch_lavianrose_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="10"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="13658" level="1"/> <!-- Brooch Lv. 3 -->
+			<skill id="13661" level="3"/> <!-- Not used - Brooch: Additional Inventory Slots -->
+			<skill id="13652" level="1" type="ON_EQUIP"/> <!-- Not used - Equip Brooch Lv. 3 -->
+			<skill id="13653" level="1" type="ON_UNEQUIP"/> <!-- Not used - Unequip Brooch Lv. 3 -->
+		</skills>
+	</item>
+	<item id="90935" name="Lv4 보석상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_special_jewelbox_lv4"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39360" level="1"/> <!-- Greater Jewel Box -->
+		</skills>
+	</item>
+	<item id="90936" name="아쿠아마린 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_aquamarine_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90924" min="1" max="1" chance="100" name="아쿠아마린 Lv1"/> <!-- Aquamarine Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90937" name="아쿠아마린 Lv3 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_aquamarine_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90926" min="1" max="1" chance="100" name="아쿠아마린 Lv3"/> <!-- Aquamarine Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90938" name="아쿠아마린 Lv4 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_aquamarine_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90927" min="1" max="1" chance="100" name="아쿠아마린 Lv4"/> <!-- Aquamarine Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90939" name="아쿠아마린 Lv5 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_aquamarine_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90928" min="1" max="1" chance="100" name="아쿠아마린 Lv5"/> <!-- Aquamarine Lv. 5 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90940" name="캐츠아이 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_jewelbox_red_catseye_lavianrose"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90929" min="1" max="1" chance="100" name="캐츠아이 Lv1"/> <!-- Cat's Eye Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90941" name="캐츠아이 Lv3 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_jewelbox_red_catseye_lavianrose"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90931" min="1" max="1" chance="100" name="캐츠아이 Lv3"/> <!-- Cat's Eye Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90942" name="캐츠아이 Lv4 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_jewelbox_red_catseye_lavianrose"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90932" min="1" max="1" chance="100" name="캐츠아이 Lv4"/> <!-- Cat's Eye Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90943" name="캐츠아이 Lv5 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_jewelbox_red_catseye_lavianrose"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90933" min="1" max="1" chance="100" name="캐츠아이 Lv5"/> <!-- Cat's Eye Lv. 5 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90944" name="빛나는 브로치 조각" type="EtcItem">
+		<!-- Two fragments along with a Brooch can be exchanged for a higher-level Brooch by the Game Assistant. <Required items>. Brooch Lv. 3: Brooch Lv. 2, Shining Brooch Fragments (2 pcs.). Brooch Lv. 4: Brooch Lv. 3, Shining Brooch Fragments (3 pcs.) -->
+		<set name="icon" val="icon.etc_bm_brooch_lavianrose_piece"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+	</item>
+	<item id="90945" name="경험치 주문서 교환권 - 하급" type="EtcItem">
+		<!-- Can be exchanged for XP Scroll: 10,000,000 by Arena Manager Rio or Balthus Knight Rash. -->
+		<set name="icon" val="icon.etc_exchange_ticket_i00"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90946" name="경험치 주문서 교환권 - 중급" type="EtcItem">
+		<!-- Can be exchanged for XP Scroll: 50,000,000 by Arena Manager Rio or Balthus Knight Rash. -->
+		<set name="icon" val="icon.etc_exchange_ticket_i00"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90947" name="경험치 주문서 교환권 - 상급" type="EtcItem">
+		<!-- Can be exchanged for XP Scroll: 100,000,000 by Arena Manager Rio or Balthus Knight Rash. -->
+		<set name="icon" val="icon.etc_exchange_ticket_i00"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90948" name="행운의 부적" type="EtcItem">
+		<!-- Available for 30 d. When in inventory, Death XP Penalty -20%. Cannot be used by chaotic characters. -->
+		<set name="icon" val="icon.bm_freya_rune"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="43200"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<conditions msgId="1518">
+			<player chaotic="false"/>
+		</conditions>
+		<skills>
+			<skill id="39370" level="1"/> <!-- Lucky Charm -->
+		</skills>
+	</item>
+	<item id="90949" name="화이트 나이츠 변신 주문서" type="EtcItem">
+		<!-- Transforms into White Knight, when used. <Transformation effect>. Max HP +10%. Max MP +10%. PvE damage +5%. Received PvE damage -5%. Shock Resistance +5%. Paralysis Resistance +5%. Silence Resistance +5%. Fear Resistance +5%. Duration: 20 min. The effect remains after death. -->
+		<set name="icon" val="icon.etc_charm_of_courage_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39369" level="1"/> <!-- White Knight Transformation -->
+		</skills>
+	</item>
+	<item id="90950" name="바이움의 반지 Lv3" type="Armor">
+		<!-- <Properties>. P. Skill Power +10%. M. Skill Power +10%. Atk. Spd. +5%. Casting Spd. +4%. P. Accuracy +4. M. Accuracy +4. P. Critical Damage +15%. M. Skill Critical Damage +10%. Max MP +27. Shock Atk. Rate and Resistance +20%. Infection Atk. Rate and Resistance +15%. Available for 30 d. Effects of two identical rings do not stack. Cannot be enchanted. -->
+		<set name="icon" val="icon.accessory_ring_of_baium_i03"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="weight" val="150"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<stats>
+			<stat type="mDef">56</stat>
+		</stats>
+		<skills>
+			<skill id="50443" level="3"/> <!-- Not used - Baium's Ring -->
+		</skills>
+	</item>
+	<item id="90951" name="강태공의 낚시 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_readybox_bronze"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39362" level="1"/> <!-- Master Fisherman's Fishing Pack -->
+		</skills>
+	</item>
+	<item id="90952" name="강태공의 금빛 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_readybox_gold"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39364" level="1"/> <!-- Master Fisherman's Golden Pack -->
+		</skills>
+	</item>
+	<item id="90953" name="강태공의 은빛 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_readybox_silver"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39363" level="1"/> <!-- Master Fisherman's Silver Pack -->
+		</skills>
+	</item>
+	<item id="90954" name="강태공의 축복(2시간)" type="EtcItem">
+		<!-- For 2 h., acquired XP/ SP while fishing +200%. The effect remains after death. -->
+		<set name="icon" val="icon.fishing_zone_ticket"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="weight" val="5"/>
+		<set name="material" val="LIQUID"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39361" level="1"/> <!-- Master Fisherman's Blessing -->
+		</skills>
+	</item>
+	<item id="90955" name="강태공의 축복(4시간)" type="EtcItem">
+		<!-- For 4 h., acquired XP/ SP while fishing +100%. The effect remains after death. -->
+		<set name="icon" val="icon.fishing_zone_ticket"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="weight" val="5"/>
+		<set name="material" val="LIQUID"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39361" level="2"/> <!-- Master Fisherman's Blessing -->
+		</skills>
+	</item>
+	<item id="90956" name="강태공의 축복(8시간)" type="EtcItem">
+		<!-- For 8 h., acquired XP/ SP while fishing +100%. The effect remains after death. -->
+		<set name="icon" val="icon.fishing_zone_ticket"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="weight" val="5"/>
+		<set name="material" val="LIQUID"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39361" level="3"/> <!-- Master Fisherman's Blessing -->
+		</skills>
+	</item>
+	<item id="90957" name="고등어 듀얼 소드(이벤트)" type="Weapon">
+		<!-- Double-click to obtain Blue Mackerel - Dual Swords. It is a great reward! -->
+		<set name="icon" val="icon.wp_fishing11"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="weight" val="2530"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="pAtk">38</stat>
+			<stat type="mAtk">21</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="90958" name="낚시 무기 강화 주문서" type="EtcItem">
+		<!-- A scroll for enchanting Blue Mackerel: Dual Swords, than can be obtained through the Fishing Guild. -->
+		<set name="icon" val="icon.etc_pvppoint_scroll1"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_ANCIENT_CRYSTAL_ENCHANT_WP"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="39365" level="1"/> <!-- Scroll: Enchant Fishing Weapon -->
+		</skills>
+	</item>
+	<item id="90959" name="고급 낚시 무기 강화 주문서" type="EtcItem">
+		<!-- For event Blue Mackerel: Dual Swords. Enchanting is random from +1 to +3. Cannot be used with weapons enchanted to +17 or higher. Blue Mackerel: Dual Swords can be obtained through the Fishing Guildsman. The item will be automatically removed on September 27, 2017. -->
+		<set name="icon" val="icon.etc_pvppoint_scroll10"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_ANCIENT_CRYSTAL_ENCHANT_WP"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="39366" level="1"/> <!-- Improved Scroll: Enchant Fishing Weapon -->
+		</skills>
+	</item>
+	<item id="90960" name="곰돌이 변신 주문서" type="EtcItem">
+		<!-- Changes the appearance to that of a teddy bear. <Transformation effect>. Max HP +20%. Max MP +20%. Acquired XP +20%. Acquired SP +20%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. <font color=ff6666>(When Sayha's Grace is active, acquired XP/ SP are increased.)</font>. <font color=eeaa22>(The effect is cancelled when transforming into Kat the Cat/ cat/ panda, or changing the armor appearance to that of Blue Dynasty.)</font> -->
+		<set name="icon" val="icon.gomdori_chest_change"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39367" level="1"/> <!-- Teddy Bear Transformation -->
+		</skills>
+	</item>
+	<item id="90961" name="+15 A그레이드 무기 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="material" val="FISH"/>
+		<skills>
+			<skill id="39368" level="1"/> <!-- +15 A-grade Weapon Pack -->
+		</skills>
+	</item>
+	<item id="90962" name="크로니클 펜슬" type="Weapon">
+		<!-- A pencil for the 1000th day after Lineage 2 Legacy launch. -->
+		<set name="icon" val="BranchSys2.icon.g_pencil_of_servermaster"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="POLE"/>
+		<set name="damage_range" val="0;0;66;120"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="BRONZE"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="weight" val="100"/>
+		<stats>
+			<stat type="pAtk">1</stat>
+			<stat type="mAtk">1</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">1</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+		<skills>
+			<skill id="3599" level="1"/> <!-- Polearm Multiattack -->
+		</skills>
+	</item>
+	<item id="90963" name="안정된 아가시온 강화 주문서" type="EtcItem">
+		<!-- Only for Zodiac agathions. Increases M. Def. Enchanting is safe up to +3. Max enchant value: +10. Starting from +1, the agathion's secondary skills are enhanced with each enchant value. In case of failure, the item is not destroyed, and its enchant value remains the same. <font color=ff6666>Cannot be used for mass enchanting.</font> -->
+		<set name="icon" val="icon.star_scrl_of_ench_ag"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_ANCIENT_CRYSTAL_ENCHANT_AM"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="51049" level="1"/> <!-- Stable Scroll: Enchant Agathion -->
+		</skills>
+	</item>
+	<item id="90964" name="봉인된 결계의 인형상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_oriental_park_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51051" level="1"/> <!-- Sealed Doll of Border Box -->
+		</skills>
+	</item>
+	<item id="90965" name="레드의 행운의 부적" type="EtcItem">
+		<!-- Available for 7 d. When in inventory, Death XP Penalty -50%. Cannot be used by chaotic characters. -->
+		<set name="icon" val="icon.etc_cross_of_einhasad_i00"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="10080"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<conditions msgId="1518">
+			<player chaotic="false"/>
+		</conditions>
+		<skills>
+			<skill id="51050" level="1"/> <!-- Raid Lucky Charm -->
+		</skills>
+	</item>
+	<item id="90966" name="레드의 행운의 부적 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_six_party_box_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51052" level="1"/> <!-- Raid Lucky Charm Box -->
+		</skills>
+	</item>
+	<item id="90967" name="미공급 - Test_카운트 아이템" type="EtcItem">
+		<!-- The item is not available. Number of items to use. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+	</item>
+	<item id="90968" name="GM레피의 선물상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_six_party_box_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51053" level="1"/> <!-- GM Repi Gift Box -->
+		</skills>
+	</item>
+	<item id="90969" name="축복받은 화룡의 펜던트" type="Armor">
+		<!-- M. Def. +24, acquired XP/ SP +30%, P./ M. Atk. +80, P. Critical Damage/ M. Skill Critical Damage +10%, Damage Reflection Resistance +10%. Enables the Fire Dragon's Blessing and Fire Dragon's Protection skills. -->
+		<set name="icon" val="icon.bm_pendant_pve"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="bodypart" val="underwear"/>
+		<stats>
+			<stat type="pDef">55</stat>
+		</stats>
+		<skills>
+			<skill id="35000" level="1"/> <!-- Fire Dragon's Blessing -->
+			<skill id="35001" level="1"/> <!-- Fire Dragon's Protection -->
+			<skill id="35007" level="11"/> <!-- Blessed Fire Dragon Pendant -->
+		</skills>
+	</item>
+	<item id="90970" name="축복받은 지룡의 펜던트" type="Armor">
+		<!-- M. Def. +24, Max HP/ CP +600, Max MP +300, Speed +7, received damage -20%, Damage Reflection Resistance +10%. Enables the Earth Dragon's Breath and Earth Dragon's Defense skills. -->
+		<set name="icon" val="icon.bm_pendant_pvp"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="bodypart" val="underwear"/>
+		<stats>
+			<stat type="pDef">55</stat>
+		</stats>
+		<skills>
+			<skill id="35002" level="1"/> <!-- Earth Dragon's Breath -->
+			<skill id="35003" level="1"/> <!-- Earth Dragon's Defense -->
+			<skill id="35005" level="11"/> <!-- Blessed Earth Dragon Pendant -->
+		</skills>
+	</item>
+	<item id="90971" name="고급 펜던트 연마제 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_special_pendant_abradant_box"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51054" level="1"/> <!-- High-grade Shining Pendant Polish Box -->
+		</skills>
+	</item>
+	<item id="90972" name="+8 A그레이드 무기 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="material" val="FISH"/>
+		<skills>
+			<skill id="51057" level="1"/> <!-- +8 A-grade Weapon Pack -->
+		</skills>
+	</item>
+	<item id="90973" name="자켄의 망토" type="Armor">
+		<!-- A cloak that makes you feel Zaken's sorrow. Max HP +5%. -->
+		<set name="icon" val="BranchSys2.Icon.br_zaken_cloak_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="weight" val="220"/>
+		<set name="bodypart" val="back"/>
+		<skills>
+			<skill id="45020" level="1"/> <!-- Not used - Zaken's Cloak -->
+		</skills>
+	</item>
+	<item id="90974" name="봉인된 결계의 인형 - 바이움" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_baium_doll_30d"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="10080"/>
+		<set name="is_sellable" val="false"/>
+		<set name="material" val="FISH"/>
+		<capsuled_items>
+			<item id="90977" min="1" max="1" chance="100" name="결계의 인형 - 바이움"/> <!-- Doll of Border - Baium - 7-day -->
+		</capsuled_items>
+	</item>
+	<item id="90975" name="봉인된 결계의 인형 - 여왕개미" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_queen_ant_doll_30d"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="10080"/>
+		<set name="is_sellable" val="false"/>
+		<set name="material" val="FISH"/>
+		<capsuled_items>
+			<item id="90978" min="1" max="1" chance="100" name="결계의 인형 - 여왕개미"/> <!-- Doll of Border - Queen Ant - 7-day -->
+		</capsuled_items>
+	</item>
+	<item id="90976" name="봉인된 결계의 인형 - 오르펜" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_orfen_doll_30d"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="10080"/>
+		<set name="is_sellable" val="false"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90979" min="1" max="1" chance="100" name="결계의 인형 - 오르펜"/> <!-- Doll of Border - Orfen - 7-day -->
+		</capsuled_items>
+	</item>
+	<item id="90977" name="결계의 인형 - 바이움" type="EtcItem">
+		<!-- <Baium Doll's Sorcery Lv. 2>. Skill cooldown -3%. P. Def. +12%. M. Def. +12%. Silence Resistance +40%. Fear Resistance +40%. Paralysis Resistance +20%. Shock Resistance +20%. Pull Resistance +20%. Available for 7 d. Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_baium_doll_30d"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="10080"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39302" level="2"/> <!-- Baium Doll - Enhanced -->
+		</skills>
+	</item>
+	<item id="90978" name="결계의 인형 - 여왕개미" type="EtcItem">
+		<!-- <Queen Ant Doll's Sorcery>. P. Atk. +8%. P. Critical Damage +8%. P. Skill Critical Damage +8%. Max HP +12%. Available 7 d. Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_queen_ant_doll_30d"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="10080"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39303" level="2"/> <!-- Queen Ant Doll - Enhanced -->
+		</skills>
+	</item>
+	<item id="90979" name="결계의 인형 - 오르펜" type="EtcItem">
+		<!-- <Orfen Doll's Sorcery>. M. Atk. +8%. M. Skill Critical Damage +8%. Max MP +12%. Available for 7 d. Boosts stats when in inventory. -->
+		<set name="icon" val="icon.bm_orfen_doll_30d"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="10080"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39304" level="2"/> <!-- Orfen Doll - Enhanced -->
+		</skills>
+	</item>
+	<item id="90980" name="펄 Lv4" type="Armor">
+		<!-- Available for 30 d. When equipped, M. Def. +46, received M. Skill Critical Damage -4%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_pearl_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="weight" val="5"/>
+		<skills>
+			<skill id="17709" level="4"/> <!-- Jewel - Pearl -->
+		</skills>
+	</item>
+	<item id="90981" name="다이아몬드 Lv4" type="Armor">
+		<!-- Available for 30 d. When equipped, P. Def. +81, received P. Critical Damage -4%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<skills>
+			<skill id="17708" level="4"/> <!-- Jewel - Diamond -->
+		</skills>
+	</item>
+	<item id="90982" name="제이드 Lv4" type="Armor">
+		<!-- Available for 30 d. Atk. Spd./ Casting Spd. +7%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_jade_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<skills>
+			<skill id="17707" level="4"/> <!-- Jewel - Jade -->
+		</skills>
+	</item>
+	<item id="90983" name="가넷 Lv4" type="Armor">
+		<!-- Available for 30 d. When equipped, Stun/ Pull/ Silence/ Paralysis/ Fear Resistance +11%. For 5 sec., grants immunity to debuffs when using skills. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_garnet"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<skills>
+			<skill id="18567" level="1"/> <!-- Garnet - Special Property -->
+			<skill id="18566" level="4"/> <!-- Jewel - Garnet -->
+		</skills>
+	</item>
+	<item id="90984" name="바이탈스톤 Lv4" type="Armor">
+		<!-- Available for 30 d. When equipped, with Sayha's Grace, acquired XP/ SP while hunting +8%, Sayha's Grace Consumption -10%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_vital"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<skills>
+			<skill id="17706" level="4"/> <!-- Jewel - Vital Stone -->
+		</skills>
+	</item>
+	<item id="90985" name="지룡의 벨트" type="Armor">
+		<!-- Available for 30 d. When equipped, inventory slots +6, weight limit +7000, CON +1, MEN +1, HP Recovery Rate +2.31, MP Recovery Rate +1.54, CP Recovery Rate +3.07, Max HP/ MP/ CP +15%, HP Recovery Potions' Effect +100, received damage -6%. -->
+		<set name="icon" val="icon.bm_antaras_belt"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="bodypart" val="waist"/>
+		<stats>
+			<stat type="pDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="35046" level="1"/> <!-- Earth Dragon Belt -->
+		</skills>
+	</item>
+	<item id="90986" name="테이큰 성장 큐브" type="EtcItem">
+		<!-- Available for 30 days. Double-click to obtain 900 Silver Baits and Savior's Growth Scroll (can be used only once a day). Required level: 20. -->
+		<set name="icon" val="icon.etc_11th_event_group"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="43200"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90148" min="1" max="1" chance="100" name="구원자의 성장 주문서"/> <!-- Savior's Growth Scroll - Sealed -->
+			<item id="90139" min="900" max="900" chance="100" name="은빛 미끼"/> <!-- Silver Bait - Sealed -->
+		</capsuled_items>
+		<skills>
+			<skill id="51058" level="1"/> <!-- Lucky Cube of Growth (30-day) -->
+		</skills>
+	</item>
+	<item id="90987" name="구원자의 귀걸이" type="Armor">
+		<!-- Acquired XP/ SP +2%, Max MP +20. Effects of two identical earrings do not stack. -->
+		<set name="icon" val="icon.r2_earring_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rear;lear"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="mDef">60</stat>
+		</stats>
+	</item>
+	<item id="90988" name="빛나는 구원자의 귀걸이" type="Armor">
+		<!-- Acquired XP/ SP +2%, Max MP +30, Max HP +50, Fear/ Stun/ Silence Resistance +4%. Grants Vampiric Rage effect. Effects of two identical earrings do not stack. -->
+		<set name="icon" val="icon.r2_earring_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="rear;lear"/>
+		<stats>
+			<stat type="mDef">78</stat>
+		</stats>
+		<skills>
+			<skill id="54019" level="2"/> <!-- Savior's Shining Earring -->
+		</skills>
+	</item>
+	<item id="90989" name="구원자의 귀걸이 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_battle_box"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51060" level="1"/> <!-- Savior's Earring Box -->
+		</skills>
+	</item>
+	<item id="90990" name="구원자의 귀걸이 강화 주문서" type="EtcItem">
+		<!-- Required for enchanting Savior's Earring. Increases M. Def. Enchanting is safe up to +3. Max enchant value: +7. In case of failure, the enchant value remains the same. <font color=ff6666>Cannot be used for mass enchanting.</font> -->
+		<set name="icon" val="icon.etc_penalty_recovery_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_ANCIENT_CRYSTAL_ENCHANT_AM"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="51059" level="1"/> <!-- Scroll: Enchant Savior's Earring -->
+		</skills>
+	</item>
+	<item id="90991" name="테이큰 모자" type="Armor">
+		<!-- Available for 30 d. A leather hat. Enables the Burglar's Blessing and Burglar's Luck skills. <font color=eeaa22>Equipped in the left head accessory slot.</font> -->
+		<set name="icon" val="icon.Accessary_middle_ages_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="10"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="bodypart" val="hairall"/>
+		<skills>
+			<skill id="39334" level="1"/> <!-- Lucky Fortune -->
+			<skill id="51061" level="1"/> <!-- Burglar's Luck -->
+		</skills>
+	</item>
+	<item id="90992" name="안타라스의 귀걸이" type="Armor">
+		<!-- An earring imbued with Antharas' power. Can be enchanted with Scroll: Enchant Rare Accessories. Max enchant value: +6. <font color=ff6666>Note!</font>. Effects of two or more items with the same name do not stack -->
+		<set name="icon" val="icon.accessory_earring_of_antaras_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rear;lear"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_limit" val="6"/>
+		<stats>
+			<stat type="mDef">117</stat>
+		</stats>
+		<skills>
+			<skill id="50449" level="1"/> <!-- Antharas' Earring -->
+			<skill id="50449" level="2" type="ON_ENCHANT" type_value="1"/> <!-- +1 Antharas' Earring -->
+			<skill id="50449" level="3" type="ON_ENCHANT" type_value="2"/> <!-- +2 Antharas' Earring -->
+			<skill id="50449" level="4" type="ON_ENCHANT" type_value="3"/> <!-- +3 Antharas' Earring -->
+			<skill id="50449" level="5" type="ON_ENCHANT" type_value="4"/> <!-- +4 Antharas' Earring -->
+			<skill id="50449" level="6" type="ON_ENCHANT" type_value="5"/> <!-- +5 Antharas' Earring -->
+			<skill id="50449" level="7" type="ON_ENCHANT" type_value="6"/> <!-- +6 Antharas' Earring -->
+		</skills>
+	</item>
+	<item id="90993" name="손상된 안타라스의 귀걸이" type="Armor">
+		<!-- Can be enchanted up to +10 with Balthus Knights' Varnish, Balthus Knights' Shining Varnish, or Balthus Knights' Glittering Varnish. Starting from +4, adds various effects. After enchanting to +10, can be exchanged for Antharas' Earring Lv. 1. -->
+		<set name="icon" val="icon.accessory_earring_of_antaras_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="rear;lear"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_limit" val="10"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="mDef">50</stat>
+		</stats>
+	</item>
+	<item id="90994" name="손상된 바이움의 반지" type="Armor">
+		<!-- Can be enchanted up to +10 with Balthus Knights' Varnish, Balthus Knights' Shining Varnish, or Balthus Knights' Glittering Varnish. Starting from +4, adds various effects. After enchanting to +10, can be exchanged for Baium's Ring Lv. 1. -->
+		<set name="icon" val="icon.accessory_ring_of_baium_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_limit" val="10"/>
+		<stats>
+			<stat type="mDef">16</stat>
+		</stats>
+	</item>
+	<item id="90995" name="발터스 기사단의 연마제" type="EtcItem">
+		<!-- Enhances characteristics of damaged rare accessories. The maximum level of enchantment is +10, from +3 level chance of enchantig is 100%. Depending on the item type, activates special options from level +4 and higher. -->
+		<set name="icon" val="icon.etc_lucky_pocket_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_AM"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="51062" level="1"/> <!-- Balthus Knights' Varnish -->
+		</skills>
+	</item>
+	<item id="90996" name="미공급 - 희미하게 빛나는 발터스 기사단의 연마제" type="EtcItem">
+		<!-- The item is not available. Enhances damaged rare accessories. Can be used with event items enchanted to +6. In case of failure, the item does not disappear and its enchant value remains the same. Starting from +4, activates special properties based on the item type. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_ANCIENT_CRYSTAL_ENCHANT_AM"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="51063" level="1"/> <!-- Balthus Knights' Matte Varnish -->
+		</skills>
+	</item>
+	<item id="90997" name="빛나는 발터스 기사단의 연마제" type="EtcItem">
+		<!-- For damaged rare accessories. Can be used with items enchanted up to +8. In case of failure, the item does not disappear and its enchant value remains the same. Starting from +4, activates special properties based on the item type. -->
+		<set name="icon" val="icon.etc_lucky_pocket_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_ANCIENT_CRYSTAL_ENCHANT_AM"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="51064" level="1"/> <!-- Balthus Knights' Shining Varnish -->
+		</skills>
+	</item>
+	<item id="90998" name="찬란한 발터스 기사단의 연마제" type="EtcItem">
+		<!-- For damaged rare accessories. Can be used with items enchanted up to +9. In case of failure, the item does not disappear and its enchant value remains the same. Starting from +4, activates special properties based on the item type. -->
+		<set name="icon" val="icon.etc_lucky_pocket_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_ANCIENT_CRYSTAL_ENCHANT_AM"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="51065" level="1"/> <!-- Balthus Knights' Glittering Varnish -->
+		</skills>
+	</item>
+	<item id="90999" name="래쉬의 보급품 - 안타라스" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_special_pendant_abradant_box"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90993" min="1" max="1" chance="100" name="손상된 안타라스의 귀걸이"/> <!-- Damaged Antharas' Earring -->
+			<item id="90995" min="1" max="1" chance="100" name="발터스 기사단의 연마제"/> <!-- Balthus Knights' Varnish -->
+			<item id="90997" min="1" max="1" chance="100" name="빛나는 발터스 기사단의 연마제"/> <!-- Balthus Knights' Shining Varnish -->
+			<item id="90998" min="1" max="1" chance="100" name="찬란한 발터스 기사단의 연마제"/> <!-- Balthus Knights' Glittering Varnish -->
+		</capsuled_items>
+	</item>
+</list>

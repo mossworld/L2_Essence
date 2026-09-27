@@ -1,0 +1,695 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="1048000" toLevel="15" name="테스트 - 방마저 상승1">
+		<!-- Level 1: P. Def. +1000. M. Def. +1000 -->
+		<!-- Level 2: P. Def. +2000. M. Def. +2000 -->
+		<!-- Level 3: P. Def. +3000. M. Def. +3000 -->
+		<!-- Level 4: P. Def. +4000. M. Def. +4000 -->
+		<!-- Level 5: P. Def. +5000. M. Def. +5000 -->
+		<!-- Level 6: P. Def. +6000. M. Def. +6000 -->
+		<!-- Level 7: P. Def. +7000. M. Def. +7000 -->
+		<!-- Level 8: P. Def. +8000. M. Def. +8000 -->
+		<!-- Level 9: P. Def. +9000. M. Def. +9000 -->
+		<!-- Level 10: P. Def. +10,000. M. Def. +10,000 -->
+		<!-- Level 11: P. Def. +11,000. M. Def. +11,000 -->
+		<!-- Level 12: P. Def. +12,000. M. Def. +12,000 -->
+		<!-- Level 13: P. Def. +13,000. M. Def. +13,000 -->
+		<!-- Level 14: P. Def. +14,000. M. Def. +14,000 -->
+		<!-- Level 15: P. Def. +15,000. M. Def. +15,000 -->
+		<operateType>A1</operateType>
+		<reuseDelay>5000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="1048001" toLevel="1" name="크로스 슬래시">
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<hitTime>2500</hitTime>
+		<reuseDelay>5000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048002" toLevel="1" name="트랜스픽션 어택">
+		<icon>icon.skill0484</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<hitTime>2000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048003" toLevel="1" name="스트레이트 슬래시">
+		<icon>icon.skill0122</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<hitTime>3000</hitTime>
+		<reuseDelay>11000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048004" toLevel="1" name="프론트 엘보우">
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<hitTime>2000</hitTime>
+		<reuseDelay>5000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048005" toLevel="1" name="배틀프론트 슬래시">
+		<icon>icon.skill0320</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<hitTime>3000</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048006" toLevel="1" name="실드 스턴">
+		<icon>icon.skill0092</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<hitTime>2000</hitTime>
+		<coolTime>300</coolTime>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048007" toLevel="1" name="파워 블로우">
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<castRange>250</castRange>
+		<hitTime>2000</hitTime>
+		<reuseDelay>5000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048008" toLevel="1" name="일렉트릭 쇼크">
+		<icon>icon.skill1172</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<hitTime>2000</hitTime>
+		<reuseDelay>5000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048009" toLevel="1" name="일렉트릭 레인지">
+		<icon>icon.skill0279</icon>
+		<operateType>A1</operateType>
+		<castRange>1000</castRange>
+		<hitTime>3000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048010" toLevel="1" name="일렉트릭 스태프">
+		<icon>icon.skill1265</icon>
+		<operateType>A1</operateType>
+		<castRange>1000</castRange>
+		<hitTime>3000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048011" toLevel="1" name="아이론 딜">
+		<icon>icon.skill0320</icon>
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<hitTime>3000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048012" toLevel="1" name="파워 스플래시 딜">
+		<icon>icon.skill0320</icon>
+		<operateType>A1</operateType>
+		<hitTime>2000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048013" toLevel="1" name="허리 베기">
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<hitTime>3000</hitTime>
+		<reuseDelay>5000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048014" toLevel="1" name="급소 일격">
+		<icon>icon.skill0016</icon>
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<hitTime>3000</hitTime>
+		<reuseDelay>5000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048015" toLevel="1" name="붉은 그물">
+		<icon>icon.skill14032</icon>
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<hitTime>4000</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>5000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048016" toLevel="1" name="약점 타격">
+		<icon>icon.skill0484</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<hitTime>1500</hitTime>
+		<reuseDelay>3000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048017" toLevel="1" name="앞발 타격">
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<hitTime>1500</hitTime>
+		<reuseDelay>3000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048018" toLevel="1" name="파워 스트라이크">
+		<icon>icon.skill0320</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<hitTime>1500</hitTime>
+		<reuseDelay>3000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048019" toLevel="1" name="저주의 충격">
+		<icon>icon.skill0100</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<hitTime>1500</hitTime>
+		<reuseDelay>15000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048020" toLevel="1" name="옥타비스의 화살비">
+		<icon>icon.skill0507</icon>
+		<operateType>A1</operateType>
+		<castRange>1000</castRange>
+		<hitTime>5000</hitTime>
+	</skill>
+	<skill id="1048021" toLevel="1" name="옥타비스의 화살비">
+		<operateType>A1</operateType>
+		<hitTime>3000</hitTime>
+		<coolTime>1000</coolTime>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048022" toLevel="1" name="영웅의 검기">
+		<icon>icon.skill0122</icon>
+		<operateType>A1</operateType>
+		<hitTime>3000</hitTime>
+		<coolTime>1000</coolTime>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048023" toLevel="1" name="영웅의 분노">
+		<icon>icon.skill0122</icon>
+		<operateType>A1</operateType>
+		<hitTime>5000</hitTime>
+		<coolTime>1000</coolTime>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048024" toLevel="1" name="메두사의 영혼">
+		<icon>icon.skill0320</icon>
+		<operateType>A1</operateType>
+		<hitTime>4000</hitTime>
+		<coolTime>1000</coolTime>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048025" toLevel="1" name="영웅의 암흑마법">
+		<icon>icon.skill1230</icon>
+		<operateType>A1</operateType>
+		<castRange>1000</castRange>
+		<hitTime>2000</hitTime>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048026" toLevel="1" name="영웅의 광휘마법">
+		<icon>icon.skill1230</icon>
+		<operateType>A1</operateType>
+		<castRange>1000</castRange>
+		<hitTime>2000</hitTime>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048027" toLevel="1" name="옥타비스의 암흑강권">
+		<icon>icon.skill14279</icon>
+		<operateType>A1</operateType>
+		<hitTime>20000</hitTime>
+		<coolTime>1000</coolTime>
+	</skill>
+	<skill id="1048028" toLevel="1" name="옥타비스의 암흑">
+		<icon>icon.skill14279</icon>
+		<operateType>A1</operateType>
+		<hitTime>3000</hitTime>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048029" toLevel="1" name="옥타비스의 광휘강권">
+		<icon>icon.skill14279</icon>
+		<operateType>A1</operateType>
+		<hitTime>20000</hitTime>
+		<coolTime>1000</coolTime>
+	</skill>
+	<skill id="1048030" toLevel="1" name="옥타비스의 광휘">
+		<icon>icon.skill14279</icon>
+		<operateType>A1</operateType>
+		<hitTime>3000</hitTime>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048031" toLevel="1" name="옥타비스의 암흑">
+		<!-- Octavis strikes with the dark magic. When hit, Octavis' light attacks apply Petrification. -->
+		<icon>icon.s_darkness_ray</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048032" toLevel="1" name="옥타비스의 광휘">
+		<!-- Octavis strikes with the light magic. When hit, Octavis' dark attacks apply Petrification. -->
+		<icon>icon.s_shining_ray</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048033" toLevel="1" name="옥타비스의 석화">
+		<!-- Decreases Max HP and immobilizes. The effect cannot be avoided. -->
+		<icon>icon.s_perion_chain</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048034" toLevel="3" name="스트라이크">
+		<operateType>A1</operateType>
+		<castRange>40</castRange>
+		<hitTime>1000</hitTime>
+		<coolTime>800</coolTime>
+		<reuseDelay>6000</reuseDelay>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048035" toLevel="3" name="파워샷">
+		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<hitTime>1500</hitTime>
+		<effectPoint>-900</effectPoint>
+	</skill>
+	<skill id="1048036" toLevel="3" name="트위스터">
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<hitTime>3000</hitTime>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048037" toLevel="1" name="옥타비스 석화 보호 로직">
+		<!-- Octavis' Petrification applied → Octavis' Petrification not removed → Summon Petrification Protection -->
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048038" toLevel="1" name="실드 스턴">
+		<!-- You are stunned and immobilized. -->
+		<icon>icon.skill0092</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048039" toLevel="1" name="일렉트릭 쇼크">
+		<!-- You are stunned and immobilized. -->
+		<icon>icon.skill1095</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048040" toLevel="1" name="일렉트릭 스태프">
+		<!-- Causes Bleed that constantly drains HP. -->
+		<icon>icon.skill0048</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048041" toLevel="1" name="허리 베기">
+		<!-- Causes Bleed that constantly drains HP. -->
+		<icon>icon.skill0096</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048042" toLevel="1" name="급소 일격">
+		<!-- Slows you down when hit by Octavis' skills. -->
+		<icon>icon.skill10265</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048043" toLevel="1" name="붉은 그물">
+		<!-- You are stunned and immobilized. -->
+		<icon>icon.skill33917</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048044" toLevel="1" name="약점 타격">
+		<!-- You are stunned and immobilized. -->
+		<icon>icon.skill10509</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048045" toLevel="1" name="앞발 타격">
+		<!-- Slows you down when hit by Octavis' skills. -->
+		<icon>icon.skill4111</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048046" toLevel="3" name="석화 체크 로직">
+		<!-- Roles: Petrification applier; Petrification remover. Petrification applier: When Petrification Protection is active, Petrification is not applied. If the target does not have Petrification Protection applied and the Petrification debuff is not applied, the Petrification works according to its scheme. Petrification remover: If Petrification Protection is not applied, nothing happens. If the buff is applied, it is removed. -->
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048047" toLevel="1" name="석화 거는 친구">
+		<!-- Triggered only when a defensive buff is not applied: Applies Petrification if the requirements are met. The Petrification effect is only used when Petrification is not applied. -->
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048048" toLevel="1" name="마피아의 하수인">
+		<!-- Suspected of the collaboration with mafia. Can be attacked by other players. Atk. Spd. -30%. Casting Spd. -30%. Speed -30% -->
+		<icon>icon.bm2018_ninja_i01</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<reuseDelay>10000</reuseDelay>
+		<effectPoint>-500</effectPoint>
+	</skill>
+	<skill id="1048049" toLevel="1" name="석화 보호 있으면 풀어주는 친구">
+		<!-- Triggered only when a defensive buff is applied: A boss tries to apply Petrification - the buff is removed. -->
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048050" toLevel="1" name="파워 스트라이크">
+		<!-- Knocks back. -->
+		<icon>icon.skill1102</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048051" toLevel="1" name="저주의 충격">
+		<!-- You are stunned and immobilized. -->
+		<icon>icon.skill1336</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048052" toLevel="1" name="영웅의 분노">
+		<!-- You are stunned and immobilized. -->
+		<icon>icon.skill1434</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048053" toLevel="1" name="옥타비스 석화 보호">
+		<!-- Protects from 1 Octavis' Petrification. Removed after reflecting 1 Octavis' Petrification. -->
+		<icon>icon.skill11876</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048054" toLevel="1" name="옥타비스 석화 해제 로직">
+		<!-- Cancels Octavis' Petrification. -->
+		<icon>icon.skill11876</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048055" toLevel="1" name="미사용 - 화로 제어 스킬1">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048056" toLevel="1" name="미사용 - 화로 제어 스킬2">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048057" toLevel="1" name="미사용 - 화로 제어 스킬3">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048058" toLevel="1" name="미사용 - 화로 제어 스킬4">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048059" toLevel="1" name="피톤포이즌">
+		<icon>icon.skill4035</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>600</castRange>
+		<coolTime>500</coolTime>
+		<reuseDelay>2000</reuseDelay>
+		<effectPoint>-150</effectPoint>
+	</skill>
+	<skill id="1048060" toLevel="1" name="꽃봉오리 1단계">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048061" toLevel="1" name="꽃봉오리 2단계">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048062" toLevel="1" name="꽃봉오리 3단계">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048063" toLevel="1" name="꽃봉오리 4단계">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048064" toLevel="1" name="연출">
+		<operateType>A1</operateType>
+		<hitTime>4000</hitTime>
+	</skill>
+	<skill id="1048065" toLevel="1" name="연출">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+	</skill>
+	<skill id="1048066" toLevel="1" name="달콤한 꽃잎의 향기">
+		<!-- Sweet flower scent in the air reminds of bees collecting nectar. P. Atk. +200. M. Atk. +200. P. Def. +200. M. Def. +200. Atk. Spd. +15. Casting Spd. +15. Speed +2. Acquired XP/ SP +20% -->
+		<icon>icon.ev_garden_buff2</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="1048067" toLevel="1" name="꽃봉오리 5단계">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048068" toLevel="1" name="몬스터배틀 무적">
+		<!-- Makes you invincible. -->
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048069" toLevel="1" name="몬스터배틀 셀프 힐">
+		<!-- Self Heal -->
+		<operateType>A1</operateType>
+		<hitTime>3000</hitTime>
+		<effectPoint>546</effectPoint>
+	</skill>
+	<skill id="1048070" toLevel="1" name="몬스터배틀 스턴">
+		<!-- Stun -->
+		<icon>icon.skill0100</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>100</castRange>
+		<hitTime>3000</hitTime>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048071" toLevel="1" name="몬스터배틀 스턴">
+		<!-- Stun -->
+		<icon>icon.skill0100</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048072" toLevel="1" name="몬스터배틀 석화">
+		<!-- Petrification -->
+		<icon>icon.skill4111</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>100</castRange>
+		<hitTime>3000</hitTime>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048073" toLevel="1" name="몬스터배틀 석화">
+		<!-- Petrification -->
+		<icon>icon.skill4111</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048074" toLevel="1" name="몬스터배틀  공포">
+		<!-- Fear -->
+		<icon>icon.skill4108</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>100</castRange>
+		<hitTime>3000</hitTime>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048075" toLevel="1" name="몬스터배틀 넉다운">
+		<!-- Knock Down -->
+		<icon>icon.skill1896</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>100</castRange>
+		<hitTime>3000</hitTime>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048076" toLevel="1" name="몬스터배틀 넉다운">
+		<!-- Knock Down -->
+		<icon>icon.skill1896</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048077" toLevel="1" name="린드비오르 전체속박">
+		<!-- Aerial Yoke -->
+		<icon>icon.skill1042</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>100</castRange>
+		<hitTime>3000</hitTime>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048078" toLevel="5" name="파워 스트라이크1">
+		<!-- Attack. -->
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<castRange>40</castRange>
+		<hitTime>1000</hitTime>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048079" toLevel="1" name="테온 팀">
+		<!-- You have joined forces with Teon to defeat evil. -->
+		<icon>icon.skill_i.relics_c_skill</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="1048080" toLevel="1" name="카엘 팀">
+		<!-- You have joined forces with Kael to defeat evil. -->
+		<icon>icon.skill_i.relics_b_skill</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="1048081" toLevel="1" name="토템">
+		<!-- Buff -->
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="1048082" toLevel="1" name="에빌 레인지 어택">
+		<!-- Powerful attack on target and nearby enemies. -->
+		<operateType>A1</operateType>
+		<castRange>500</castRange>
+		<hitTime>1000</hitTime>
+		<effectPoint>-500</effectPoint>
+	</skill>
+	<skill id="1048083" toLevel="1" name="에빌 레인지 피어">
+		<!-- Frightens the target making it move against own will. -->
+		<icon>icon.skill1092</icon>
+		<operateType>A1</operateType>
+		<hitTime>5000</hitTime>
+		<reuseDelay>30000</reuseDelay>
+		<effectPoint>-1000</effectPoint>
+	</skill>
+	<skill id="1048084" toLevel="1" name="벨페르의 저주">
+		<!-- For 30 sec., decreases P./ M. Atk. -->
+		<icon>icon.skill_i.skill11769</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>400</castRange>
+		<hitTime>1000</hitTime>
+		<reuseDelay>5000</reuseDelay>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048085" toLevel="1" name="에빌 레인지 어택">
+		<!-- Powerful attack on target and nearby enemies. -->
+		<operateType>A1</operateType>
+		<castRange>500</castRange>
+		<hitTime>1000</hitTime>
+		<effectPoint>-500</effectPoint>
+	</skill>
+	<skill id="1048086" toLevel="2" name="꽃바구니">
+		<!-- Level 1: The sight of beautiful flowers in a basket fills your hearth with warmth. CON +1. MEN +1. Max HP +100. Max MP +100. Acquired XP/ SP +5% -->
+		<!-- Level 2: The sight of beautiful flowers in a basket fills your hearth with warmth. DEX +1. WIT +1. CON +1. MEN +1. P. Atk. +200. M. Atk. +200. P. Def. +200. M. Def. +200. Max HP +200. Max MP +200. All Critical Rate +2%. PvE damage +1%. Acquired XP/ SP +20% -->
+		<icon>icon.ev_basic_flowerbox</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="1048087" toLevel="2" name="카네이션">
+		<!-- Level 1: A symbol of respect and sincere gratitude. CON +1. MEN +1. P. Def. +100. M. Def. +100. Max HP +200. Max MP +200. Acquired XP/ SP +10% -->
+		<!-- Level 2: A symbol of respect and sincere gratitude. STR +1. INT +1. DEX +1. WIT +1. CON +1. MEN +1. P. Atk. +200. M. Atk. +200. P. Def. +300. M. Def. +300. Max HP +200. Max MP +200. All Critical Rate +2%. PvE damage +1%. Acquired XP/ SP +30% -->
+		<icon>icon.ev_red_flowerbox</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="1048088" toLevel="2" name="블루 로즈">
+		<!-- Level 1: A symbol of there being no such thing as impossible. CON +1. MEN +1. P. Atk. +100. M. Atk. +100. Max HP +100. Max MP +100. Acquired XP/ SP +10% -->
+		<!-- Level 2: A symbol of there being no such thing as impossible. STR +1. INT +1. DEX +1. WIT +1. CON +1. MEN +1. P. Atk. +300. M. Atk. +300. P. Def. +200. M. Def. +200. Max HP +200. Max MP +200. All Critical Rate +2%. PvE damage +1%. Acquired XP/ SP +30% -->
+		<icon>icon.ev_blue_flowerbox</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="1048089" toLevel="2" name="해바라기">
+		<!-- Level 1: Fills you with tranquility. P. Atk. +200. M. Atk. +200. P. Def. +200. M. Def. +200. All Critical Rate +2%. Acquired XP/ SP +10% -->
+		<!-- Level 2: Fills you with tranquility. STR +1. INT +1. DEX +1. WIT +1. CON +1. MEN +1. P. Atk. +200. M. Atk. +200. P. Def. +200. M. Def. +200. Max HP +200. Max MP +200. All Critical Rate +3%. PvE damage +1%. Acquired XP/ SP +30% -->
+		<icon>icon.ev_yellow_flowerbox</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="1048090" toLevel="2" name="은방울꽃">
+		<!-- Level 1: Makes you just a bit happier. P. Atk. +200. M. Atk. +200. P. Def. +200. M. Def. +200. PvE damage +1%. Acquired XP/ SP +10% -->
+		<!-- Level 2: Makes you just a bit happier. STR +1. INT +1. DEX +1. WIT +1. CON +1. MEN +1. P. Atk. +200. M. Atk. +200. P. Def. +200. M. Def. +200. Max HP +200. Max MP +200. All Critical Rate +2%. PvE damage +2%. Acquired XP/ SP +30% -->
+		<icon>icon.ev_white_flowerbox</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="1048091" toLevel="7" name="봉인의 힘">
+		<!-- Level 1: The seal power obtained after destroying the Demonic Seal Stone. Damage +2% -->
+		<!-- Level 2: The seal power obtained after destroying the Demonic Seal Stone. Damage +4% -->
+		<!-- Level 3: The seal power obtained after destroying the Demonic Seal Stone. Damage +6% -->
+		<!-- Level 4: The seal power obtained after destroying the Demonic Seal Stone. Damage +8% -->
+		<!-- Level 5: The seal power obtained after destroying the Demonic Seal Stone. Damage +10% -->
+		<!-- Level 6: The seal power obtained after destroying the Demonic Seal Stone. Damage +15% -->
+		<!-- Level 7: The seal power obtained after destroying the Demonic Seal Stone. Damage +20% -->
+		<icon>icon.skill_i.cold_flame2</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="1048092" toLevel="1" name="진 베히모스 어택">
+		<icon>icon.skill0036</icon>
+		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<hitTime>1500</hitTime>
+		<coolTime>500</coolTime>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048093" toLevel="1" name="진 베히모스 피어">
+		<!-- Just the sight of Ultimate Behemoth makes you paralyzed with fear. -->
+		<icon>icon.skill1481</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<hitTime>3000</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>8000</reuseDelay>
+		<effectPoint>-137</effectPoint>
+	</skill>
+	<skill id="1048094" toLevel="1" name="진 베히모스 커즈">
+		<!-- Ultimate Behemoth curses the enemy. Speed -60%. Atk. Spd. -60%. Casting Spd. -60%. Received damage +30% -->
+		<icon>icon.skill0046</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>700</castRange>
+		<hitTime>2000</hitTime>
+		<coolTime>500</coolTime>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="1048095" toLevel="1" name="진 베히모스 풀링">
+		<!-- Pulls the enemy. -->
+		<icon>icon.skill53003</icon>
+		<operateType>A1</operateType>
+		<isDebuff>true</isDebuff>
+		<castRange>700</castRange>
+		<hitTime>1500</hitTime>
+		<reuseDelay>15000</reuseDelay>
+		<effectPoint>-1500</effectPoint>
+	</skill>
+	<skill id="1048096" toLevel="1" name="5월 이벤트 1단계">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048097" toLevel="1" name="5월 이벤트 2단계">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048098" toLevel="1" name="5월 이벤트 3단계">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="1048099" toLevel="1" name="5월 이벤트 4단계">
+		<icon>icon.skill32724</icon>
+		<operateType>A1</operateType>
+	</skill>
+</list>

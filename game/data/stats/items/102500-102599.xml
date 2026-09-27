@@ -1,0 +1,1394 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="102500" name="수호의 망토 도전 상자 - 1단계 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_gold"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102496" min="1" max="1" chance="100" name="수호의 망토 도전권 - 1단계 (기간제)"/> <!-- Cloak of Protection Ticket - Stage 1 (Time-limited) - Sealed -->
+			<item id="93301" min="1" max="1" chance="100" name="수호의 망토"/> <!-- Cloak of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102501" name="수호의 망토 도전 상자 - 2단계 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_gold"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102497" min="1" max="1" chance="100" name="수호의 망토 도전권 - 2단계 (기간제)"/> <!-- Cloak of Protection Ticket - Stage 2 (Time-limited) - Sealed -->
+			<item id="93301" min="1" max="1" chance="100" name="수호의 망토"/> <!-- Cloak of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102502" name="수호의 망토 도전 상자 - 3단계 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_gold"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102498" min="1" max="1" chance="100" name="수호의 망토 도전권 - 3단계 (기간제)"/> <!-- Cloak of Protection Ticket - Stage 3 (Time-limited) - Sealed -->
+			<item id="93301" min="1" max="1" chance="100" name="수호의 망토"/> <!-- Cloak of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102503" name="수호의 망토 도전 상자 - 4단계 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_gold"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102499" min="1" max="1" chance="100" name="수호의 망토 도전권 - 4단계 (기간제)"/> <!-- Cloak of Protection Ticket - Stage 4 (Time-limited) - Sealed -->
+			<item id="93301" min="1" max="1" chance="100" name="수호의 망토"/> <!-- Cloak of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102504" name="드래곤의 알 도전권 - 1단계 (기간제)" type="EtcItem">
+		<!-- Can be used to obtain Package: +10 Agathion Dragon Egg through the special craft. -->
+		<set name="icon" val="icon.voucher_lev_90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102505" name="드래곤의 알 도전권 - 2단계 (기간제)" type="EtcItem">
+		<!-- Can be used to obtain Package: +10 Agathion Dragon Egg through the special craft. -->
+		<set name="icon" val="icon.voucher_lev_90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102506" name="드래곤의 알 도전권 - 3단계 (기간제)" type="EtcItem">
+		<!-- Can be used to obtain Package: +10 Agathion Dragon Egg through the special craft. -->
+		<set name="icon" val="icon.voucher_lev_90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102507" name="드래곤의 알 도전권 - 4단계 (기간제)" type="EtcItem">
+		<!-- Can be used to obtain Package: +10 Agathion Dragon Egg through the special craft. -->
+		<set name="icon" val="icon.voucher_lev_90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102508" name="드래곤의 알 도전 상자 - 1단계 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.present_of_destination_event"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102504" min="1" max="1" chance="100" name="드래곤의 알 도전권 - 1단계 (기간제)"/> <!-- Dragon Egg Ticket - Stage 1 (Time-limited) - Sealed -->
+			<item id="98235" min="1" max="1" chance="100" name="드래곤의 알 아가시온"/> <!-- Agathion Dragon Egg - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102509" name="드래곤의 알 도전 상자 - 2단계 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.present_of_destination_event"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102505" min="1" max="1" chance="100" name="드래곤의 알 도전권 - 2단계 (기간제)"/> <!-- Dragon Egg Ticket - Stage 2 (Time-limited) - Sealed -->
+			<item id="98235" min="1" max="1" chance="100" name="드래곤의 알 아가시온"/> <!-- Agathion Dragon Egg - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102510" name="드래곤의 알 도전 상자 - 3단계 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.present_of_destination_event"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102506" min="1" max="1" chance="100" name="드래곤의 알 도전권 - 3단계 (기간제)"/> <!-- Dragon Egg Ticket - Stage 3 (Time-limited) - Sealed -->
+			<item id="98235" min="1" max="1" chance="100" name="드래곤의 알 아가시온"/> <!-- Agathion Dragon Egg - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102511" name="드래곤의 알 도전 상자 - 4단계 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.present_of_destination_event"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102507" min="1" max="1" chance="100" name="드래곤의 알 도전권 - 4단계 (기간제)"/> <!-- Dragon Egg Ticket - Stage 4 (Time-limited) - Sealed -->
+			<item id="98235" min="1" max="1" chance="100" name="드래곤의 알 아가시온"/> <!-- Agathion Dragon Egg - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102512" name="마법서 - 엘레멘탈 스트라이크" type="EtcItem">
+		<!-- A spellbook for learning the Elemental Strike skill. <Class>. Elemental Master. <Skill effect>. Makes a magic attack. If the distance to the target is less than 400, the skill's power is increased. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102513" name="마법서 - 엘레멘탈 스트라이크" type="EtcItem">
+		<!-- A spellbook for learning the Elemental Strike skill. <Class>. Elemental Master. <Skill effect>. Makes a magic attack. If the distance to the target is less than 400, the skill's power is increased. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102514" name="무기 타입 변경권 (기간제)" type="EtcItem">
+		<!-- Can be used for changing the type of Frost Lord's Weapon or Boss Weapon. -->
+		<set name="icon" val="icon.ev_weapon_type_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102515" name="방어구 타입 변경권 (기간제)" type="EtcItem">
+		<!-- Can be used for changing the type of Armor of Protection or Special Armor. <font color=ff6666>Note!</font>. Upon type change, all appearance modifications disappear. -->
+		<set name="icon" val="icon.ev_armor_type_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102516" name="희귀/영웅 마법서 변경권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for a rare/ heroic spellbook. -->
+		<set name="icon" val="icon.skill_book_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102517" name="클래스 변경 지원 티켓 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a Boss Weapon Change Coupon, Armor Change Coupon, or Spellbook Change Coupon of your choice. -->
+		<set name="icon" val="icon.bm_challenger_wp_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102518" name="킬 이펙트 - 여름의 추억" type="EtcItem">
+		<!-- A material for changing a kill effect. -->
+		<set name="icon" val="icon.wp_fishing9"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="102519" name="여름의 추억 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain Summer Memory <font color=ff6666>(unexchangeable)</font>. <font color=ff6666>Note!</font>. The package can be traded, but its contents are <font color=ff6666>unexchangeable</font>. -->
+		<set name="icon" val="icon.wp_fishing9"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102518" min="1" max="1" chance="100" name="킬 이펙트 - 여름의 추억"/> <!-- Kill Effect - Summer Memory - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102520" name="황금 모래알 (기간제)" type="EtcItem">
+		<!-- Material for crafting Summer Memory. <font color=eeaa22><How to use></font>. Special craft - Summer Memory craft -->
+		<set name="icon" val="icon.etc_broken_crystal_gold_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102521" name="+5 얼음 군주의 무기(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain +5 Frost Lord's Weapon <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.frozen_weapon_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102522" name="+5 수호의 방어구(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Armor of Protection piece enchanted to +5 <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.protection_armor_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102523" name="클체 에디션 - 무기 교환권 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_dragon_present_5"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102524" name="클체 에디션 - 방어구 교환권 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_silver"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="101968" min="1" max="1" chance="50" name="+6 수호의 방어구(각인) 교환권 (기간제)"/> <!-- +6 Armor of Protection Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="102522" min="1" max="1" chance="50" name="+5 수호의 방어구(각인) 교환권 (기간제)"/> <!-- +5 Armor of Protection Coupon (Sealed) (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102525" name="헬바운드 탈리스만 조각 1~20개 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_3_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="94716" min="1" max="1" chance="20" name="헬바운드 탈리스만 조각"/> <!-- Talisman of Hellbound Fragment -->
+			<item id="94716" min="2" max="2" chance="20" name="헬바운드 탈리스만 조각"/> <!-- Talisman of Hellbound Fragment -->
+			<item id="94716" min="5" max="5" chance="20" name="헬바운드 탈리스만 조각"/> <!-- Talisman of Hellbound Fragment -->
+			<item id="94716" min="10" max="10" chance="20" name="헬바운드 탈리스만 조각"/> <!-- Talisman of Hellbound Fragment -->
+			<item id="94716" min="20" max="20" chance="20" name="헬바운드 탈리스만 조각"/> <!-- Talisman of Hellbound Fragment -->
+		</capsuled_items>
+	</item>
+	<item id="102526" name="염료&amp;잠재력 강화 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.dye_charge_meal"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97147" min="100" max="100" chance="100" name="잠재력 강화제"/> <!-- Hidden Power Booster - Sealed -->
+			<item id="100723" min="20" max="20" chance="100" name="고급 염료 강화제"/> <!-- Enhanced Dye Booster - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102527" name="컬렉션 강화 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_scroll_of_memory_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97128" min="5" max="5" chance="100" name="컬렉션 대체 아이템 - 일반 (기간제)"/> <!-- Collection Replacement Item - Common (Time-limited) - Sealed -->
+			<item id="97129" min="5" max="5" chance="100" name="컬렉션 대체 아이템 - 고급 (기간제)"/> <!-- Collection Replacement Item - Improved (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102528" name="플레이 리워드 교환 티켓 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain Package: Dye/ Hidden Power Booster or Collection Enhancement Package of your choice. -->
+		<set name="icon" val="icon.royal_purple_save"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102529" name="고급 스킬 인챈트 50% 충전석 (기간제)" type="EtcItem">
+		<!-- Recovers <font color=00FF00>50%</font> of enchant points for enhanced skills. -->
+		<set name="icon" val="icon.energy_condenser_i04"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102530" name="최고급 스킬 인챈트 50% 충전석 (기간제)" type="EtcItem">
+		<!-- Recovers <font color=00FF00>50%</font> of enchant points for unique skills. -->
+		<set name="icon" val="icon.energy_condenser_i05"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102531" name="희귀 스킬 인챈트 50% 충전석 (기간제)" type="EtcItem">
+		<!-- Recovers <font color=00FF00>50%</font> of enchant points for rare skills. -->
+		<set name="icon" val="icon.energy_condenser_i06"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102532" name="베니르의 탈리스만 조각 150개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_ensoul_stone_PvP_empty"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91076" min="150" max="150" chance="100" name="베니르의 탈리스만 조각"/> <!-- Venir's Talisman Fragment -->
+		</capsuled_items>
+	</item>
+	<item id="102533" name="베니르의 탈리스만 조각 300개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_ensoul_stone_PvP_empty"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91076" min="300" max="300" chance="100" name="베니르의 탈리스만 조각"/> <!-- Venir's Talisman Fragment -->
+		</capsuled_items>
+	</item>
+	<item id="102534" name="방어구 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.rare_armor_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102535" name="무기 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.boss_weapon_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102536" name="드래곤의 벨트 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.etc_blesscharm_ward_val_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102537" name="수호의 망토 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_destruction_scrl_of_ench_sayha_cloak"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102538" name="아인하사드의 펜던트 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="BranchSys3.icon.g_scrl_vitality_point_up"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102539" name="권능의 탈리스만 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_power_talisman_scroll"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102540" name="오닉스/스피넬/지르콘 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102541" name="정령 아가시온 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102542" name="영웅의 서클릿 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_blessed_scrl_of_ench_hair"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102543" name="팬텀 마스크 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.episode_scrl_of_ench_hair"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102544" name="+5 각인 헌터 방어구 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_armor_ticket_a"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102545" name="+5 각인 특수 방어구 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.rare_armor_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102546" name="+6 각인 특수 방어구 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.rare_armor_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102547" name="+5 각인 A그레이드 무기 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_weapon_ticket_a"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102548" name="+5 각인 보스 무기 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.boss_weapon_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102549" name="+6 각인 보스 무기 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.boss_weapon_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102550" name="+6 정령 아가시온 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102551" name="+7 정령 아가시온 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102552" name="+8 정령 아가시온 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102553" name="에바의 탈리스만 선택권 : 에바 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bless_scroll"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102554" name="신속의 탈리스만 선택권 : 에바 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.tallisman_rapid_scrl"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102555" name="드래곤의 벨트 선택권 : 에바 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.etc_blesscharm_ward_val_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102556" name="수호의 망토 선택권 : 에바 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_destruction_scrl_of_ench_sayha_cloak"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102557" name="아인하사드의 펜던트 선택권 : 에바 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="BranchSys3.icon.g_scrl_vitality_point_up"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102558" name="권능의 탈리스만 선택권 : 에바 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_power_talisman_scroll"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102559" name="정령 아가시온 선택권 : 에바 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102560" name="출석 체크 8일 특별 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.br_gold_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94852" min="1" max="1" chance="100" name="블랙 쿠폰 - 인형 합성 (기간제)"/> <!-- Black Coupon - Doll Compounding (Time-limited) - Sealed -->
+			<item id="98022" min="1" max="1" chance="100" name="블랙 쿠폰 - 특수 장비 (기간제)"/> <!-- Black Coupon - Special Equipment (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102561" name="출석 체크 28일 특별 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.br_gold_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98022" min="1" max="1" chance="100" name="블랙 쿠폰 - 특수 장비 (기간제)"/> <!-- Black Coupon - Special Equipment (Time-limited) - Sealed -->
+			<item id="101933" min="1" max="1" chance="100" name="고급 인형 선택권 (기간제)"/> <!-- Selection Coupon: Enhanced Doll (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102562" name="+6 수호의 방어구(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Armor of Protection piece enchanted to +6 <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.protection_armor_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102563" name="+6 얼음 군주의 무기(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a +6 Frost Lord's weapon <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.frozen_weapon_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102564" name="고급 인형 소환권 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="100894" min="1" max="1" chance="3.703704" name="고급 여왕개미 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100895" min="1" max="1" chance="3.703704" name="고급 오르펜 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100896" min="1" max="1" chance="3.703704" name="고급 코어 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Core - Sealed -->
+			<item id="100897" min="1" max="1" chance="3.703704" name="고급 프린테사 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100898" min="1" max="1" chance="3.703704" name="고급 자켄 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100899" min="1" max="1" chance="3.703704" name="고급 바이움 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Baium - Sealed -->
+			<item id="100900" min="1" max="1" chance="3.703704" name="고급 안타라스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Antharas - Sealed -->
+			<item id="100901" min="1" max="1" chance="3.703704" name="고급 베히모스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Behemoth - Sealed -->
+			<item id="100902" min="1" max="1" chance="3.703704" name="고급 글라키에스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Glakias - Sealed -->
+			<item id="100903" min="1" max="1" chance="3.703704" name="고급 안드레아스 반 홀터 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Andreas van Halter - Sealed -->
+			<item id="100904" min="1" max="1" chance="3.703704" name="고급 켈빔 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Kelbim - Sealed -->
+			<item id="101390" min="1" max="1" chance="3.703704" name="고급 페리온 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Ferion - Sealed -->
+			<item id="101574" min="1" max="1" chance="3.703704" name="고급 불칸 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Vulcan - Sealed -->
+			<item id="101646" min="1" max="1" chance="3.703704" name="고급 아나킴 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Anakim - Sealed -->
+			<item id="101647" min="1" max="1" chance="3.703704" name="고급 릴리스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Lilith - Sealed -->
+			<item id="101816" min="1" max="1" chance="3.703704" name="고급 몰랑공주 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Princess Molrang - Sealed -->
+			<item id="101817" min="1" max="1" chance="3.703704" name="고급 데이만 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Deiman - Sealed -->
+			<item id="101818" min="1" max="1" chance="3.703704" name="고급 자드나 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Satina - Sealed -->
+			<item id="101819" min="1" max="1" chance="3.703704" name="고급 류미니르 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Ryuminir - Sealed -->
+			<item id="101820" min="1" max="1" chance="3.703704" name="고급 아이젠 켄슐러 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Aizen Kelsour - Sealed -->
+			<item id="101821" min="1" max="1" chance="3.703704" name="고급 킹 이그니스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - King Ignis - Sealed -->
+			<item id="101822" min="1" max="1" chance="3.703704" name="고급 퀸 네불라 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Queen Nebula - Sealed -->
+			<item id="101823" min="1" max="1" chance="3.703704" name="고급 킹 프로첼라 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - King Procella - Sealed -->
+			<item id="101824" min="1" max="1" chance="3.703704" name="고급 킹 페트람 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - King Petram - Sealed -->
+			<item id="101825" min="1" max="1" chance="3.703704" name="고급 트론 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Tiron - Sealed -->
+			<item id="101826" min="1" max="1" chance="3.703704" name="고급 스칼렛 반 할리샤 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+			<item id="102085" min="1" max="1" chance="3.703704" name="고급 아즈타칸 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Aztacan - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102565" name="+5~+6 수호의 방어구(각인) 교환권 행운 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.protection_armor_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="98794" min="1" max="1" chance="50" name="+5 수호의 방어구(각인) 교환권 (기간제)"/> <!-- +5 Armor of Protection Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="102562" min="1" max="1" chance="50" name="+6 수호의 방어구(각인) 교환권 (기간제)"/> <!-- +6 Armor of Protection Coupon (Sealed) (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102566" name="+5~+6 얼음 군주의 무기(각인) 교환권 행운 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.frozen_weapon_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102563" min="1" max="1" chance="50" name="+6 얼음 군주의 무기(각인) 교환권 (기간제)"/> <!-- +6 Frost Lord's Weapon Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="97660" min="1" max="1" chance="50" name="+5 얼음 군주의 무기(각인) 교환권 (기간제)"/> <!-- +5 Frost Lord's Weapon Coupon (Sealed) (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102567" name="+5~+6 특수 방어구(각인) 교환권 행운 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.rare_armor_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="98044" min="1" max="1" chance="50" name="+5 특수 방어구(각인) 교환권 (기간제)"/> <!-- +5 Special Armor Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="102314" min="1" max="1" chance="50" name="+6 특수 방어구(각인) 교환권 (기간제)"/> <!-- +6 Special Armor Coupon (Sealed) (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102568" name="+5~+6 보스 무기(각인) 교환권 행운 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.boss_weapon_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97661" min="1" max="1" chance="50" name="+5 보스 무기(각인) 교환권 (기간제)"/> <!-- +5 Boss Weapon Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="101961" min="1" max="1" chance="50" name="+6 보스 무기(각인) 교환권 (기간제)"/> <!-- +6 Boss Weapon Coupon (Sealed) (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102569" name="에바의 신기루 1단계 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102158" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102159" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102160" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102529" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102530" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102531" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="97121" min="1" max="1" chance="11.11111" name="고급 마법서 교환권 (기간제)"/> <!-- Enhanced Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97122" min="1" max="1" chance="11.11111" name="최고급 마법서 교환권 (기간제)"/> <!-- Unique Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97123" min="1" max="1" chance="11.11111" name="희귀 마법서 교환권 (기간제)"/> <!-- Rare Spellbook Coupon (Time-limited) - Not available - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102570" name="에바의 신기루 2단계 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102158" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102159" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102160" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102529" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102530" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102531" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="97121" min="1" max="1" chance="11.11111" name="고급 마법서 교환권 (기간제)"/> <!-- Enhanced Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97122" min="1" max="1" chance="11.11111" name="최고급 마법서 교환권 (기간제)"/> <!-- Unique Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97123" min="1" max="1" chance="11.11111" name="희귀 마법서 교환권 (기간제)"/> <!-- Rare Spellbook Coupon (Time-limited) - Not available - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102571" name="에바의 신기루 3단계 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102158" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102159" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102160" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102529" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102530" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102531" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="97121" min="1" max="1" chance="11.11111" name="고급 마법서 교환권 (기간제)"/> <!-- Enhanced Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97122" min="1" max="1" chance="11.11111" name="최고급 마법서 교환권 (기간제)"/> <!-- Unique Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97123" min="1" max="1" chance="11.11111" name="희귀 마법서 교환권 (기간제)"/> <!-- Rare Spellbook Coupon (Time-limited) - Not available - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102572" name="에바의 신기루 4단계 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102158" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102159" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102160" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102529" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102530" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102531" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="97121" min="1" max="1" chance="11.11111" name="고급 마법서 교환권 (기간제)"/> <!-- Enhanced Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97122" min="1" max="1" chance="11.11111" name="최고급 마법서 교환권 (기간제)"/> <!-- Unique Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97123" min="1" max="1" chance="11.11111" name="희귀 마법서 교환권 (기간제)"/> <!-- Rare Spellbook Coupon (Time-limited) - Not available - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102573" name="에바의 신기루 5단계 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102158" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102159" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102160" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102529" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102530" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102531" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="97121" min="1" max="1" chance="11.11111" name="고급 마법서 교환권 (기간제)"/> <!-- Enhanced Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97122" min="1" max="1" chance="11.11111" name="최고급 마법서 교환권 (기간제)"/> <!-- Unique Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97123" min="1" max="1" chance="11.11111" name="희귀 마법서 교환권 (기간제)"/> <!-- Rare Spellbook Coupon (Time-limited) - Not available - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102574" name="에바의 신기루 6단계 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102158" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102159" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102160" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102529" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102530" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102531" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="97121" min="1" max="1" chance="11.11111" name="고급 마법서 교환권 (기간제)"/> <!-- Enhanced Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97122" min="1" max="1" chance="11.11111" name="최고급 마법서 교환권 (기간제)"/> <!-- Unique Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97123" min="1" max="1" chance="11.11111" name="희귀 마법서 교환권 (기간제)"/> <!-- Rare Spellbook Coupon (Time-limited) - Not available - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102575" name="에바의 신기루 보은 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_silver_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="98593" min="1" max="1" chance="11.11111" name="베니르의 탈리스만 조각 500개 팩"/> <!-- Package: Venir's Talisman Fragment (500 pcs.) - Sealed -->
+			<item id="98594" min="1" max="1" chance="11.11111" name="베니르의 탈리스만 조각 1000개 팩"/> <!-- Package: Venir's Talisman Fragment (1000 pcs.) - Sealed -->
+			<item id="98758" min="1" max="1" chance="11.11111" name="베니르의 탈리스만 조각 100개 팩"/> <!-- Package: Venir's Talisman Fragment (100 pcs.) - Sealed -->
+			<item id="98759" min="1" max="1" chance="11.11111" name="베니르의 탈리스만 조각 200개 팩"/> <!-- Package: Venir's Talisman Fragment (200 pcs.) - Sealed -->
+			<item id="102532" min="1" max="1" chance="11.11111" name="베니르의 탈리스만 조각 150개 팩"/> <!-- Package: Venir's Talisman Fragment (150 pcs.) - Sealed -->
+			<item id="102533" min="1" max="1" chance="11.11111" name="베니르의 탈리스만 조각 300개 팩"/> <!-- Package: Venir's Talisman Fragment (300 pcs.) - Sealed -->
+			<item id="91076" min="10" max="10" chance="11.11111" name="베니르의 탈리스만 조각"/> <!-- Venir's Talisman Fragment -->
+			<item id="91076" min="20" max="20" chance="11.11111" name="베니르의 탈리스만 조각"/> <!-- Venir's Talisman Fragment -->
+			<item id="91076" min="50" max="50" chance="11.11111" name="베니르의 탈리스만 조각"/> <!-- Venir's Talisman Fragment -->
+		</capsuled_items>
+	</item>
+	<item id="102576" name="에바의 신기루 보물 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_gold_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="101937" min="1" max="1" chance="50" name="봉인된 레이븐 계약서"/> <!-- Sealed Contract: Raven -->
+			<item id="101938" min="1" max="1" chance="50" name="봉인된 불칸 계약서"/> <!-- Sealed Contract: Vulcan -->
+		</capsuled_items>
+	</item>
+	<item id="102577" name="신기루 보은 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_silver_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102158" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102159" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102160" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 10% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (10%) (Time-limited) - Sealed -->
+			<item id="102529" min="1" max="1" chance="11.11111" name="고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Enhanced Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102530" min="1" max="1" chance="11.11111" name="최고급 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Unique Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="102531" min="1" max="1" chance="11.11111" name="희귀 스킬 인챈트 50% 충전석 (기간제)"/> <!-- Rare Skill Enchant Charging Stone (50%) (Time-limited) - Sealed -->
+			<item id="97121" min="1" max="1" chance="11.11111" name="고급 마법서 교환권 (기간제)"/> <!-- Enhanced Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97122" min="1" max="1" chance="11.11111" name="최고급 마법서 교환권 (기간제)"/> <!-- Unique Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="97123" min="1" max="1" chance="11.11111" name="희귀 마법서 교환권 (기간제)"/> <!-- Rare Spellbook Coupon (Time-limited) - Not available - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102578" name="신기루 보물 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_gold_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102565" min="1" max="1" chance="20" name="+5~+6 수호의 방어구(각인) 교환권 행운 팩 (기간제)"/> <!-- Lucky Package: +5 ~ +6 Armor of Protection Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="102566" min="1" max="1" chance="20" name="+5~+6 얼음 군주의 무기(각인) 교환권 행운 팩 (기간제)"/> <!-- Lucky Package: +5 ~ +6 Frost Lord's Weapon Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="102567" min="1" max="1" chance="20" name="+5~+6 특수 방어구(각인) 교환권 행운 팩 (기간제)"/> <!-- Lucky Package: +5 ~ +6 Special Armor Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="102568" min="1" max="1" chance="20" name="+5~+6 보스 무기(각인) 교환권 행운 팩 (기간제)"/> <!-- Lucky Package: +5 ~ +6 Boss Weapon Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="102580" min="1" max="1" chance="20" name="고급~최고급 인형 소환권 팩 (기간제)"/> <!-- Package: Enhanced - Superior Doll Summon Coupon (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102579" name="최고급 인형 소환권 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="100905" min="1" max="1" chance="4.347826" name="최고급 여왕개미 인형 소환권"/> <!-- Superior Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100906" min="1" max="1" chance="4.347826" name="최고급 오르펜 인형 소환권"/> <!-- Superior Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100907" min="1" max="1" chance="4.347826" name="최고급 코어 인형 소환권"/> <!-- Superior Doll Summon Coupon - Core - Sealed -->
+			<item id="100908" min="1" max="1" chance="4.347826" name="최고급 프린테사 인형 소환권"/> <!-- Superior Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100909" min="1" max="1" chance="4.347826" name="최고급 자켄 인형 소환권"/> <!-- Superior Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100910" min="1" max="1" chance="4.347826" name="최고급 바이움 인형 소환권"/> <!-- Superior Doll Summon Coupon - Baium - Sealed -->
+			<item id="100911" min="1" max="1" chance="4.347826" name="최고급 안타라스 인형 소환권"/> <!-- Superior Doll Summon Coupon - Antharas - Sealed -->
+			<item id="100912" min="1" max="1" chance="4.347826" name="최고급 베히모스 인형 소환권"/> <!-- Superior Doll Summon Coupon - Behemoth - Sealed -->
+			<item id="100913" min="1" max="1" chance="4.347826" name="최고급 글라키에스 인형 소환권"/> <!-- Superior Doll Summon Coupon - Glakias - Sealed -->
+			<item id="100914" min="1" max="1" chance="4.347826" name="최고급 안드레아스 반 홀터 인형 소환권"/> <!-- Superior Doll Summon Coupon - Andreas van Halter - Sealed -->
+			<item id="100915" min="1" max="1" chance="4.347826" name="최고급 켈빔 인형 소환권"/> <!-- Superior Doll Summon Coupon - Kelbim - Sealed -->
+			<item id="101391" min="1" max="1" chance="4.347826" name="최고급 페리온 인형 소환권"/> <!-- Superior Doll Summon Coupon - Ferion - Sealed -->
+			<item id="101484" min="1" max="1" chance="4.347826" name="최고급 킹 이그니스 인형 소환권"/> <!-- Superior Doll Summon Coupon - King Ignis - Sealed -->
+			<item id="101485" min="1" max="1" chance="4.347826" name="최고급 퀸 네불라 인형 소환권"/> <!-- Superior Doll Summon Coupon - Queen Nebula - Sealed -->
+			<item id="101486" min="1" max="1" chance="4.347826" name="최고급 킹 프로첼라 인형 소환권"/> <!-- Superior Doll Summon Coupon - King Procella - Sealed -->
+			<item id="101487" min="1" max="1" chance="4.347826" name="최고급 킹 페트람 인형 소환권"/> <!-- Superior Doll Summon Coupon - King Petram - Sealed -->
+			<item id="101488" min="1" max="1" chance="4.347826" name="최고급 트론 인형 소환권"/> <!-- Superior Doll Summon Coupon - Tiron - Sealed -->
+			<item id="101489" min="1" max="1" chance="4.347826" name="최고급 스칼렛 반 할리샤 인형 소환권"/> <!-- Superior Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+			<item id="101490" min="1" max="1" chance="4.347826" name="최고급 아나킴 인형 소환권"/> <!-- Superior Doll Summon Coupon - Anakim - Sealed -->
+			<item id="101491" min="1" max="1" chance="4.347826" name="최고급 릴리스 인형 소환권"/> <!-- Superior Doll Summon Coupon - Lilith - Sealed -->
+			<item id="101575" min="1" max="1" chance="4.347826" name="최고급 불칸 인형 소환권"/> <!-- Superior Doll Summon Coupon - Vulcan - Sealed -->
+			<item id="102086" min="1" max="1" chance="4.347826" name="최고급 아즈타칸 인형 소환권"/> <!-- Superior Doll Summon Coupon - Aztacan - Sealed -->
+			<item id="102133" min="1" max="1" chance="4.347826" name="최고급 몰랑공주 인형 소환권"/> <!-- Superior Doll Summon Coupon - Princess Molrang - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102580" name="고급~최고급 인형 소환권 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102564" min="1" max="1" chance="50" name="고급 인형 소환권 팩 (기간제)"/> <!-- Package: Enhanced Doll Summon Coupon (Time-limited) - Sealed -->
+			<item id="102579" min="1" max="1" chance="50" name="최고급 인형 소환권 팩 (기간제)"/> <!-- Package: Superior Doll Summon Coupon (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102581" name="컬렉션 대체 아이템 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_six_party_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102582" name="특수 장비 제련석 20개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.variation_mineral_bm"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97788" min="20" max="20" chance="100" name="특수 장비 제련석"/> <!-- Augmenting Stone: Special Equipment - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102583" name="희귀 인형 소환권 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv4"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="100916" min="1" max="1" chance="6.666667" name="희귀 여왕개미 인형 소환권"/> <!-- Rare Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100917" min="1" max="1" chance="6.666667" name="희귀 오르펜 인형 소환권"/> <!-- Rare Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100918" min="1" max="1" chance="6.666667" name="희귀 코어 인형 소환권"/> <!-- Rare Doll Summon Coupon - Core - Sealed -->
+			<item id="100919" min="1" max="1" chance="6.666667" name="희귀 프린테사 인형 소환권"/> <!-- Rare Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100920" min="1" max="1" chance="6.666667" name="희귀 자켄 인형 소환권"/> <!-- Rare Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100921" min="1" max="1" chance="6.666667" name="희귀 바이움 인형 소환권"/> <!-- Rare Doll Summon Coupon - Baium - Sealed -->
+			<item id="100922" min="1" max="1" chance="6.666667" name="희귀 안타라스 인형 소환권"/> <!-- Rare Doll Summon Coupon - Antharas - Sealed -->
+			<item id="101982" min="1" max="1" chance="6.666667" name="희귀 스칼렛 반 할리샤 인형 소환권"/> <!-- Rare Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+			<item id="101983" min="1" max="1" chance="6.666667" name="희귀 아나킴 인형 소환권"/> <!-- Rare Doll Summon Coupon - Anakim - Sealed -->
+			<item id="101984" min="1" max="1" chance="6.666667" name="희귀 릴리스 인형 소환권"/> <!-- Rare Doll Summon Coupon - Lilith - Sealed -->
+			<item id="102153" min="1" max="1" chance="6.666667" name="희귀 킹 이그니스 인형 소환권"/> <!-- Rare Doll Summon Coupon - King Ignis - Sealed -->
+			<item id="102154" min="1" max="1" chance="6.666667" name="희귀 퀸 네불라 인형 소환권"/> <!-- Rare Doll Summon Coupon - Queen Nebula - Sealed -->
+			<item id="102155" min="1" max="1" chance="6.666667" name="희귀 킹 프로첼라 인형 소환권"/> <!-- Rare Doll Summon Coupon - King Procella - Sealed -->
+			<item id="102156" min="1" max="1" chance="6.666667" name="희귀 킹 페트람 인형 소환권"/> <!-- Rare Doll Summon Coupon - King Petram - Sealed -->
+			<item id="102157" min="1" max="1" chance="6.666667" name="희귀 트론 인형 소환권"/> <!-- Rare Doll Summon Coupon - Tiron - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102584" name="아인하사드의 펜던트 결정 Lv4 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Einhasad's Pendant Lv. 4. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102585" name="아쿠아마린 결정 Lv4 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Aquamarine Lv. 4. -->
+		<set name="icon" val="icon.etc_bm_jewel_aquamarine_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102586" name="아쿠아마린 결정 Lv5 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Aquamarine Lv. 5. -->
+		<set name="icon" val="icon.etc_bm_jewel_aquamarine_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102587" name="아쿠아마린 결정 Lv6 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Aquamarine Lv. 6. -->
+		<set name="icon" val="icon.etc_bm_jewel_aquamarine_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102588" name="아쿠아마린 결정 Lv7 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Aquamarine Lv. 7. -->
+		<set name="icon" val="icon.etc_bm_jewel_aquamarine_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102589" name="루비 결정 Lv4 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Ruby Lv. 4. -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102590" name="루비 결정 Lv5 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Ruby Lv. 5. -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102591" name="루비 결정 Lv6 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Ruby Lv. 6. -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102592" name="루비 결정 Lv7 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Ruby Lv. 7. -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102593" name="에메랄드 결정 Lv4 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Emerald Lv. 4. -->
+		<set name="icon" val="icon.etc_bm_jewel_emerald_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102594" name="에메랄드 결정 Lv5 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Emerald Lv. 5. -->
+		<set name="icon" val="icon.etc_bm_jewel_emerald_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102595" name="에메랄드 결정 Lv6 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Emerald Lv. 6. -->
+		<set name="icon" val="icon.etc_bm_jewel_emerald_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102596" name="에메랄드 결정 Lv7 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Emerald Lv. 7. -->
+		<set name="icon" val="icon.etc_bm_jewel_emerald_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102597" name="앰버 결정 Lv4 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Amber Lv. 4. -->
+		<set name="icon" val="icon.etc_bm_jewel_amber_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102598" name="앰버 결정 Lv5 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Amber Lv. 5. -->
+		<set name="icon" val="icon.etc_bm_jewel_amber_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102599" name="앰버 결정 Lv6 (기간제)" type="EtcItem">
+		<!-- Can be compounded with Amber Lv. 6. -->
+		<set name="icon" val="icon.etc_bm_jewel_amber_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

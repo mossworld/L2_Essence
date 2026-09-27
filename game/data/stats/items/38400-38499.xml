@@ -1,0 +1,461 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="38421" name="고등어 - 한손둔기" type="Weapon">
+		<!-- <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.wp_fishing1"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="1720"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pAtk">79</stat>
+			<stat type="mAtk">47</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38425" name="미공급 - 몬스터 전용_암덴둔기" type="Weapon">
+		<!-- The item is not available. A monster weapon. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="250"/>
+		<stats>
+			<stat type="pAtk">125</stat>
+			<stat type="mAtk">186</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38426" name="미공급 - 몬스터 전용_암덴활" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: bow. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="mp_consume" val="2"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="181"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38427" name="미공급 - 몬스터 전용_켄타무기" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: one-handed sword. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="144"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38428" name="미공급 - 몬스터 전용_미노대거" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: dagger. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="106"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38429" name="미공급 - 몬스터 전용_타이가검" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: one-handed sword. An item for changing a weapon's appearance. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="144"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38430" name="미공급 - 몬스터 전용_타이가활" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: bow. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BOW"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="mp_consume" val="2"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="181"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">500</stat>
+		</stats>
+	</item>
+	<item id="38431" name="미공급 - 몬스터 전용_타이가대거" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: dual daggers. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALDAGGER"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="106"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38432" name="미공급 - 몬스터 전용_타이가보석" type="Weapon">
+		<!-- The item is not available. Monster weapon. One-handed Sword. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="lhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="144"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38433" name="미공급 - 몬스터 전용_타이가둔기" type="Weapon">
+		<!-- The item is not available. A monster weapon. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="250"/>
+		<stats>
+			<stat type="pAtk">125</stat>
+			<stat type="mAtk">186</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38434" name="미공급 - 몬스터 전용_타이가폴암" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: spear. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="POLE"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="205"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="38435" name="미공급 - 몬스터 전용_타이가방패" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: shield. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="lhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="200"/>
+		<stats>
+			<stat type="pDef">25</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38436" name="미공급 - 몬스터 전용_타이가시길" type="Armor">
+		<!-- The item is not available. A monster weapon. Type: shield. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="lhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="200"/>
+		<stats>
+			<stat type="pDef">25</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38437" name="미공급 - 몬스터 전용_타이가스태프" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: spear. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="POLE"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="205"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="38443" name="미공급 - 몬스터 전용_켄타도끼" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: one-handed sword. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="144"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38444" name="미공급 - 몬스터 전용_켄타방패" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: shield. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="lhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="200"/>
+		<stats>
+			<stat type="pDef">25</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38445" name="미공급 - 몬스터 전용_한손둔기" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: one-handed blunt weapon. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="250"/>
+		<stats>
+			<stat type="pAtk">125</stat>
+			<stat type="mAtk">186</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38446" name="미공급 - 몬스터 전용_켄타투척창" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: dagger. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="106"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="38447" name="미공급 - 몬스터 전용_미노폴" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: spear. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="POLE"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="205"/>
+		<stats>
+			<stat type="pAtk">92</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+	</item>
+	<item id="38448" name="미공급 - 몬스터 전용_미노양손도끼" type="Weapon">
+		<!-- The item is not available. A monster weapon. Type: two-handed blunt weapon. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="STEEL"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="weight" val="205"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">181</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+</list>

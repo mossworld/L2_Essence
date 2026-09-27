@@ -1,0 +1,449 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="40600" toLevel="1" name="프린테사 던전 추가 입장권 (기간제)">
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40601" toLevel="1" name="오르비스 전당 시간 충전석">
+		<icon>icon.timezone_refill_new_i04</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="40602" toLevel="1" name="오르비스 전당 시간 충전석(각인)">
+		<icon>icon.timezone_refill_new_i04</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="40603" toLevel="1" name="오르비스 전당 시간 충전석 (기간제)(각인)">
+		<icon>icon.timezone_refill_new_i04</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="40604" toLevel="1" name="텔레포트">
+		<!-- Used for displaying animation while traveling between dimensions. -->
+		<icon>icon.s_glory_trenscendence_teleport</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40605" toLevel="1" name="오르비스 전당 시간 충전석">
+		<icon>icon.timezone_refill_new_i04</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="40606" toLevel="1" name="공격력 강화 주문서 (기간제)">
+		<!-- P. Atk. +100. M. Atk. +100. Max MP +100. Skill MP Consumption -3%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.scrl_of_ladies_silver_knife_01</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40607" toLevel="1" name="공격력 강화 주문서 (기간제)">
+		<!-- P. Atk. +100. M. Atk. +100. Max MP +100. Skill MP Consumption -3%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.scrl_of_ladies_silver_knife_01</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40608" toLevel="1" name="방어력 강화 주문서 (기간제)">
+		<!-- P. Def. +200. M. Def. +200. All received Critical Damage -50. Acquired XP/ SP +10%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.scrl_of_ench_bracelet_lucien_01</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40609" toLevel="1" name="방어력 강화 주문서 (기간제)">
+		<!-- P. Def. +200. M. Def. +200. All received Critical Damage -50. Acquired XP/ SP +10%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.scrl_of_ench_bracelet_lucien_01</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40610" toLevel="1" name="경험치 향상 주문서 (기간제)">
+		<!-- Acquired XP/ SP +30%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.etc_recall_exp_scroll</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40611" toLevel="1" name="경험치 향상 주문서 (기간제)">
+		<!-- Acquired XP/ SP +30%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.etc_recall_exp_scroll</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40612" toLevel="1" name="수호탑의 축복 주문서 (기간제)">
+		<!-- Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.etc_aidcharm_cancel_valbreath_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="40613" toLevel="1" name="수호탑의 축복 주문서 (기간제)">
+		<!-- Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.etc_aidcharm_cancel_valbreath_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="40614" toLevel="1" name="아인하사드의 축복 주문서 (기간제)">
+		<!-- Acquired XP +50%. Acquired SP +50%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.exp_bottle_scroll</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="40615" toLevel="1" name="아인하사드의 축복 주문서 (기간제)">
+		<!-- Acquired XP +50%. Acquired SP +50%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.exp_bottle_scroll</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="40616" toLevel="1" name="버서커 주문서 (기간제)">
+		<!-- STR +1. INT +1. Atk. Spd. +100. Casting Spd. +100. Speed +5. P. Skill Power +5%. M. Skill Power +5% -->
+		<icon>icon.bereserker_scroll_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40617" toLevel="1" name="버서커 주문서 (기간제)">
+		<!-- STR +1. INT +1. Atk. Spd. +100. Casting Spd. +100. Speed +5. P. Skill Power +5%. M. Skill Power +5% -->
+		<icon>icon.bereserker_scroll_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40618" toLevel="1" name="바람의 숲 시간 충전석">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="40619" toLevel="1" name="바람의 숲 시간 충전석">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="40620" toLevel="1" name="공통 무기 강화 주문서">
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40621" toLevel="1" name="킬 이펙트 - 화이트데이">
+		<!-- Sweet and sour candyboom! -->
+		<icon>icon.etc_whiteday_candy</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="40622" toLevel="1" name="사탕 폭발">
+		<!-- Sweet and sour candyboom! -->
+		<icon>icon.etc_whiteday_candy</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40623" toLevel="1" name="사탕 폭발">
+		<icon>icon.etc_whiteday_candy</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40624" toLevel="1" name="사탕 폭발">
+		<icon>icon.etc_whiteday_candy</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40625" toLevel="1" name="킬 이펙트 - 95레벨 달성">
+		<!-- Congratulations on reaching Lv. 95! -->
+		<icon>icon.skill5762</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="40626" toLevel="1" name="95레벨 달성">
+		<icon>icon.skill5762</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40627" toLevel="1" name="킬 이펙트 - 파푸리온">
+		<!-- I feel Fafurion's power. -->
+		<icon>icon.skill32716</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="40628" toLevel="1" name="킬 이펙트 - 파푸리온_호출">
+		<icon>icon.skill32716</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40629" toLevel="1" name="파푸리온 하이드로 어택">
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40630" toLevel="1" name="파푸리온 바이트">
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40631" toLevel="1" name="오만의 탑 시간 충전석 (기간제)">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="40632" toLevel="1" name="공격력 강화 주문서 (기간제)">
+		<!-- P. Atk. +100. M. Atk. +100. Max MP +100. Skill MP Consumption -3%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.scrl_of_ladies_silver_knife_01</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40633" toLevel="1" name="방어력 강화 주문서 (기간제)">
+		<!-- P. Def. +200. M. Def. +200. All received Critical Damage -50. Acquired XP/ SP +10%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.scrl_of_ench_bracelet_lucien_01</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40634" toLevel="1" name="경험치 향상 주문서 (기간제)">
+		<!-- Acquired XP/ SP +30%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.etc_recall_exp_scroll</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40635" toLevel="1" name="수호탑의 축복 주문서 (기간제)">
+		<!-- Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.etc_aidcharm_cancel_valbreath_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="40636" toLevel="1" name="아인하사드의 축복 주문서 (기간제)">
+		<!-- Acquired XP +50%. Acquired SP +50%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.exp_bottle_scroll</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="40637" toLevel="1" name="경험치 향상 주문서 - 이벤트">
+		<!-- Acquired XP/ SP +30%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.etc_recall_exp_scroll</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40638" toLevel="1" name="수호탑의 축복 주문서">
+		<!-- Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.etc_aidcharm_cancel_valbreath_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="40639" toLevel="1" name="아인하사드의 축복 주문서 - 이벤트">
+		<!-- Acquired XP +50%. Acquired SP +50%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.exp_bottle_scroll</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="40640" toLevel="1" name="버서커 주문서 (기간제)">
+		<!-- STR +1. INT +1. Atk. Spd. +100. Casting Spd. +100. Speed +5. P. Skill Power +5%. M. Skill Power +5% -->
+		<icon>icon.bereserker_scroll_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40641" toLevel="1" name="가디언 에센스(상급) (기간제)">
+		<operateType>A1</operateType>
+		<reuseDelay>500</reuseDelay>
+	</skill>
+	<skill id="40642" toLevel="1" name="가디언 에센스(중급) (기간제)">
+		<operateType>A1</operateType>
+		<reuseDelay>500</reuseDelay>
+	</skill>
+	<skill id="40643" toLevel="1" name="가디언 에센스(하급) (기간제)">
+		<operateType>A1</operateType>
+		<reuseDelay>500</reuseDelay>
+	</skill>
+	<skill id="40644" toLevel="1" name="보호의 주문서">
+		<!-- Buffs and debuffs remain after death. But the Defense Scroll effect disappears. You can cancel the effect by yourself. -->
+		<icon>icon.etc_training_scroll_kalie_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40645" toLevel="1" name="보호의 주문서">
+		<!-- Buffs and debuffs remain after death. But the Defense Scroll effect disappears. You can cancel the effect by yourself. -->
+		<icon>icon.etc_training_scroll_kalie_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40646" toLevel="1" name="보호의 주문서">
+		<!-- Buffs and debuffs remain after death. But the Defense Scroll effect disappears. You can cancel the effect by yourself. -->
+		<icon>icon.etc_training_scroll_kalie_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40647" toLevel="1" name="보호의 주문서">
+		<!-- Buffs and debuffs remain after death. But the Defense Scroll effect disappears. You can cancel the effect by yourself. -->
+		<icon>icon.etc_training_scroll_kalie_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40648" toLevel="1" name="보호의 주문서">
+		<!-- Buffs and debuffs remain after death. But the Defense Scroll effect disappears. You can cancel the effect by yourself. -->
+		<icon>icon.etc_training_scroll_kalie_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40649" toLevel="1" name="보호의 주문서">
+		<!-- Buffs and debuffs remain after death. But the Defense Scroll effect disappears. You can cancel the effect by yourself. -->
+		<icon>icon.etc_training_scroll_kalie_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40650" toLevel="1" name="보호의 주문서 (기간제)">
+		<!-- Buffs and debuffs remain after death. But the Defense Scroll effect disappears. You can cancel the effect by yourself. -->
+		<icon>icon.etc_training_scroll_kalie_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40651" toLevel="1" name="버서커 주문서">
+		<!-- STR +1/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.bereserker_scroll_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40652" toLevel="1" name="버서커 주문서">
+		<!-- STR +1/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.bereserker_scroll_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40653" toLevel="1" name="버서커 주문서 (기간제)">
+		<!-- STR +1/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.bereserker_scroll_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40654" toLevel="1" name="버서커 주문서 (기간제)">
+		<!-- STR +1/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.bereserker_scroll_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40655" toLevel="1" name="버서커 주문서 (기간제)">
+		<!-- STR +1/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.bereserker_scroll_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40656" toLevel="1" name="버서커 주문서 (기간제)">
+		<!-- STR +1/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.bereserker_scroll_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40657" toLevel="1" name="버서커 주문서 (기간제)">
+		<!-- STR +1/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. The effect remains after death. You can cancel the effect by yourself. -->
+		<icon>icon.bereserker_scroll_i00</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+	</skill>
+	<skill id="40658" toLevel="1" name="울프의 성장 주문서">
+		<!-- <font color="FF8000"><Lv. 92+></font>. Acquired XP/ SP +50%. <font color="FF8000"><Lv. 1-91></font>. Acquired XP/ SP +200%. The effect remains after death. -->
+		<icon>icon.bm_elmoaden_exp_scrl</icon>
+		<operateType>A1</operateType>
+		<reuseDelay>60000</reuseDelay>
+		<effectPoint>1</effectPoint>
+	</skill>
+	<skill id="40659" toLevel="1" name="킬 이펙트 - 시원한 물폭탄">
+		<!-- Cooling and refreshing! -->
+		<icon>icon.bm_critical_jewel</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="40660" toLevel="1" name="시원한 물폭탄">
+		<icon>icon.bm_critical_jewel</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40661" toLevel="1" name="킬 이펙트 - 가을 밤송이">
+		<!-- Autumn Chestnuts are flying in all directions. -->
+		<icon>icon.ev_21th_chestnut_01</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="40662" toLevel="1" name="가을 밤송이">
+		<icon>icon.ev_21th_chestnut_01</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40663" toLevel="1" name="킬 이펙트 - Lineage2 22th">
+		<!-- Lineage 2 22th -->
+		<icon>icon.ev_21th_chestnut_01</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="40664" toLevel="1" name="Lineage2 22th">
+		<icon>icon.ev_21th_chestnut_01</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40665" toLevel="1" name="킬 이펙트 - Lineage2 22th">
+		<!-- Lineage 2 22th -->
+		<icon>icon.ev_21th_chestnut_01</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="40666" toLevel="1" name="Lineage2 22th">
+		<!-- Effect without Сharacters -->
+		<icon>icon.ev_21th_chestnut_01</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40667" toLevel="1" name="킬 이펙트 - 안타라스">
+		<!-- Feel the power of Antharas! -->
+		<icon>icon.kill_effect_antaras</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="40668" toLevel="1" name="안타라스 스탬프">
+		<icon>icon.kill_effect_antaras</icon>
+		<operateType>A1</operateType>
+	</skill>
+	<skill id="40669" toLevel="1" name="오만의 탑 시간 충전석 (기간제)">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="40670" toLevel="1" name="고대의 유적 시간 충전석 (기간제)">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="40671" toLevel="1" name="아즈타칸의 사원 시간 충전석 (기간제)">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="40672" toLevel="1" name="강철 심장의 요새 시간 충전석 (기간제)">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="40673" toLevel="1" name="수룡의 협곡 시간 충전석 (기간제)">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="40674" toLevel="1" name="잊혀진 정원 시간 충전석 (기간제)">
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="40675" toLevel="1" name="세계수의 안식처 시간 충전석">
+		<icon>icon.timezone_refill_new_i02</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="40676" toLevel="1" name="세계수의 안식처 시간 충전석">
+		<icon>icon.timezone_refill_new_i02</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="40677" toLevel="1" name="세계수의 안식처 시간 충전석(기간제)">
+		<icon>icon.timezone_refill_new_i02</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="40678" toLevel="1" name="세계수의 안식처 시간 충전석(기간제)">
+		<icon>icon.timezone_refill_new_i02</icon>
+		<operateType>A1</operateType>
+		<hitTime>500</hitTime>
+		<coolTime>500</coolTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+</list>

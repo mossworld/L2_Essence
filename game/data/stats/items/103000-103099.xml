@@ -1,0 +1,1099 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="103000" name="사용 안함" type="EtcItem">
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103001" name="마법서 - 인새니티" type="EtcItem">
+		<!-- A spellbook for learning the Confused Mind skill. <Class>. Warg. <Skill effect>. <font color=FF0000>Note!. Can only be used in the wolf form.</font>. <font color=00FF00>Base effect</font>. Increases P. Atk. Increases P. Skill Power. Increases P. Skill Critical Damage. Increases Speed. <font color=00FF00>Special effect</font>. When using <font color=FFFF00>Double Claw Strike</font>, <font color=FFFF00>Claw Sweep</font>, <font color=FFFF00>Tenacious Claws</font>, <font color=FFFF00>Lunar Insanity</font>, <font color=FFFF00>Imminent Piercing</font>, applies the max level of <font color=BBAA88>Claw Mark</font>. When the target branded with <font color=BBAA88>Claw Mark</font> is attacked, triggers an <font color=FFBB00>additional attack</font>. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103002" name="마법서 - 하이 스피드" type="EtcItem">
+		<!-- A spellbook for learning the Improved Speed skill. <Class>. Warg. <Skill effect>. Momentarily recovers HP. Increases Speed and Max Speed. Increases Suppression/ Hold/ Pull Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103003" name="마법서 - 스트롱 바디" type="EtcItem">
+		<!-- A spellbook for learning the Powerful Body skill. <Class>. Warg. <Skill effect>. Increases Max HP/ MP. Decreases received damage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103004" name="마법서 - 리썰 피어싱" type="EtcItem">
+		<!-- A spellbook for learning the Imminent Piercing skill. <Class>. Warg. <Skill effect>. <font color=00FF00>Base effect</font>. Gathers all might to pierce the target. If the target is a character, there's a certain chance to break their armor (helmet/ upper armor/ lower armor/ gloves/ boots/ shield/ sigil). Broken armor remains in its slot, but is inactive until repaired. <font color=00FF00>Special effect</font>. When using the <font color=FFFF00>Ancient Power: Master</font> skill, there's a 50% chance to cancel the target's barrier. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103005" name="마법서 - 루나 인퓨전" type="EtcItem">
+		<!-- A spellbook for learning the Moon Influence skill. <Class>. Warg. <Skill effect>. Fills up the WP bar and transforms you into a wolf. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103006" name="마법서 - 디베스팅 디스암" type="EtcItem">
+		<!-- A spellbook for learning the Artful Disarm skill. <Class>. Warg. <Skill effect>. Charges to the target and attacks them. PvP: Disarm for 5 sec. (single target). All targets: Knockdown for 3 sec. (multiple targets). -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103007" name="마법서 - 피지컬 마이트" type="EtcItem">
+		<!-- A spellbook for learning the Physical Might skill. <Class>. Warg. <Skill effect>. <font color=00FF00>Base effect</font>. Increases P. Atk. Increases Atk. Spd. Increases AoE Skill Damage. Increases P. Skill Damage. <font color=00FF00>Special effect</font>. <font color=FFFF00>Devastating Assault enhancement</font>. Increases attack power, the number of attacks, attack range. <font color=FFFF00>Vortex of Claws enhancement</font>. Increases attack power, the number of attacks, attack range. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103008" name="마법서 - 기간틱 울프" type="EtcItem">
+		<!-- A spellbook for learning the Enormous Wolf skill. <Class>. Warg. <Skill effect>. Unleashes the giant wolf's power dealing damage to nearby targets and applying the Anxiety effect. When the skill is used, applies the <font color=FC8208>Barghest</font> buff that increases HP Recovery Potions' Effect and Debuff/ Anomaly Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103009" name="마법서 - 에인션트 포스" type="EtcItem">
+		<!-- A spellbook for learning the Ancient Power skill. <Class>. Warg. <Skill effect>. <font color=00FF00>Base effect</font>. Increases Max HP. Increases all Critical Rate. Increases all Critical Damage. Increases P. Atk. Increases Skill Power. <font color=00FF00>Special effect</font>. Transforms into an Ancient Werewolf. While transformed, deals damage to nearby enemies, and momentarily recovers MP. Applies a buff that increases PvP damage, Unequip Resistance, P./ M. Def. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103010" name="마법서 - 에인션트 포스: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Ancient Power: Master skill. <Class>. Warg. <Skill effect>. <font color=00FF00>Base effect</font>. Increases Max HP. Increases all Critical Rate. Increases all Critical Damage. Increases P. Atk. Increases Skill Power. <font color=00FF00>Special effect</font>. Transforms into an Ancient Werewolf: Master. While transformed, deals damage to nearby enemies, and momentarily recovers MP. Applies a buff that increases PvP damage, Unequip Resistance, P./ M. Def. When the <font color=FFFF00>Imminent Piercing</font> skill is used, removes the target's barrier with a certain chance. Decreases the <font color=FFFF00>Moon Influence's</font> cooldown. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103011" name="마법서 - 하울링 Lv2" type="EtcItem">
+		<!-- A spellbook for learning the Howling Lv. 2 skill. <Class>. Warg. <Skill effect>. Increases Max HP. Increases P. Atk. Recovers 30 MP on killing an enemy. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103012" name="마법서 - 하이 어질리티" type="EtcItem">
+		<!-- A spellbook for learning the Supreme Agility skill. <Class>. Warg. <Skill effect>. <font color=00FF00>Applies a buff when using light armor.</font>. Decreases all received Critical Rate. Increases Skill Evasion. Increases Atk. Spd. Increases Speed. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103013" name="마법서 - 새비지 인스팅트" type="EtcItem">
+		<!-- A spellbook for learning the Breaking Instinct skill. <Class>. Warg. <Skill effect>. Increases P. Atk. Increases P. Skill Critical Damage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103014" name="마법서 - 울프 마스터리" type="EtcItem">
+		<!-- A spellbook for learning the Wolf Mastery skill. <Class>. Warg. <Skill effect>. <font color=FFFF00>Upward Strike enhancement</font>: increases the number of attacks. <font color=FFFF00>Claw Sweep</font>: increases the number of targets and attacks. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103015" name="마법서 - 다운 크러쉬" type="EtcItem">
+		<!-- A spellbook for learning the Devastating Assault skill. <Class>. Warg. <Skill effect>. Delivers a blow that attacks nearby enemies. Pulls nearby enemies to you on attack. While in the wolf form, switches to <font color=FFFF00>Vortex of Claws</font>. If the <font color=FFFF00>Physical Might</font> skill is learned, increases the number of attacks, attack power, and attack range. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103016" name="사용 안함" type="EtcItem">
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103017" name="마법서 - 인새니티" type="EtcItem">
+		<!-- A spellbook for learning the Confused Mind skill. <Class>. Warg. <Skill effect>. <font color=FF0000>Note!. Can only be used in the wolf form.</font>. <font color=00FF00>Base effect</font>. Increases P. Atk. Increases P. Skill Power. Increases P. Skill Critical Damage. Increases Speed. <font color=00FF00>Special effect</font>. When using <font color=FFFF00>Double Claw Strike</font>, <font color=FFFF00>Claw Sweep</font>, <font color=FFFF00>Tenacious Claws</font>, <font color=FFFF00>Lunar Insanity</font>, <font color=FFFF00>Imminent Piercing</font>, applies the max level of <font color=BBAA88>Claw Mark</font>. When the target branded with <font color=BBAA88>Claw Mark</font> is attacked, triggers an <font color=FFBB00>additional attack</font>. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103018" name="마법서 - 하이 스피드" type="EtcItem">
+		<!-- A spellbook for learning the Improved Speed skill. <Class>. Warg. <Skill effect>. Momentarily recovers HP. Increases Speed and Max Speed. Increases Suppression/ Hold/ Pull Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103019" name="마법서 - 스트롱 바디" type="EtcItem">
+		<!-- A spellbook for learning the Powerful Body skill. <Class>. Warg. <Skill effect>. Increases Max HP/ MP. Decreases received damage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103020" name="마법서 - 리썰 피어싱" type="EtcItem">
+		<!-- A spellbook for learning the Imminent Piercing skill. <Class>. Warg. <Skill effect>. <font color=00FF00>Base effect</font>. Gathers all might to pierce the target. If the target is a character, there's a certain chance to break their armor (helmet/ upper armor/ lower armor/ gloves/ boots/ shield/ sigil). Broken armor remains in its slot, but is inactive until repaired. <font color=00FF00>Special effect</font>. When using the <font color=FFFF00>Ancient Power: Master</font> skill, there's a 50% chance to cancel the target's barrier. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103021" name="마법서 - 루나 인퓨전" type="EtcItem">
+		<!-- A spellbook for learning the Moon Influence skill. <Class>. Warg. <Skill effect>. Fills up the WP bar and transforms you into a wolf. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103022" name="마법서 - 디베스팅 디스암" type="EtcItem">
+		<!-- A spellbook for learning the Artful Disarm skill. <Class>. Warg. <Skill effect>. Charges to the target and attacks them. PvP: Disarm for 5 sec. (single target). All targets: Knockdown for 3 sec. (multiple targets). -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103023" name="마법서 - 피지컬 마이트" type="EtcItem">
+		<!-- A spellbook for learning the Physical Might skill. <Class>. Warg. <Skill effect>. <font color=00FF00>Base effect</font>. Increases P. Atk. Increases Atk. Spd. Increases AoE Skill Damage. Increases P. Skill Damage. <font color=00FF00>Special effect</font>. <font color=FFFF00>Devastating Assault enhancement</font>. Increases attack power, the number of attacks, attack range. <font color=FFFF00>Vortex of Claws enhancement</font>. Increases attack power, the number of attacks, attack range. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103024" name="마법서 - 기간틱 울프" type="EtcItem">
+		<!-- A spellbook for learning the Enormous Wolf skill. <Class>. Warg. <Skill effect>. Unleashes the giant wolf's power dealing damage to nearby targets and applying the Anxiety effect. When the skill is used, applies the <font color=FC8208>Barghest</font> buff that increases HP Recovery Potions' Effect and Debuff/ Anomaly Resistance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103025" name="마법서 - 에인션트 포스" type="EtcItem">
+		<!-- A spellbook for learning the Ancient Power skill. <Class>. Warg. <Skill effect>. <font color=00FF00>Base effect</font>. Increases Max HP. Increases all Critical Rate. Increases all Critical Damage. Increases P. Atk. Increases Skill Power. <font color=00FF00>Special effect</font>. Transforms into an Ancient Werewolf. While transformed, deals damage to nearby enemies, and momentarily recovers MP. Applies a buff that increases PvP damage, Unequip Resistance, P./ M. Def. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103026" name="마법서 - 에인션트 포스: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Ancient Power: Master skill. <Class>. Warg. <Skill effect>. <font color=00FF00>Base effect</font>. Increases Max HP. Increases all Critical Rate. Increases all Critical Damage. Increases P. Atk. Increases Skill Power. <font color=00FF00>Special effect</font>. Transforms into an Ancient Werewolf: Master. While transformed, deals damage to nearby enemies, and momentarily recovers MP. Applies a buff that increases PvP damage, Unequip Resistance, P./ M. Def. When the <font color=FFFF00>Imminent Piercing</font> skill is used, removes the target's barrier with a certain chance. Decreases the <font color=FFFF00>Moon Influence's</font> cooldown. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103027" name="아덴 연구 일지 5개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_hero_book_mineral"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103028" name="강철의 보물 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103029" name="빛나는 강철의 보물 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103030" name="잠재력 강화 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayhas_talisman_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103031" name="미공급 - 바르카스 외형 (수호)" type="Armor">
+		<!-- Dark Cardinal appearance. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103032" name="미공급 - 바르카스 외형 (A이하)" type="Armor">
+		<!-- Dark Cardinal appearance. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103033" name="미공급 - 바르카스 외형 (랭커)" type="Armor">
+		<!-- Dark Cardinal appearance. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103034" name="미공급 - 바르카스 외형 (발동)" type="Armor">
+		<!-- Dark Cardinal appearance. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103035" name="미공급 - 바르카스 외형 (용방어구)" type="Armor">
+		<!-- Dark Cardinal appearance. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103036" name="전설 마법서 조각" type="EtcItem">
+		<!-- A spellbook fragment full of legendary power. Use it to create a Legendary Spellbook from a Heroic Spellbook through the special craft. -->
+		<set name="icon" val="icon.letter_piece"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103037" name="1억 아데나 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_crystal_spice_blessed_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103038" name="염료 강화제(각인) 100개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.dye_charge_meal"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103039" name="서번트 드래곤의 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103040" name="대신관 사이락스의 보물 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103041" name="전설 마법서 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Legendary Spellbook <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.ev_sb_5_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103042" name="초월 강화석 200개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bless_soul_bead"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103043" name="초월 강화석 100개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bless_soul_bead"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103044" name="초월 강화석 50개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bless_soul_bead"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103045" name="초월 강화석 10개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bless_soul_bead"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103046" name="수호의 망토 200개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_2018_sayha_cloak_back_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103047" name="드래곤의 알 아가시온 50개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.agathion_valakas_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103048" name="아인하사드의 펜던트 Lv1 200개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="Icon.bm_pendant_pve_white_pack"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103049" name="고급 강화석 20개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.soul_bead"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103050" name="21주년 사전 기프트 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.br_gold_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103051" name="클래스 변경: 영웅 마법서 교환권" type="EtcItem">
+		<!-- Double-click to obtain 1 heroic spellbook <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.ev_sb_4_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103052" name="클래스 변경: 전설 마법서 교환권" type="EtcItem">
+		<!-- Double-click to obtain 1 Legendary Spellbook <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.ev_sb_5_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103053" name="아나이스 인형" type="EtcItem">
+		<!-- Use of Dolls UI -->
+		<set name="icon" val="icon.oman_boss1_doll_01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="103054" name="갈락시아 인형" type="EtcItem">
+		<!-- Use of Dolls UI -->
+		<set name="icon" val="icon.oman_boss2_doll_01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="103055" name="유리헬 인형" type="EtcItem">
+		<!-- Use of Dolls UI -->
+		<set name="icon" val="icon.oman_boss3_doll_01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="103056" name="브리엘 인형" type="EtcItem">
+		<!-- Use of Dolls UI -->
+		<set name="icon" val="icon.oman_boss4_doll_01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="103057" name="강철의 보물 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103058" name="빛나는 강철의 보물 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103059" name="대신관 사이락스의 보물 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103060" name="아덴의 축복" type="EtcItem">
+		<!-- Required for heroic or legendary skill extraction. -->
+		<set name="icon" val="icon.bm_dimension_soul"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103061" name="최고급 아나이스 인형 소환권(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain Superior Doll Summon Coupon - Anais <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103062" name="최고급 갈락시아 인형 소환권(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain Superior Doll Summon Coupon - Galaxia <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103063" name="최고급 유리헬 인형 소환권(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain Superior Doll Summon Coupon - Juriel <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103064" name="최고급 브리엘 인형 소환권(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain Superior Doll Summon Coupon - Phiriel <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103065" name="최고급 아나이스 인형 소환권" type="EtcItem">
+		<!-- Double-click to summon the <font color=FF9955>superior Anais Doll</font> with a 100% chance. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103066" name="최고급 갈락시아 인형 소환권" type="EtcItem">
+		<!-- Double-click to summon the <font color=FF9955>superior Galaxia Doll</font> with a 100% chance. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103067" name="최고급 유리헬 인형 소환권" type="EtcItem">
+		<!-- Double-click to summon the <font color=FF9955>superior Juriel Doll</font> with a 100% chance. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103068" name="최고급 브리엘 인형 소환권" type="EtcItem">
+		<!-- Double-click to summon the <font color=FF9955>superior Phiriel Doll</font> with a 100% chance. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103069" name="불멸의 반지 원석" type="EtcItem">
+		<!-- Ore that emanates powerful energy, it can be used as a material to create <font color=F00FFF>Immortal Ring</font>. <How to use>. Special Craft -->
+		<set name="icon" val="icon.saintly_fire"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103070" name="불멸의 반지 원석 조각" type="EtcItem">
+		<!-- A fragment of ore that contains power of immortality. Collect a certain number of fragments to obtain Immortal Ring <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.ets_red_abead_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103071" name="보석 선택 교환권 100개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103072" name="+5 시르 블레이드 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Samurai. Death Knight. Phoenix Knight. Hell Knight. Eva's Templar. Shillien Templar. Divine Templar</font> -->
+		<set name="icon" val="icon.weapon_sirr_blade_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103073" name="+5 소드 오브 이포스 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended class>. Titan</font> -->
+		<set name="icon" val="icon.weapon_sword_of_ipos_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103074" name="+5 바라키엘 액스 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Phoenix Knight. Hell Knight. Eva's Templar. Shillien Templar. Maestro. Fortune Seeker</font> -->
+		<set name="icon" val="icon.weapon_barakiel_axe_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103075" name="+5 베헤모스의 소리굽쇠 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Maestro. Fortune Seeker</font> -->
+		<set name="icon" val="icon.weapon_tuning_fork_of_behemoth_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103076" name="+5 나가 스톰 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Blood Rose. Assassin. Adventurer. Wind Rider. Ghost Hunter</font> -->
+		<set name="icon" val="icon.weapon_naga_storm_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103077" name="+5 타이폰 스피어 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Dreadnought. Vanguard Rider</font> -->
+		<set name="icon" val="icon.weapon_tiphon_spear_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103078" name="+5 샤이드 보우 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Sagittarius. Moonlight Sentinel. Ghost Sentinel. Trickster</font> -->
+		<set name="icon" val="icon.weapon_shyid_bow_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103079" name="+5 소베크 허리케인 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Warg. Grand Khavatari</font> -->
+		<set name="icon" val="icon.weapon_sobekk_hurricane_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103080" name="+5 테미스의 혀 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.weapon_tongue_of_themis_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103081" name="+5 핸드 오브 카브리오 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.weapon_hand_of_cabrio_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103082" name="+5 데이몬의 결정 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Element Weaver. Apostle. Elemental Master. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.weapon_crystal_of_deamon_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103083" name="+5 탈룸 블레이드*다마스커스 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Duelist. Sword Muse. Spectral Dancer</font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103084" name="+5 불트강 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended class>. Doombringer</font> -->
+		<set name="icon" val="icon.weapon_death_bringer_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103085" name="+5 에끌레르 비쥬 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended class>. Soul Hound</font> -->
+		<set name="icon" val="icon.weapon_greed_stinger_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103086" name="+5 제피로스 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended class>. Storm Blaster</font> -->
+		<set name="icon" val="icon.shooter_a_high"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103087" name="+6 시르 블레이드 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Samurai. Death Knight. Phoenix Knight. Hell Knight. Eva's Templar. Shillien Templar. Divine Templar</font> -->
+		<set name="icon" val="icon.weapon_sirr_blade_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103088" name="+6 소드 오브 이포스 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended class>. Titan</font> -->
+		<set name="icon" val="icon.weapon_sword_of_ipos_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103089" name="+6 바라키엘 액스 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Phoenix Knight. Hell Knight. Eva's Templar. Shillien Templar. Maestro. Fortune Seeker</font> -->
+		<set name="icon" val="icon.weapon_barakiel_axe_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103090" name="+6 베헤모스의 소리굽쇠 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Maestro. Fortune Seeker</font> -->
+		<set name="icon" val="icon.weapon_tuning_fork_of_behemoth_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103091" name="+6 나가 스톰 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Blood Rose. Assassin. Adventurer. Wind Rider. Ghost Hunter</font> -->
+		<set name="icon" val="icon.weapon_naga_storm_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103092" name="+6 타이폰 스피어 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Dreadnought. Vanguard Rider</font> -->
+		<set name="icon" val="icon.weapon_tiphon_spear_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103093" name="+6 샤이드 보우 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Sagittarius. Moonlight Sentinel. Ghost Sentinel. Trickster</font> -->
+		<set name="icon" val="icon.weapon_shyid_bow_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103094" name="+6 소베크 허리케인 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Warg. Grand Khavatari</font> -->
+		<set name="icon" val="icon.weapon_sobekk_hurricane_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103095" name="+6 테미스의 혀 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.weapon_tongue_of_themis_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103096" name="+6 핸드 오브 카브리오 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.weapon_hand_of_cabrio_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103097" name="+6 데이몬의 결정 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Element Weaver. Apostle. Elemental Master. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.weapon_crystal_of_deamon_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103098" name="+6 탈룸 블레이드*다마스커스 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Duelist. Sword Muse. Spectral Dancer</font> -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="103099" name="+6 불트강 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended class>. Doombringer</font> -->
+		<set name="icon" val="icon.weapon_death_bringer_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

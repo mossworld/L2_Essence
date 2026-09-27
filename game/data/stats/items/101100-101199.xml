@@ -1,0 +1,1126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="101100" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +5. <font color=bbaa88><Bonus effect></font>. M. Def. +356. Received M. Skill Damage -1.8%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101101" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +5. <font color=bbaa88><Bonus effect></font>. M. Def. +374. Received M. Skill Damage -1.95%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101102" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +5. <font color=bbaa88><Bonus effect></font>. M. Def. +392. Received M. Skill Damage -2.1%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101103" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +6. <font color=bbaa88><Bonus effect></font>. M. Def. +410. Received M. Skill Damage -2.25%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101104" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +6. <font color=bbaa88><Bonus effect></font>. M. Def. +428. Received M. Skill Damage -2.4%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101105" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +6. <font color=bbaa88><Bonus effect></font>. M. Def. +446. Received M. Skill Damage -2.55%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101106" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +6. <font color=bbaa88><Bonus effect></font>. M. Def. +464. Received M. Skill Damage -2.7%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101107" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +6. <font color=bbaa88><Bonus effect></font>. M. Def. +482. Received M. Skill Damage -2.85%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101108" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +6. <font color=bbaa88><Bonus effect></font>. M. Def. +500. Received M. Skill Damage -3%. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101109" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.43%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101110" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.53%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101111" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.64%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101112" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.75%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101113" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.85%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101114" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.96%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101115" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.07%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101116" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.18%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101117" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.29%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101118" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.4%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101119" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.5%. Spiritshot damage +0.3%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101120" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.6%. Spiritshot damage +0.43%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101121" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.72%. Spiritshot damage +0.58%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101122" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.82%. Spiritshot damage +0.85%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101123" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.93%. Spiritshot damage +1.15%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101124" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.03%. Spiritshot damage +1.42%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101125" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.14%. Spiritshot damage +1.72%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101126" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.25%. Spiritshot damage +2%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101127" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.35%. Spiritshot damage +2.3%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101128" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +6. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.46%. Spiritshot damage +2.58%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101129" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +6. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.58%. Spiritshot damage +2.85%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101130" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +6. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.68%. Spiritshot damage +3.15%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101131" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +6. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.78%. Spiritshot damage +3.42%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101132" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +6. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.88%. Spiritshot damage +3.72%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101133" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +6. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -3%. Spiritshot damage +4%. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101134" name="마법서 - 내츄럴 스피릿" type="EtcItem">
+		<!-- A spellbook for learning the Nature Spirit skill. <Class>. Element Weaver. <Skill effect>. Increases HP/ MP Recovery Rate. Decreases debuff/ anomaly duration. When using light magic skills, applies a buff that enhances the caster with a certain chance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101135" name="마법서 - 마나 익스텐션" type="EtcItem">
+		<!-- A spellbook for learning the Mana Extension skill. <Class>. Element Weaver. <Skill effect>. Increases Max MP. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101136" name="마법서 - 탤런트 오브 매직" type="EtcItem">
+		<!-- A spellbook for learning the Talent for Magic skill. <Class>. Element Weaver. <Skill effect>. Increases M. Atk. Decreases M. Skill Cooldown. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101137" name="마법서 - 블레이징 템페스트" type="EtcItem">
+		<!-- A spellbook for learning the Blazing Tempest skill. <Class>. Element Weaver. <Skill effect>. Blazing vortex attacks nearby enemies. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101138" name="마법서 - 글레이셜 스트라이크" type="EtcItem">
+		<!-- A spellbook for learning the Glacier Strike skill. <Class>. Element Weaver. <Skill effect>. Icy wind attacks nearby enemies. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101139" name="마법서 - 블룸" type="EtcItem">
+		<!-- A spellbook for learning the Florescence skill. <Class>. Element Weaver. <Skill effect>. Attacks nearby enemies and sows Plants that grow up to Lv. 3. When using light magic against enemies affected by Plants, Mistilteinn is triggered. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101140" name="마법서 - 오디너리 메디테이션" type="EtcItem">
+		<!-- A spellbook for learning the Simple Meditation skill. <Class>. Element Weaver. <Skill effect>. Increases M. Skill Power/ Spiritshot damage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101141" name="마법서 - 크리티컬 매직" type="EtcItem">
+		<!-- A spellbook for learning the Critical Magic skill. <Class>. Element Weaver. <Skill effect>. Increases M. Skill Critical Rate and M. Skill Max Critical Rate. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101142" name="마법서 - 라이트 마스터리" type="EtcItem">
+		<!-- A spellbook for learning the Light Mastery skill. <Class>. Element Weaver. <Skill effect>. Reduces light magic skills casting time. When using light magic with a chance cancels Absolute skills and other skills of this kind. <font color="FED7A0">Bright Dance</font>. Number of attacks: 2 → 3. <font color="FED7A0">Claidheamh Soluis</font>. Increases attack range and max number of targets. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101143" name="마법서 - 클리브 솔리스" type="EtcItem">
+		<!-- A spellbook for learning the Claidheamh Soluis skill. <Class>. Element Weaver. <Skill effect>. Summons a shining sword that attacks nearby enemies. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101144" name="마법서 - 익스트림 매직" type="EtcItem">
+		<!-- A spellbook for learning the Extreme Magic skill. <Class>. Element Weaver. <Skill effect>. Enhances ice/ fire magic. <font color="FF0000">Fire Sphere</font>/ <font color="00AAFF">Ice Sphere</font>. Increases attack power and the number of attacks. <font color="FF0000">Blazing Tempest</font>/ <font color="00AAFF">Glacier Strike</font>. Increases power and attack range. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101145" name="마법서 - 내츄럴 어시밀레이션" type="EtcItem">
+		<!-- A spellbook for learning the One With Nature skill. <Class>. Element Weaver. <Skill effect>. Upgrades <font color="00FF00">Nature Spirit</font>. Decreases debuff/ anomaly duration. Enhances the activated buff. Increases HP/ MP Recovery Rate. Upgrades <font color="00FF00">Florescence</font>. Twining Plants appear immediately. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101146" name="마법서 - 세피로트" type="EtcItem">
+		<!-- A spellbook for learning the Sephiroth skill. <Class>. Element Weaver. <Skill effect>. Attacks several enemies with Powerful Light. When using the skill, the caster gets a buff that triggers an additional attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101147" name="마법서 - 세피로트: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Sephiroth: Master skill. <Class>. Element Weaver. <Skill effect>. Attacks several enemies with Powerful Light. Enhances nature magic used by the caster. Summons the Mother Tree, that applies a buff. When using the skill, the caster and the party members get a buff that triggers an additional attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101148" name="마법서 - 내츄럴 스피릿" type="EtcItem">
+		<!-- A spellbook for learning the Nature Spirit skill. <Class>. Element Weaver. <Skill effect>. Increases HP/ MP Recovery Rate. Decreases debuff/ anomaly duration. When using light magic skills, applies a buff that enhances the caster with a certain chance. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101149" name="마법서 - 마나 익스텐션" type="EtcItem">
+		<!-- A spellbook for learning the Mana Extension skill. <Class>. Element Weaver. <Skill effect>. Increases Max MP. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101150" name="마법서 - 탤런트 오브 매직" type="EtcItem">
+		<!-- A spellbook for learning the Talent for Magic skill. <Class>. Element Weaver. <Skill effect>. Increases M. Atk. Decreases M. Skill Cooldown. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101151" name="마법서 - 블레이징 템페스트" type="EtcItem">
+		<!-- A spellbook for learning the Blazing Tempest skill. <Class>. Element Weaver. <Skill effect>. Blazing vortex attacks nearby enemies. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101152" name="마법서 - 글레이셜 스트라이크" type="EtcItem">
+		<!-- A spellbook for learning the Glacier Strike skill. <Class>. Element Weaver. <Skill effect>. Icy wind attacks nearby enemies. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101153" name="마법서 - 블룸" type="EtcItem">
+		<!-- A spellbook for learning the Florescence skill. <Class>. Element Weaver. <Skill effect>. Attacks nearby enemies and sows Plants that grow up to Lv. 3. When using light magic against enemies affected by Plants, Mistilteinn is triggered. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101154" name="마법서 - 오디너리 메디테이션" type="EtcItem">
+		<!-- A spellbook for learning the Simple Meditation skill. <Class>. Element Weaver. <Skill effect>. Increases M. Skill Power/ Spiritshot damage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101155" name="마법서 - 크리티컬 매직" type="EtcItem">
+		<!-- A spellbook for learning the Critical Magic skill. <Class>. Element Weaver. <Skill effect>. Increases M. Skill Critical Rate and M. Skill Max Critical Rate. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101156" name="마법서 - 라이트 마스터리" type="EtcItem">
+		<!-- A spellbook for learning the Light Mastery skill. <Class>. Element Weaver. <Skill effect>. Reduces light magic skills casting time. When using light magic with a chance cancels Absolute skills and other skills of this kind. <font color="FED7A0">Bright Dance</font>. Number of attacks: 2 → 3. <font color="FED7A0">Claidheamh Soluis</font>. Increases attack range and max number of targets. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101157" name="마법서 - 클리브 솔리스" type="EtcItem">
+		<!-- A spellbook for learning the Claidheamh Soluis skill. <Class>. Element Weaver. <Skill effect>. Summons a shining sword that attacks nearby enemies. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101158" name="마법서 - 익스트림 매직" type="EtcItem">
+		<!-- A spellbook for learning the Extreme Magic skill. <Class>. Element Weaver. <Skill effect>. Enhances ice/ fire magic. <font color="FF0000">Fire Sphere</font>/ <font color="00AAFF">Ice Sphere</font>. Increases attack power and the number of attacks. <font color="FF0000">Blazing Tempest</font>/ <font color="00AAFF">Glacier Strike</font>. Increases power and attack range. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101159" name="마법서 - 내츄럴 어시밀레이션" type="EtcItem">
+		<!-- A spellbook for learning the One With Nature skill. <Class>. Element Weaver. <Skill effect>. Upgrades <font color="00FF00">Nature Spirit</font>. Decreases debuff/ anomaly duration. Enhances the activated buff. Increases HP/ MP Recovery Rate. Upgrades <font color="00FF00">Florescence</font>. Twining Plants appear immediately. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101160" name="마법서 - 세피로트" type="EtcItem">
+		<!-- A spellbook for learning the Sephiroth skill. <Class>. Element Weaver. <Skill effect>. Attacks several enemies with Powerful Light. When using the skill, the caster gets a buff that triggers an additional attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101161" name="마법서 - 세피로트: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Sephiroth: Master skill. <Class>. Element Weaver. <Skill effect>. Attacks several enemies with Powerful Light. Enhances nature magic used by the caster. Summons the Mother Tree, that applies a buff. When using the skill, the caster and the party members get a buff that triggers an additional attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101162" name="마법서 - 레지스트 다크니스" type="EtcItem">
+		<!-- A spellbook for learning the Dark Resistance skill. <Class>. Divine Templar. <Skill effect>. Increases Anomaly Resistance and resistance to HP absorption effects from attacks. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101163" name="마법서 - 노블 프로텍션" type="EtcItem">
+		<!-- A spellbook for learning the Noblesse Benefaction skill. <Class>. Divine Templar. <Skill effect>. Increases P./ M. Def./ Max HP. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101164" name="마법서 - 노블 엑스퍼트" type="EtcItem">
+		<!-- A spellbook for learning the Noblesse Mastery skill. <Class>. Divine Templar. <Skill effect>. Increases P. Atk./ P. Skill Critical Damage/ Speed. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101165" name="마법서 - 라이트 카운터" type="EtcItem">
+		<!-- A spellbook for learning the Light Counter skill. <Class>. Divine Templar. <Skill effect>. Reflects received damage. Summons <font color="FED7A0">Light Shield</font> when hit. After every hit <font color="FED7A0">Light Shield</font> disappears, and a counterattack is triggered. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101166" name="마법서 - 윙 리프" type="EtcItem">
+		<!-- A spellbook for learning the Flying Leap skill. <Class>. Divine Templar. <Skill effect>. Rapidly leaps to the target dealing damage. Knocks nearby enemies down with certain chance. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101167" name="마법서 - 프리빌리지" type="EtcItem">
+		<!-- A spellbook for learning the Privilege skill. <Class>. Divine Templar. <Skill effect>. Increases stats depending on the basic stats. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101168" name="마법서 - 저스티스" type="EtcItem">
+		<!-- A spellbook for learning the Judgment skill. <Class>. Divine Templar. <Skill effect>. Attacks nearby enemies with the sword of Light. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101169" name="마법서 - 라이트 디스차지" type="EtcItem">
+		<!-- A spellbook for learning the Light Discharge skill. <Class>. Divine Templar. <Skill effect>. <font color="00FFFF">Effect for allies</font>. Recovers HP over time. <font color="FF0000">Effect for enemies</font>. Inflicts powerful damage and stuns. <font color="FED7A0">Skill effect changes depending on the target.</font> -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101170" name="마법서 - 세이크리드 가디언" type="EtcItem">
+		<!-- A spellbook for learning the Divine Guardian skill. <Class>. Divine Templar. <Skill effect>. Summons Divine Guardian. Divine Guardian uses skills that match Divine Templar's skills. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101171" name="마법서 - 디코이" type="EtcItem">
+		<!-- A spellbook for learning the Decoy skill. <Class>. Divine Templar. <Skill effect>. Gets debuffs/ anomalies instead of party members. Increases P./ M. Def./ Max HP. Decreases all received Critical Rate/ received damage. Provokes surrounding enemies. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101172" name="마법서 - 노블레스 오블리주" type="EtcItem">
+		<!-- A spellbook for learning the Noblesse Circlet skill. <Class>. Divine Templar. <Skill effect>. Increases P. Atk. Increases P. Def. Increases P. Skill Critical Rate. Increases P. Skill Critical Damage. <Skill upgrade>. Upgrades the Sacral Strike/ Purify/ Judgment/ Light Discharge skill effects. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101173" name="마법서 - 새크로생티티" type="EtcItem">
+		<!-- A spellbook for learning the Holy Circle skill. <Class>. Divine Templar. <Skill effect>. <font color="00FFFF">Effect for allies</font>. Recovers HP over time and decreases received damage. <font color="FF0000">Effect for enemies</font>. Attacks the target with light. <font color="FED7A0">When using the skill, the respective effects are applied to both enemies and allies at the same time.</font> -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101174" name="마법서 - 새크로생티티: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Holy Circle: Master skill. <Class>. Divine Templar. <Skill effect>. <font color="00FFFF">Effect for allies</font>. Recovers HP over time and decreases received damage. <font color="FF0000">Effect for enemies</font>. Attacks the target with light. Additionally applies <font color="FED7A0">Light Prison</font>, that immobilizes target for a certain time. <font color="FED7A0">When using the skill, the respective effects are applied to both enemies and allies at the same time.</font> -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101175" name="마법서 - 레지스트 다크니스" type="EtcItem">
+		<!-- A spellbook for learning the Dark Resistance skill. <Class>. Divine Templar. <Skill effect>. Increases Anomaly Resistance and resistance to HP absorption effects from attacks. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101176" name="마법서 - 노블 프로텍션" type="EtcItem">
+		<!-- A spellbook for learning the Noblesse Benefaction skill. <Class>. Divine Templar. <Skill effect>. Increases P./ M. Def./ Max HP. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101177" name="마법서 - 노블 엑스퍼트" type="EtcItem">
+		<!-- A spellbook for learning the Noblesse Mastery skill. <Class>. Divine Templar. <Skill effect>. Increases P. Atk./ P. Skill Critical Damage/ Speed. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101178" name="마법서 - 라이트 카운터" type="EtcItem">
+		<!-- A spellbook for learning the Light Counter skill. <Class>. Divine Templar. <Skill effect>. Reflects received damage. Summons <font color="FED7A0">Light Shield</font> when hit. After every hit <font color="FED7A0">Light Shield</font> disappears, and a counterattack is triggered. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101179" name="마법서 - 윙 리프" type="EtcItem">
+		<!-- A spellbook for learning the Flying Leap skill. <Class>. Divine Templar. <Skill effect>. Rapidly leaps to the target dealing damage. Knocks nearby enemies down with certain chance. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101180" name="마법서 - 프리빌리지" type="EtcItem">
+		<!-- A spellbook for learning the Privilege skill. <Class>. Divine Templar. <Skill effect>. Increases stats depending on the basic stats. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101181" name="마법서 - 저스티스" type="EtcItem">
+		<!-- A spellbook for learning the Judgment skill. <Class>. Divine Templar. <Skill effect>. Attacks nearby enemies with the sword of Light. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101182" name="마법서 - 라이트 디스차지" type="EtcItem">
+		<!-- A spellbook for learning the Light Discharge skill. <Class>. Divine Templar. <Skill effect>. <font color="00FFFF">Effect for allies</font>. Recovers HP over time. <font color="FF0000">Effect for enemies</font>. Inflicts powerful damage and stuns. <font color="FED7A0">Skill effect changes depending on the target.</font> -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101183" name="마법서 - 세이크리드 가디언" type="EtcItem">
+		<!-- A spellbook for learning the Divine Guardian skill. <Class>. Divine Templar. <Skill effect>. Summons Divine Guardian. Divine Guardian uses skills that match Divine Templar's skills. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101184" name="마법서 - 디코이" type="EtcItem">
+		<!-- A spellbook for learning the Decoy skill. <Class>. Divine Templar. <Skill effect>. Gets debuffs/ anomalies instead of party members. Increases P./ M. Def./ Max HP. Decreases all received Critical Rate/ received damage. Provokes surrounding enemies. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101185" name="마법서 - 노블레스 오블리주" type="EtcItem">
+		<!-- A spellbook for learning the Noblesse Circlet skill. <Class>. Divine Templar. <Skill effect>. Increases P. Atk. Increases P. Def. Increases P. Skill Critical Rate. Increases P. Skill Critical Damage. <Skill upgrade>. Upgrades the Sacral Strike/ Purify/ Judgment/ Light Discharge skill effects. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101186" name="마법서 - 새크로생티티" type="EtcItem">
+		<!-- A spellbook for learning the Holy Circle skill. <Class>. Divine Templar. <Skill effect>. <font color="00FFFF">Effect for allies</font>. Recovers HP over time and decreases received damage. <font color="FF0000">Effect for enemies</font>. Attacks the target with light. <font color="FED7A0">When using the skill, the respective effects are applied to both enemies and allies at the same time.</font> -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101187" name="마법서 - 새크로생티티: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Holy Circle: Master skill. <Class>. Divine Templar. <Skill effect>. <font color="00FFFF">Effect for allies</font>. Recovers HP over time and decreases received damage. <font color="FF0000">Effect for enemies</font>. Attacks the target with light. Additionally applies <font color="FED7A0">Light Prison</font>, that immobilizes target for a certain time. <font color="FED7A0">When using the skill, the respective effects are applied to both enemies and allies at the same time.</font> -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="101188" name="레벨 달성 성장 패키지 Lv40" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 40+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93301" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="수호의 망토"/> <!-- Cloak of Protection - Sealed -->
+			<item id="101189" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv50"/> <!-- Kit: Level-up Growth Lv. 50 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101189" name="레벨 달성 성장 패키지 Lv50" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 50+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="92067" min="1" max="1" chance="100" name="오닉스 Lv2"/> <!-- Onyx Lv. 2 - Not available -->
+			<item id="92077" min="1" max="1" chance="100" name="스피넬 Lv2"/> <!-- Spinel Lv. 2 - Not available -->
+			<item id="92087" min="1" max="1" chance="100" name="지르콘 Lv2"/> <!-- Zircon Lv. 2 - Not available -->
+			<item id="92057" min="1" max="1" chance="100" name="코랄 Lv2"/> <!-- Coral Lv. 2 - Not available -->
+			<item id="92326" min="1" max="1" chance="100" name="브로치 Lv4"/> <!-- Brooch Lv. 4 - Sealed -->
+			<item id="101190" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv58"/> <!-- Kit: Level-up Growth Lv. 58 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101190" name="레벨 달성 성장 패키지 Lv58" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 58+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93128" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="이그니스 아가시온"/> <!-- Agathion Ignis - Sealed -->
+			<item id="93131" min="1" max="1" minEnchant="5" maxEnchant="5" chance="100" name="페트람 아가시온"/> <!-- Agathion Petram - Sealed -->
+			<item id="101199" min="1" max="1" chance="100" name="아가시온 팔찌 Lv4"/> <!-- Agathion Bracelet Lv. 4 - Sealed -->
+			<item id="101271" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv61"/> <!-- Kit: Level-up Growth Lv. 61 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101191" name="레벨 달성 성장 패키지 Lv64" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 64+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="92018" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="에바의 탈리스만"/> <!-- Talisman of Eva - Sealed -->
+			<item id="91745" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="아덴의 탈리스만"/> <!-- Talisman of Aden - Sealed -->
+			<item id="101200" min="1" max="1" chance="100" name="탈리스만 팔찌 Lv4"/> <!-- Talisman Bracelet Lv. 4 - Sealed -->
+			<item id="101272" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv67"/> <!-- Kit: Level-up Growth Lv. 67 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101192" name="레벨 달성 성장 패키지 Lv70" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 70+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97983" min="1" max="1" chance="100" name="+5 A그레이드 무기 교환 티켓"/> <!-- +5 A-grade Weapon Coupon - Sealed -->
+			<item id="101266" min="5" max="5" chance="100" name="+5 A그레이드 방어구 교환 티켓"/> <!-- +5 A-grade Armor Coupon - Sealed -->
+			<item id="101273" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv72"/> <!-- Kit: Level-up Growth Lv. 72 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101193" name="레벨 달성 성장 패키지 Lv74" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 74+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="100545" min="1" max="1" minEnchant="3" maxEnchant="3" chance="100" name="팬텀 마스크"/> <!-- Phantom Mask - Sealed -->
+			<item id="101194" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv76"/> <!-- Kit: Level-up Growth Lv. 76 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101194" name="레벨 달성 성장 패키지 Lv76" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 76+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94314" min="1" max="1" chance="100" name="엘릭서"/> <!-- Elixir - Sealed -->
+			<item id="91061" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="권능의 탈리스만"/> <!-- Talisman of Authority - Sealed -->
+			<item id="101195" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv80"/> <!-- Kit: Level-up Growth Lv. 80 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101195" name="레벨 달성 성장 패키지 Lv80" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 80+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93130" min="1" max="1" minEnchant="8" maxEnchant="8" chance="100" name="프로첼라 아가시온"/> <!-- Agathion Procella - Sealed -->
+			<item id="101196" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv82"/> <!-- Kit: Level-up Growth Lv. 82 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101196" name="레벨 달성 성장 패키지 Lv82" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 82+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93131" min="1" max="1" minEnchant="8" maxEnchant="8" chance="100" name="페트람 아가시온"/> <!-- Agathion Petram - Sealed -->
+			<item id="94166" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="영웅의 서클릿"/> <!-- Circlet of Hero - Sealed -->
+			<item id="101197" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv84"/> <!-- Kit: Level-up Growth Lv. 84 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101197" name="레벨 달성 성장 패키지 Lv84" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 84+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93129" min="1" max="1" minEnchant="8" maxEnchant="8" chance="100" name="네불라 아가시온"/> <!-- Agathion Nebula - Sealed -->
+			<item id="101198" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv85"/> <!-- Kit: Level-up Growth Lv. 85 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101198" name="레벨 달성 성장 패키지 Lv85" type="EtcItem">
+		<!-- Double-click to obtain the following. <Prerequisite>. Required level: 85+. -->
+		<set name="icon" val="icon.bm_starter_package_boosting_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93128" min="1" max="1" minEnchant="8" maxEnchant="8" chance="100" name="이그니스 아가시온"/> <!-- Agathion Ignis - Sealed -->
+			<item id="101291" min="1" max="1" chance="100" name="레벨 달성 성장 패키지 Lv86"/> <!-- Kit: Level-up Growth Lv. 86 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="101199" name="아가시온 팔찌 Lv4" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. Agathion slots +5. STR +1. INT +1. CON +1. MEN +1. Paralysis Resistance +5%. Shock Resistance +5%. Sleep Resistance +5%. Silence Resistance +5%. Fear Resistance +5%.. <font color=ff6666>Cannot be compounded.</font> -->
+		<set name="icon" val="icon.high_agathion_bracelet_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="lbracelet"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="100"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50565" level="4"/> <!-- Agathion Bracelet Lv. 4 -->
+		</skills>
+	</item>
+</list>

@@ -1,0 +1,1203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3200" name="미공급 - 블랙 윌로우의 잎" type="EtcItem">
+		<!-- The item is not available. A leaf obtained by slaying Black Willow Lurker. Take it to Blight Treant who can be found at the Shillien Temple in the eastern part of Dark Elf Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3201" name="미공급 - 티 미 리란의 수액" type="EtcItem">
+		<!-- The item is not available. Sap of Blight Treant. Take it to Arkenia at the Altar of Rites. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3202" name="미공급 - 아케니아의 편지" type="EtcItem">
+		<!-- The item is not available. A letter written by Arkenia that the initiation ceremony of the Shillien Circle is complete. Take it to Great Hierarch Thifiell in Dark Elf Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3203" name="미공급 - 영광의 증표" type="EtcItem">
+		<!-- The item is not available. A mark given to those who have passed the Testimony of Glory. Required for changing class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3204" name="미공급 - 보키안의 지령서" type="EtcItem">
+		<!-- The item is not available. Obtain 10 units of each of the following items: Manashen Shard from Manashen Gargoyles in the Ivory Tower Crater, Tyrant's Talons from Tyrants in the Wasteland, and Guardian Basilisk Fang from Guardian Basilisks in the Death Pass. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3205" name="미공급 - 마나센의 파편" type="EtcItem">
+		<!-- The item is not available. Shard of the broken Manashen. Collect 10 and take them back to Prefect Vokian at the Orc Guild of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3206" name="미공급 - 틸런트의 발톱" type="EtcItem">
+		<!-- The item is not available. The talons plucked from a slain Tyrant. Collect 10 and take them back to Prefect Vokian at the Orc Guild of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3207" name="미공급 - 가디언 바실리스크의 이빨" type="EtcItem">
+		<!-- The item is not available. The fangs of a Guardian Basilisk slain in Death Pass. Collect 10 and take them back to Prefect Vokian at the Orc Guild of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3208" name="미공급 - 보키안의 지령서" type="EtcItem">
+		<!-- The item is not available. An order from Prefect Vokian of the Giran's Orc Guild to find Gandi Chief Chianta in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3209" name="미공급 - 권위의 목걸이" type="EtcItem">
+		<!-- The item is not available. Symbol given to those representing Pa'agrio Lord Kakai. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3210" name="미공급 - 치안타의 지령서" type="EtcItem">
+		<!-- The item is not available. Orders of Gandi Chief Chianta to collect 5 Flame Scepters from chiefs of lesser Orc tribes. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3211" name="미공급 - 브래카의 옥새" type="EtcItem">
+		<!-- The item is not available. The flame scepter obtained from the Breka Chief. Collect the 5 flame scepters from the lesser Orc tribes and take them to Gandi Chief Chianta in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3212" name="미공급 - 엔쿠의 옥새" type="EtcItem">
+		<!-- The item is not available. The flame scepter obtained from the Enku Chief. Collect the 5 flame scepters from the lesser Orc tribes and take them to Gandi Chief Chianta in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3213" name="미공급 - 부쿠의 옥새" type="EtcItem">
+		<!-- The item is not available. The flame scepter obtained from the Vuku Chief. Collect the 5 flame scepters from the lesser Orc tribes and take them to Gandi Chief Chianta in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3214" name="미공급 - 투렉의 옥새" type="EtcItem">
+		<!-- The item is not available. The flame scepter obtained from the Turek Orc Chief. Collect the 5 flame scepters from the lesser Orc tribes and take them to Gandi Chief Chianta in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3215" name="미공급 - 레운트의 옥새" type="EtcItem">
+		<!-- The item is not available. The flame scepter obtained from the Tunath Orc Chief. Collect the 5 flame scepters from the lesser Orc tribes and take them to Gandi Chief Chianta in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3216" name="미공급 - 치안타의 지령서" type="EtcItem">
+		<!-- The item is not available. Gandi Chief Chianta's orders. The instructions are to come back for further orders after reaching level 38. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3217" name="미공급 - 치안타의 지령서" type="EtcItem">
+		<!-- The item is not available. Gandi Chief Chianta's orders to collect 20 of Timak and Tamlin Orc heads. You can find the former in Timak Orc Barracks and the latter - near the Hunters' Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3218" name="미공급 - 탐린 오크의 머리" type="EtcItem">
+		<!-- The item is not available. A severed head of a Tamlin Orc. Collect 20 of these and take them to Gandi Chief Chianta in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3219" name="미공급 - 티막 오크의 머리" type="EtcItem">
+		<!-- The item is not available. A severed head of a Timak Orc. Collect 20 of these and take them to Gandi Chief Chianta in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3220" name="미공급 - 옥새를 담은 상자" type="EtcItem">
+		<!-- The item is not available. Box containing the 5 flame scepters recovered from the lesser orc tribes. Take this to Seer Tanapi of the Orc Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3221" name="미공급 - 파시카의 머리" type="EtcItem">
+		<!-- The item is not available. A head of Voltar's son Pashika. Take it to Breka Chief Voltar in Breka's Stronghold. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3222" name="미공급 - 볼투스의 머리" type="EtcItem">
+		<!-- The item is not available. A head of Voltar's son Vultus. Take it to Breka Chief Voltar in Breka's Stronghold. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3223" name="미공급 - 볼타르의 장갑" type="EtcItem">
+		<!-- The item is not available. Gloves thrown out by Breka Chief Voltar. Slay Pashika and Vultus, sons of Voltar. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3224" name="미공급 - 엔쿠 군장의 머리" type="EtcItem">
+		<!-- The item is not available. The head of Enku Orc Prefect. Show it to Enku Chief Kepra it the south-eastern part of the Plains of Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3225" name="미공급 - 케프라의 장갑" type="EtcItem">
+		<!-- The item is not available. Gloves thrown down by Enku Chief Kepra. Go and slay Enku Orc Prefect. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3226" name="미공급 - 마쿰 버그베어의 머리" type="EtcItem">
+		<!-- The item is not available. The head of Makum Bugbear. Show it to Turek Chief Burai. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3227" name="미공급 - 브레이의 장갑" type="EtcItem">
+		<!-- The item is not available. Gloves thrown down by Turek Chief Burai. Go and slay Makum Bugbears. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3228" name="미공급 - 마나키아의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Priest Manakia of the Orc Guild in Giran. Take it to Breka Chief. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3229" name="미공급 - 마나키아의 편지" type="EtcItem">
+		<!-- The item is not available. Letter of Priest Manakia of the Orc Guild of Giran. Take it to Enku Orc Chief. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3230" name="미공급 - 카스만의 편지" type="EtcItem">
+		<!-- The item is not available. Prefect Kasman's letter. Take this and go to the Vuku Orc Chief. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3231" name="미공급 - 카스만의 편지" type="EtcItem">
+		<!-- The item is not available. Prefect Kasman's letter. Take this and go to the Turek Orc Chief. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3232" name="미공급 - 카스만의 편지" type="EtcItem">
+		<!-- The item is not available. Prefect Kasman's letter. Take this and go to the Lennunt Orc Chief. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3233" name="미공급 - 드리코의 계약서" type="EtcItem">
+		<!-- The item is not available. Vuku Chief Driko's contract. The contract contains instructions to hunt the Marsh Stakato Drones in the Cruma Marshlands. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3234" name="미공급 - 늪 스타카토의 허물" type="EtcItem">
+		<!-- The item is not available. The husks of a Marsh Stakato Drone. Collect 30 of these and take them to Vuku Chief Driko. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3235" name="미공급 - 타나피의 지령서" type="EtcItem">
+		<!-- The item is not available. Seer Tanapi's orders. Hunt the Ragna Orc Chief and seers and recover the scepter of Tantosc. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3236" name="미공급 - 탄토스의 옥새" type="EtcItem">
+		<!-- The item is not available. The flame scepter of the now-perished Tantos tribe. Take this to Seer Tanapi. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3237" name="미공급 - 의례의 상자" type="EtcItem">
+		<!-- The item is not available. Box containing the scepters recovered from the Orcs of the Tantos tribe. Take this to Pa'agrio Lord Kakai. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3238" name="미공급 - 번영의 증표" type="EtcItem">
+		<!-- The item is not available. A mark given to those who have passed the Testimony of Prosperity. Required for the class change. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3239" name="미공급 - 시험의 반지" type="EtcItem">
+		<!-- The item is not available. Ring given to those Dwarves attempting the Testimony of Prosperity. Find the 4 proofs of prosperity. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3240" name="미공급 - 시험의 반지" type="EtcItem">
+		<!-- The item is not available. Ring given to those Dwarves attempting the Testimony of Prosperity. Find Maphr's tablet, which contains the ultimate secrets of geometry. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3241" name="미공급 - 오래 된 금전출납부" type="EtcItem">
+		<!-- The item is not available. An old account book of Lockirin from the Iron Gate Guild. Can be considered the proof of wealth. Take it to Warehouse Keeper Parman in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3242" name="미공급 - 축복 받은 씨앗" type="EtcItem">
+		<!-- The item is not available. A blessed seed that symbolizes fertility. Take it to Warehouse Keeper Parman in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3243" name="미공급 - 에밀리의 레시피" type="EtcItem">
+		<!-- The item is not available. Recipe good for childbirth and childbirth recovery. The proof of fertility. Take this to Warehouse Keeper Parman of Town of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3244" name="미공급 - 리리스의 엘븐 와퍼" type="EtcItem">
+		<!-- The item is not available. Food regarded as the secret to the Elves' longevity. The proof of health. Take this to Warehouse Keeper Parman of Town of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3245" name="미공급 - 마프르의 석판 조각" type="EtcItem">
+		<!-- The item is not available. Fragment of Maphr's tablet, which contains the ultimate secrets of geometry. Take this to Warehouse Keeper Parman of Town of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3246" name="미공급 - 회수 자격증" type="EtcItem">
+		<!-- The item is not available. License that allows the bearer to collect guild contributions. Seek out those who still owe contributions and collect the funds from them. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3247" name="미공급 - 락키린의 독촉장" type="EtcItem">
+		<!-- The item is not available. Notice that guild contributions are due. Take this to Elder Spiron of the Elder Council of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3248" name="미공급 - 락키린의 독촉장" type="EtcItem">
+		<!-- The item is not available. A note about the guild contributions. Take it to Elder Balanki of the Elder Council in the Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3249" name="미공급 - 락키린의 독촉장" type="EtcItem">
+		<!-- The item is not available. Notice that guild contributions are due. Take this to Elder Keef of the Elder Council of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3250" name="미공급 - 락키린의 독촉장" type="EtcItem">
+		<!-- The item is not available. Notice that guild contributions are due. Take this to Elder Filaur of the Elder Council of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3251" name="미공급 - 락키린의 독촉장" type="EtcItem">
+		<!-- The item is not available. Notice that guild contributions are due. Take this to Elder Arin of the Elder Council of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3252" name="미공급 - 상인 챠리의 기부금" type="EtcItem">
+		<!-- The item is not available. Trader Shari's guild contribution. Take this to Elder Spiron of the Elder Council of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3253" name="미공급 - 상인 미온의 기부금" type="EtcItem">
+		<!-- The item is not available. Trader Mion's guild contribution. Take this to Elder Balanki of the Elder Council of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3254" name="미공급 - 마리프 레드보닛의 기부금" type="EtcItem">
+		<!-- The item is not available. Trader Maryse Redbonnet's guild contribution. Take this to Elder Balanki of the Elder Council of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3255" name="미공급 - 마리프 레드보닛의 의뢰서" type="EtcItem">
+		<!-- The item is not available. A note containing Maryse Redbonnet's request that you bring back 10 Animal Skins for crafting. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3256" name="미공급 - 마스터 토마의 기부금" type="EtcItem">
+		<!-- The item is not available. Trader Master Toma's guild contribution. Take this to Elder Arin of the Elder Council of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3257" name="미공급 - 볼터의 납부 영수증" type="EtcItem">
+		<!-- The item is not available. Miner Bolter's receipt. Take this to Elder Filaur of the Elder Council of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3258" name="미공급 - 기부금 영수증" type="EtcItem">
+		<!-- The item is not available. A receipt from Elder Spiron. Collect 5 receipts from various guilds and take them to First Elder Lockirin in the Hall of Elders of the Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3259" name="미공급 - 기부금 영수증" type="EtcItem">
+		<!-- The item is not available. The contribution receipt received from Elder Balanki. Collect 5 receipts from various guilds and take them to First Elder Lockirin at the Hall of Elders of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3260" name="미공급 - 기부금 영수증" type="EtcItem">
+		<!-- The item is not available. The contribution receipt received from Elder Keef. Collect 5 receipts from various guilds and take them to First Elder Lockirin at the Hall of Elders of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3261" name="미공급 - 기부금 영수증" type="EtcItem">
+		<!-- The item is not available. The contribution receipt received from Elder Filaur. Collect 5 receipts from various guilds and take them to First Elder Lockirin at the Hall of Elders of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3262" name="미공급 - 기부금 영수증" type="EtcItem">
+		<!-- The item is not available. The contribution receipt received from Elder Arin. Collect 5 receipts from various guilds and take them to First Elder Lockirin at the Hall of Elders of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3263" name="미공급 - 토로코의 위임장" type="EtcItem">
+		<!-- The item is not available. The bearer of this procuration hereby agrees to make contributions on behalf of Torocco. Take this to Elder Keef of the Elder Council of Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3264" name="미공급 - 브라이트의 재료목록" type="EtcItem">
+		<!-- The item is not available. A list of ingredients written by Guard Bright: 20 Mandragora Petals, 10 bunches of Crimson Moss. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3265" name="미공급 - 만드라고라의 꽃잎" type="EtcItem">
+		<!-- The item is not available. Mandragora Petal. Collect 20 of these and take them to Guard Bright at the eastern part of Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3266" name="미공급 - 진홍색 이끼" type="EtcItem">
+		<!-- The item is not available. Crimson Moss obtained from giant red ants. Collect 10 of these and take them to Guard Bright at the eastern part of Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3267" name="미공급 - 만드라고라 꽃다발" type="EtcItem">
+		<!-- The item is not available. A bouquet made of Mandragora Petals and Crimson Moss. Take it to Emily in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3268" name="미공급 - 파만의 지시서" type="EtcItem">
+		<!-- The item is not available. Note containing Warehouse Keeper Parman's instructions. The instructions are to come back after reaching level 38. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3269" name="미공급 - 파만의 편지" type="EtcItem">
+		<!-- The item is not available. Warehouse Keeper Parman's letter. Bring it to Maestro Nikola. You can find him near Cruma Tower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3270" name="미공급 - 점토 반죽" type="EtcItem">
+		<!-- The item is not available. Piece of clay that Maestro Nikola has given when you met near Cruma Tower. Use this to make a copy of the keyhole from the Lesser Giant's box. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3271" name="미공급 - 열쇠구멍의 본" type="EtcItem">
+		<!-- The item is not available. The keyhole pattern made from clay dough. Take this to Maestro Nikola. You can find him near Cruma Tower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3272" name="미공급 - 니콜라의 목록" type="EtcItem">
+		<!-- The item is not available. 20 Stakato Shells obtained by slaying Stakato in Cruma Marshlands, 10 Toad Lord Sacs obtained by slaying a Toad Lord in Cruma Marshlands, 10 Spider Thorns obtained by slaying a Marsh Spider in Cruma Marshlands and 10 D-grade Crystals. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3273" name="미공급 - 스타카토의 껍질" type="EtcItem">
+		<!-- The item is not available. A shell of Marsh Stakato. Key ingredient for making Lesser Giant's Key. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3274" name="미공급 - 인피키오의 독샘" type="EtcItem">
+		<!-- The item is not available. A venom sac from the neck of Toad Lord. Key ingredient for making Lesser Giant's Key. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3275" name="미공급 - 늪 거미의 가시" type="EtcItem">
+		<!-- The item is not available. Thorn removed from the shell of a Marsh Spider. Key ingredient in making the Lesser Giant's Key. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3276" name="미공급 - 챔피온의 증표" type="EtcItem">
+		<!-- The item is not available. A mark given to those who have passed the Test of the Champion. Required for changing class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3277" name="미공급 - 아스칼론의 편지" type="EtcItem">
+		<!-- The item is not available. Veteran Ascalon's letter. Take this to Mason in the Town of Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3278" name="미공급 - 매이슨의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Mason to Veteran Ascalon in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3279" name="미공급 - 강철의 장미단 반지" type="EtcItem">
+		<!-- The item is not available. Ring given by Mason. The ring is engraved with the symbol of the iron rose. Complete the revenge in place of Mason. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3280" name="미공급 - 아스칼론의 편지" type="EtcItem">
+		<!-- The item is not available. Veteran Ascalon's letter. Take it to Merchant Groot in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3281" name="미공급 - 흰장미의 기장" type="EtcItem">
+		<!-- The item is not available. An insignia given by Dye Merchant Groot. It was formerly worn by healers of the Iron Rose. Help Groot in his material gathering. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3282" name="미공급 - 그루트의 편지" type="EtcItem">
+		<!-- The item is not available. Letter from Trader Groot to Veteran Ascalon in Town of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3283" name="미공급 - 아스칼론의 편지" type="EtcItem">
+		<!-- The item is not available. Veteran Ascalon's letter. Take this to Captain Mouen of the Town of Oren. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3284" name="미공급 - 모우엔의 지령서" type="EtcItem">
+		<!-- The item is not available. Orders to collect 10 heads of Road Scavengers or Road Collectors in Death Pass. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3285" name="미공급 - 모우엔의 지령서" type="EtcItem">
+		<!-- The item is not available. Orders to destroy the Leto Lizardmen on the Plains of the Lizardmen and bring back 10 of their fangs. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3286" name="미공급 - 모우엔의 편지" type="EtcItem">
+		<!-- The item is not available. Letter from Captain Mouen to Veteran Ascalon of Town of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3287" name="미공급 - 하피의 알" type="EtcItem">
+		<!-- The item is not available. An egg obtained after slaying a Harpy. Collect 30 of these and take them to Merchant Groot in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3288" name="미공급 - 메두사의 독" type="EtcItem">
+		<!-- The item is not available. Venom obtained after slaying a Medusa. Collect 30 of these and take them to Merchant Groot in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3289" name="미공급 - 윈드수스의 담즙" type="EtcItem">
+		<!-- The item is not available. Bile obtained after slaying a Windsus. Collect 30 of these and take them to Merchant Groot in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3290" name="미공급 - 블러디액스 친위대의 머리" type="EtcItem">
+		<!-- The item is not available. The head of Bloody Axe. Collect 10 of these and return to Mason in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3291" name="미공급 - 로드 랫맨의 머리" type="EtcItem">
+		<!-- The item is not available. The severed head of a Road Scavenger or Road Collector. Collect 10 of them and take them to Captain Mouen. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3292" name="미공급 - 레토 리자드맨의 송곳니" type="EtcItem">
+		<!-- The item is not available. Fang from a slain Leto Lizardman from the Plains of the Lizardmen. Collect 10 of these and take them to Captain Mouen. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3293" name="미공급 - 사지타리우스의 증표" type="EtcItem">
+		<!-- The item is not available. A mark given to those who have passed the Test of the Sagittarius. Required for changing class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3294" name="미공급 - 버나드의 소개장" type="EtcItem">
+		<!-- The item is not available. Take this letter and go to Sagittarius Hamil of the Village of Floran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3295" name="미공급 - 하밀의 편지" type="EtcItem">
+		<!-- The item is not available. Deliver this letter to Sir Aron Tanford who can be found near the Ol Mahum Checkpoint at the southern part of the Wastelands. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3296" name="미공급 - 하밀의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Sagittarius Hamil to Prefect Vokian of the Orc Guild in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3297" name="미공급 - 하밀의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Sagittarius Hamil to Magister Gauen at the Ivory Tower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3298" name="미공급 - 첫 번째 사냥꾼의 룬" type="EtcItem">
+		<!-- The item is not available. Stone engraved with a hunter's rune. Collect 10 of these and take them to Hamil of the Village of Floran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3299" name="미공급 - 두 번째 사냥꾼의 룬" type="EtcItem">
+		<!-- The item is not available. Rune obtained from Breka Orcs. Collect 10 of these and take them, along with the Snake Amulet, to Prefect Vokian of the Orc Guild of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+</list>

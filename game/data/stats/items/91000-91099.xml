@@ -1,0 +1,1538 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="91000" name="래쉬의 보급품 - 바이움" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_treasure_box"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90994" min="1" max="1" chance="100" name="손상된 바이움의 반지"/> <!-- Damaged Baium's Ring -->
+			<item id="90995" min="1" max="1" chance="0.01" name="발터스 기사단의 연마제"/> <!-- Balthus Knights' Varnish -->
+			<item id="90997" min="1" max="1" chance="0.01" name="빛나는 발터스 기사단의 연마제"/> <!-- Balthus Knights' Shining Varnish -->
+			<item id="90998" min="1" max="1" chance="0.01" name="찬란한 발터스 기사단의 연마제"/> <!-- Balthus Knights' Glittering Varnish -->
+		</capsuled_items>
+	</item>
+	<item id="91001" name="3레벨 보석 3종 셋트함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_shhadai"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90863" min="1" max="1" chance="100" name="다이아몬드 Lv3"/> <!-- Diamond Lv. 3 - 30-day -->
+			<item id="90864" min="1" max="1" chance="100" name="펄 Lv3"/> <!-- Pearl Lv. 3 - 30-day -->
+			<item id="90865" min="1" max="1" chance="100" name="제이드 Lv3"/> <!-- Jade Lv. 3 - 30-day -->
+		</capsuled_items>
+	</item>
+	<item id="91002" name="4레벨 보석 5종 셋트함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_shhadai"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90980" min="1" max="1" chance="100" name="펄 Lv4"/> <!-- Pearl Lv. 4 - 30-day -->
+			<item id="90981" min="1" max="1" chance="100" name="다이아몬드 Lv4"/> <!-- Diamond Lv. 4 - 30-day -->
+			<item id="90982" min="1" max="1" chance="100" name="제이드 Lv4"/> <!-- Jade Lv. 4 - 30-day -->
+			<item id="90983" min="1" max="1" chance="100" name="가넷 Lv4"/> <!-- Garnet Lv. 4 - 30-day -->
+			<item id="90984" min="1" max="1" chance="100" name="바이탈스톤 Lv4"/> <!-- Vital Stone Lv. 4 - 30-day -->
+		</capsuled_items>
+	</item>
+	<item id="91003" name="아가시온 팔찌 Lv1" type="Armor">
+		<!-- Activates 2 Agathion slots. -->
+		<set name="icon" val="icon.agathion_magmeld_teleport"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="lbracelet"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="100"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="1440"/>
+		<skills>
+			<skill id="51025" level="1"/> <!-- Not used - Expand Primary and Secondary Agathion Slots -->
+		</skills>
+	</item>
+	<item id="91004" name="속죄자 아가시온" type="Armor">
+		<!-- Equipping it in the main slot summons Penitent Agathion and enables its primary skills. -->
+		<set name="icon" val="icon.etc_leash_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="agathion"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="50"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="51069" level="1"/> <!-- Hour of Penitence -->
+		</skills>
+	</item>
+	<item id="91005" name="속죄의 증거" type="EtcItem">
+		<!-- Evidence of the atonement obtained after the time of suffering for evil deeds. Take it to the Dark Judge to lower the PK count. -->
+		<set name="icon" val="icon.etc_powder_white_i00"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="STEEL"/>
+	</item>
+	<item id="91006" name="손상된 자켄의 귀걸이" type="Armor">
+		<!-- Can be enchanted up to +10 with Balthus Knights' Varnish, Balthus Knights' Shining Varnish, or Balthus Knights' Glittering Varnish. Starting from +4, adds various effects. After enchanting to +10, can be exchanged for Zaken's Earring Lv. 1. -->
+		<set name="icon" val="icon.accessory_earring_of_zaken_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rear;lear"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_sellable" val="false"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_limit" val="10"/>
+		<stats>
+			<stat type="mDef">50</stat>
+		</stats>
+	</item>
+	<item id="91007" name="래쉬의 보급품 - 자켄" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_king_box"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91006" min="1" max="1" chance="100" name="손상된 자켄의 귀걸이"/> <!-- Damaged Zaken's Earring -->
+			<item id="90995" min="1" max="1" chance="0.01" name="발터스 기사단의 연마제"/> <!-- Balthus Knights' Varnish -->
+			<item id="90997" min="1" max="1" chance="0.01" name="빛나는 발터스 기사단의 연마제"/> <!-- Balthus Knights' Shining Varnish -->
+			<item id="90998" min="1" max="1" chance="0.01" name="찬란한 발터스 기사단의 연마제"/> <!-- Balthus Knights' Glittering Varnish -->
+		</capsuled_items>
+	</item>
+	<item id="91008" name="드래곤의 유물 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.card_event_blue_box"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51071" level="1"/> <!-- Dragon's Relic Box -->
+		</skills>
+	</item>
+	<item id="91009" name="화룡의 유물 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.card_event_red_box"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51072" level="1"/> <!-- Fire Dragon's Relic Box -->
+		</skills>
+	</item>
+	<item id="91010" name="지룡의 유물 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.card_event_black_box"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="49081" min="1" max="1" chance="3.030303" name="경험치 향상 주문서"/> <!-- XP Growth Scroll -->
+			<item id="49663" min="2" max="2" chance="3.030303" name="특급 HP 물약"/> <!-- Special HP Recovery Potion -->
+			<item id="90182" min="120" max="120" chance="3.030303" name="빛나는 황금 미끼"/> <!-- Shining Golden Bait -->
+			<item id="13016" min="2" max="2" chance="3.030303" name="자유 텔레포트 주문서"/> <!-- My Teleport Scroll -->
+			<item id="90960" min="1" max="1" chance="3.030303" name="곰돌이 변신 주문서"/> <!-- Transformation Scroll: Teddy Bear -->
+			<item id="49765" min="1" max="1" chance="3.030303" name="수호탑의 축복 주문서 (기간제)"/> <!-- Life Control Tower's Scrolls of Blessing (Time-limited) -->
+			<item id="90954" min="1" max="1" chance="3.030303" name="강태공의 축복(2시간)"/> <!-- Master Fisherman's Blessing (2-hour) -->
+			<item id="90014" min="1" max="1" chance="3.030303" name="상급 생명의 돌 - 무기"/> <!-- High-grade Life Stone - Weapon -->
+			<item id="90013" min="1" max="1" chance="3.030303" name="중급 생명의 돌 - 무기"/> <!-- Mid-grade Life Stone - Weapon -->
+			<item id="90045" min="1" max="1" chance="3.030303" name="마력의 서판"/> <!-- Magic Tablet -->
+			<item id="90137" min="1" max="1" chance="3.030303" name="희미하게 빛나는 펜던트 연마제"/> <!-- Matte Pendant Polish -->
+			<item id="91011" min="1" max="1" chance="3.030303" name="드래곤의 염약 상자"/> <!-- Dragon Colorant Box - 3rd Class -->
+			<item id="49853" min="1" max="1" chance="3.030303" name="베긴스의 업그레이드 비법서 - V"/> <!-- Secret Book of Baggins' Enchantments - V -->
+			<item id="49862" min="1" max="1" chance="3.030303" name="결계의 팔찌 상자"/> <!-- Bracelet of Border Chest -->
+			<item id="90934" min="1" max="1" chance="3.030303" name="브로치 Lv3"/> <!-- Brooch Lv. 3 -->
+			<item id="90935" min="1" max="1" chance="3.030303" name="Lv4 보석상자"/> <!-- Jewel Box Lv. 4 - Not available -->
+			<item id="49513" min="1" max="1" chance="3.030303" name="빛나는 펜던트 연마제 상자"/> <!-- Shining Pendant Polish box -->
+			<item id="90138" min="1" max="1" chance="3.030303" name="찬란한 펜던트 연마제"/> <!-- Glittering Pendant Polish -->
+			<item id="90497" min="1" max="1" chance="3.030303" name="화룡의 벨트"/> <!-- Fire Dragon Belt -->
+			<item id="90496" min="1" max="1" chance="3.030303" name="지룡의 벨트"/> <!-- Earth Dragon Belt -->
+			<item id="49683" min="1" max="1" chance="3.030303" name="바이움 탈리스만"/> <!-- Talisman of Baium -->
+			<item id="90498" min="1" max="1" chance="3.030303" name="신비한 보석함"/> <!-- Mystic Jewelry Box - Not available -->
+			<item id="49681" min="1" max="1" chance="3.030303" name="오만의 탈리스만 Lv6"/> <!-- Talisman of Insolence Lv. 6 -->
+			<item id="6662" min="1" max="1" chance="3.030303" name="코어의 반지"/> <!-- Core's Ring -->
+			<item id="6661" min="1" max="1" chance="3.030303" name="오르펜의 귀걸이"/> <!-- Orfen's Earring -->
+			<item id="6660" min="1" max="1" chance="3.030303" name="여왕개미의 반지"/> <!-- Queen Ant's Ring -->
+			<item id="49580" min="1" max="1" chance="3.030303" name="바이움의 반지"/> <!-- Baium's Ring -->
+			<item id="90763" min="1" max="1" chance="3.030303" name="자켄의 귀걸이"/> <!-- Zaken's Earring -->
+			<item id="90532" min="1" max="1" chance="3.030303" name="+2 레어 액세서리 상자"/> <!-- +2 Rare Accessory Pack -->
+			<item id="49738" min="1" max="1" chance="3.030303" name="봉인된 축복받은 결계의 탈리스만"/> <!-- Sealed Blessed Talisman of Border -->
+			<item id="49849" min="1" max="1" chance="3.030303" name="+10 지룡의 펜던트 상자"/> <!-- +10 Earth Dragon Pendant -->
+			<item id="49848" min="1" max="1" chance="3.030303" name="+10 화룡의 펜던트 상자"/> <!-- +10 Fire Dragon Pendant Pack -->
+			<item id="90992" min="1" max="1" chance="3.030303" name="안타라스의 귀걸이"/> <!-- Antharas' Earring -->
+		</capsuled_items>
+	</item>
+	<item id="91011" name="드래곤의 염약 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.card_event_gold_box"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51074" level="1"/> <!-- Dragon Dye Box -->
+		</skills>
+	</item>
+	<item id="91012" name="최상급 A그레이드 무기 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51075" level="1"/> <!-- Top-grade A-grade Weapon Pack -->
+		</skills>
+	</item>
+	<item id="91013" name="무기 재료/레시피 상자 - 최상급 A그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="91025" min="1" max="1" chance="9.090909" name="데이몬의 결정 재료/레시피 상자"/> <!-- Daimon's Crystal Recipe/ Material Pack -->
+			<item id="91024" min="1" max="1" chance="9.090909" name="핸드 오브 카브리오 재료/레시피 상자"/> <!-- Cabrio's Hand Ingredient/Recipe Box -->
+			<item id="91023" min="1" max="1" chance="9.090909" name="테미스의 혀 재료/레시피 상자"/> <!-- Themis' Tongue Ingredient/Recipe Box -->
+			<item id="91022" min="1" max="1" chance="9.090909" name="소베크 허리케인 재료/레시피 상자"/> <!-- Sobekk's Hurricane Ingredient/Recipe Box -->
+			<item id="91021" min="1" max="1" chance="9.090909" name="샤이드 보우 재료/레시피 상자"/> <!-- Shyeed's Bow Ingredient/Recipe Box -->
+			<item id="91020" min="1" max="1" chance="9.090909" name="타이폰 스피어 재료/레시피 상자"/> <!-- Tiphon's Spear Ingredient/Recipe Box -->
+			<item id="91019" min="1" max="1" chance="9.090909" name="나가 스톰 재료/레시피 상자"/> <!-- Naga Storm Ingredient/Recipe Box -->
+			<item id="91018" min="1" max="1" chance="9.090909" name="베헤모스의 소리굽쇠 재료/레시피 상자"/> <!-- Behemoth's Tuning Fork Material/ Recipe Pack -->
+			<item id="91017" min="1" max="1" chance="9.090909" name="바라키엘 액스 재료/레시피 상자"/> <!-- Barakiel's Axe Recipe/ Material Pack -->
+			<item id="91016" min="1" max="1" chance="9.090909" name="소드 오브 이포스 재료/레시피 상자"/> <!-- Ipos' Sword Recipe/ Material Pack -->
+			<item id="91015" min="1" max="1" chance="9.090909" name="시르 블레이드 재료/레시피 상자"/> <!-- Sirra's Blade Ingredient/Recipe Box -->
+		</capsuled_items>
+	</item>
+	<item id="91014" name="무기 레시피 상자 - 최상급 A그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51077" level="1"/> <!-- Weapon Recipe Box (Best A-grade) -->
+		</skills>
+	</item>
+	<item id="91015" name="시르 블레이드 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8690" min="1" max="1" chance="100" name="레시피: 시르 블레이드(60%)"/> <!-- Recipe: Sirra's Blade (60%) -->
+			<item id="8712" min="20" max="20" chance="100" name="시르 블레이드 검신"/> <!-- Sirra's Blade Edge -->
+		</capsuled_items>
+	</item>
+	<item id="91016" name="소드 오브 이포스 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8692" min="1" max="1" chance="100" name="레시피: 소드 오브 이포스(60%)"/> <!-- Recipe: Ipos' Sword (60%) -->
+			<item id="8713" min="20" max="20" chance="100" name="소드 오브 이포스 검신"/> <!-- Ipos' Sword Blade -->
+		</capsuled_items>
+	</item>
+	<item id="91017" name="바라키엘 액스 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8694" min="1" max="1" chance="100" name="레시피: 바라키엘 액스(60%)"/> <!-- Recipe: Barakiel's Axe (60%) -->
+			<item id="8714" min="20" max="20" chance="100" name="바라키엘 엑스 조각"/> <!-- Barakiel's Axe Piece -->
+		</capsuled_items>
+	</item>
+	<item id="91018" name="베헤모스의 소리굽쇠 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8696" min="1" max="1" chance="100" name="레시피: 베헤모스의 소리굽쇠(60%)"/> <!-- Recipe: Behemoth's Tuning Fork (60%) -->
+			<item id="8715" min="20" max="20" chance="100" name="베헤모스의 소리굽쇠 조각"/> <!-- Behemoth's Tuning Fork Piece -->
+		</capsuled_items>
+	</item>
+	<item id="91019" name="나가 스톰 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8698" min="1" max="1" chance="100" name="레시피: 나가 스톰(60%)"/> <!-- Recipe: Naga's Storm (60%) -->
+			<item id="8716" min="20" max="20" chance="100" name="나가 스톰 조각"/> <!-- Naga's Storm Piece -->
+		</capsuled_items>
+	</item>
+	<item id="91020" name="타이폰 스피어 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8700" min="1" max="1" chance="100" name="레시피: 타이폰 스피어(60%)"/> <!-- Recipe: Tiphon's Spear (60%) -->
+			<item id="8717" min="20" max="20" chance="100" name="타이폰 스피어 엣지"/> <!-- Tiphon's Spear Edge -->
+		</capsuled_items>
+	</item>
+	<item id="91021" name="샤이드 보우 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8702" min="1" max="1" chance="100" name="레시피: 샤이드 보우(60%)"/> <!-- Recipe: Shyeed's Bow (60%) -->
+			<item id="8718" min="20" max="20" chance="100" name="샤이드 보우 샤프트"/> <!-- Shyeed's Bow Shaft -->
+		</capsuled_items>
+	</item>
+	<item id="91022" name="소베크 허리케인 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8704" min="1" max="1" chance="100" name="레시피: 소베크 허리케인(60%)"/> <!-- Recipe: Sobekk's Hurricane (60%) -->
+			<item id="8719" min="20" max="20" chance="100" name="소베크 허리케인 날"/> <!-- Sobekk's Hurricane Edge -->
+		</capsuled_items>
+	</item>
+	<item id="91023" name="테미스의 혀 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8706" min="1" max="1" chance="100" name="레시피: 테미스의 혀(60%)"/> <!-- Recipe: Themis' Tongue (60%) -->
+			<item id="8720" min="20" max="20" chance="100" name="테미스의 혀 조각"/> <!-- Themis' Tongue Piece -->
+		</capsuled_items>
+	</item>
+	<item id="91024" name="핸드 오브 카브리오 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8708" min="1" max="1" chance="100" name="레시피: 핸드 오브 카브리오(60%)"/> <!-- Recipe: Cabrio's Hand (60%) -->
+			<item id="8721" min="20" max="20" chance="100" name="핸드 오브 카브리오 머리"/> <!-- Cabrio's Hand Head -->
+		</capsuled_items>
+	</item>
+	<item id="91025" name="데이몬의 결정 재료/레시피 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="8710" min="1" max="1" chance="100" name="레시피: 데이몬의 결정(60%)"/> <!-- Recipe: Daimon's Crystal (60%) -->
+			<item id="8722" min="20" max="20" chance="100" name="데이몬의 결정 조각"/> <!-- Daimon's Crystal Shard -->
+		</capsuled_items>
+	</item>
+	<item id="91026" name="드래곤의 심장" type="EtcItem">
+		<!-- An ingredient for Dragon Miracle Potion. Can be exchanged for various items at a certain time. -->
+		<set name="icon" val="icon.etc_heart_gragon"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="91027" name="드래곤의 영약" type="EtcItem">
+		<!-- Sayha's Grace points +5000. For 20 min., acquired XP/ SP +20%, P./ M. Atk. +12%, P./ M. Def. +15%, P. Critical Rate/ M. Skill Critical Rate +20, P. Critical Damage/ M. Skill Critical Damage +5%, HP/ MP/ CP +25%, HP/ MP Recovery Rate +30%, Sayha's Grace Consumption -10%. With a certain chance, absorbs 5% of inflicted damage as HP. Stacks up to 3 times. Does not stack with the Special Dragon Fruit's effect. -->
+		<set name="icon" val="icon.bm_dragon_posion_brave"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="immediate_effect" val="true"/>
+		<skills>
+			<skill id="51070" level="1"/> <!-- Dragon's Potion -->
+		</skills>
+	</item>
+	<item id="91028" name="멜리사의 상급 HP 물약" type="EtcItem">
+		<!-- Momentarily recovers 1000 HP. If HP is full, CP is recovered. -->
+		<set name="icon" val="BranchSys.icon.br_vitality_potion_i01"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="commissionItemType" val="POTION"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51083" level="1"/> <!-- Maliss' High-grade HP Recovery Potion -->
+		</skills>
+	</item>
+	<item id="91029" name="히든 박스" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_exchange_box_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="51079" level="1"/> <!-- Hidden Box -->
+		</skills>
+	</item>
+	<item id="91030" name="정령의 축복" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. While hunting attribute monsters, acquired attribute XP +20%. Duration: 20 min. -->
+		<set name="icon" val="icon.elemental_bless_scrl_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<skills>
+			<skill id="54028" level="1"/> <!-- Blessed Soul -->
+		</skills>
+	</item>
+	<item id="91031" name="물 정령 진화석" type="EtcItem">
+		<!-- Filled with the power of Water Attribute. Use it to evolve Water Spirit. <font color=bbaa88>Acquisition:</font>. Jisra -->
+		<set name="icon" val="icon.elemental_evol_stone_water_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91032" name="불 정령 진화석" type="EtcItem">
+		<!-- Filled with the power of Fire Attribute. Use it to evolve Fire Spirit. <font color=bbaa88>Acquisition:</font>. Jisra -->
+		<set name="icon" val="icon.elemental_evol_stone_fire_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91033" name="바람 정령 진화석" type="EtcItem">
+		<!-- Filled with the power of Wind Attribute. Use it to evolve Wind Spirit. <font color=bbaa88>Acquisition:</font>. Jisra -->
+		<set name="icon" val="icon.elemental_evol_stone_wind_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91034" name="대지 정령 진화석" type="EtcItem">
+		<!-- Filled with the power of Earth Attribute. Use it to evolve Earth Spirit. <font color=bbaa88>Acquisition:</font>. Jisra -->
+		<set name="icon" val="icon.elemental_evol_stone_earth_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91035" name="물 정령 원석" type="EtcItem">
+		<!-- Contains the power of Water. Double-click to acquire 9300 Water Attribute XP points. -->
+		<set name="icon" val="icon.elemental_water_stone_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="AddSpiritExp"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91036" name="불 정령 원석" type="EtcItem">
+		<!-- Contains the power of Fire. Double-click to acquire 9300 Fire Attribute XP points. -->
+		<set name="icon" val="icon.elemental_fire_stone_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="AddSpiritExp"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91037" name="바람 정령 원석" type="EtcItem">
+		<!-- Contains the power of Wind. Double-click to acquire 9300 Wind Attribute XP points. -->
+		<set name="icon" val="icon.elemental_wind_stone_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="AddSpiritExp"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91038" name="대지 정령 원석" type="EtcItem">
+		<!-- Contains the power of Earth. Double-click to acquire 9300 Earth Attribute XP points. -->
+		<set name="icon" val="icon.elemental_earth_stone_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="AddSpiritExp"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91039" name="물의 별 조각" type="EtcItem">
+		<!-- A material filled with the power of Water Attribute. Can be used to create equipment with the power of Water Attribute. -->
+		<set name="icon" val="icon.elemental_star_water_i00"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91040" name="불의 별 조각" type="EtcItem">
+		<!-- A material filled with the power of Fire Attribute. Can be used to create equipment with the power of Fire Attribute. -->
+		<set name="icon" val="icon.elemental_star_fire_i00"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91041" name="바람의 별 조각" type="EtcItem">
+		<!-- A material filled with the power of Wind Attribute. Can be used to create equipment with the power of Wind Attribute. -->
+		<set name="icon" val="icon.elemental_star_wind_i00"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91042" name="대지의 별 조각" type="EtcItem">
+		<!-- A material filled with the power of Earth Attribute. Can be used to create equipment with the power of Earth Attribute. -->
+		<set name="icon" val="icon.elemental_star_earth_i00"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="material" val="LIQUID"/>
+	</item>
+	<item id="91043" name="낡은 네불라 목걸이 Lv1" type="Armor">
+		<!-- MP +35, Water Resistance +20, acquired Attribute XP +3%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_water_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">87</stat>
+			<stat type="maxMp">35</stat>
+		</stats>
+		<skills>
+			<skill id="54023" level="1"/> <!-- Water Attack Defense -->
+			<skill id="54027" level="1"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91044" name="낡은 네불라 목걸이 Lv2" type="Armor">
+		<!-- MP +37, Water Resistance +40, acquired Attribute XP +6%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_water_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">90</stat>
+			<stat type="maxMp">37</stat>
+		</stats>
+		<skills>
+			<skill id="54023" level="2"/> <!-- Water Attack Defense -->
+			<skill id="54027" level="2"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91045" name="낡은 네불라 목걸이 Lv3" type="Armor">
+		<!-- MP +40, Water Resistance +60, acquired Attribute XP +10%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_water_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">93</stat>
+			<stat type="maxMp">40</stat>
+		</stats>
+		<skills>
+			<skill id="54023" level="3"/> <!-- Water Attack Defense -->
+			<skill id="54027" level="3"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91046" name="낡은 이그니스 목걸이 Lv1" type="Armor">
+		<!-- MP +35, Fire Resistance +20, acquired Attribute XP +3%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_fire_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">87</stat>
+			<stat type="maxMp">35</stat>
+		</stats>
+		<skills>
+			<skill id="54024" level="1"/> <!-- Fire Attack Defense -->
+			<skill id="54027" level="1"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91047" name="낡은 이그니스 목걸이 Lv2" type="Armor">
+		<!-- MP +37, Fire Resistance +40, acquired Attribute XP +6%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_fire_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">90</stat>
+			<stat type="maxMp">37</stat>
+		</stats>
+		<skills>
+			<skill id="54024" level="2"/> <!-- Fire Attack Defense -->
+			<skill id="54027" level="2"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91048" name="낡은 이그니스 목걸이 Lv3" type="Armor">
+		<!-- MP +40, Fire Resistance +60, acquired Attribute XP +10%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_fire_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">93</stat>
+			<stat type="maxMp">40</stat>
+		</stats>
+		<skills>
+			<skill id="54024" level="3"/> <!-- Fire Attack Defense -->
+			<skill id="54027" level="3"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91049" name="낡은 프로첼라 목걸이 Lv1" type="Armor">
+		<!-- MP +35, Wind Resistance +20, acquired Attribute XP +3%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_wind_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">87</stat>
+			<stat type="maxMp">35</stat>
+			<stat type="windRes">20</stat>
+		</stats>
+		<skills>
+			<skill id="54025" level="1"/> <!-- Wind Attack Defense -->
+			<skill id="54027" level="1"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91050" name="낡은 프로첼라 목걸이 Lv2" type="Armor">
+		<!-- MP +37, Wind Resistance +40, acquired Attribute XP +6%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_wind_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">90</stat>
+			<stat type="maxMp">37</stat>
+		</stats>
+		<skills>
+			<skill id="54025" level="2"/> <!-- Wind Attack Defense -->
+			<skill id="54027" level="2"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91051" name="낡은 프로첼라 목걸이 Lv3" type="Armor">
+		<!-- MP +40, Wind Resistance +60, acquired Attribute XP +10%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_wind_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">93</stat>
+			<stat type="maxMp">40</stat>
+		</stats>
+		<skills>
+			<skill id="54025" level="3"/> <!-- Wind Attack Defense -->
+			<skill id="54027" level="3"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91052" name="낡은 페트람 목걸이 Lv1" type="Armor">
+		<!-- MP +35, Earth Resistance +20, acquired Attribute XP +3%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_earth_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">87</stat>
+			<stat type="maxMp">35</stat>
+		</stats>
+		<skills>
+			<skill id="54026" level="1"/> <!-- Earth Attack Defense -->
+			<skill id="54027" level="1"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91053" name="낡은 페트람 목걸이 Lv2" type="Armor">
+		<!-- MP +37, Earth Resistance +40, acquired Attribute XP +6%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_earth_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">90</stat>
+			<stat type="maxMp">37</stat>
+		</stats>
+		<skills>
+			<skill id="54026" level="2"/> <!-- Earth Attack Defense -->
+			<skill id="54027" level="2"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91054" name="낡은 페트람 목걸이 Lv3" type="Armor">
+		<!-- MP +40, Earth Resistance +60, acquired Attribute XP +10%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_earth_i00"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<stats>
+			<stat type="mDef">93</stat>
+			<stat type="maxMp">40</stat>
+		</stats>
+		<skills>
+			<skill id="54026" level="3"/> <!-- Earth Attack Defense -->
+			<skill id="54027" level="3"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91055" name="낡은 네불라 목걸이 Lv1" type="Armor">
+		<!-- Available for 7 d. MP +35, Water Resistance +20, acquired Attribute XP +3%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_water_i00"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<set name="time" val="10080"/>
+		<set name="is_tradable" val="false"/>
+		<stats>
+			<stat type="mDef">87</stat>
+			<stat type="maxMp">35</stat>
+		</stats>
+		<skills>
+			<skill id="54023" level="1"/> <!-- Water Attack Defense -->
+			<skill id="54027" level="1"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91056" name="낡은 이그니스 목걸이 Lv1" type="Armor">
+		<!-- Available for 7 d. MP +35, Fire Resistance +20, acquired Attribute XP +3%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_fire_i00"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<set name="time" val="10080"/>
+		<set name="is_tradable" val="false"/>
+		<stats>
+			<stat type="mDef">87</stat>
+			<stat type="maxMp">35</stat>
+		</stats>
+		<skills>
+			<skill id="54024" level="1"/> <!-- Fire Attack Defense -->
+			<skill id="54027" level="1"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91057" name="낡은 프로첼라 목걸이 Lv1" type="Armor">
+		<!-- Available for 7 d. MP +35, Wind Resistance +20, acquired Attribute XP +3%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_wind_i00"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<set name="time" val="10080"/>
+		<set name="is_tradable" val="false"/>
+		<stats>
+			<stat type="mDef">87</stat>
+			<stat type="maxMp">35</stat>
+		</stats>
+		<skills>
+			<skill id="54025" level="1"/> <!-- Wind Attack Defense -->
+			<skill id="54027" level="1"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91058" name="낡은 페트람 목걸이 Lv1" type="Armor">
+		<!-- Available for 7 d. MP +35, Earth Resistance +20, acquired Attribute XP +3%. Cannot be enchanted. -->
+		<set name="icon" val="icon.elemental_necklace_earth_i00"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="false"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="neck"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="commissionItemType" val="NECKLACE"/>
+		<set name="time" val="10080"/>
+		<set name="is_tradable" val="false"/>
+		<stats>
+			<stat type="mDef">87</stat>
+			<stat type="maxMp">35</stat>
+		</stats>
+		<skills>
+			<skill id="54026" level="1"/> <!-- Earth Attack Defense -->
+			<skill id="54027" level="1"/> <!-- Attribute XP Increase -->
+		</skills>
+	</item>
+	<item id="91059" name="권능의 탈리스만 조각" type="EtcItem">
+		<!-- Required for upgrading Talisman of Authority. In case of failure, the talisman's level drops to 1. Talisman of Authority can be purchased from Pona in Giran. -->
+		<set name="icon" val="icon.bm_ensoul_stone_PvE_empty"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="91060" name="권능의 팔찌" type="Armor">
+		<!-- Unlocks 5 talisman slots. HP/ MP Recovery Rate +15%, P. Accuracy +2, M. Accuracy +2, weight limit +10,000. -->
+		<set name="icon" val="icon.ertheia_bracelet_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rbracelet"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="54020" level="1"/> <!-- Not used - Bracelet of Authority -->
+		</skills>
+	</item>
+	<item id="91061" name="권능의 탈리스만" type="Armor">
+		<!-- A talisman imbued with the power of authority. Can be enchanted with Scroll: Enchant Ornaments. Max enchant value: +10. Greater Upgrade Stone: can be used from +5 to +7. Transcendent Upgrade Stone: can be used from +8 and higher. Starting from +4, you can spend Talisman of Authority of the same level to get Blessed Talisman of Authority. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.sayhas_talisman_new"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<skills>
+			<skill id="50352" level="1"/> <!-- Talisman of Authority -->
+			<skill id="50352" level="3" type="ON_ENCHANT" type_value="1"/> <!-- +1 Talisman of Authority -->
+			<skill id="50352" level="5" type="ON_ENCHANT" type_value="2"/> <!-- +2 Talisman of Authority -->
+			<skill id="50352" level="7" type="ON_ENCHANT" type_value="3"/> <!-- +3 Talisman of Authority -->
+			<skill id="50352" level="9" type="ON_ENCHANT" type_value="4"/> <!-- +4 Talisman of Authority -->
+			<skill id="50352" level="11" type="ON_ENCHANT" type_value="5"/> <!-- +5 Talisman of Authority -->
+			<skill id="50352" level="13" type="ON_ENCHANT" type_value="6"/> <!-- +6 Talisman of Authority -->
+			<skill id="50352" level="15" type="ON_ENCHANT" type_value="7"/> <!-- +7 Talisman of Authority -->
+			<skill id="50352" level="17" type="ON_ENCHANT" type_value="8"/> <!-- +8 Talisman of Authority -->
+			<skill id="50352" level="19" type="ON_ENCHANT" type_value="9"/> <!-- +9 Talisman of Authority -->
+			<skill id="50352" level="21" type="ON_ENCHANT" type_value="10"/> <!-- +10 Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91062" name="권능의 탈리스만 Lv2" type="Armor">
+		<!-- <Properties>. P. Atk. +2%. M. Atk. +2%. Max HP +8%. Max MP +4%. P. Def. +15. M. Def. +15. Can be upgraded with Talisman of Authority Fragment. In case of failure, the talisman's level drops to 1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_g_Lv2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54021" level="2"/> <!-- Not used - Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91063" name="권능의 탈리스만 Lv3" type="Armor">
+		<!-- <Properties>. P. Atk. +3%. M. Atk. +3%. Max HP +10%. Max MP +6%. P. Def. +18. M. Def. +18. Can be upgraded with Talisman of Authority Fragment. In case of failure, the talisman's level drops to 1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_g_Lv3"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54021" level="3"/> <!-- Not used - Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91064" name="권능의 탈리스만 Lv4" type="Armor">
+		<!-- <Properties>. P. Atk. +3%. M. Atk. +3%. Max HP +12%. Max MP +8%. P. Def. +20. M. Def. +20. Can be upgraded with Talisman of Authority Fragment. In case of failure, the talisman's level drops to 1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_g_Lv4"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54021" level="4"/> <!-- Not used - Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91065" name="권능의 탈리스만 Lv5" type="Armor">
+		<!-- <Properties>. P. Atk. +5%. M. Atk. +5%. Max HP +12%. Max MP +8%. P. Def. +24. M. Def. +24. Can be upgraded to Noble Talisman of Authority by Blacksmith Baggins in Giran. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_g_lv5"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54021" level="5"/> <!-- Not used - Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91066" name="고귀한 권능의 탈리스만 Lv1" type="Armor">
+		<!-- <Properties>. P. Atk. +5%. M. Atk. +5%. Atk. Spd. +3%. Casting Spd. +2%. Max HP +12%. Max MP +8%. P. Def. +26. M. Def. +26. Can be upgraded with Talisman of Authority Fragment. In case of failure, the item does not disappear. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_pve_Lv1"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54021" level="6"/> <!-- Not used - Noble Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91067" name="고귀한 권능의 탈리스만 Lv2" type="Armor">
+		<!-- <Properties>. P. Atk. +6%. M. Atk. +6%. Atk. Spd. +3%. Casting Spd. +2%. Max HP +14%. Max MP +10%. P. Def. +31. M. Def. +31. Can be upgraded with Talisman of Authority Fragment. In case of failure, the talisman's level drops to 1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_pve_Lv2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54021" level="7"/> <!-- Not used - Noble Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91068" name="고귀한 권능의 탈리스만 Lv3" type="Armor">
+		<!-- <Properties>. P. Atk. +7%. M. Atk. +7%. Atk. Spd. +4%. Casting Spd. +3%. Max HP +16%. Max MP +12%. P. Def. +36. M. Def. +36. Can be upgraded with Talisman of Authority Fragment. In case of failure, the talisman's level drops to 1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_pve_Lv3"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54021" level="8"/> <!-- Not used - Noble Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91069" name="고귀한 권능의 탈리스만 Lv4" type="Armor">
+		<!-- <Properties>. P. Atk. +8%. M. Atk. +8%. Atk. Spd. +4%. Casting Spd. +3%. Max HP +18%. Max MP +14%. P. Def. +41. M. Def. +41. Can be upgraded with Talisman of Authority Fragment. In case of failure, the talisman's level drops to 1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_pve_Lv4"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54021" level="9"/> <!-- Not used - Noble Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91070" name="고귀한 권능의 탈리스만 Lv5" type="Armor">
+		<!-- <Properties>. P. Atk. +10%. M. Atk. +10%. Atk. Spd. +5%. Casting Spd. +3%. Max HP +18%. Max MP +14%. P. Def. +46. M. Def. +46. Can be upgraded to Noble Talisman of Authority by Blacksmith Baggins in Giran. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_pve_lv5"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54021" level="10"/> <!-- Not used - Noble Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91071" name="영롱한 권능의 탈리스만 Lv1" type="Armor">
+		<!-- <Properties>. P. Atk. +10%. M. Atk. +10%. Atk. Spd. +6%. Casting Spd. +4%. P. Critical Rate +10. M. Skill Critical Rate +20. P. Skill Power +5%. M. Skill Power +10%. Max HP +18%. Max MP +14%. P. Def. +51. M. Def. +51. <Shunaiman's Power Lv. 1>. Increases Stun/ Silence/ Fear Atk. Rate and Damage Reflection Resistance. Can be upgraded with Talisman of Authority Fragment. In case of failure, the item does not disappear. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_pvp_Lv1"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54022" level="1"/> <!-- Not used - Shunaiman's Power -->
+			<skill id="54021" level="11"/> <!-- Not used - Radiant Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91072" name="영롱한 권능의 탈리스만 Lv2" type="Armor">
+		<!-- <Properties>. P. Atk. +11%. M. Atk. +11%. Atk. Spd. +7%. Casting Spd. +5%. P. Critical Rate +10. M. Skill Critical Rate +20. P. Skill Power +6%. M. Skill Power +11%. Max HP +20%. Max MP +16%. P. Def. +55. M. Def. +55. <Shunaiman's Power Lv. 1>. Increases Silence/ Fear/ Stun Atk. Rate and Damage Reflection Resistance. Can be upgraded with Talisman of Authority Fragment. In case of failure, the talisman's level drops to 1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_pvp_Lv2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54022" level="1"/> <!-- Not used - Shunaiman's Power -->
+			<skill id="54021" level="12"/> <!-- Not used - Radiant Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91073" name="영롱한 권능의 탈리스만 Lv3" type="Armor">
+		<!-- <Properties>. P. Atk. +12%. M. Atk. +12%. Atk. Spd. +8%. Casting Spd. +6%. P. Critical Rate +20. M. Skill Critical Rate +30. P. Skill Power +7%. M. Skill Power +12%. Max HP +22%. Max MP +18%. P. Def. +59. M. Def. +59. <Shunaiman's Power Lv. 1>. Increases Silence/ Fear/ Stun Atk. Rate and Damage Reflection Resistance. Can be upgraded with Talisman of Authority Fragment. In case of failure, the talisman's level drops to 1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_pvp_Lv3"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54022" level="1"/> <!-- Not used - Shunaiman's Power -->
+			<skill id="54021" level="13"/> <!-- Not used - Radiant Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91074" name="영롱한 권능의 탈리스만 Lv4" type="Armor">
+		<!-- <Properties>. P. Atk. +13%. M. Atk. +13%. Atk. Spd. +10%. Casting Spd. +7%. P. Critical Rate +20. M. Skill Critical Rate +30. P. Skill Power +8%. M. Skill Power +13%. Max HP +24%. Max MP +20%. P. Def. +63. M. Def. +63. <Shunaiman's Power Lv. 1>. Increases Silence/ Fear/ Stun Atk. Rate and Damage Reflection Resistance. Can be upgraded with Talisman of Authority Fragment. In case of failure, the talisman's level drops to 1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_pvp_Lv4"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54022" level="1"/> <!-- Not used - Shunaiman's Power -->
+			<skill id="54021" level="14"/> <!-- Not used - Radiant Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91075" name="영롱한 권능의 탈리스만 Lv5" type="Armor">
+		<!-- <Properties>. P. Atk. +15%. M. Atk. +15%. Atk. Spd. +15%. Casting Spd. +10%. P. Critical Rate +30. M. Skill Critical Rate +40. P. Skill Power +15%. M. Skill Power +22%. Max HP +30%. Max MP +25%. P. Def. +70. M. Def. +70. <Shunaiman's Power Lv. 2>. Increases Silence/ Fear/ Stun Atk. Rate and Damage Reflection Resistance. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.sayhas_talisman_pvp_lv5"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="54022" level="2"/> <!-- Not used - Shunaiman's Power -->
+			<skill id="54021" level="15"/> <!-- Not used - Radiant Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="91076" name="베니르의 탈리스만 조각" type="EtcItem">
+		<!-- Required for upgrading Venir's Talisman. <font color=bbaa88><Talisman acquisition></font>. When used, can be exchanged for Venir's Talisman Lv. 1. Can be sold in groceries of Giran and Aden. <font color=bbaa88>Note!</font>. In case of compounding failure, you get Venir's Talisman of the level specified in the talisman's description. -->
+		<set name="icon" val="icon.bm_ensoul_stone_PvP_empty"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="91077" name="베니르의 탈리스만 Lv1" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 1</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="1"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91078" name="베니르의 탈리스만 Lv2" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. MEN +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 1</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="2"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91079" name="베니르의 탈리스만 Lv3" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. MEN +1. DEX +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 1</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="3"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91080" name="베니르의 탈리스만 Lv4" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. MEN +1. DEX +1. WIT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 1</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="4"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91081" name="베니르의 탈리스만 Lv5" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. MEN +1. DEX +1. WIT +1. STR +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 1</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="5"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91082" name="베니르의 탈리스만 Lv6" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. MEN +1. DEX +1. WIT +1. STR +1. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="6"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91083" name="베니르의 탈리스만 Lv7" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +1. DEX +1. WIT +1. STR +1. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="7"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91084" name="베니르의 탈리스만 Lv8" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +2. DEX +1. WIT +1. STR +1. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="8"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91085" name="베니르의 탈리스만 Lv9" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +2. DEX +2. WIT +1. STR +1. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="9"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91086" name="베니르의 탈리스만 Lv10" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +2. DEX +2. WIT +2. STR +1. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="10"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91087" name="베니르의 탈리스만 Lv11" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +2. DEX +2. WIT +2. STR +2. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="11"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91088" name="베니르의 탈리스만 Lv12" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +2. DEX +2. WIT +2. STR +2. INT +2. All received Critical Rate -2%. P./ M. Skill Cooldown -1%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 12</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="12"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91089" name="베니르의 탈리스만 Lv13" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +3. MEN +2. DEX +2. WIT +2. STR +2. INT +2. All received Critical Rate -4%. P./ M. Skill Cooldown -3%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 12</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="13"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91090" name="베니르의 탈리스만 Lv14" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +3. MEN +3. DEX +2. WIT +2. STR +2. INT +2. All received Critical Rate -6%. P./ M. Skill Cooldown -5%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 12</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="14"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91091" name="베니르의 탈리스만 Lv15" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +3. MEN +3. DEX +3. WIT +2. STR +2. INT +2. All received Critical Rate -8%. P./ M. Skill Cooldown -7%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 12</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="15"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91092" name="베니르의 탈리스만 Lv16" type="Armor">
+		<!-- When equipped, CON/ MEN/ DEX/ WIT +3, STR/ INT +2. With a certain chance, absorbs 4% of inflicted damage as HP and 2% as MP. Can be upgraded to a higher level with Venir's Talisman Fragment. In case of failure, the talisman's level drops to 12. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="16"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91093" name="베니르의 탈리스만 Lv17" type="Armor">
+		<!-- When equipped, CON/ MEN/ DEX/ WIT/ STR +3, INT +2. With a certain chance, absorbs 4% of inflicted damage as HP and 2% as MP. Can be upgraded to a higher level with Venir's Talisman Fragment. In case of failure, the talisman's level drops to 12. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<skills>
+			<skill id="18024" level="17"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91094" name="베니르의 탈리스만 Lv18" type="Armor">
+		<!-- When equipped, CON/ MEN/ DEX/ WIT/ STR/ INT +3, P./ M. Skill Cooldown -7%. With a certain chance, absorbs 8% of inflicted damage as HP and 4% as MP. Can be upgraded to a higher level with Venir's Talisman Fragment. In case of failure, the talisman's level drops to 18. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_depositable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="18024" level="18"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="91095" name="지룡의 벨트- 베니르의 축복 Lv1" type="Armor">
+		<!-- When equipped, inventory slots +6, weight limit +7000, CON +1, MEN +1, HP Recovery Rate +2.31, MP Recovery Rate +1.54, CP Recovery Rate +3.07, Max HP/ MP/ CP +15%, HP Recovery Potions' Effect +100, received damage -6%. Enables Venir's Blessing Lv. 1. -->
+		<set name="icon" val="icon.bm_antaras_belt"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="waist"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="pDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="35046" level="1"/> <!-- Earth Dragon Belt -->
+			<skill id="54029" level="1"/> <!-- Venir's Blessing -->
+		</skills>
+	</item>
+	<item id="91096" name="지룡의 벨트- 베니르의 축복 Lv2" type="Armor">
+		<!-- When equipped, inventory slots +6, weight limit +7000, CON +1, MEN +1, HP Recovery Rate +2.31, MP Recovery Rate +1.54, CP Recovery Rate +3.07, Max HP/ MP/ CP +15%, HP Recovery Potions' Effect +100, received damage -6%. Applies Venir's Blessing Lv. 2. -->
+		<set name="icon" val="icon.bm_antaras_belt"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="waist"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="35046" level="1"/> <!-- Earth Dragon Belt -->
+			<skill id="54029" level="2"/> <!-- Venir's Blessing -->
+		</skills>
+	</item>
+	<item id="91097" name="지룡의 벨트- 베니르의 축복 Lv3" type="Armor">
+		<!-- When equipped, inventory slots +6, weight limit +7000, CON +1, MEN +1, HP Recovery Rate +2.31, MP Recovery Rate +1.54, CP Recovery Rate +3.07, Max HP/ MP/ CP +15%, HP Recovery Potions' Effect +100, received damage -6%. Enables Venir's Blessing Lv. 3. -->
+		<set name="icon" val="icon.bm_antaras_belt"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="waist"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="pDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="35046" level="1"/> <!-- Earth Dragon Belt -->
+			<skill id="54029" level="3"/> <!-- Venir's Blessing -->
+		</skills>
+	</item>
+	<item id="91098" name="화룡의 벨트- 베니르의 축복 Lv1" type="Armor">
+		<!-- When using the belt, inventory slots +6, weight limit +7000, STR +1, INT +1, HP Recovery Rate +2.31, MP Recovery Rate +1.54, CP Recovery Rate +3.07, Max HP/ MP/ CP +10%, HP Recovery Potions' Effect +100, P. Critical Damage/ M. Skill Critical Damage +4%. Enables Venir's Blessing Lv. 1. -->
+		<set name="icon" val="icon.bm_vallakas_belt"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="waist"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="pDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="35047" level="1"/> <!-- Fire Dragon Belt -->
+			<skill id="54029" level="1"/> <!-- Venir's Blessing -->
+		</skills>
+	</item>
+	<item id="91099" name="화룡의 벨트- 베니르의 축복 Lv2" type="Armor">
+		<!-- When using the belt, inventory slots +6, weight limit +7000, STR +1, INT +1, HP Recovery Rate +2.31, MP Recovery Rate +1.54, CP Recovery Rate +3.07, Max HP/ MP/ CP +10%, HP Recovery Potions' Effect +100, P. Critical Damage/ M. Skill Critical Damage +4%. Enables Venir's Blessing Lv. 2. -->
+		<set name="icon" val="icon.bm_vallakas_belt"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="waist"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="pDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="35047" level="1"/> <!-- Fire Dragon Belt -->
+			<skill id="54029" level="2"/> <!-- Venir's Blessing -->
+		</skills>
+	</item>
+</list>

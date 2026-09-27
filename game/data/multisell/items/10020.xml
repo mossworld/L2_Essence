@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- +5 A그레이드 방어구 -->
+	</npcs>
+
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94587" /> <!-- <중갑> +5 악몽의 갑옷 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94588" /> <!-- <중갑> +5 악몽의 투구 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94589" /> <!-- <중갑> +5 악몽의 건틀렛 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94590" /> <!-- <중갑> +5 악몽의 부츠 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94591" /> <!-- <중갑> +5 마제스틱 플레이트 아머 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94592" /> <!-- <중갑> +5 마제스틱 서클릿 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94593" /> <!-- <중갑> +5 마제스틱 건틀렛 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94594" /> <!-- <중갑> +5 마제스틱 부츠 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94595" /> <!-- <경갑> +5 악몽의 레더 메일 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94596" /> <!-- <경갑> +5 악몽의 투구 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94597" /> <!-- <경갑> +5 악몽의 건틀렛 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94598" /> <!-- <경갑> +5 악몽의 부츠 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94599" /> <!-- <경갑> +5 마제스틱 레더 메일 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94600" /> <!-- <경갑> +5 마제스틱 서클릿 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94601" /> <!-- <경갑> +5 마제스틱 건틀렛 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94602" /> <!-- <경갑> +5 마제스틱 부츠 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94603" /> <!-- <로브> +5 악몽의 로브 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94604" /> <!-- <로브> +5 악몽의 투구 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94605" /> <!-- <로브> +5 악몽의 건틀렛 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94606" /> <!-- <로브> +5 악몽의 부츠 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94607" /> <!-- <로브> +5 마제스틱 로브 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94608" /> <!-- <로브> +5 마제스틱 서클릿 팩 -->	
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94609" /> <!-- <로브> +5 마제스틱 건틀렛 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="97984" /> <!-- +5 A그레이드 방어구 교환 티켓 -->
+		<production count="1" id="94610" /> <!-- <로브> +5 마제스틱 부츠 팩 -->
+	</item>
+</list>

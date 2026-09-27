@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- +5 특수 방어구 -->
+	</npcs>
+
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96307" /> <!-- +5 전격의 레더 메일 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96308" /> <!-- +5 전격의 레더 레깅스 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96309" /> <!-- +5 빙결의 흉갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96310" /> <!-- +5 빙결의 각반 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96311" /> <!-- +5 화염의 튜닉 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96312" /> <!-- +5 화염의 호즈 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96313" /> <!-- +5 마나의 투구 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96314" /> <!-- +5 회피의 부츠 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96315" /> <!-- +5 스턴 건틀렛 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="97586" /> <!-- +5 침묵의 장갑 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96316" /> <!-- +5 페이탈 시길 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="98044" /> <!-- +5 특수 방어구(각인) 교환권 (기간 한정) -->
+		<production count="1" id="96317" /> <!-- +5 리벤지 실드 팩 -->
+	</item>
+</list>

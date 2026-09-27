@@ -1,0 +1,1485 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="99900" name="마법서 - 프리징 그립" type="EtcItem">
+		<!-- A spellbook for learning the Frost Grip skill. <Class>. Death Knight (Elves). <Skill effect>. Catches and holds enemies. Only Death Knights can attack the caught enemies. The enemies cannot move and use recovery. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99901" name="마법서 - 버닝 그립" type="EtcItem">
+		<!-- A spellbook for learning the Flame Grip skill. <Class>. Death Knight (Humans). <Skill effect>. Catches and holds enemies. Only Death Knights can attack the caught enemies. The enemies cannot move and use recovery. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99902" name="마법서 - 퓨리 차지" type="EtcItem">
+		<!-- A spellbook for learning the Rage Charge skill. <Class>. Death Knight (all races). <Skill effect>. Rushes to enemy and attacks with a mighty fist. Upon attack recovers DP and applies a debuff called Furious Blast on the enemy. <Furious Blast>. Decreases P./ M. Def. -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99903" name="마법서 - 이블 스티그마" type="EtcItem">
+		<!-- A spellbook for learning the Stigma of Evil skill. <Class>. Death Knight (all races). <Skill effect>. Attacks enemy and puts a Mark of Demise on them. Branded with the Mark of Demise, enemies decrease their Debuff/ Anomaly Resistance, also they take additional damage when suffering from Hellfire. When the marked enemy is killed, the caster gets a Soul Steal buff. <Soul Steal>. Increases P. Atk. and P./ M. Def. -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99904" name="마법서 - 라이트닝 트레이스" type="EtcItem">
+		<!-- A spellbook for learning the Lightning Trace skill. <Class>. Death Knight (Dark Elves). <Skill effect>. Increases P. Skill Critical Rate. <Skill upgrade>. Wipeout → Lightning Wipeout -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99905" name="마법서 - 프리징 트레이스" type="EtcItem">
+		<!-- A spellbook for learning the Frost Trace skill. <Class>. Death Knight (Elves). <Skill effect>. Increases P. Skill Critical Rate. <Skill upgrade>. Wipeout → Frost Wipeout -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99906" name="마법서 - 버닝 트레이스" type="EtcItem">
+		<!-- A spellbook for learning the Flame Trace skill. <Class>. Death Knight (Humans). <Skill effect>. Increases P. Skill Critical Rate. <Skill upgrade>. Wipeout → Flame Wipeout -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99907" name="마법서 - 시간 왜곡: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Time Distortion: Master skill. <Class>. Assassin. <Skill effect>. Distorts time around you, dealing damage and decreasing all types of Speed. Applies the Enhanced Time Master buff when using the skill. <Enhanced Time Master>. Boosts attacking and defensive abilities, grants immunity to the Time Distortion skill. -->
+		<set name="icon" val="icon.codex_of_incuse_forgetting"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99908" name="마법서 - 진 데스나이트: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Ultimate Death Knight: Master skill. <Class>. Death Knight (all races). <Skill effect>. Increases P. Atk. Increases P. Def. Increases Skill Power. Increases P. Skill Critical Rate. Increases Critical Damage for basic attacks and P. skills. Increases Atk. Spd. Increases Speed. Increases Resistance to All Weapons. Increases Pull/ Imprisonment Atk. Rate. Increases Pull/ Imprisonment Resistance. Increases Holy Resistance. Decreases penalty of Received Healing. With a certain chance on attack, applies the Impending Death Whisper buff. <Impending Death Whisper>. Resets the cooldown of Hellfire. Increases Critical Rate for basic attacks and P. skills. Increases Skill Power. Increases Suppression/ Hold Resistance. Increases Dagger Resistance. Skills do not consume DP. -->
+		<set name="icon" val="icon.unique_skill_book01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99909" name="마법서 - 라이트닝 그립" type="EtcItem">
+		<!-- A spellbook for learning the Lightning Grip skill. <Class>. Death Knight (Dark Elves). <Skill effect>. Catches and holds enemies. Only Death Knights can attack the caught enemies. The enemies cannot move and use recovery. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99910" name="마법서 - 프리징 그립" type="EtcItem">
+		<!-- A spellbook for learning the Frost Grip skill. <Class>. Death Knight (Elves). <Skill effect>. Catches and holds enemies. Only Death Knights can attack the caught enemies. The enemies cannot move and use recovery. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99911" name="마법서 - 버닝 그립" type="EtcItem">
+		<!-- A spellbook for learning the Flame Grip skill. <Class>. Death Knight (Humans). <Skill effect>. Catches and holds enemies. Only Death Knights can attack the caught enemies. The enemies cannot move and use recovery. -->
+		<set name="icon" val="icon.etc_magic_book_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99912" name="마법서 - 퓨리 차지" type="EtcItem">
+		<!-- A spellbook for learning the Rage Charge skill. <Class>. Death Knight (all races). <Skill effect>. Rushes to enemy and attacks with a mighty fist. Upon attack recovers DP and applies a debuff called Furious Blast on the enemy. <Furious Blast>. Decreases P./ M. Def. -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99913" name="마법서 - 이블 스티그마" type="EtcItem">
+		<!-- A spellbook for learning the Stigma of Evil skill. <Class>. Death Knight (all races). <Skill effect>. Attacks enemy and puts a Mark of Demise on them. Branded with the Mark of Demise, enemies decrease their Debuff/ Anomaly Resistance, also they take additional damage when suffering from Hellfire. When the marked enemy is killed, the caster gets a Soul Steal buff. <Soul Steal>. Increases P. Atk. and P./ M. Def. -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99914" name="마법서 - 라이트닝 트레이스" type="EtcItem">
+		<!-- A spellbook for learning the Lightning Trace skill. <Class>. Death Knight (Dark Elves). <Skill effect>. Increases P. Skill Critical Rate. <Skill upgrade>. Wipeout → Lightning Wipeout -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99915" name="마법서 - 프리징 트레이스" type="EtcItem">
+		<!-- A spellbook for learning the Frost Trace skill. <Class>. Death Knight (Elves). <Skill effect>. Increases P. Skill Critical Rate. <Skill upgrade>. Wipeout → Frost Wipeout -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99916" name="마법서 - 버닝 트레이스" type="EtcItem">
+		<!-- A spellbook for learning the Flame Trace skill. <Class>. Death Knight (Humans). <Skill effect>. Increases P. Skill Critical Rate. <Skill upgrade>. Wipeout → Flame Wipeout -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99917" name="헬 파이어 버프 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Skill effect>. P. Atk. +200. M. Atk. +200. With a 1% chance, triggers the Hellfire XP skill on attack. Deals AoE damage based on your attack type. - Deals P. damage to the enemy. Power 8000 (P. Atk.). - Deals M. damage to the enemy. Power 130 (M. Atk.). (Trigger cooldown: 60 sec.). Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.hell_fire_buff_scroll"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="40497" level="1"/> <!-- Hellfire Buff Scroll -->
+		</skills>
+	</item>
+	<item id="99918" name="바이움의 반지 조각 (기간제)" type="EtcItem">
+		<!-- Can be used to obtain +2 Baium's Ring through the Special Craft <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.ring_of_baium_essence_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99919" name="여왕개미의 반지 조각 (기간제)" type="EtcItem">
+		<!-- Can be used to obtain +2 Queen Ant's Ring through the Special Craft <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.queen_ant_essence_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99920" name="+3 바이움의 반지(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessory_ring_of_baium_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95330" min="1" max="1" minEnchant="3" maxEnchant="3" chance="100" name="바이움의 반지"/> <!-- Baium's Ring - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99921" name="+2 바이움의 반지(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessory_ring_of_baium_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95330" min="1" max="1" minEnchant="2" maxEnchant="2" chance="100" name="바이움의 반지"/> <!-- Baium's Ring - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99922" name="+3 여왕개미의 반지(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessory_ring_of_queen_ant_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95327" min="1" max="1" minEnchant="3" maxEnchant="3" chance="100" name="여왕개미의 반지"/> <!-- Queen Ant's Ring - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99923" name="+2 여왕개미의 반지(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessory_ring_of_queen_ant_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95327" min="1" max="1" minEnchant="2" maxEnchant="2" chance="100" name="여왕개미의 반지"/> <!-- Queen Ant's Ring - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99924" name="버서커 실드(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.shield_of_immortal"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98984" min="1" max="1" chance="100" name="버서커 실드"/> <!-- Berserker's Shield - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99925" name="버서커 시길(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.sigil_of_immortal"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98985" min="1" max="1" chance="100" name="버서커 시길"/> <!-- Berserker's Sigil - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99926" name="+8 수호의 망토 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_2018_sayha_cloak_back_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93301" min="1" max="1" minEnchant="8" maxEnchant="8" chance="100" name="수호의 망토"/> <!-- Cloak of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99927" name="가디언 소모품 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i10"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98970" min="50000" max="50000" chance="100" name="가디언 전투식량"/> <!-- Guardian's Combat Ration - Sealed -->
+			<item id="98971" min="50000" max="50000" chance="100" name="가디언 HP 물약"/> <!-- Guardian's HP Recovery Potion - Sealed -->
+			<item id="94636" min="500" max="500" chance="100" name="가디언 경험치 향상 주문서"/> <!-- Guardian's XP Growth Scroll - Sealed -->
+			<item id="97432" min="500" max="500" chance="100" name="가디언 공격 강화 주문서"/> <!-- Scroll: Boost Guardian's Attack - Sealed -->
+			<item id="97433" min="500" max="500" chance="100" name="가디언 방어 강화 주문서"/> <!-- Scroll: Boost Guardian's Defense - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99928" name="영웅의 서클릿 꾸러미 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_lucky_pocket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97178" min="1" max="1" chance="3.448276" name="영웅 마법서 교환권"/> <!-- Heroic Spellbook Coupon - Sealed -->
+			<item id="97133" min="1" max="1" chance="3.448276" name="얼음 군주의 무기 교환권"/> <!-- Frost Lord's Weapon Coupon - Sealed -->
+			<item id="97132" min="1" max="1" chance="3.448276" name="수호의 방어구 교환권"/> <!-- Armor of Protection Coupon - Sealed -->
+			<item id="97131" min="1" max="1" chance="3.448276" name="보스 무기 교환권"/> <!-- Boss Weapon Coupon - Sealed -->
+			<item id="94385" min="1" max="1" chance="3.448276" name="축복받은 레어 액세서리 강화 주문서"/> <!-- Improved Scroll: Enchant Rare Accessories -->
+			<item id="94383" min="1" max="1" chance="3.448276" name="레어 액세서리 강화 주문서"/> <!-- Scroll: Enchant Rare Accessories -->
+			<item id="90992" min="1" max="1" chance="3.448276" name="안타라스의 귀걸이"/> <!-- Antharas' Earring -->
+			<item id="91550" min="1" max="1" chance="3.448276" name="프린테사의 목걸이"/> <!-- Frintezza's Necklace -->
+			<item id="49580" min="1" max="1" chance="3.448276" name="바이움의 반지"/> <!-- Baium's Ring -->
+			<item id="96600" min="1" max="1" chance="3.448276" name="베레스의 반지"/> <!-- Beleth's Ring -->
+			<item id="90763" min="1" max="1" chance="3.448276" name="자켄의 귀걸이"/> <!-- Zaken's Earring -->
+			<item id="6660" min="1" max="1" chance="3.448276" name="여왕개미의 반지"/> <!-- Queen Ant's Ring -->
+			<item id="6661" min="1" max="1" chance="3.448276" name="오르펜의 귀걸이"/> <!-- Orfen's Earring -->
+			<item id="6662" min="1" max="1" chance="3.448276" name="코어의 반지"/> <!-- Core's Ring -->
+			<item id="94329" min="1" max="1" chance="3.448276" name="기란의 인장 500개 팩"/> <!-- Package: Giran Seal (500 pcs.) - Sealed -->
+			<item id="93739" min="1" max="1" chance="3.448276" name="기란의 인장 1000개 팩"/> <!-- Package: Giran Seal (1000 pcs.) - Sealed -->
+			<item id="97796" min="1" max="1" chance="3.448276" name="영웅의 서클릿 강화 패키지 100개 팩"/> <!-- Package: Enchant Kit: Circlet of Hero (100 pcs.) - Sealed -->
+			<item id="98224" min="1" max="1" chance="3.448276" name="영웅의 서클릿 200개 팩"/> <!-- Package: Circlet of Hero (200 pcs.) - Sealed -->
+			<item id="96206" min="1" max="1" chance="3.448276" name="+6 영웅의 서클릿 팩 (기간제)"/> <!-- Package: +6 Circlet of Hero (Time-limited) - Sealed -->
+			<item id="98040" min="1" max="1" chance="3.448276" name="초월 강화석"/> <!-- Transcendent Upgrade Stone - Sealed -->
+			<item id="94328" min="1" max="1" chance="3.448276" name="엘릭서 가루"/> <!-- Elixir Powder - Sealed -->
+			<item id="96623" min="1" max="1" chance="3.448276" name="염료 강화제"/> <!-- Dye Booster -->
+			<item id="95783" min="1" max="1" chance="3.448276" name="아덴의 집혼석 Lv1 - 무기"/> <!-- Aden's Soul Crystal Lv. 1 - Weapon -->
+			<item id="97788" min="1" max="1" chance="3.448276" name="특수 장비 제련석"/> <!-- Augmenting Stone: Special Equipment - Sealed -->
+			<item id="92314" min="10" max="10" chance="3.448276" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="5" max="5" chance="3.448276" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="2" max="2" chance="3.448276" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="1" max="1" chance="3.448276" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="94168" min="1" max="1" chance="3.448276" name="영웅의 서클릿 강화 패키지"/> <!-- Enchant Kit: Circlet of Hero - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99929" name="스페셜 위크 출석 보상 상자 VII (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_2018_jewelbox_random"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98022" min="3" max="3" chance="100" name="블랙 쿠폰 - 특수 장비 (기간제)"/> <!-- Black Coupon - Special Equipment (Time-limited) - Sealed -->
+			<item id="98040" min="1" max="1" chance="100" name="초월 강화석"/> <!-- Transcendent Upgrade Stone - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99930" name="스페셜 위크 출석 보상 상자 VI (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_special_jewelbox_lv4"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97597" min="20" max="20" chance="100" name="보석 선택 교환권"/> <!-- Selected Jewel Coupon - Sealed -->
+			<item id="98914" min="1" max="1" chance="100" name="Lv5 보석 상자 (기간제)"/> <!-- Jewel Box Lv. 5 (Time-limited) - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99931" name="스페셜 위크 출석 보상 상자 V (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_special_jewelbox_lv4"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94780" min="100" max="100" chance="100" name="성장의 룬 조각"/> <!-- Growth Rune Fragment - Sealed -->
+			<item id="97170" min="1" max="1" chance="100" name="Lv1 각인 인형 상자 (기간제)"/> <!-- Sealed Doll Pack Lv. 1 (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99932" name="스페셜 위크 출석 보상 상자 IV (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_special_jewelbox_lv4"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98674" min="1" max="1" chance="100" name="스탯 컬렉션 상자 (기간제)"/> <!-- Stat Collection Pack (Time-limited) - Sealed -->
+			<item id="97145" min="600" max="600" chance="100" name="고대의 아데나"/> <!-- Ancient Adena -->
+		</capsuled_items>
+	</item>
+	<item id="99933" name="스페셜 위크 출석 보상 상자 III (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_special_jewelbox_lv4"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98423" min="10" max="10" chance="100" name="마력의 서판"/> <!-- Magic Tablet - Sealed -->
+			<item id="97652" min="1" max="1" chance="100" name="일반 마법서 상자"/> <!-- Common Spellbook Chest - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99934" name="스페셜 위크 출석 보상 상자 II (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_special_jewelbox_lv4"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98463" min="10" max="10" chance="100" name="오만의 반지 / 용계의 귀걸이 팩 (기간제)"/> <!-- Package: Ring of Insolence/ Dragon Valley's Earring (Time-limited) - Sealed -->
+			<item id="98941" min="10" max="10" chance="100" name="사냥꾼의 귀걸이 팩"/> <!-- Package: Hunter's Earring - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99935" name="스페셜 위크 출석 보상 상자 I (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_special_jewelbox_lv4"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97147" min="4" max="4" chance="100" name="잠재력 강화제"/> <!-- Hidden Power Booster - Sealed -->
+			<item id="94328" min="10" max="10" chance="100" name="엘릭서 가루"/> <!-- Elixir Powder - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99936" name="블랙 쿠폰 / 데스나이트의 반지 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_2018_jewelbox_random"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99939" min="1" max="1" chance="100" name="데스나이트의 반지"/> <!-- Death Knight's Ring - Sealed -->
+			<item id="98022" min="1" max="1" chance="100" name="블랙 쿠폰 - 특수 장비 (기간제)"/> <!-- Black Coupon - Special Equipment (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99937" name="+5 에바/신속/권능의 탈리스만 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.npoint_tauti_30day_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92455" min="1" max="1" chance="33.33333" name="+5 에바의 탈리스만 상자"/> <!-- +5 Talisman of Eva Pack - Sealed -->
+			<item id="92464" min="1" max="1" chance="33.33333" name="+5 신속의 탈리스만 상자"/> <!-- +5 Talisman of Speed Pack - Sealed -->
+			<item id="97953" min="1" max="1" chance="33.33333" name="+5 권능의 탈리스만 상자"/> <!-- +5 Talisman of Authority Pack - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99938" name="에바/신속/권능의 탈리스만 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to choose one of the talismans. <font color=EEAA22><Items for exchange></font>. Enchant Kit: Talisman of Authority - 1 pc. required. Enchant Kit: Talisman of Eva - 1 pc. required. Enchant Kit: Talisman of Speed - 1 pc. required -->
+		<set name="icon" val="icon.bm_talisman_ticket"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99939" name="데스나이트의 반지" type="Armor">
+		<!-- A ring imbued with Death Knight's power. <font color=bbaa88><Base effect></font>. Max HP +100. Max MP +22. P. Atk. +100. M. Atk. +100. Atk. Spd. +20. Casting Spd. +20. Speed +1. All Critical Rate +1%. All Critical Damage +1%. Imprisonment Atk. Rate and Resistance +2%. Pull Atk. Rate and Resistance +2%. <font color=ff6666>Cannot be enchanted, augmented, or equipped on a guardian.</font>. <font color=ff6666>Effects of two or more items with the same name do not stack -->
+		<set name="icon" val="icon.ring_of_deathknight_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="mDef">32</stat>
+		</stats>
+		<skills>
+			<skill id="50426" level="1"/> <!-- Death Knight's Ring Event -->
+		</skills>
+	</item>
+	<item id="99940" name="아즈타칸의 보물 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_dragon_present_3"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="99945" min="44" max="44" chance="20" name="마몬의 파편 (기간제)"/> <!-- Mammon Shard (Time-limited) - Sealed -->
+			<item id="99945" min="10" max="10" chance="20" name="마몬의 파편 (기간제)"/> <!-- Mammon Shard (Time-limited) - Sealed -->
+			<item id="99945" min="2" max="2" chance="20" name="마몬의 파편 (기간제)"/> <!-- Mammon Shard (Time-limited) - Sealed -->
+			<item id="99945" min="1" max="1" chance="20" name="마몬의 파편 (기간제)"/> <!-- Mammon Shard (Time-limited) - Sealed -->
+			<item id="94258" min="1" max="1" chance="20" name="아인하사드의 펜던트 Lv1 팩"/> <!-- Package: Einhasad's Pendant Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99941" name="토벌 장비 초보 수집가 II 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i08"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95459" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="도살자의 대도"/> <!-- Butcher's Long Sword - Sealed -->
+			<item id="95457" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="셀 마훔 스나이퍼"/> <!-- Sel Mahum Sniper - Sealed -->
+			<item id="95451" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="봉인된 천사의 해머"/> <!-- Sealed Angel's Hammer - Sealed -->
+			<item id="95454" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="망자의 단검"/> <!-- Deadman's Dagger - Sealed -->
+			<item id="95446" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="엑스쿠로의 홀"/> <!-- Excuro's Staff - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99942" name="셀 마훔 주둔지 토벌대 I 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95456" min="1" max="1" chance="100" name="광전사의 검"/> <!-- Berserker's Sword - Sealed -->
+			<item id="95457" min="1" max="1" chance="100" name="셀 마훔 스나이퍼"/> <!-- Sel Mahum Sniper - Sealed -->
+			<item id="91745" min="1" max="1" minEnchant="3" maxEnchant="3" chance="100" name="아덴의 탈리스만"/> <!-- Talisman of Aden - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99943" name="용의 계곡 토벌대 I 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95454" min="1" max="1" chance="100" name="망자의 단검"/> <!-- Deadman's Dagger - Sealed -->
+			<item id="95455" min="1" max="1" chance="100" name="드래곤 본 블레이드"/> <!-- Dragon Bone Blade - Sealed -->
+			<item id="91745" min="1" max="1" minEnchant="2" maxEnchant="2" chance="100" name="아덴의 탈리스만"/> <!-- Talisman of Aden - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99944" name="창세기의 정원 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_green_box_02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97502" min="5" max="5" chance="100" name="봄바람의 흔적 (기간제)"/> <!-- Trace of Spring Wind (Time-limited) - Sealed -->
+			<item id="96083" min="4" max="4" chance="100" name="창세기의 정원 시간 충전석 (기간제)"/> <!-- Garden of Genesis' Time Stone (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99945" name="마몬의 파편 (기간제)" type="EtcItem">
+		<!-- Can be used to create Einhasad's Pendant Lv. 4 through the special craft. -->
+		<set name="icon" val="icon.etc_unholy_crystal_1_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99946" name="토벌 컬렉션 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to choose one Kit: Purge Collection <font color=ff6666>(unexchangeable)</font>. -->
+		<set name="icon" val="icon.bm_weapon_ticket_c"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99947" name="수호의 방어구(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Armor of Protection piece <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.protection_armor_ticket_i00"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99948" name="얼음 군주의 무기(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a Frost Lord's weapon <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.frozen_weapon_ticket_i00"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="99949" name="헬바운드 포식자의 약탈품 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.npoint_tauti_30day_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="99950" min="1" max="1" chance="12.5" name="고양이 인형 (기간제)"/> <!-- Plush Cat (Time-limited) - Sealed -->
+			<item id="94718" min="1" max="1" chance="12.5" name="헬바운드의 반지"/> <!-- Hellbound Ring -->
+			<item id="99951" min="7" max="7" chance="12.5" name="헬바운드의 반지 교환권"/> <!-- Scroll: Enchant Hellbound Ring - Sealed -->
+			<item id="99951" min="5" max="5" chance="12.5" name="헬바운드의 반지 교환권"/> <!-- Scroll: Enchant Hellbound Ring - Sealed -->
+			<item id="99951" min="3" max="3" chance="12.5" name="헬바운드의 반지 교환권"/> <!-- Scroll: Enchant Hellbound Ring - Sealed -->
+			<item id="94717" min="7" max="7" chance="12.5" name="헬바운드의 기운"/> <!-- Hellbound Energy - Sealed -->
+			<item id="94717" min="5" max="5" chance="12.5" name="헬바운드의 기운"/> <!-- Hellbound Energy - Sealed -->
+			<item id="94717" min="3" max="3" chance="12.5" name="헬바운드의 기운"/> <!-- Hellbound Energy - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99950" name="고양이 인형 (기간제)" type="EtcItem">
+		<!-- <Fierce Predator's Power>. P. Atk. +100. M. Atk. +100. P. Def. +100. M. Def. +100. Acquired XP +10%. Acquired SP +10%. When in inventory, Fierce Predator's Power boosts stats. -->
+		<set name="icon" val="icon.accessory_cat_the_cat_cap_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50425" level="1"/> <!-- Plush Cat -->
+		</skills>
+	</item>
+	<item id="99951" name="헬바운드의 반지 교환권" type="EtcItem">
+		<!-- Required for enchanting Hellbound Ring. Max enchant value: +10. -->
+		<set name="icon" val="icon.etc_penalty_recovery_i01"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="ENCHT_AM"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="40496" level="1"/> <!-- Scroll: Enchant Hellbound Ring -->
+		</skills>
+	</item>
+	<item id="99952" name="+9 드래곤의 알 아가시온 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.agathion_valakas_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98235" min="1" max="1" minEnchant="9" maxEnchant="9" chance="100" name="드래곤의 알 아가시온"/> <!-- Agathion Dragon Egg - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99953" name="그랑카인의 펜던트 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pendant_of_grankain_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98782" min="1" max="1" chance="100" name="그랑카인의 펜던트"/> <!-- Gran Kain's Pendant - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99954" name="발라카스 아가시온 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.agathion_valakas_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98236" min="1" max="1" chance="100" name="발라카스 아가시온"/> <!-- Agathion Valakas - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99955" name="천상의 망토 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.nobless_cloak_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97452" min="1" max="1" chance="100" name="천상의 망토"/> <!-- Heavenly Cloak -->
+		</capsuled_items>
+	</item>
+	<item id="99956" name="루비 Lv1 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_emerald_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99985" min="1" max="1" chance="100" name="다이아몬드 Lv1"/> <!-- Diamond Lv. 1 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99957" name="루비 Lv1 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99993" min="1" max="1" chance="100" name="루비 Lv1"/> <!-- Ruby Lv. 1 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99958" name="미공급 - 진 데스나이트 Lv2 불검 외형" type="Weapon">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.fire_sword_aden0000"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">660</stat>
+			<stat type="mAtk">327</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="50392" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+			<skill id="50419" level="1" type="ON_BLESSING" type_value="1"/> <!-- Blessing Effect: +1 Enchanted Top-grade Weapon -->
+			<skill id="50420" level="1" type="ON_BLESSING" type_value="2"/> <!-- Blessing Effect: +2 Enchanted Top-grade Weapon -->
+			<skill id="50421" level="1" type="ON_BLESSING" type_value="3"/> <!-- Blessing Effect: +3 Enchanted Top-grade Weapon -->
+			<skill id="50422" level="1" type="ON_BLESSING" type_value="4"/> <!-- Blessing Effect: +4 Enchanted Top-grade Weapon -->
+			<skill id="50423" level="1" type="ON_BLESSING" type_value="5"/> <!-- Blessing Effect: +5 Enchanted Top-grade Weapon -->
+		</skills>
+	</item>
+	<item id="99959" name="미공급 - 진 데스나이트 Lv2 외형" type="Armor">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="R99"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="99960" name="반짝이는 보석 꾸러미 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_golden_spice_blessed_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97178" min="1" max="1" chance="3.846154" name="영웅 마법서 교환권"/> <!-- Heroic Spellbook Coupon - Sealed -->
+			<item id="97133" min="1" max="1" chance="3.846154" name="얼음 군주의 무기 교환권"/> <!-- Frost Lord's Weapon Coupon - Sealed -->
+			<item id="97132" min="1" max="1" chance="3.846154" name="수호의 방어구 교환권"/> <!-- Armor of Protection Coupon - Sealed -->
+			<item id="97131" min="1" max="1" chance="3.846154" name="보스 무기 교환권"/> <!-- Boss Weapon Coupon - Sealed -->
+			<item id="94385" min="1" max="1" chance="3.846154" name="축복받은 레어 액세서리 강화 주문서"/> <!-- Improved Scroll: Enchant Rare Accessories -->
+			<item id="94383" min="1" max="1" chance="3.846154" name="레어 액세서리 강화 주문서"/> <!-- Scroll: Enchant Rare Accessories -->
+			<item id="99961" min="1" max="1" chance="3.846154" name="보석 선택 교환권 500개 팩"/> <!-- Package: Selected Jewel Coupon (500 pcs.) - Sealed -->
+			<item id="98065" min="1" max="1" chance="3.846154" name="보석 선택 교환권 1000개 팩"/> <!-- Package: Selected Jewel Coupon (1000 pcs.) - Sealed -->
+			<item id="94329" min="1" max="1" chance="3.846154" name="기란의 인장 500개 팩"/> <!-- Package: Giran Seal (500 pcs.) - Sealed -->
+			<item id="93739" min="1" max="1" chance="3.846154" name="기란의 인장 1000개 팩"/> <!-- Package: Giran Seal (1000 pcs.) - Sealed -->
+			<item id="98449" min="1" max="1" chance="3.846154" name="이실장의 Lv6 보석 교환권 (기간제)"/> <!-- Manager's Jewel Coupon Lv. 6 (Time-limited) - Not available -->
+			<item id="98040" min="1" max="1" chance="3.846154" name="초월 강화석"/> <!-- Transcendent Upgrade Stone - Sealed -->
+			<item id="94328" min="1" max="1" chance="3.846154" name="엘릭서 가루"/> <!-- Elixir Powder - Sealed -->
+			<item id="96623" min="1" max="1" chance="3.846154" name="염료 강화제"/> <!-- Dye Booster -->
+			<item id="95803" min="1" max="1" chance="3.846154" name="하딘의 집혼석 Lv1"/> <!-- Hardin's Soul Crystal Lv. 1 -->
+			<item id="96985" min="1" max="1" chance="3.846154" name="브로치 Lv3 팩"/> <!-- Package: Brooch Lv. 3 - Sealed -->
+			<item id="99956" min="1" max="1" chance="3.846154" name="루비 Lv1 보석함"/> <!-- Ruby Jewelry Box Lv. 1 -->
+			<item id="99957" min="1" max="1" chance="3.846154" name="루비 Lv1 보석함"/> <!-- Ruby Jewelry Box Lv. 1 -->
+			<item id="92314" min="10" max="10" chance="3.846154" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="5" max="5" chance="3.846154" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="2" max="2" chance="3.846154" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="1" max="1" chance="3.846154" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="97597" min="5" max="5" chance="3.846154" name="보석 선택 교환권"/> <!-- Selected Jewel Coupon - Sealed -->
+			<item id="97597" min="4" max="4" chance="3.846154" name="보석 선택 교환권"/> <!-- Selected Jewel Coupon - Sealed -->
+			<item id="97597" min="3" max="3" chance="3.846154" name="보석 선택 교환권"/> <!-- Selected Jewel Coupon - Sealed -->
+			<item id="97597" min="2" max="2" chance="3.846154" name="보석 선택 교환권"/> <!-- Selected Jewel Coupon - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99961" name="보석 선택 교환권 500개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97597" min="500" max="500" chance="100" name="보석 선택 교환권"/> <!-- Selected Jewel Coupon - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99962" name="다이아몬드 Lv8 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99978" min="1" max="1" chance="100" name="다이아몬드 Lv8"/> <!-- Diamond Lv. 8 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99963" name="다이아몬드 Lv7 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99979" min="1" max="1" chance="100" name="다이아몬드 Lv7"/> <!-- Diamond Lv. 7 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99964" name="다이아몬드 Lv6 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99980" min="1" max="1" chance="100" name="다이아몬드 Lv6"/> <!-- Diamond Lv. 6 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99965" name="다이아몬드 Lv5 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99981" min="1" max="1" chance="100" name="다이아몬드 Lv5"/> <!-- Diamond Lv. 5 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99966" name="다이아몬드 Lv4 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99982" min="1" max="1" chance="100" name="다이아몬드 Lv4"/> <!-- Diamond Lv. 4 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99967" name="다이아몬드 Lv3 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99983" min="1" max="1" chance="100" name="다이아몬드 Lv3"/> <!-- Diamond Lv. 3 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99968" name="다이아몬드 Lv2 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99984" min="1" max="1" chance="100" name="다이아몬드 Lv2"/> <!-- Diamond Lv. 2 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99969" name="다이아몬드 Lv1 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99985" min="1" max="1" chance="100" name="다이아몬드 Lv1"/> <!-- Diamond Lv. 1 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99970" name="루비 Lv8 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99986" min="1" max="1" chance="100" name="루비 Lv8"/> <!-- Ruby Lv. 8 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99971" name="루비 Lv7 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99987" min="1" max="1" chance="100" name="루비 Lv7"/> <!-- Ruby Lv. 7 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99972" name="루비 Lv6 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99988" min="1" max="1" chance="100" name="루비 Lv6"/> <!-- Ruby Lv. 6 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99973" name="루비 Lv5 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99989" min="1" max="1" chance="100" name="루비 Lv5"/> <!-- Ruby Lv. 5 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99974" name="루비 Lv4 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99990" min="1" max="1" chance="100" name="루비 Lv4"/> <!-- Ruby Lv. 4 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99975" name="루비 Lv3 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99991" min="1" max="1" chance="100" name="루비 Lv3"/> <!-- Ruby Lv. 3 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99976" name="루비 Lv2 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99992" min="1" max="1" chance="100" name="루비 Lv2"/> <!-- Ruby Lv. 2 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99977" name="루비 Lv1 보석함" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: Identical Jewels and Jewelry Boxes. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="99993" min="1" max="1" chance="100" name="루비 Lv1"/> <!-- Ruby Lv. 1 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="99978" name="다이아몬드 Lv8" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50670" level="8"/> <!-- Diamond -->
+		</skills>
+	</item>
+	<item id="99979" name="다이아몬드 Lv7" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50670" level="7"/> <!-- Diamond -->
+		</skills>
+	</item>
+	<item id="99980" name="다이아몬드 Lv6" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50670" level="6"/> <!-- Diamond -->
+		</skills>
+	</item>
+	<item id="99981" name="다이아몬드 Lv5" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50670" level="5"/> <!-- Diamond -->
+		</skills>
+	</item>
+	<item id="99982" name="다이아몬드 Lv4" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50670" level="4"/> <!-- Diamond -->
+		</skills>
+	</item>
+	<item id="99983" name="다이아몬드 Lv3" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50670" level="3"/> <!-- Diamond -->
+		</skills>
+	</item>
+	<item id="99984" name="다이아몬드 Lv2" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50670" level="2"/> <!-- Diamond -->
+		</skills>
+	</item>
+	<item id="99985" name="다이아몬드 Lv1" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50670" level="1"/> <!-- Diamond -->
+		</skills>
+	</item>
+	<item id="99986" name="루비 Lv8" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50671" level="8"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="99987" name="루비 Lv7" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50671" level="7"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="99988" name="루비 Lv6" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50671" level="6"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="99989" name="루비 Lv5" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50671" level="5"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="99990" name="루비 Lv4" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50671" level="4"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="99991" name="루비 Lv3" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50671" level="3"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="99992" name="루비 Lv2" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50671" level="2"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="99993" name="루비 Lv1" type="Armor">
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50671" level="1"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="99994" name="아데나 버프 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. Adena drop rate +5%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.ev_adena_buff_scroll"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="40495" level="1"/> <!-- Adena Buff Scroll (Time-limited) -->
+		</skills>
+	</item>
+	<item id="99995" name="가디언 펜던트 팩 Lv1" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: guardian pendants and packages of the same level. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.Icon.br_rudolf_necklace_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97388" min="1" max="1" chance="100" name="가디언 펜던트 Lv1"/> <!-- Guardian's Pendant Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99996" name="가디언 펜던트 팩 Lv2" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: guardian pendants and packages of the same level. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.Icon.br_rudolf_necklace_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97389" min="1" max="1" chance="100" name="가디언 펜던트 Lv2"/> <!-- Guardian's Pendant Lv. 2 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99997" name="가디언 펜던트 팩 Lv3" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: guardian pendants and packages of the same level. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.Icon.br_rudolf_necklace_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97390" min="1" max="1" chance="100" name="가디언 펜던트 Lv3"/> <!-- Guardian's Pendant Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99998" name="가디언 펜던트 팩 Lv4" type="EtcItem">
+		<!-- <font color=bbaa88><Compounding></font>. Materials: guardian pendants and packages of the same level. In case of failure, the current level remains the same, but materials disappear. Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.Icon.br_rudolf_necklace_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97391" min="1" max="1" chance="100" name="가디언 펜던트 Lv4"/> <!-- Guardian's Pendant Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="99999" name="가디언 펜던트 팩 Lv5" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.Icon.br_rudolf_necklace_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97392" min="1" max="1" chance="100" name="가디언 펜던트 Lv5"/> <!-- Guardian's Pendant Lv. 5 - Sealed -->
+		</capsuled_items>
+	</item>
+</list>

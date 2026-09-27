@@ -1,0 +1,403 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="81900" toLevel="1" name="스킬 위력">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81901" toLevel="1" name="피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81902" toLevel="1" name="스킬 위력/최대 MP 증가">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81903" toLevel="1" name="피격 대미지 감소/최대 HP 증가">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81904" toLevel="1" name="방어력/마법저항/HP 물약 추가 회복">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81905" toLevel="1" name="국왕의 증표 Ⅰ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81906" toLevel="1" name="국왕의 증표 Ⅱ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81907" toLevel="1" name="국왕의 증표 Ⅲ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81908" toLevel="1" name="국왕의 증표 Ⅳ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81909" toLevel="1" name="국왕의 증표 Ⅴ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81910" toLevel="1" name="대미지 증가/HP 물약 추가 회복">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81911" toLevel="1" name="화이트 밸런타인">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81912" toLevel="1" name="다크 밸런타인">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81913" toLevel="1" name="아덴의 권능">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81914" toLevel="1" name="아덴의 투지">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81915" toLevel="1" name="아덴의 수호">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81916" toLevel="1" name="피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81917" toLevel="1" name="획득 EXP/SP">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81918" toLevel="1" name="사이하의 은총 충전량 증가">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81919" toLevel="1" name="사이하의 은총 소모량 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81920" toLevel="1" name="사이하의 은총 충전량 증가">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81921" toLevel="1" name="사이하의 은총 소모량 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81922" toLevel="1" name="스킬 재사용 시간 감소/HP/MP/CP 증가">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81923" toLevel="1" name="마법 램프 게이지 충전">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81924" toLevel="1" name="CON/MEN">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81925" toLevel="1" name="HP 물약 추가 회복">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81926" toLevel="1" name="HP 물약 추가 회복">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81927" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81928" toLevel="1" name="마법 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81929" toLevel="1" name="마법 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81930" toLevel="1" name="마법 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81931" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81932" toLevel="1" name="물리 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81933" toLevel="1" name="물리 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81934" toLevel="1" name="마법 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81935" toLevel="1" name="봄봄봄봄! 봄이 왔어요!">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81936" toLevel="1" name="생명이 피어나는 봄Ⅱ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81937" toLevel="1" name="생명이 피어나는 봄Ⅰ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81938" toLevel="1" name="성장의 룬 컬렉션 Ⅲ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81939" toLevel="1" name="성장의 룬 컬렉션 Ⅳ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81940" toLevel="1" name="전장의 투사">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81941" toLevel="1" name="전장의 영웅">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81942" toLevel="1" name="즐거운 한가위">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81943" toLevel="1" name="정령의 목걸이 Ⅰ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81944" toLevel="1" name="정령의 목걸이 Ⅱ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81945" toLevel="1" name="정령의 목걸이 Ⅲ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81946" toLevel="1" name="정령의 목걸이 Ⅳ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81947" toLevel="1" name="Lineage2 Re:Member I">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81948" toLevel="1" name="Lineage2 Re:Member II">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81949" toLevel="1" name="18주년 이벤트 컬렉션 I">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81950" toLevel="1" name="18주년 이벤트 컬렉션 II">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81951" toLevel="1" name="18주년 이벤트 컬렉션 III">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81952" toLevel="1" name="버프툰 이벤트 컬렉션 I">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81953" toLevel="1" name="고다드 영지 토벌대Ⅰ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81954" toLevel="1" name="고다드 영지 토벌대Ⅱ">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81955" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81956" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81957" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81958" toLevel="1" name="물리 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81959" toLevel="1" name="물리 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81960" toLevel="1" name="물리 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81961" toLevel="1" name="마법 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81962" toLevel="1" name="마법 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81963" toLevel="1" name="마법 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81964" toLevel="1" name="마법 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81965" toLevel="1" name="마법 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81966" toLevel="1" name="마법 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81967" toLevel="1" name="고대의 무기를 강화하자">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81968" toLevel="1" name="2022년 넘치는 기운 I">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81969" toLevel="1" name="2022년 넘치는 기운 II">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81970" toLevel="1" name="물과 바람의 노래 I">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81971" toLevel="1" name="물과 바람의 노래 II">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81972" toLevel="1" name="물리 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81973" toLevel="1" name="고대검 내성">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81974" toLevel="1" name="고대검 내성">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81975" toLevel="1" name="고대검 내성">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81976" toLevel="1" name="물리 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81977" toLevel="1" name="고대검 내성">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81978" toLevel="1" name="물리 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81979" toLevel="1" name="물리 스킬 크리티컬 피격 확률 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81980" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81981" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81982" toLevel="1" name="PC방 - 사이하의 축복(14일)">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81983" toLevel="1" name="스승의 은혜">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81984" toLevel="1" name="전란의 오만의 탑">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81985" toLevel="1" name="혼돈의 오만의 탑">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81986" toLevel="1" name="오만의 탑의 부름">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81987" toLevel="1" name="포스가 함께하길 I">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81988" toLevel="1" name="포스가 함께하길 II">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81989" toLevel="1" name="미지의 성채 정찰 I">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81990" toLevel="1" name="미지의 성채 정찰 II">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81991" toLevel="1" name="사교의 신전 조사 I">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81992" toLevel="1" name="사교의 신전 조사 II">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81993" toLevel="1" name="봉인된 컬렉션북">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81994" toLevel="1" name="봉인 해제된 컬렉션북">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81995" toLevel="1" name="암살자 기념 컬렉션">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81996" toLevel="1" name="Anniversary">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81997" toLevel="1" name="19th">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81998" toLevel="1" name="Lineage2">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="81999" toLevel="1" name="여정의 증표">
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+</list>

@@ -1,0 +1,2643 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="4700" name="미공급 - 미혹의 검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="MITHRIL"/>
+		<set name="weight" val="1400"/>
+		<set name="price" val="4300000"/>
+		<set name="change_weaponId" val="9270"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4701" name="미공급 - 미혹의 검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +191 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="MITHRIL"/>
+		<set name="weight" val="1400"/>
+		<set name="price" val="4300000"/>
+		<set name="change_weaponId" val="9271"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="4"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4702" name="미공급 - 츠루기" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +65 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1400"/>
+		<set name="price" val="4300000"/>
+		<set name="change_weaponId" val="9273"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="5"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4703" name="미공급 - 츠루기" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1400"/>
+		<set name="price" val="4300000"/>
+		<set name="change_weaponId" val="9274"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4704" name="미공급 - 츠루기" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +191 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1400"/>
+		<set name="price" val="4300000"/>
+		<set name="change_weaponId" val="9275"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="4"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4705" name="미공급 - 악몽의 검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +65 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="BLOOD_STEEL"/>
+		<set name="weight" val="1400"/>
+		<set name="price" val="4300000"/>
+		<set name="change_weaponId" val="9277"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="5"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4706" name="미공급 - 악몽의 검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="BLOOD_STEEL"/>
+		<set name="weight" val="1400"/>
+		<set name="price" val="4300000"/>
+		<set name="change_weaponId" val="9278"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4707" name="미공급 - 악몽의 검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +191 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="BLOOD_STEEL"/>
+		<set name="weight" val="1400"/>
+		<set name="price" val="4300000"/>
+		<set name="change_weaponId" val="9279"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="4"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4708" name="미공급 - 싸울아비 장검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +62 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="ORIHARUKON"/>
+		<set name="weight" val="1380"/>
+		<set name="price" val="6130000"/>
+		<set name="change_weaponId" val="9293"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">156</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="6"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4709" name="미공급 - 싸울아비 장검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="ORIHARUKON"/>
+		<set name="weight" val="1380"/>
+		<set name="price" val="6130000"/>
+		<set name="change_weaponId" val="9294"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<stats>
+			<stat type="pAtk">156</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4710" name="미공급 - 싸울아비 장검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +208 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="ORIHARUKON"/>
+		<set name="weight" val="1380"/>
+		<set name="price" val="6130000"/>
+		<set name="change_weaponId" val="9295"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">156</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="5"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4711" name="미공급 - 플랑베르주" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +71 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="BRONZE"/>
+		<set name="weight" val="2010"/>
+		<set name="price" val="2290000"/>
+		<set name="change_weaponId" val="9233"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="TWO_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">130</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="3"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4712" name="미공급 - 플랑베르주" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +8% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="BRONZE"/>
+		<set name="weight" val="2010"/>
+		<set name="price" val="2290000"/>
+		<set name="change_weaponId" val="9234"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="TWO_HAND_SWORD"/>
+		<stats>
+			<stat type="pAtk">130</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="1"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4713" name="미공급 - 플랑베르주" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +203 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="BRONZE"/>
+		<set name="weight" val="2010"/>
+		<set name="price" val="2290000"/>
+		<set name="change_weaponId" val="9235"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="TWO_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">130</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3542" level="2"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4714" name="미공급 - 크샨베르크" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +58 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="ORIHARUKON"/>
+		<set name="weight" val="1370"/>
+		<set name="price" val="8680000"/>
+		<set name="change_weaponId" val="9305"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="7"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4715" name="미공급 - 크샨베르크" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +6% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="ORIHARUKON"/>
+		<set name="weight" val="1370"/>
+		<set name="price" val="8680000"/>
+		<set name="change_weaponId" val="9306"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="10"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4716" name="미공급 - 크샨베르크" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +223 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="ORIHARUKON"/>
+		<set name="weight" val="1370"/>
+		<set name="price" val="8680000"/>
+		<set name="change_weaponId" val="9307"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="6"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4717" name="미공급 - 다마스커스 검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +54 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="DAMASCUS"/>
+		<set name="weight" val="1350"/>
+		<set name="price" val="13100000"/>
+		<set name="change_weaponId" val="9317"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<stats>
+			<stat type="pAtk">194</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="8"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4718" name="미공급 - 다마스커스 검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +6% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="DAMASCUS"/>
+		<set name="weight" val="1350"/>
+		<set name="price" val="13100000"/>
+		<set name="change_weaponId" val="9318"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<stats>
+			<stat type="pAtk">194</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="10"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4719" name="미공급 - 다마스커스 검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +236 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="DAMASCUS"/>
+		<set name="weight" val="1350"/>
+		<set name="price" val="13100000"/>
+		<set name="change_weaponId" val="9319"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="ONE_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">194</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="7"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4723" name="미공급 - 그레이트 소드" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +58 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="1930"/>
+		<set name="price" val="8680000"/>
+		<set name="change_weaponId" val="9309"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="TWO_HAND_SWORD"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="7"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4724" name="미공급 - 그레이트 소드" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="1930"/>
+		<set name="price" val="8680000"/>
+		<set name="change_weaponId" val="9310"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="TWO_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4725" name="미공급 - 그레이트 소드" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +260 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;44;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="1930"/>
+		<set name="price" val="8680000"/>
+		<set name="change_weaponId" val="9311"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="TWO_HAND_SWORD"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">213</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3542" level="5"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4726" name="미공급 - 큰망치" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +71 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1710"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="3"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4727" name="미공급 - 큰망치" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1710"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4728" name="미공급 - 큰망치" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +157 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1710"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="2"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4729" name="미공급 - 배틀액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +71 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1720"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="3"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4730" name="미공급 - 배틀액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1720"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4731" name="미공급 - 배틀액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +157 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1720"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="2"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4732" name="미공급 - 워피크" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +71 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1690"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="3"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4733" name="미공급 - 워피크" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1690"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4734" name="미공급 - 워피크" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +157 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1690"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="2"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4735" name="미공급 - 스컬그레이버" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +71 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1640"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="3"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4736" name="미공급 - 스컬그레이버" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1640"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4737" name="미공급 - 스컬그레이버" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +157 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1640"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="2"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4738" name="미공급 - 드워븐 워해머" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +71 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1670"/>
+		<set name="price" val="2870000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">68</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="3"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4739" name="미공급 - 드워븐 워해머" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1670"/>
+		<set name="price" val="2870000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">68</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4740" name="미공급 - 드워븐 워해머" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +174 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1670"/>
+		<set name="price" val="2870000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">68</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="3"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4741" name="미공급 - 워액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +68 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1660"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="4"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4742" name="미공급 - 워액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1660"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4743" name="미공급 - 워액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +191 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1660"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">139</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="4"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4744" name="미공급 - 야크샤 메이스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +68 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1640"/>
+		<set name="price" val="6130000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">156</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="4"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4745" name="미공급 - 야크샤 메이스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +7% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1640"/>
+		<set name="price" val="6130000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">156</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="2"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4746" name="미공급 - 야크샤 메이스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +208 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1640"/>
+		<set name="price" val="6130000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">156</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="5"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4747" name="미공급 - 헤비 워액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +62 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1620"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="6"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4748" name="미공급 - 헤비 워액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +6% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1620"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="10"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4749" name="미공급 - 헤비 워액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +223 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1620"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">175</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="6"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4750" name="미공급 - 사자의 영광" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +58 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="BONE"/>
+		<set name="weight" val="1600"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">194</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="7"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4751" name="미공급 - 사자의 영광" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +6% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="BONE"/>
+		<set name="weight" val="1600"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">194</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="10"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4752" name="미공급 - 사자의 영광" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +236 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="BONE"/>
+		<set name="weight" val="1600"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">194</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="7"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4753" name="미공급 - 아트 오브 배틀액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +58 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="CHRYSOLITE"/>
+		<set name="weight" val="1570"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">194</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="7"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4754" name="미공급 - 아트 오브 배틀액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +6% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="CHRYSOLITE"/>
+		<set name="weight" val="1570"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">194</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="10"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4755" name="미공급 - 아트 오브 배틀액스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +236 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="CHRYSOLITE"/>
+		<set name="weight" val="1570"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="BLUNT_WEAPON"/>
+		<stats>
+			<stat type="pAtk">194</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="randomDamage">19</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3023" level="7"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4759" name="미공급 - 저주받은 단검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +70 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="MITHRIL"/>
+		<set name="weight" val="1040"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">94</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3011" level="2"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4760" name="미공급 - 저주받은 단검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +5% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="MITHRIL"/>
+		<set name="weight" val="1040"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">94</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="4"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4761" name="미공급 - 저주받은 단검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Increases success rate of skills that target the enemy's vital points. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="MITHRIL"/>
+		<set name="weight" val="1040"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">94</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3035" level="1"/> <!-- Not used - Special Property: Mortal Strike -->
+		</skills>
+	</item>
+	<item id="4762" name="미공급 - 다크 엘븐 대거" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +70 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1050"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">94</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3011" level="2"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4763" name="미공급 - 다크 엘븐 대거" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +5% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1050"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">94</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="4"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4764" name="미공급 - 다크 엘븐 대거" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Increases success rate of skills that target the enemy's vital points. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1050"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">94</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3035" level="1"/> <!-- Not used - Special Property: Mortal Strike -->
+		</skills>
+	</item>
+	<item id="4765" name="미공급 - 스틸레토" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +70 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1030"/>
+		<set name="price" val="2870000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">68</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3011" level="2"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4766" name="미공급 - 스틸레토" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +5% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1030"/>
+		<set name="price" val="2870000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">68</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="4"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4767" name="미공급 - 스틸레토" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Increases success rate of skills that target the enemy's vital points. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1030"/>
+		<set name="price" val="2870000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">107</stat>
+			<stat type="mAtk">68</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3035" level="1"/> <!-- Not used - Special Property: Mortal Strike -->
+		</skills>
+	</item>
+	<item id="4768" name="미공급 - 그레이스 대거" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +66 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1020"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3011" level="4"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4769" name="미공급 - 그레이스 대거" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +5% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1020"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="4"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4770" name="미공급 - 그레이스 대거" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Increases success rate of skills that target the enemy's vital points. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1020"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3035" level="1"/> <!-- Not used - Special Property: Mortal Strike -->
+		</skills>
+	</item>
+	<item id="4771" name="미공급 - 다크 스크리머" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +66 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1010"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3011" level="4"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4772" name="미공급 - 다크 스크리머" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +5% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1010"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="4"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4773" name="미공급 - 다크 스크리머" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Increases success rate of skills that target the enemy's vital points. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1010"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">122</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3035" level="1"/> <!-- Not used - Special Property: Mortal Strike -->
+		</skills>
+	</item>
+	<item id="4774" name="미공급 - 크리스탈 단검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +66 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="weight" val="1000"/>
+		<set name="price" val="6130000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">136</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3011" level="4"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4775" name="미공급 - 크리스탈 단검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +5% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="weight" val="1000"/>
+		<set name="price" val="6130000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">136</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="4"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4776" name="미공급 - 크리스탈 단검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Increases success rate of skills that target the enemy's vital points. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="weight" val="1000"/>
+		<set name="price" val="6130000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">136</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3035" level="1"/> <!-- Not used - Special Property: Mortal Strike -->
+		</skills>
+	</item>
+	<item id="4777" name="미공급 - 크리스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +61 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="MITHRIL"/>
+		<set name="weight" val="980"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">153</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3011" level="6"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4778" name="미공급 - 크리스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +5% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="MITHRIL"/>
+		<set name="weight" val="980"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<stats>
+			<stat type="pAtk">153</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="4"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4779" name="미공급 - 크리스" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Increases success rate of skills that target the enemy's vital points. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1157"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="MITHRIL"/>
+		<set name="weight" val="980"/>
+		<set name="price" val="8680000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">153</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3035" level="2"/> <!-- Not used - Special Property: Mortal Strike -->
+		</skills>
+	</item>
+	<item id="4780" name="미공급 - 악마의 단검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +61 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="BLOOD_STEEL"/>
+		<set name="weight" val="970"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">170</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3011" level="6"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4781" name="미공급 - 악마의 단검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +5% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="BLOOD_STEEL"/>
+		<set name="weight" val="970"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">170</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3045" level="4"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4782" name="미공급 - 악마의 단검" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Increases success rate of skills that target the enemy's vital points. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1746"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="BLOOD_STEEL"/>
+		<set name="weight" val="970"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">170</stat>
+			<stat type="mAtk">99</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3035" level="2"/> <!-- Not used - Special Property: Mortal Strike -->
+		</skills>
+	</item>
+	<item id="4789" name="미공급 - 차크람" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +71 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;32;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1490"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">130</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="3"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4790" name="미공급 - 차크람" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +8% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;32;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1490"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">130</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="1"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4791" name="미공급 - 차크람" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +203 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;32;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="916"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1490"/>
+		<set name="price" val="2290000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">130</stat>
+			<stat type="mAtk">61</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3542" level="2"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4792" name="미공급 - 피스트 블레이드" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +68 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;40;90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1480"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">169</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="4"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4793" name="미공급 - 피스트 블레이드" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +8% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;40;90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1480"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">169</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="1"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4794" name="미공급 - 피스트 블레이드" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +223 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;40;90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1720"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1480"/>
+		<set name="price" val="4300000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">169</stat>
+			<stat type="mAtk">76</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3542" level="3"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4795" name="미공급 - 그레이트 파타" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +68 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;46;90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="CHRYSOLITE"/>
+		<set name="weight" val="1460"/>
+		<set name="price" val="6130000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">190</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="4"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4796" name="미공급 - 그레이트 파타" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +8% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;46;90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="CHRYSOLITE"/>
+		<set name="weight" val="1460"/>
+		<set name="price" val="6130000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">190</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="1"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+	<item id="4797" name="미공급 - 그레이트 파타" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Atk. +242 on a critical attack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;46;90"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2452"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="CHRYSOLITE"/>
+		<set name="weight" val="1460"/>
+		<set name="price" val="6130000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">190</stat>
+			<stat type="mAtk">83</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3542" level="4"/> <!-- Not used - Special Property: P. Critical Damage -->
+		</skills>
+	</item>
+	<item id="4798" name="미공급 - 너클 더스트" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. P. Critical Rate +71 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;32;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1490"/>
+		<set name="price" val="2870000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">148</stat>
+			<stat type="mAtk">68</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3010" level="3"/> <!-- Not used - Special Property: Focus -->
+		</skills>
+	</item>
+	<item id="4799" name="미공급 - 너클 더스트" type="Weapon">
+		<!-- The item is not available. <Soul crystal property>. Atk. Spd. +8% -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUALFIST"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;32;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="1148"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1490"/>
+		<set name="price" val="2870000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="FIST_WEAPON"/>
+		<set name="isAppearanceable" val="true"/>
+		<stats>
+			<stat type="pAtk">148</stat>
+			<stat type="mAtk">68</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3036" level="1"/> <!-- Not used - Special Property: Haste -->
+		</skills>
+	</item>
+</list>

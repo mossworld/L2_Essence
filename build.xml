@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="L2_Essence" default="full-build-package" basedir=".">
+    
+    <property name="src" location="java" />
+    <property name="src-lib" location="libs" />
+    <property name="build.temp" location="build_temp" />
+    <property name="build.classes" location="${build.temp}/classes" />
+    <property name="dist" location="dist" />
+    
+    <property name="zip.dir" location="Build" />
+    <property name="zip.name" value="L2_Essence.zip" />
+
+    <path id="classpath">
+        <fileset dir="${src-lib}">
+            <include name="**/*.jar" />
+        </fileset>
+    </path>
+
+    <target name="clean">
+        <delete dir="${build.temp}" />
+        <delete dir="${dist}" />
+        <mkdir dir="${zip.dir}" />
+        <echo message="🧹 이전 빌드 데이터를 삭제하고 Build 폴더를 준비했습니다." />
+    </target>
+
+    <target name="compile" depends="clean">
+        <mkdir dir="${build.classes}" />
+        <javac destdir="${build.classes}" includeantruntime="false" optimize="on" debug="on" release="25" encoding="UTF-8" nowarn="off">
+            <src path="${src}" />
+            <classpath refid="classpath" />
+        </javac>
+        
+        <mkdir dir="${dist}/libs" />
+        <jar destfile="${dist}/libs/L2JDev_Master.jar">
+            <fileset dir="${build.classes}" />
+        </jar>
+        <echo message="☕ 자바 컴파일 및 핵심 JAR 생성이 완료되었습니다." />
+    </target>
+
+    <target name="copy-resources" depends="compile">
+        <copy todir="${dist}">
+            <fileset dir=".">
+                <include name="**/*" />
+
+                <exclude name="java/**" />           <exclude name="build_temp/**" />     <exclude name="dist/**" />           <exclude name="Build/**" />          <exclude name="libs/L2JDev_Master.jar" /> <exclude name=".git/**" />
+                <exclude name=".project" />
+                <exclude name=".classpath" />
+                <exclude name=".settings/**" />
+                <exclude name="build.xml" />
+                <exclude name="build_log.txt" />
+            </fileset>
+        </copy>
+        <echo message="📂 루트에 나란히 있는 모든 리소스 폴더를 dist로 수집했습니다." />
+    </target>
+
+    <target name="full-build-package" depends="copy-resources">
+        <zip destfile="${zip.dir}/${zip.name}" basedir="${dist}" />
+        
+        <delete dir="${build.temp}" />
+        <delete dir="${dist}" />
+        
+        <echo message="===========================================" />
+        <echo message="🎉 완료! 최종 파일: D:\Game\L2\Source\L2_Essence\Build\${zip.name}" />
+        <echo message="===========================================" />
+    </target>
+
+</project>

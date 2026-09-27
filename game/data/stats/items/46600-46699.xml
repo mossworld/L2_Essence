@@ -1,0 +1,98 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="46642" name="레드의 증서" type="EtcItem">
+		<!-- A reward for completing the Red Libra Guild's task. Can be exchanged for a weapon through Artisan Black or for a weapon pack through Merchant Red. -->
+		<set name="icon" val="icon.event_mahum_memo"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="46644" name="붉은 천칭의 보급품 Lv1" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_mahum_coinbox"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="49488" min="1" max="1" chance="20" name="용사의 최상급 HP 회복제"/> <!-- Hero's Top-grade HP Replenishing Potion - Sealed -->
+			<item id="49487" min="1" max="1" chance="20" name="정령탄 교환권 - 계정공유"/> <!-- Soulshot Ticket (Tradable within account) - Sealed -->
+			<item id="49490" min="1" max="1" chance="20" name="낚시 세트"/> <!-- Fishing Kit - Sealed -->
+			<item id="1458" min="1" max="1" chance="20" name="결정체 - D그레이드"/> <!-- D-grade Crystal -->
+			<item id="91226" min="1" max="1" chance="20" name="레드의 무기 교환권"/> <!-- Red's Weapon Coupon -->
+		</capsuled_items>
+	</item>
+	<item id="46645" name="붉은 천칭의 보급품 Lv2" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_mahum_coinbox"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="49488" min="2" max="2" chance="16.66667" name="용사의 최상급 HP 회복제"/> <!-- Hero's Top-grade HP Replenishing Potion - Sealed -->
+			<item id="49487" min="1" max="1" chance="16.66667" name="정령탄 교환권 - 계정공유"/> <!-- Soulshot Ticket (Tradable within account) - Sealed -->
+			<item id="49490" min="1" max="1" chance="16.66667" name="낚시 세트"/> <!-- Fishing Kit - Sealed -->
+			<item id="49533" min="1" max="1" chance="16.66667" name="용사의 HP 물약"/> <!-- Hero's HP Recovery Potion - Sealed -->
+			<item id="1459" min="5" max="5" chance="16.66667" name="결정체 - C그레이드"/> <!-- C-grade Crystal -->
+			<item id="91226" min="1" max="1" chance="16.66667" name="레드의 무기 교환권"/> <!-- Red's Weapon Coupon -->
+		</capsuled_items>
+	</item>
+	<item id="46646" name="붉은 천칭의 보급품 Lv3" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_mahum_coinbox"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="49488" min="3" max="3" chance="14.28571" name="용사의 최상급 HP 회복제"/> <!-- Hero's Top-grade HP Replenishing Potion - Sealed -->
+			<item id="49487" min="1" max="1" chance="14.28571" name="정령탄 교환권 - 계정공유"/> <!-- Soulshot Ticket (Tradable within account) - Sealed -->
+			<item id="49490" min="1" max="1" chance="14.28571" name="낚시 세트"/> <!-- Fishing Kit - Sealed -->
+			<item id="49533" min="1" max="1" chance="14.28571" name="용사의 HP 물약"/> <!-- Hero's HP Recovery Potion - Sealed -->
+			<item id="49108" min="1" max="1" chance="14.28571" name="미용상자"/> <!-- Beauty Chest -->
+			<item id="1460" min="5" max="5" chance="14.28571" name="결정체 - B그레이드"/> <!-- B-grade Crystal -->
+			<item id="91226" min="1" max="1" chance="14.28571" name="레드의 무기 교환권"/> <!-- Red's Weapon Coupon -->
+		</capsuled_items>
+	</item>
+	<item id="46647" name="붉은 천칭의 보급품 Lv4" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_mahum_coinbox"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="49488" min="4" max="4" chance="12.5" name="용사의 최상급 HP 회복제"/> <!-- Hero's Top-grade HP Replenishing Potion - Sealed -->
+			<item id="49487" min="1" max="1" chance="12.5" name="정령탄 교환권 - 계정공유"/> <!-- Soulshot Ticket (Tradable within account) - Sealed -->
+			<item id="49490" min="1" max="1" chance="12.5" name="낚시 세트"/> <!-- Fishing Kit - Sealed -->
+			<item id="49533" min="1" max="1" chance="12.5" name="용사의 HP 물약"/> <!-- Hero's HP Recovery Potion - Sealed -->
+			<item id="49108" min="1" max="1" chance="12.5" name="미용상자"/> <!-- Beauty Chest -->
+			<item id="49110" min="1" max="1" chance="12.5" name="고급 염약 상자"/> <!-- High-grade Colorant Pack -->
+			<item id="1461" min="2" max="2" chance="12.5" name="결정체 - A그레이드"/> <!-- A-grade Crystal -->
+			<item id="91226" min="1" max="1" chance="12.5" name="레드의 무기 교환권"/> <!-- Red's Weapon Coupon -->
+		</capsuled_items>
+	</item>
+</list>

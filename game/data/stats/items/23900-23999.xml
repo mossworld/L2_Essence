@@ -1,0 +1,183 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="23957" name="미공급 - 허상1" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23958" name="미공급 - 허상2" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23959" name="미공급 - 허상3" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23960" name="미공급 - 허상4" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23961" name="미공급 - 허상5" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23962" name="미공급 - 허상6" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23963" name="미공급 - 허상7" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23964" name="미공급 - 허상8" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23965" name="미공급 - 허상9" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23966" name="미공급 - 허상10" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23967" name="미공급 - 허상11" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23968" name="미공급 - 허상12" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23969" name="미공급 - 허상13" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23970" name="미공급 - 허상14" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23971" name="미공급 - 허상15" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23972" name="미공급 - 허상16" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23973" name="미공급 - 허상17" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23974" name="미공급 - 허상18" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23975" name="미공급 - 허상19" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="23976" name="미공급 - 허상20" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="is_depositable" val="false"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+</list>

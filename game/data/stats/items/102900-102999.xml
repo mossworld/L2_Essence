@@ -1,0 +1,1043 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="102900" name="보름달 주화 5개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.ev_2022_attendance_collection"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102901" name="보름달 주화 2개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.ev_2022_attendance_collection"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102902" name="액세서리 행운 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.npoint_earthworm_30day_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102903" name="킬 이펙트 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.etc_level_bustup_ticket_i02"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102904" name="+6 특수 장비 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102905" name="+7 특수 장비 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_silver_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102906" name="+8 특수 장비 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_gold_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102907" name="루비 Lv1 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102908" name="에메랄드 Lv1 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_emerald_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102909" name="사파이어 Lv1 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_sapphire_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102910" name="아쿠아마린 Lv1 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_aquamarine_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102911" name="+6~+7 얼음 군주의 무기(각인) 교환권 행운 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.frozen_weapon_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102912" name="올림피아드 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i09"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102913" name="올림피아드 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i09"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102914" name="Lv4 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Jewelry Box Lv. 4 of your choice. -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102915" name="Lv5 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Jewelry Box Lv. 5 of your choice. -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102916" name="Lv6 보석함 교환권" type="EtcItem">
+		<!-- Double-click to obtain 1 Jewelry Box Lv. 6 of your choice. -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102917" name="Lv7 보석함 교환권" type="EtcItem">
+		<!-- Double-click to obtain 1 Jewelry Box Lv. 7 of your choice. -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102918" name="아인하사드의 펜던트 Lv1 1000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="Icon.bm_pendant_pve_white_pack"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102919" name="아인하사드의 보물 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.present_of_destination_event"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102920" name="티우의 망치 (기간제)" type="EtcItem">
+		<!-- A hammer prepared by Tiu for fighting moles that damage the harvest. <How to use>. Use it to hit moles. -->
+		<set name="icon" val="icon.ev_mole_hammer_hit"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="102921" name="영웅 인형 소환권 팩(기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv5"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102922" name="전설 인형 소환권 팩(기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv6"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102923" name="전설 바이움 인형 소환권(기간제)" type="EtcItem">
+		<!-- Double-click to summon a doll with the <font color=eeaa22>Baium Doll Lv. 6</font> effect with a 100% chance. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv6"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102924" name="+3~+6 권능의 탈리스만 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_silver_lure_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102925" name="인형 소환권(일반) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=dddddd>1 common doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102926" name="인형 소환권(고급) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=77FF99>1 enhanced doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv3"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102927" name="인형 소환권(최고급) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=FF9955>1 superior doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv3_2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102928" name="인형 소환권(희귀) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=5599FF>1 rare doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv4"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102929" name="인형 소환권(영웅) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=FF6666>1 heroic doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv5"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102930" name="인형 소환권(전설) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=F00FFF>1 legendary doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv6"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102931" name="인형 소환권(일반) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=dddddd>1 common doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102932" name="인형 소환권(고급) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=77FF99>1 enhanced doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv3"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102933" name="인형 소환권(최고급) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=FF9955>1 superior doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv3_2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102934" name="인형 소환권(희귀) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=5599FF>1 rare doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv4"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102935" name="인형 소환권(영웅) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=FF6666>1 heroic doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv5"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102936" name="인형 소환권(전설) - 1회 (기간제)" type="EtcItem">
+		<!-- Double-click to summon <font color=F00FFF>1 legendary doll</font>. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv6"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102937" name="영웅 바이움 인형 소환권(기간제)" type="EtcItem">
+		<!-- Double-click to summon a doll with the <font color=eeaa22>Baium Doll Lv. 5</font> effect with a 100% chance. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv5"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102938" name="+2 레어 액세서리 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_silver_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102939" name="광풍/홍염/버서커 방어구 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102940" name="고급 강화석(각인) 5개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.soul_bead"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102941" name="10월 패스 특전 코인 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. <font color=EEAA22><Special coins required></font>. Augmenting Stone: Weapon (Sealed) (10 pcs.) - 1 coin required. Augmenting Stone: Armor (Sealed) (10 pcs.) - 1 coin required. Augmenting Stone: Accessory (Sealed) (10 pcs.) - 1 coin required. October Pass' Special Pack (Time-limited) (Sealed) (1 pc.) - 5 coins required -->
+		<set name="icon" val="icon.etc_coins_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102942" name="10월 패스 특전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_six_party_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102943" name="인형 소환권(일반~영웅) - 11회" type="EtcItem">
+		<!-- Double-click to summon 11 dolls from <font color=DDDDDD>common</font> to <font color=FF6666>heroic</font> grade. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.bless_doll_summon_11_ticket_lv1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102944" name="프리미엄 레어 &amp; 강화 주문서 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.bm_boss_accessory_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102945" name="미공급 - 암흑 사제 의상" type="Armor">
+		<!-- Dark Cardinal appearance. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102946" name="미공급 - 암흑 사제 의상2" type="Armor">
+		<!-- Dark Cardinal appearance. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102947" name="마법서 - 디바인 위스퍼" type="EtcItem">
+		<!-- A spellbook for learning the Divine Whisper skill. <Class>. Cardinal. <Skill effect>. Recovers HP to the character. Removes provoke from the character. Decreases the target's Debuff/ Anomaly Resistance. Prevents the target from using provoke skills. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102948" name="마법서 - 리스토어 라이프 Lv5" type="EtcItem">
+		<!-- A spellbook for learning the Restore Life Lv. 5 skill. <Class>. Cardinal. <Skill effect>. Restores the target's HP. Decreases Restore Life skill casting time. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102949" name="마법서 - 베네딕션 Lv3" type="EtcItem">
+		<!-- A spellbook for learning the Blessing Lv. 3 skill. <Class>. Cardinal. <Skill effect>. Recovers 100% HP/ CP of nearby party members. Decreases duration. Removes usage requirements according to MP percentage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102950" name="마법서 - 이클립스" type="EtcItem">
+		<!-- A spellbook for learning the Dark Side skill. <Class>. Cardinal. <Skill effect>. Applies penalty that decreases Healing Power. Increases M. Atk., M. Skill Power, Speed. <font color=FF8000>Restore Life</font> → <font color=FF8000>Destroy Life</font>. Deals magic damage with additional power. <font color=FF8000>Chain Heal/ Shining Chain Heal</font> → <font color=FF8000>Chain Explosion</font>. Deals magic AoE damage with additional power. Decreases Received Healing. <font color=FF8000>Shining Beam</font> → <font color=FF8000>Abyss Beam</font>. Deals magic damage twice with additional power. <font color=FF8000>Balanced Body</font> → <font color=FF8000>Embrace of Darkness</font>. Deals magic AoE damage with additional power. Decreases M. Def. <font color=FF8000>Tranquility</font> → <font color=FF8000>Chaos</font>. Deals magic AoE damage with additional power. Decreases P./ M. Atk. Increases Skill MP Consumption. Increases skill cooldown. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102951" name="마법서 - 트와일라잇: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Eventide: Master skill. <Class>. Cardinal. <Skill effect>. Increases M. Skill Critical Rate. Increases Hold Atk. Rate. Increases Speed. <font color=FF8000>Tranquility</font> → <font color=FF8000>Tranquility: Master</font>. Increases M. Def. Increases Max HP. Increases target change resistance. <font color=FF8000>Dark Side</font> → <font color=FF8000>Dark Side: Master</font>. Increases M. Atk. Increases M. Skill Power. Increases M. Skill Critical Damage. Triggers an additional strike on attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102952" name="마법서 - 디바인 위스퍼" type="EtcItem">
+		<!-- A spellbook for learning the Divine Whisper skill. <Class>. Cardinal. <Skill effect>. Recovers HP to the character. Removes provoke from the character. Decreases the target's Debuff/ Anomaly Resistance. Prevents the target from using provoke skills. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102953" name="마법서 - 리스토어 라이프 Lv5" type="EtcItem">
+		<!-- A spellbook for learning the Restore Life Lv. 5 skill. <Class>. Cardinal. <Skill effect>. Restores the target's HP. Decreases Restore Life skill casting time. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102954" name="마법서 - 베네딕션 Lv3" type="EtcItem">
+		<!-- A spellbook for learning the Blessing Lv. 3 skill. <Class>. Cardinal. <Skill effect>. Recovers 100% HP/ CP of nearby party members. Decreases duration. Removes usage requirements according to MP percentage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102955" name="마법서 - 이클립스" type="EtcItem">
+		<!-- A spellbook for learning the Dark Side skill. <Class>. Cardinal. <Skill effect>. Applies penalty that decreases Healing Power. Increases M. Atk., M. Skill Power, Speed. <font color=FF8000>Restore Life</font> → <font color=FF8000>Destroy Life</font>. Deals magic damage with additional power. <font color=FF8000>Chain Heal/ Shining Chain Heal</font> → <font color=FF8000>Chain Explosion</font>. Deals magic AoE damage with additional power. Decreases Received Healing. <font color=FF8000>Shining Beam</font> → <font color=FF8000>Abyss Beam</font>. Deals magic damage twice with additional power. <font color=FF8000>Balanced Body</font> → <font color=FF8000>Embrace of Darkness</font>. Deals magic AoE damage with additional power. Decreases M. Def. <font color=FF8000>Tranquility</font> → <font color=FF8000>Chaos</font>. Deals magic AoE damage with additional power. Decreases P./ M. Atk. Increases Skill MP Consumption. Increases skill cooldown. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102956" name="마법서 - 트와일라잇: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Eventide: Master skill. <Class>. Cardinal. <Skill effect>. Increases M. Skill Critical Rate. Increases Hold Atk. Rate. Increases Speed. <font color=FF8000>Tranquility</font> → <font color=FF8000>Tranquility: Master</font>. Increases M. Def. Increases Max HP. Increases target change resistance. <font color=FF8000>Dark Side</font> → <font color=FF8000>Dark Side: Master</font>. Increases M. Atk. Increases M. Skill Power. Increases M. Skill Critical Damage. Triggers an additional strike on attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102957" name="초월 던전 정령탄 교환권 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_2_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102958" name="글루디오 영지 토벌 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102959" name="기란 영지 토벌 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102960" name="오렌 영지 토벌 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102961" name="아덴 영지 토벌 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102962" name="고다드 영지 토벌 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102963" name="디온 영지 토벌 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_1_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102964" name="글루디오 영지 토벌 영웅의 서클릿 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102965" name="기란 영지 토벌 드래곤의 벨트 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102966" name="오렌 영지 토벌 아가시온 교환권 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102967" name="아덴 영지 토벌 아덴의 탈리스만 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102968" name="고다드 영지 토벌 팬텀 마스크 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102969" name="디온 영지 토벌 수호의 망토 보급 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102970" name="아가시온 교환권 50개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102971" name="아가시온 교환권 10개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102972" name="아가시온 교환권" type="EtcItem">
+		<!-- Double-click to choose one of the Agathions. <font color=EEAA22><Items for exchange></font>. Package: Agathion Ignis - 1 pc. required. Package: Agathion Nebula - 1 pc. required. Package: Agathion Procella - 1 pc. required. Package: Agathion Petram - 1 pc. required. Package: Agathion Joy - 1 pc. required. Package: Agathion Dragon Egg - 3 pcs. required -->
+		<set name="icon" val="icon.bm_agathion_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102973" name="티우의 소모품 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102974" name="티우의 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_silver_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102975" name="티우의 특별 보상 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_elmoaden_gold_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102976" name="전설 마법서 교환권" type="EtcItem">
+		<!-- Double-click to obtain 1 Legendary Spellbook <font color=00FF00>(exchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.ev_sb_5_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102977" name="특수 장비 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain one of the following items of your choice. -->
+		<set name="icon" val="icon.ev_2021_thanksgiving_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102978" name="특수 장비 교환권 1000개 팩(기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.ev_2021_thanksgiving_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102979" name="특수 장비 교환권 2000개 팩(기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.ev_2021_thanksgiving_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102980" name="린드비오르 카드 - 전설 (기간제)" type="EtcItem">
+		<set name="icon" val="icon.card_dragon_rind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102981" name="발라카스 카드 - 전설 (기간제)" type="EtcItem">
+		<set name="icon" val="icon.card_dragon_vala"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102982" name="안타라스 카드 - 전설 (기간제)" type="EtcItem">
+		<set name="icon" val="icon.card_dragon_anta"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102983" name="바이움 카드 - 영웅 (기간제)" type="EtcItem">
+		<set name="icon" val="icon.card_devil_baium"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102984" name="프린테사 카드 - 영웅 (기간제)" type="EtcItem">
+		<set name="icon" val="icon.card_devil_frintessa"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102985" name="베레스 카드 - 영웅 (기간제)" type="EtcItem">
+		<set name="icon" val="icon.card_devil_verese"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102986" name="아나킴 카드 - 일반 (기간제)" type="EtcItem">
+		<set name="icon" val="icon.card_angel_anakim"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102987" name="릴리스 카드 - 일반 (기간제)" type="EtcItem">
+		<set name="icon" val="icon.card_devil_lilith"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102988" name="마스터의 카드 주머니 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.card_event_dragon_pocket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102989" name="전설 카드 도전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i08"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102990" name="+7~+8 얼음 군주의 무기(각인) 교환권 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_dragon_present_5"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102991" name="+7~+8 수호의 방어구(각인) 교환권 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_silver"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102992" name="마법서 조각 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain one of the following items of your choice. -->
+		<set name="icon" val="icon.letter_piece"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102993" name="인형 소환권(일반~영웅) - 1회" type="EtcItem">
+		<!-- Double-click to summon 1 doll from <font color=DDDDDD>common</font> to <font color=FF6666>heroic</font> grade. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.bless_doll_summon_1_ticket_lv1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102994" name="인형 소환권(일반~영웅) - 11회 5개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bless_doll_summon_11_ticket_lv1"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102995" name="마법서 - 하울링 Lv2" type="EtcItem">
+		<!-- A spellbook for learning the Howling Lv. 2 skill. <Class>. Warg. <Skill effect>. Increases Max HP. Increases P. Atk. Recovers 30 MP on killing an enemy. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102996" name="마법서 - 하이 어질리티" type="EtcItem">
+		<!-- A spellbook for learning the Supreme Agility skill. <Class>. Warg. <Skill effect>. <font color=00FF00>Applies a buff when using light armor.</font>. Decreases all received Critical Rate. Increases Skill Evasion. Increases Atk. Spd. Increases Speed. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102997" name="마법서 - 새비지 인스팅트" type="EtcItem">
+		<!-- A spellbook for learning the Breaking Instinct skill. <Class>. Warg. <Skill effect>. Increases P. Atk. Increases P. Skill Critical Damage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102998" name="마법서 - 울프 마스터리" type="EtcItem">
+		<!-- A spellbook for learning the Wolf Mastery skill. <Class>. Warg. <Skill effect>. <font color=FFFF00>Upward Strike enhancement</font>: increases the number of attacks. <font color=FFFF00>Claw Sweep</font>: increases the number of targets and attacks. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102999" name="마법서 - 다운 크러쉬" type="EtcItem">
+		<!-- A spellbook for learning the Devastating Assault skill. <Class>. Warg. <Skill effect>. Delivers a blow that attacks nearby enemies. Pulls nearby enemies to you on attack. While in the wolf form, switches to <font color=FFFF00>Vortex of Claws</font>. If the <font color=FFFF00>Physical Might</font> skill is learned, increases the number of attacks, attack power, and attack range. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

@@ -1,0 +1,2311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="19500" level="88" type="Monster" name="오엘 마훔 보병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="242"/> <!-- Soulfire Dirk -->
+		<acquire exp="20907" sp="207"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="397638.238123076" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6"/>
+			<height normal="31.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19501" level="85" type="Monster" name="오엘 마훔 정예병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="148"/> <!-- Sword of Valhalla -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6" grown="18"/>
+			<height normal="34.2" grown="41.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19502" level="85" type="Monster" name="오엘 마훔 수색병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="79"/> <!-- Damascus Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6" grown="20.4"/>
+			<height normal="39" grown="47.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19503" level="85" type="Monster" name="오엘 마훔 수호자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="148"/> <!-- Sword of Valhalla -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6" grown="20.4"/>
+			<height normal="39" grown="47.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19504" level="85" type="Monster" name="오엘 마훔 광전사">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="79"/> <!-- Damascus Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16.9" grown="22.1"/>
+			<height normal="42.5" grown="51.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19505" level="88" type="Monster" name="오엘 마훔 궁병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="279"/> <!-- Reinforced Longbow -->
+		<acquire exp="20907" sp="207"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="397638.238123076" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6"/>
+			<height normal="33"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19506" level="85" type="Monster" name="오엘 마훔 아처">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="284"/> <!-- Dark Elven Longbow -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6"/>
+			<height normal="33"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19507" level="85" type="Monster" name="오엘 마훔 슈터">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="15302"/> <!-- Transparent Bow (NPC) - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6"/>
+			<height normal="33"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19508" level="85" type="Monster" name="오엘 마훔 수호궁수">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="15302"/> <!-- Transparent Bow (NPC) - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="46.2"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19509" level="85" type="Monster" name="오엘 마훔 고위궁수">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="15302"/> <!-- Transparent Bow (NPC) - Not Available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="19.5"/>
+			<height normal="50.3"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19510" level="88" type="Monster" name="오엘 마훔 부대장" title="오엘 마훔 부대장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="127"/> <!-- Crimson Sword -->
+		<acquire exp="144687" sp="1446"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="474683.544360127" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24" grown="28.8"/>
+			<height normal="45" grown="54"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19511" level="88" type="Monster" name="오엘 마훔 대장" title="오엘 마훔 대장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="72"/> <!-- Stormbringer -->
+		<acquire exp="723444" sp="7233"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="949367.088720254" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="26"/>
+			<height normal="50.3"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19512" level="88" type="Monster" name="오엘 마훔 사령관" title="오엘 마훔 사령관">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="1446888" sp="14466"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1898734.17744051" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.1" grown="25.5"/>
+			<height normal="49.7" grown="59.9"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+		</skillList>
+	</npc>
+	<npc id="19513" level="88" type="Monster" name="오엘 마훔 수호대장" title="오엘 마훔 수호대장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="79"/> <!-- Damascus Sword -->
+		<acquire exp="5787972" sp="57879"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3797468.35488102" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20.8" grown="27.2"/>
+			<height normal="53" grown="64.2"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+		</skillList>
+	</npc>
+	<npc id="19514" level="88" type="Monster" name="레오릭" title="레오릭">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="8681751" sp="86817"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="7594936.70976203" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24.75"/>
+			<height normal="67.95"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19515" level="85" type="Monster" name="오엘 마훔 보병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="242"/> <!-- Soulfire Dirk -->
+		<acquire exp="19506" sp="195"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6"/>
+			<height normal="31.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19516" level="85" type="Monster" name="오엘 마훔 정예병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="148"/> <!-- Sword of Valhalla -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6" grown="18"/>
+			<height normal="34.2" grown="41.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19517" level="85" type="Monster" name="오엘 마훔 수색병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="79"/> <!-- Damascus Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6" grown="20.4"/>
+			<height normal="39" grown="47.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19518" level="85" type="Monster" name="오엘 마훔 수호자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="148"/> <!-- Sword of Valhalla -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6" grown="20.4"/>
+			<height normal="39" grown="47.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19519" level="85" type="Monster" name="오엘 마훔 광전사">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="79"/> <!-- Damascus Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16.9" grown="22.1"/>
+			<height normal="42.5" grown="51.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19520" level="85" type="Monster" name="오엘 마훔 궁병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="279"/> <!-- Reinforced Longbow -->
+		<acquire exp="19506" sp="195"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="278977.938492698" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6"/>
+			<height normal="33"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19521" level="80" type="Monster" name="레오릭" title="레오릭">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="731850" sp="7317"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="807375.149658" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24.75"/>
+			<height normal="67.95"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19522" level="80" type="Monster" name="거대 레오릭" title="거대 레오릭">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="731850" sp="7317"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="4036875.74829" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="83"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19523" level="88" type="Monster" name="거대 레오릭" title="거대 레오릭">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="8681751" sp="86817"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="37974683.5488102" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="83"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19524" level="85" type="Monster" name="거대 레오릭" title="거대 레오릭">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="8099904" sp="80997"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="26779746.8398885" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="83"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19525" level="85" type="Monster" name="오엘 마훔 부대장" title="오엘 마훔 부대장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="127"/> <!-- Crimson Sword -->
+		<acquire exp="134991" sp="1347"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="334746.835498607" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24" grown="28.8"/>
+			<height normal="45" grown="54"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19526" level="85" type="Monster" name="오엘 마훔 대장" title="오엘 마훔 대장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="72"/> <!-- Stormbringer -->
+		<acquire exp="674958" sp="6747"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="669493.670997213" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="26"/>
+			<height normal="50.3"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19527" level="85" type="Monster" name="오엘 마훔 사령관" title="오엘 마훔 사령관">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="1349919" sp="13497"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1338987.34199443" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.1" grown="25.5"/>
+			<height normal="49.7" grown="59.9"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+		</skillList>
+	</npc>
+	<npc id="19528" level="85" type="Monster" name="오엘 마훔 수호대장" title="오엘 마훔 수호대장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="79"/> <!-- Damascus Sword -->
+		<acquire exp="5400066" sp="54000"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2677974.68398885" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20.8" grown="27.2"/>
+			<height normal="53" grown="64.2"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+		</skillList>
+	</npc>
+	<npc id="19529" level="85" type="Monster" name="레오릭" title="레오릭">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="8099904" sp="80997"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="5355949.36797771" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24.75"/>
+			<height normal="67.95"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19530" level="80" type="Monster" name="오엘 마훔 보병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="242"/> <!-- Soulfire Dirk -->
+		<acquire exp="1761" sp="15"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="67281.2624715" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6"/>
+			<height normal="31.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19531" level="80" type="Monster" name="오엘 마훔 궁병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="279"/> <!-- Reinforced Longbow -->
+		<acquire exp="1761" sp="15"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="67281.2624715" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6"/>
+			<height normal="33"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19532" level="80" type="Monster" name="오엘 마훔 부대장" title="오엘 마훔 부대장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="127"/> <!-- Crimson Sword -->
+		<acquire exp="12195" sp="120"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="100921.89370725" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24" grown="28.8"/>
+			<height normal="45" grown="54"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19533" level="80" type="Monster" name="오엘 마훔 대장" title="오엘 마훔 대장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="72"/> <!-- Stormbringer -->
+		<acquire exp="60984" sp="609"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="201843.7874145" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="26"/>
+			<height normal="50.3"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19534" level="80" type="Monster" name="오엘 마훔 사령관" title="오엘 마훔 사령관">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="121968" sp="1218"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="302765.68112175" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.1" grown="25.5"/>
+			<height normal="49.7" grown="59.9"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+		</skillList>
+	</npc>
+	<npc id="19535" level="80" type="Monster" name="오엘 마훔 수호대장" title="오엘 마훔 수호대장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="79"/> <!-- Damascus Sword -->
+		<acquire exp="487911" sp="4878"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="605531.3622435" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="230"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20.8" grown="27.2"/>
+			<height normal="53" grown="64.2"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+		</skillList>
+	</npc>
+	<npc id="19536" level="85" type="Folk" name="">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="5760" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="270"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="0.1"/>
+			<height normal="0.1"/>
+		</collision>
+	</npc>
+	<npc id="19537" level="85" type="Folk" name="소용돌이">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="26670.88608" hpRegen="10.2" mp="2227.484" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="174"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="200"/>
+			<height normal="100"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="2"/> <!-- Magical Creatures -->
+			<skill id="5620" level="3"/> <!-- Melee Attack Vulnerability -->
+			<skill id="4116" level="2"/> <!-- Magic Damage Resistance -->
+		</skillList>
+	</npc>
+	<npc id="19538" level="85" type="Folk" name="마력의 물기둥">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="4445" hpRegen="10.5" mp="2227" mpRegen="3.6"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="60"/>
+			<height normal="120.6"/>
+		</collision>
+	</npc>
+	<npc id="19539" level="85" type="Folk" name="물방울" title="물방울">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="53341.77215" hpRegen="10.2" mp="2227.484" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="36"/>
+				<run ground="39"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="39"/>
+		</collision>
+	</npc>
+	<npc id="19540" level="85" type="Folk" name="냉기의 정령" title="냉기의 정령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8073751" hpRegen="10.5" mp="2928" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="26.5"/>
+		</collision>
+	</npc>
+	<npc id="19541" level="85" type="Folk" name="냉기의 정령" title="냉기의 정령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8073751" hpRegen="10.5" mp="2928" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="51"/>
+			<height normal="47.15"/>
+		</collision>
+	</npc>
+	<npc id="19542" level="85" type="Folk" name="냉기의 정령" title="냉기의 정령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8073751" hpRegen="10.5" mp="2928" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="60"/>
+			<height normal="56"/>
+		</collision>
+	</npc>
+	<npc id="19543" level="85" type="Folk" name="냉기의 정령" title="냉기의 정령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8073751" hpRegen="10.5" mp="2928" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="69"/>
+			<height normal="64.85"/>
+		</collision>
+	</npc>
+	<npc id="19544" level="85" type="Folk" name="냉기의 정령" title="냉기의 정령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="8073751" hpRegen="10.5" mp="2928" mpRegen="3.6"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="78"/>
+			<height normal="73.7"/>
+		</collision>
+	</npc>
+	<npc id="19545" level="70" type="Monster" name="안식의 불꽃">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="132" sp="3"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="4937.08685179451" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="210"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="60"/>
+		</collision>
+	</npc>
+	<npc id="19546" level="85" type="Folk" name="더위">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="9753" sp="96"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="17780.5505921654" hpRegen="10.2" mp="2227.484" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13.5" grown="15"/>
+			<height normal="23.25" grown="28.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="7"/> <!-- Spirits -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19547" level="85" type="Folk" name="무더위" title="무더위">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="650250" sp="6501"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="5556422.06005169" hpRegen="10.2" mp="2227.484" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="75" grown="80"/>
+			<height normal="138.25" grown="168.25"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="7"/> <!-- Spirits -->
+		</skillList>
+	</npc>
+	<npc id="19548" level="87" type="Folk" name="청소부" title="청소부">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="534967.72152" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="33"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="9"/>
+			<height normal="21.6"/>
+		</collision>
+	</npc>
+	<npc id="19549" level="87" type="Folk" name="행동대원" title="행동대원">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<equipment rhand="98218"/> <!-- Monster Only (Zombie Gate Guard Spear) - Not available -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="534967.72152" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="55"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="28.7"/>
+		</collision>
+	</npc>
+	<npc id="19550" level="87" type="Folk" name="감시자" title="감시자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="534967.72152" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="25"/>
+			<height normal="32"/>
+		</collision>
+	</npc>
+	<npc id="19551" level="85" type="Folk" name="더위" title="더위">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="357636" sp="3576"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="66677.0647206203" hpRegen="10.2" mp="2227.484" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30" grown="32"/>
+			<height normal="53.5" grown="65.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="7"/> <!-- Spirits -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19552" level="80" type="Folk" name="근거리 케어 투명">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="5760" hpRegen="10.2" mp="1674.8" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="270"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="0.1"/>
+			<height normal="0.1"/>
+		</collision>
+	</npc>
+	<npc id="19553" level="88" type="Folk" name="더위">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="19863" sp="198"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="124463.854145158" hpRegen="10.2" mp="2227.484" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13.5" grown="15"/>
+			<height normal="23.25" grown="28.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="7"/> <!-- Spirits -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19554" level="88" type="Folk" name="무더위" title="무더위">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="696960" sp="6969"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="7778990.88407237" hpRegen="10.2" mp="2227.484" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="75" grown="80"/>
+			<height normal="138.25" grown="168.25"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="7"/> <!-- Spirits -->
+		</skillList>
+	</npc>
+	<npc id="19555" level="88" type="Folk" name="더위" title="더위">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ELEMENTAL</race>
+		<sex>MALE</sex>
+		<acquire exp="383328" sp="3831"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="186695.781217737" hpRegen="10.2" mp="2227.484" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30" grown="32"/>
+			<height normal="53.5" grown="65.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="7"/> <!-- Spirits -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19556" level="85" type="Folk" name="불량 수박">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="2001" sp="18"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3160" hpRegen="10.2" mp="300.96" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="100"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="28.75"/>
+		</collision>
+	</npc>
+	<npc id="19557" level="85" type="Folk" name="우량 수박">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="9612" sp="96"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2531" hpRegen="10.2" mp="300.96" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="100"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24"/>
+			<height normal="47.8"/>
+		</collision>
+	</npc>
+	<npc id="19558" level="85" type="Folk" name="왕우량 수박" title="왕우량 수박">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="36048" sp="360"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3160" hpRegen="10.2" mp="300.96" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="100"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="48"/>
+			<height normal="98.6"/>
+		</collision>
+	</npc>
+	<npc id="19559" level="85" type="Folk" name="황금 수박" title="황금 수박">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="393399" sp="3933"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="6320" hpRegen="10.2" mp="300.96" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="100"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="46"/>
+			<height normal="53"/>
+		</collision>
+	</npc>
+	<npc id="19560" level="85" type="RaidBoss" name="왕대박">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="774879" sp="7746"/>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="66665.33333" hpRegen="10.2" mp="747.8" mpRegen="3.6"/>
+			<attack physical="8905.0086" magical="6080.96658" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="3992.40732" magical="2921.47044"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="100"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="184"/>
+			<height normal="221"/>
+		</collision>
+	</npc>
+	<npc id="19561" level="85" type="RaidBoss" name="눈덮인 대박">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="774879" sp="7746"/>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="66665.33333" hpRegen="10.2" mp="747.8" mpRegen="3.6"/>
+			<attack physical="8905.0086" magical="6080.96658" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="3992.40732" magical="2921.47044"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="100"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="184"/>
+			<height normal="221"/>
+		</collision>
+	</npc>
+	<npc id="19562" level="85" type="RaidBoss" name="황금 대박">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="774879" sp="7746"/>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="66665.33333" hpRegen="10.2" mp="747.8" mpRegen="3.6"/>
+			<attack physical="8905.0086" magical="6080.96658" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="3992.40732" magical="2921.47044"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="100"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="184"/>
+			<height normal="221"/>
+		</collision>
+	</npc>
+	<npc id="19563" level="85" type="Folk" name="">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="5760" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="270"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="0.1"/>
+			<height normal="0.1"/>
+		</collision>
+	</npc>
+	<npc id="19564" level="90" type="RaidBoss" name="루치아노" title="루치아노">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="13778100" sp="137781"/>
+		<stats str="60" int="76" dex="73" wit="70" con="57" men="80">
+			<vitals hp="22790369.33333" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="14444" magical="986" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="9532" magical="418"/>
+			<speed>
+				<walk ground="90"/>
+				<run ground="200"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20.4"/>
+			<height normal="45"/>
+		</collision>
+	</npc>
+	<npc id="19565" level="85" type="Folk" name="">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="5760" hpRegen="10.5" mp="1674" mpRegen="3.6"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="270"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="0.1"/>
+			<height normal="0.1"/>
+		</collision>
+	</npc>
+	<npc id="19566" level="87" type="Folk" name="숲의 결정" title="숲의 결정">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="804678" sp="8046"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="189873.41772" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="240"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="40"/>
+			<height normal="54"/>
+		</collision>
+	</npc>
+	<npc id="19567" level="88" type="Folk" name="그림자 정령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="27180" sp="270"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="397638.238123076" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="50"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="30.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19568" level="88" type="Folk" name="그림자 정령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="20907" sp="207"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="397638.238123076" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="50"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="30.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19569" level="88" type="Folk" name="복면 전사" title="복면 전사">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="188094" sp="1878"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="474683.544360127" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="36"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="12.1"/>
+			<height normal="44.85"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="19570" level="88" type="Monster" name="숨은 지휘자" title="숨은 지휘자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="940476" sp="9402"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="949367.088720254" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.4"/>
+			<height normal="39.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="19571" level="88" type="Monster" name="달빛 영매" title="달빛 영매">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="97162"/> <!-- Monster's Weapon: Silenos Shaman's Staff - Not Available -->
+		<acquire exp="1880955" sp="18807"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1898734.17744051" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="47"/>
+				<run ground="110"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="14"/>
+			<height normal="39.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19572" level="88" type="Monster" name="춤의 사령" title="춤의 사령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="7524366" sp="75243"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3797468.35488102" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="45"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="34"/>
+			<height normal="66.7"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+		</skillList>
+	</npc>
+	<npc id="19573" level="88" type="Monster" name="푸른 고위검사" title="푸른 고위검사">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="11286276" sp="112860"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="7594936.70976203" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="90"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="14.3"/>
+			<height normal="44.3"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19574" level="88" type="Monster" name="달빛 나팔수" title="달빛 나팔수">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="144687" sp="1446"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="474683.544360127" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="35.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+		</skillList>
+	</npc>
+	<npc id="19575" level="88" type="Monster" name="흑검술사" title="흑검술사">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="723444" sp="7233"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="949367.088720254" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="56"/>
+				<run ground="220"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="33"/>
+			<height normal="58.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19576" level="88" type="Monster" name="달빛 무희" title="달빛 무희">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="1446888" sp="14466"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1898734.17744051" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="96"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="40"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19577" level="88" type="Monster" name="무혼 대장군" title="무혼 대장군">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="5787972" sp="57879"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3797468.35488102" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16"/>
+			<height normal="47.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="19578" level="88" type="Monster" name="달빛 고위창수" title="달빛 고위창수">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="105385"/> <!-- NPC only_Japanese Spear - Not available -->
+		<acquire exp="8681751" sp="86817"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="7594936.70976203" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="100"/>
+				<run ground="60"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="12.65"/>
+			<height normal="32.65"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+		</skillList>
+	</npc>
+	<npc id="19579" level="88" type="Monster" name="세나" title="세나">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>GIANT</race>
+		<sex>MALE</sex>
+		<acquire exp="12154452" sp="121542"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="37974683.5488102" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="130"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.6"/>
+			<height normal="51"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="11"/> <!-- Giants -->
+		</skillList>
+	</npc>
+	<npc id="19580" level="85" type="Folk" name="막대기탄 스노">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="7594936" hpRegen="10.5" mp="2928" mpRegen="3.6"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="11.25"/>
+			<height normal="41.25"/>
+		</collision>
+	</npc>
+	<npc id="19581" level="85" type="Folk" name="접시돌리는 스노">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="7594936" hpRegen="10.5" mp="2928" mpRegen="3.6"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="130"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="51"/>
+		</collision>
+	</npc>
+	<npc id="19582" level="85" type="Folk" name="공돌리는 스노">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>FEMALE</sex>
+		<stats str="88" int="79" dex="55" wit="78" con="82" men="78">
+			<vitals hp="7594936" hpRegen="10.5" mp="2928" mpRegen="3.6"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="60"/>
+			</speed>
+			<attack physical="1950.2231755595" magical="1331.5869440987" critical="4" attackSpeed="253" range="40"/>
+			<defence physical="405.85106382979" magical="297.0297029703"/>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="51"/>
+		</collision>
+	</npc>
+	<npc id="19583" level="88" type="Monster" name="임시4">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="8681751" sp="86817"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="7594936.70976203" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="28.8"/>
+			<height normal="81.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19584" level="88" type="Monster" name="임시5">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="8681751" sp="86817"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="7594936.70976203" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="45"/>
+				<run ground="130"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="40"/>
+			<height normal="79"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+		</skillList>
+	</npc>
+	<npc id="19585" level="88" type="Monster" name="라바 살러맨더" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="71430" sp="714"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="423205.809230769" hpRegen="10.2" mp="29683" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="39"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="25"/>
+		</collision>
+	</npc>
+	<npc id="19586" level="88" type="Monster" name="라바 사우러스" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="71430" sp="714"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="423205.809230769" hpRegen="10.2" mp="29683" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="1"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="75"/>
+		</collision>
+	</npc>
+	<npc id="19587" level="88" type="Monster" name="라바 스콜피온" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="71430" sp="714"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="423205.809230769" hpRegen="10.2" mp="29683" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="37"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24"/>
+			<height normal="52.8"/>
+		</collision>
+	</npc>
+	<npc id="19588" level="88" type="Monster" name="라바 하운드" title="라바 하운드" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="142860" sp="1428"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="851701.26582" hpRegen="10.2" mp="29683" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="35"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="21"/>
+			<height normal="35"/>
+		</collision>
+	</npc>
+	<npc id="19589" level="90" type="Monster" name="라바 아리마네스" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<equipment rhand="6722"/> <!-- Monster Only (Arimanes) -->
+		<acquire exp="97128" sp="969"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="550167.552" hpRegen="10.2" mp="29683" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="35"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="14" grown="17"/>
+			<height normal="57.75" grown="69"/>
+		</collision>
+	</npc>
+	<npc id="19590" level="90" type="Monster" name="라바 크리퍼" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="97128" sp="969"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="550167.552" hpRegen="10.2" mp="29683" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="47.5"/>
+		</collision>
+	</npc>
+	<npc id="19591" level="90" type="Monster" name="라바 데빌" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="97128" sp="969"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="550167.552" hpRegen="10.2" mp="29683" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="80"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="39.5"/>
+		</collision>
+	</npc>
+	<npc id="19592" level="90" type="Monster" name="라바 슬레이어" title="라바 슬레이어" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="194256" sp="1941"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1107211.39241" hpRegen="10.2" mp="29683" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="110"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="36"/>
+			<height normal="55.5"/>
+		</collision>
+	</npc>
+	<npc id="19593" level="80" type="Monster" name="그림자 정령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="2289" sp="1194"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="43060.00798176" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="50"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="30.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19594" level="80" type="Monster" name="그림자 정령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="1761" sp="1194"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="43060.00798176" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="50"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="30.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="5620" level="1"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="19595" level="80" type="Monster" name="복면 전사" title="복면 전사">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="15855" sp="5976"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="64590.01197264" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="36"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="12.1"/>
+			<height normal="44.85"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="19596" level="90" type="Folk" name="">
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1" hpRegen="10.2" mp="1" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="1"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="false"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="34.5"/>
+		</collision>
+	</npc>
+	<npc id="19597" level="80" type="Monster" name="숨은 지휘자" title="숨은 지휘자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="79278" sp="5976"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="129180.02394528" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.4"/>
+			<height normal="39.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="19598" level="80" type="Monster" name="달빛 영매" title="달빛 영매">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="97162"/> <!-- Monster's Weapon: Silenos Shaman's Staff - Not Available -->
+		<acquire exp="158559" sp="71748"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="193770.03591792" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="47"/>
+				<run ground="110"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="14"/>
+			<height normal="39.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="19599" level="80" type="Monster" name="춤의 사령" title="춤의 사령">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="634284" sp="47832"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="387540.07183584" hpRegen="10.2" mp="2364.81086311211" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="45"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="34"/>
+			<height normal="66.7"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+		</skillList>
+	</npc>
+</list>

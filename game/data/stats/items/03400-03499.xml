@@ -1,0 +1,1019 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3400" name="미공급 - 거대한 오크의 송곳니" type="EtcItem">
+		<!-- The item is not available. The totem of the Atuba tribe. Gather the totems of the 5 tribes and take them to Pa'agrio Lord Kakai. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3401" name="미공급 - 수마리의 편지" type="EtcItem">
+		<!-- The item is not available. Letter from Blacksmith Sumari to Seer Somak in the Town of Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3402" name="미공급 - 우루투의 검날" type="EtcItem">
+		<!-- The item is not available. Blade crafted by Blacksmith Sumari. Take this to Urutu Chief Hatos. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3403" name="미공급 - 티막 오크의 두개골" type="EtcItem">
+		<!-- The item is not available. The skull of a slain Timak Orc. Gather 10 of these and take them to Urutu Chief Hatos. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3404" name="미공급 - 검이 박힌 두개골" type="EtcItem">
+		<!-- The item is not available. The totem of the Urutu tribe. Gather the totems of the 5 tribes and take them to Pa'agrio Lord Kakai at the House of the King in Orc Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3405" name="미공급 - 네루가의 도끼날" type="EtcItem">
+		<!-- The item is not available. A blade of a ceremonial axe. Take it to Neruga Chief Tantus. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3406" name="미공급 - 의식의 도끼" type="EtcItem">
+		<!-- The item is not available. The totem of the Neruga tribe. Gather the totems of the 5 tribes and take them to Pa'agrio Lord Kakai. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3407" name="미공급 - 늪 거미의 촉수" type="EtcItem">
+		<!-- The item is not available. Required for making the Duda-Mara tribe totem. Collect 10 of these and take them to Duda-Mara Chief Takuna. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3408" name="미공급 - 늪 거미의 다리" type="EtcItem">
+		<!-- The item is not available. Required for making the Duda-Mara tribe totem. Collect 10 of these and take them to Duda-Mara Chief Takuna. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3409" name="미공급 - 세공 거미 브로치" type="EtcItem">
+		<!-- The item is not available. The totem of the Duda-Mara tribe. Gather the totems of the 5 tribes and take them to Pa'agrio Lord Kakai. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3410" name="미공급 - 강화 괴물눈의 각막" type="EtcItem">
+		<!-- The item is not available. Key ingredient in making the Gandi tribe totem. Gather 20 of these and take them to Gandi Chief Chianta in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3411" name="미공급 - 괴물눈 목각" type="EtcItem">
+		<!-- The item is not available. The totem of the Gandi tribe. Gather the totems of the 5 tribes and take them to Pa'agrio Lord Kakai at the House of the King in Orc Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3412" name="미공급 - 회색곰 송곳니 목걸이" type="EtcItem">
+		<!-- The item is not available. The totem of the Hestui tribe. Take this and go to the Ancestor Martankus in the Cave of Trials. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3413" name="미공급 - 마르탄쿠스의 부적" type="EtcItem">
+		<!-- The item is not available. The talisman of the Ancestor Martankus. Go back to him after completing this task. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3414" name="미공급 - 라그나 오크의 머리" type="EtcItem">
+		<!-- The item is not available. The head of a slain Ragna Orc. Take this to the Ancestor Martankus in the Cave of Trials. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3415" name="미공급 - 라그나 부족장의 공문" type="EtcItem">
+		<!-- The item is not available. He who destroys the Lord of Flame shall be appointed Chief. Take this to Ancestor Martankus in the Cave of Trials. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3416" name="미공급 - 불멸의 불꽃" type="EtcItem">
+		<!-- The item is not available. The mark received after passing the Ancestor Martankus' test. Take this to Pa'agrio Lord Kakai at the House of the King in Orc Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3428" name="미공급 - 크리스탈 브로치" type="EtcItem">
+		<!-- The item is not available. Brooch received from Warehouse Keeper Wilford. Present this to Lilith of the temple at the Village of Talking Island. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="3429" name="미공급 - 마법서 - 그레이터 힐" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Greater Heal skill. Used by Bishops, Elven Elders and Shillien Elders. Required level: Bishop - 40, Elven Elder/ Shillien Elder - 48. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="3200"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="3430" name="미공급 - 마법서 - 그레이터 배틀 힐" type="EtcItem">
+		<!-- The item is not available. Amulet required for the Greater Battle Heal spell. Used by Bishops. Required level: 40 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="3200"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="3431" name="미공급 - 마법서 - 그레이터 그룹 힐" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Greater Group Heal skill. Used by Bishops, Shillien Elders and Elven Elders. Required level: Bishop - 40, Shillien Elder/ Elven Elder - 48. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="3200"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="3432" name="미공급 - 마법서 - 리메디" type="EtcItem">
+		<!-- The item is not available. Amulet required for the Remedy spell. Used by Paladins. Required level: 40 -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="3200"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="3433" name="미공급 - 엘프 피규어" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3434" name="미공급 - 코카콜라" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3435" name="미공급 - 엔비디아" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3436" name="미공급 - 마우스" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3437" name="미공급 - 상인의 장부" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="price" val="20000"/>
+	</item>
+	<item id="3438" name="미공급 - 거상의 장부" type="EtcItem">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="price" val="20000"/>
+	</item>
+	<item id="3440" name="미공급 - 화물 상자" type="EtcItem">
+		<!-- The item is not available. Freight box on which the mark of Aden Commercial Guild is engraved. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3441" name="미공급 - 화물 상자" type="EtcItem">
+		<!-- The item is not available. Freight box on which the mark of Aden Commercial Guild is engraved. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3442" name="미공급 - 화물 상자" type="EtcItem">
+		<!-- The item is not available. Freight box on which the mark of Aden Commercial Guild is engraved. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3443" name="미공급 - 화물 상자" type="EtcItem">
+		<!-- The item is not available. Freight box on which the mark of Aden Commercial Guild is engraved. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3444" name="미공급 - 글루디오산 사과" type="EtcItem">
+		<!-- The item is not available. An apple from the Gludio region. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="1000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3445" name="미공급 - 디온산 옥수수 가루" type="EtcItem">
+		<!-- The item is not available. Corn flour from the Dion region. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="1000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3446" name="미공급 - 다이어 울프의 가죽" type="EtcItem">
+		<!-- The item is not available. A tanned Dire Wolf's pelt. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="1000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3447" name="미공급 - 문스톤" type="EtcItem">
+		<!-- The item is not available. A white jewel called the Moonjang Stone or the Moonstone. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="1500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3448" name="미공급 - 글루디오산 밀가루" type="EtcItem">
+		<!-- The item is not available. Wheat flour from the Gludio region. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="1500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3449" name="미공급 - 스파이더실크 밧줄" type="EtcItem">
+		<!-- The item is not available. A strong rope made of Tarantula's spider silk. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="1500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3450" name="미공급 - 알렉산드라이트" type="EtcItem">
+		<!-- The item is not available. A jewel that shines green in the sunlight and red in the moonlight. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3451" name="미공급 - 은 찻그릇 세트" type="EtcItem">
+		<!-- The item is not available. A teacup and a saucer made of silver. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3452" name="미공급 - 메카닉 골렘 부속품" type="EtcItem">
+		<!-- The item is not available. Components from mechanical golems. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3453" name="미공급 - 파이어 에메랄드" type="EtcItem">
+		<!-- The item is not available. A jewel that shines with an intense red light. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="5000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3454" name="미공급 - 아벨라의 실크 예복" type="EtcItem">
+		<!-- The item is not available. High-quality silk from Avella. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="5000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3455" name="미공급 - 페리오스의 자기 항아리" type="EtcItem">
+		<!-- The item is not available. A ritual water cup from the ancient Ferios empire. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="5000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3456" name="미공급 - 임페리얼 다이아몬드" type="EtcItem">
+		<!-- The item is not available. A jewel that decorated the crown of Elmoreden emperors. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="20000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3457" name="미공급 - 실렌의 조각상 - 머리부분" type="EtcItem">
+		<!-- The item is not available. A piece of a broken statue. Can be sold in any shop. Or maybe it is worth collecting the whole statue... -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3458" name="미공급 - 실렌의 조각상 - 몸통부분" type="EtcItem">
+		<!-- The item is not available. A piece of a broken statue. Can be sold in any shop. Or maybe it is worth collecting the whole statue... -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3459" name="미공급 - 실렌의 조각상 - 팔 부분" type="EtcItem">
+		<!-- The item is not available. A piece of a broken statue. Can be sold in any shop. Or maybe it is worth collecting the whole statue... -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3460" name="미공급 - 실렌의 조각상 - 다리 부분" type="EtcItem">
+		<!-- The item is not available. A piece of a broken statue. Can be sold in any shop. Or maybe it is worth collecting the whole statue... -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3461" name="미공급 - 완전한 실렌의 조각상" type="EtcItem">
+		<!-- The item is not available. A statue of Shillien made in the time of the ancient Elmoreden Empire. Can be sold in any shop for a high price. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="20000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3462" name="미공급 - 고대 점토서판 파편 - 첫번째 조각" type="EtcItem">
+		<!-- The item is not available. Fragment of ancient clay tablet. If you collect the remaining pieces of the tablet...? -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3463" name="미공급 - 고대 점토서판 파편 - 두번째 조각" type="EtcItem">
+		<!-- The item is not available. Fragment of ancient clay tablet. If you collect the remaining pieces of the tablet...? -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3464" name="미공급 - 고대 점토서판 파편 - 세번째 조각" type="EtcItem">
+		<!-- The item is not available. Fragment of ancient clay tablet. If you collect the remaining pieces of the tablet...? -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3465" name="미공급 - 고대 점토서판 파편 - 네번째 조각" type="EtcItem">
+		<!-- The item is not available. Fragment of ancient clay tablet. If you collect the remaining pieces of the tablet...? -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3466" name="미공급 - 완성된 고대 점토서판 파편" type="EtcItem">
+		<!-- The item is not available. Large clay tablet upon which ancient texts are engraved. You can sell it to a store at a high price. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="20000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3467" name="미공급 - 소원의 물약" type="EtcItem">
+		<!-- The item is not available. Magic potion that is said to make wishes come true. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="60"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="price" val="10"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3468" name="미공급 - 고대의 왕관" type="EtcItem">
+		<!-- The item is not available. A crown decorated with a lot of jewels. It is too heavy to wear. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="price" val="1000"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3469" name="미공급 - 왕권의 증명서" type="EtcItem">
+		<!-- The item is not available. Certificate of royalty but nobody knows who made it. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="price" val="10"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3470" name="미공급 - 금괴" type="EtcItem">
+		<!-- The item is not available. Heavy lump of pure gold. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="10000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3471" name="키벨린의 단검" type="Weapon">
+		<!-- A ritual dagger needed to purify the Blood Crystal. <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ High Elves/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_doomed_dagger_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="400"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="is_depositable" val="false"/>
+		<stats>
+			<stat type="pAtk">10</stat>
+			<stat type="mAtk">9</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="3472" name="미공급 - 블러드 메두사" type="EtcItem">
+		<!-- The item is not available. Lowest-grade Coin -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="50"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3473" name="미공급 - 블러드 웨어울프" type="EtcItem">
+		<!-- The item is not available. A coin of low quality. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3474" name="미공급 - 블러드 바실리스크" type="EtcItem">
+		<!-- The item is not available. A mid-grade coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="150"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3475" name="미공급 - 블러드 드레바눌" type="EtcItem">
+		<!-- The item is not available. A coin of low quality. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3476" name="미공급 - 블러드 서큐버스" type="EtcItem">
+		<!-- The item is not available. A mid-grade coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="150"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3477" name="미공급 - 블러드 드래곤" type="EtcItem">
+		<!-- The item is not available. A high-quality coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="200"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3478" name="미공급 - 베레스의 블러드 드래곤" type="EtcItem">
+		<!-- The item is not available. Highest-grade Coin -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="300"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3479" name="미공급 - 마낙의 블러드 웨어울프" type="EtcItem">
+		<!-- The item is not available. A mid-grade coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="150"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3480" name="미공급 - 니아의 블러드 메두사" type="EtcItem">
+		<!-- The item is not available. A coin of low quality. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3481" name="미공급 - 골드 드래곤" type="EtcItem">
+		<!-- The item is not available. A high-quality coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="200"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3482" name="미공급 - 골드 와이번" type="EtcItem">
+		<!-- The item is not available. Lowest-grade Coin -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="50"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3483" name="미공급 - 골드 나이트" type="EtcItem">
+		<!-- The item is not available. A coin of low quality. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3484" name="미공급 - 골드 자이언트" type="EtcItem">
+		<!-- The item is not available. A mid-grade coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="150"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3485" name="미공급 - 골드 드레이크" type="EtcItem">
+		<!-- The item is not available. A coin of low quality. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3486" name="미공급 - 골드 웜" type="EtcItem">
+		<!-- The item is not available. A mid-grade coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="150"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3487" name="미공급 - 베레스의 골드 드래곤" type="EtcItem">
+		<!-- The item is not available. Highest-grade Coin -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="300"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3488" name="미공급 - 마낙의 골드 자이언트" type="EtcItem">
+		<!-- The item is not available. A mid-grade coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="150"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3489" name="미공급 - 니아의 골드 와이번" type="EtcItem">
+		<!-- The item is not available. A coin of low quality. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3490" name="미공급 - 실버 유니콘" type="EtcItem">
+		<!-- The item is not available. Lowest-grade Coin -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="50"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3491" name="미공급 - 실버 페어리" type="EtcItem">
+		<!-- The item is not available. A coin of low quality. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3492" name="미공급 - 실버 드라이어드" type="EtcItem">
+		<!-- The item is not available. A mid-grade coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="150"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3493" name="미공급 - 실버 드래곤" type="EtcItem">
+		<!-- The item is not available. A high-quality coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="200"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3494" name="미공급 - 실버 골렘" type="EtcItem">
+		<!-- The item is not available. A coin of low quality. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3495" name="미공급 - 실버 운디네" type="EtcItem">
+		<!-- The item is not available. A mid-grade coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="150"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3496" name="미공급 - 베레스의 실버 드래곤" type="EtcItem">
+		<!-- The item is not available. Highest-grade Coin -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="300"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3497" name="미공급 - 마낙의 실버 드라이어드" type="EtcItem">
+		<!-- The item is not available. A mid-grade coin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="150"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3498" name="미공급 - 니아의 실버 페어리" type="EtcItem">
+		<!-- The item is not available. A coin of low quality. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="3499" name="미공급 - 페어리 더스트" type="EtcItem">
+		<!-- The item is not available. Powder that can be obtained by killing Fairies. Can be sold at a high price. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="price" val="10000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+</list>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- 특수 방어구 -->
+	</npcs>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97818" /> <!-- +7 빙결의 흉갑 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97819" /> <!-- +7 빙결의 각반 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97820" /> <!-- +7 전격의 레더 메일 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97821" /> <!-- +7 전격의 레더 레깅스 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97822" /> <!-- +7 화염의 튜닉 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97823" /> <!-- +7 화염의 호즈 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97824" /> <!-- +7 마나의 투구 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97825" /> <!-- +7 스턴 건틀렛 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97826" /> <!-- +7 회피의 부츠 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97827" /> <!-- +7 침묵의 장갑 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97828" /> <!-- +7 페이탈 시길 팩 -->
+	</item>
+	<item>
+		<ingredient id="97807" count="1" /> <!-- +7 특수 방어구 교환권 -->
+		<production count="1" id="97829" /> <!-- +7 리벤지 실드 팩 -->
+	</item>
+</list>

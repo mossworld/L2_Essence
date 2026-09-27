@@ -1,0 +1,803 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="92600" name="드워븐 트라이던트 창날" type="EtcItem">
+		<!-- Key material for Dwarves to make Dwarven Trident. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92601" name="양손검 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Two-handed Sword. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92602" name="스파이크 클럽 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Spiked Club. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92603" name="나이프 오 실레누스 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Shillien Knife. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92604" name="가스트라페테스 샤프트" type="EtcItem">
+		<!-- Key material for Dwarves to make Gastraphetes. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92605" name="피의 주문서 책장" type="EtcItem">
+		<!-- Key material for Dwarves to make Tome of Blood. -->
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92606" name="모닝 스타 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Morning Star. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92607" name="산양머리 지팡이 머리" type="EtcItem">
+		<!-- Key material for Dwarves to make Goat Head Staff. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92608" name="윙드스피어 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Winged Spear. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92609" name="혁명의 검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Sword of Revolution. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92610" name="타바르 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Tarbar. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92611" name="스컬 브레이커 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Skull Breaker. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92612" name="헤비 본 클럽 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Heavy Bone Club. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92613" name="메인거쉬 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Maingauche. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92614" name="비차하우 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Bich'Hwa. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92615" name="강화 롱 보우 샤프트" type="EtcItem">
+		<!-- Key material for Dwarves to make Reinforced Longbow. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92616" name="해머 인 플레임즈 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make War Pick. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92617" name="피의 십자가 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Crucifix of Blood. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92618" name="심안의 돌" type="EtcItem">
+		<!-- Key material for Dwarves to make Eye of Infinity. -->
+		<set name="icon" val="icon.etc_crystal_ball_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92619" name="저주받은 메인거쉬 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Cursed Maingauche. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92620" name="푸른 수정 해골 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Blue Crystal Skull. -->
+		<set name="icon" val="icon.etc_skull_red_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92621" name="악마의 송곳니 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Demon's Fangs. -->
+		<set name="icon" val="icon.etc_horn_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92622" name="클레이모어 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Claymore. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92623" name="본 브레이커 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Bonebreaker. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92624" name="아투바 해머 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Atuba Hammer. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92625" name="혼령의 지팡이 머리" type="EtcItem">
+		<!-- Key material for Dwarves to make Ghost Staff. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92626" name="생명의 홀 샤프트" type="EtcItem">
+		<!-- Key material for Dwarves to make Staff of Life. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92627" name="미스릴 단검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Mithril Dagger. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92628" name="스캘럽 자마다르 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Scallop Jamadhr. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92629" name="사이클론 보우 샤프트" type="EtcItem">
+		<!-- Key material for Dwarves to make Light Bow. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92630" name="글레이브 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Glaive. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92631" name="바쥬라 틀" type="EtcItem">
+		<!-- Key material for Dwarves to make Vajra Wand. -->
+		<set name="icon" val="icon.etc_mold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92632" name="고대의 시약 찌꺼기" type="EtcItem">
+		<!-- Key material for Dwarves to make Ancient Reagent. -->
+		<set name="icon" val="icon.etc_potion_clear_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92633" name="아투바 메이스 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Atuba Mace. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92634" name="플랑베르주 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Flamberge. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92635" name="스톰 브링거 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Stormbringer. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92636" name="큰망치 머리쇠" type="EtcItem">
+		<!-- Key material for Dwarves to make Big Hammer. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92637" name="사이드 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Scythe. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92638" name="배틀액스 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Battle Axe. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92639" name="워피크 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Silver Axe. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92640" name="스컬그레이버 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Skull Graver. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92641" name="헤비 둠해머 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Heavy Doom Hammer. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92642" name="크리스탈 지팡이 머리" type="EtcItem">
+		<!-- Key material for Dwarves to make Crystal Staff. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92643" name="신앙의 홀 샤프트" type="EtcItem">
+		<!-- Key material for Dwarves to make Stick of Faith. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92644" name="헤비 둠액스 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Heavy Doom Axe. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92645" name="저주받은 단검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Cursed Dagger. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92646" name="니들 울브린 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Needle Wolverine. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92647" name="다크엘븐 대거 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Dark Elven Dagger. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92648" name="차크람 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Chakram. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92649" name="얼음결정의 활대" type="EtcItem">
+		<!-- Key material for Dwarves to make Frozen Bow. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92650" name="오키쉬 글레이브 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Orcish Glaive. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92651" name="바디슬래셔 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Body Slasher. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92652" name="샴쉬르 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Shamshir. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92653" name="카타나 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Katana. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92654" name="배크 드 코르뱅 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Bec de Corbin. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92655" name="스피릿츠 소드 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Spirit Sword. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92656" name="레이드 소드 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Raid Sword. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92657" name="저주받은 지팡이 머리" type="EtcItem">
+		<!-- Key material for Dwarves to make Cursed Staff. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92658" name="스틸레토 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Stiletto. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92659" name="마염의 단검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Soulfire Dirk. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92660" name="엘레멘탈 보우 샤프트" type="EtcItem">
+		<!-- Key material for Dwarves to make Elemental Bow. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92661" name="고급 엘븐 보우 샤프트" type="EtcItem">
+		<!-- Key material for Dwarves to make Noble Elven Bow. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92662" name="영광의 뿔피리 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Horn of Glory. -->
+		<set name="icon" val="icon.etc_claw_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92663" name="카리브스 날" type="EtcItem">
+		<!-- Key material for Dwarves to make Caliburs. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92664" name="미혹의 검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Sword of Delusion. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92665" name="츠루기 검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Tsurugi. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92666" name="호문쿨러스 소드 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Homunkulus' Sword. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92667" name="폴액스 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Poleaxe. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92668" name="극한의 검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Ultimate Sword. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92669" name="악몽의 검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Sword of Nightmare. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92670" name="데스브레스 소드 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Sword of Whispering Death. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92671" name="워액스 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make War Axe. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92672" name="너바나 액스 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Nirvana Axe. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92673" name="구원의 홀 샤프트" type="EtcItem">
+		<!-- Key material for Dwarves to make Stick of Eternity. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92674" name="패러디아 스태프 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Paradia Staff. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92675" name="인페르노 스태프 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Inferno Staff. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92676" name="파아그리오 해머 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Pa'agrio Hammer. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92677" name="현자의 지팡이 머리" type="EtcItem">
+		<!-- Key material for Dwarves to make Sage's Staff. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92678" name="대자연의 클럽 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Club of Nature. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92679" name="메이스 오브 언더월드 헤드" type="EtcItem">
+		<!-- Key material for Dwarves to make Mace of Underworld. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92680" name="그레이스 대거 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Grace Dagger. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92681" name="다크 스크리머 엣지" type="EtcItem">
+		<!-- Key material for Dwarves to make Dark Screamer. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92682" name="피스트 블레이드 조각" type="EtcItem">
+		<!-- Key material for Dwarves to make Fisted Blade. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92683" name="아카트 장궁 활대" type="EtcItem">
+		<!-- Key material for Dwarves to make Akat Longbow. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92684" name="파아그리오 액스 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Pa'agrio Axe. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92685" name="스콜피언 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Scorpion. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92686" name="위도우 메이커 헤드" type="EtcItem">
+		<!-- Key material used by Dwarves for crafting Widowmaker. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92687" name="싸울아비 장검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Samurai Long Sword. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92688" name="망자의 지팡이 머리" type="EtcItem">
+		<!-- Key material for Dwarves to make Deadman's Staff. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92689" name="구울의 지팡이 머리" type="EtcItem">
+		<!-- Key material for Dwarves to make Ghoul's Staff. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92690" name="악마의 지팡이 머리" type="EtcItem">
+		<!-- Key material for Dwarves to make Demon's Staff. -->
+		<set name="icon" val="icon.etc_squares_gray_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92691" name="크리스탈 단검신" type="EtcItem">
+		<!-- Key material for Dwarves to make Crystal Dagger. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92692" name="그레이트 파타 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Great Pata. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92693" name="에머넌스 보우 스태프" type="EtcItem">
+		<!-- Key material for Dwarves to make Eminence Bow. -->
+		<set name="icon" val="icon.etc_branch_gold_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92694" name="오키쉬 폴액스 블레이드" type="EtcItem">
+		<!-- Key material for Dwarves to make Orcish Poleaxe. -->
+		<set name="icon" val="icon.etc_sword_body_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92695" name="봉인의 반지 젬" type="EtcItem">
+		<!-- Key material for Dwarves to make Ring of Seal. -->
+		<set name="icon" val="icon.etc_bead_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92696" name="미스릴 스케일 각반 밑감" type="EtcItem">
+		<!-- Key material for Dwarves to make Mithril Scale Gaiters. -->
+		<set name="icon" val="icon.etc_plate_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92697" name="브리건딘 각반 밑감" type="EtcItem">
+		<!-- Key material for Dwarves to make Brigandine Gaiters. -->
+		<set name="icon" val="icon.etc_plate_silver_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92698" name="엘븐 미스릴 튜닉 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Elven Mithril Tunic. -->
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="92699" name="엘븐 미스릴 호즈 패턴" type="EtcItem">
+		<!-- Key material for Dwarves to make Elven Mithril Stockings. -->
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

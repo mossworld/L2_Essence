@@ -1,0 +1,1596 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="49600" name="청색 탈리스만 - 방어력" type="Armor">
+		<!-- Available for 1 h. P. Def. +3%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3273" level="1"/> <!-- Not used - Blue Talisman - P. Def. -->
+		</skills>
+	</item>
+	<item id="49601" name="청색 탈리스만 - 물리 스킬 회피" type="Armor">
+		<!-- Available for 1 h. P. Skill Evasion +10%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3274" level="1"/> <!-- Not used - Blue Talisman - P. Skill Evasion -->
+		</skills>
+	</item>
+	<item id="49602" name="청색 탈리스만 - 마법 스킬 크리티컬" type="Armor">
+		<!-- Available for 1 h. M. Skill Critical Rate +10. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3275" level="1"/> <!-- Not used - Blue Talisman - M. Crit. -->
+		</skills>
+	</item>
+	<item id="49603" name="청색 탈리스만 - 마법력" type="Armor">
+		<!-- Available for 1 h. M. Atk. +3%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3276" level="1"/> <!-- Not used - Blue Talisman - M. Atk. -->
+		</skills>
+	</item>
+	<item id="49604" name="청색 탈리스만 - 마법저항" type="Armor">
+		<!-- Available for 1 h. M. Def. +3%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3277" level="1"/> <!-- Not used - Blue Talisman - M. Def. -->
+		</skills>
+	</item>
+	<item id="49605" name="청색 탈리스만 - 마법 스킬 회피" type="Armor">
+		<!-- Available for 1 h. M. Skill Evasion +10%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3278" level="1"/> <!-- Not used - Blue Talisman - M. Skill Evasion -->
+		</skills>
+	</item>
+	<item id="49606" name="청색 탈리스만 - HP 증가" type="Armor">
+		<!-- Available for 1 h. Max HP +3%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3279" level="1"/> <!-- Not used - Blue Talisman - Max HP -->
+		</skills>
+	</item>
+	<item id="49607" name="청색 탈리스만 - MP 증가" type="Armor">
+		<!-- Available for 1 h. Max MP +3%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3280" level="1"/> <!-- Not used - Blue Talisman - Max MP -->
+		</skills>
+	</item>
+	<item id="49608" name="회색 탈리스만 - 수호" type="Armor">
+		<!-- Available for 1 h. Protects from 5 debuffs for 10 sec. when used. Cooldown: 5 min. -->
+		<set name="icon" val="icon.etc_talisman_i07"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3281" level="1"/> <!-- Not used - Gray Talisman - Guard -->
+		</skills>
+	</item>
+	<item id="49609" name="회색 탈리스만 - 해제" type="Armor">
+		<!-- Available for 1 h. Removes debuffs when used. Cooldown: 5 min. -->
+		<set name="icon" val="icon.etc_talisman_i07"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3282" level="1"/> <!-- Not used - Gray Talisman - Denial -->
+		</skills>
+	</item>
+	<item id="49610" name="회색 탈리스만 - 가호" type="Armor">
+		<!-- Available for 1 h. When used, P. Def. +1800, M. Def. +1620, Buff Cancel Resistance +80% for 10 sec. Cooldown: 15 min. -->
+		<set name="icon" val="icon.etc_talisman_i07"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3283" level="1"/> <!-- Not used - Gray Talisman - Benefaction -->
+		</skills>
+	</item>
+	<item id="49611" name="회색 탈리스만 - 차단" type="Armor">
+		<!-- Available for 1 h. In PvP, the enemy's HP recovery rate -70% for 15 sec. when used. Cooldown: 3 min. -->
+		<set name="icon" val="icon.etc_talisman_i07"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3284" level="1"/> <!-- Not used - Gray Talisman - Block -->
+		</skills>
+	</item>
+	<item id="49612" name="회색 탈리스만 - 무기력" type="Armor">
+		<!-- Available for 1 h. The target's Atk. Spd./ Casting Spd. -20% for 15 sec. when used. Cooldown: 3 min. -->
+		<set name="icon" val="icon.etc_talisman_i07"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3285" level="1"/> <!-- Not used - Gray Talisman - Gravity -->
+		</skills>
+	</item>
+	<item id="49613" name="회색 탈리스만 - 족쇄" type="Armor">
+		<!-- Available for 1 h. The target's Speed -30% for 15 sec. when used. Cooldown: 3 min. -->
+		<set name="icon" val="icon.etc_talisman_i07"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3286" level="1"/> <!-- Not used - Gray Talisman - Bond -->
+		</skills>
+	</item>
+	<item id="49614" name="흰색 탈리스만 - 물리 크리티컬" type="Armor">
+		<!-- Available for 1 h. P. Critical Rate +20. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3271" level="2"/> <!-- Not used - White Talisman - P. Crit. -->
+		</skills>
+	</item>
+	<item id="49615" name="흰색 탈리스만 - 공격력" type="Armor">
+		<!-- Available for 1 h. P. Atk. +4%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3272" level="2"/> <!-- Not used - White Talisman - P. Atk. -->
+		</skills>
+	</item>
+	<item id="49616" name="흰색 탈리스만 - 방어력" type="Armor">
+		<!-- Available for 1 h. P. Def. +5%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3273" level="2"/> <!-- Not used - White Talisman - P. Def. -->
+		</skills>
+	</item>
+	<item id="49617" name="흰색 탈리스만 - 물리 스킬 회피" type="Armor">
+		<!-- Available for 1 h. P. Skill Evasion +15%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3274" level="2"/> <!-- Not used - White Talisman - P. Skill Evasion -->
+		</skills>
+	</item>
+	<item id="49618" name="흰색 탈리스만 - 마법 스킬 크리티컬" type="Armor">
+		<!-- Available for 1 h. M. Skill Critical Rate +20. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3275" level="2"/> <!-- Not used - White Talisman - M. Crit. -->
+		</skills>
+	</item>
+	<item id="49619" name="흰색 탈리스만 - 마법력" type="Armor">
+		<!-- Available for 1 h. M. Atk. +4%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3276" level="2"/> <!-- Not used - White Talisman - M. Atk. -->
+		</skills>
+	</item>
+	<item id="49620" name="흰색 탈리스만 - 마법 저항" type="Armor">
+		<!-- Available for 1 h. M. Def. +5%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3277" level="2"/> <!-- Not used - White Talisman - M. Def. -->
+		</skills>
+	</item>
+	<item id="49621" name="흰색 탈리스만 - 마법 스킬 회피" type="Armor">
+		<!-- Available for 1 h. M. Skill Evasion +15%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3278" level="2"/> <!-- Not used - White Talisman - M. Skill Evasion -->
+		</skills>
+	</item>
+	<item id="49622" name="흰색 탈리스만 - HP 증가" type="Armor">
+		<!-- Available for 1 h. Max HP +5%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3279" level="2"/> <!-- Not used - White Talisman - Max HP -->
+		</skills>
+	</item>
+	<item id="49623" name="흰색 탈리스만 - MP 증가" type="Armor">
+		<!-- Available for 1 h. Max MP +5%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.etc_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3280" level="2"/> <!-- Not used - White Talisman - Max MP -->
+		</skills>
+	</item>
+	<item id="49624" name="황색 탈리스만 - 수호" type="Armor">
+		<!-- Available for 1 h. Protects from 5 debuffs for 10 sec. when used. Cooldown: 4 min. -->
+		<set name="icon" val="icon.etc_talisman_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3287" level="1"/> <!-- Not used - Yellow Talisman - Guard -->
+		</skills>
+	</item>
+	<item id="49625" name="황색 탈리스만 - 해제" type="Armor">
+		<!-- Available for 1 h. Removes debuffs when used. Cooldown: 4 min. -->
+		<set name="icon" val="icon.etc_talisman_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3288" level="1"/> <!-- Not used - Yellow Talisman - Denial -->
+		</skills>
+	</item>
+	<item id="49626" name="황색 탈리스만 - 가호" type="Armor">
+		<!-- Available for 1 h. When used, P. Def. +3600, M. Def. +3240, Buff Cancel Resistance +80% for 10 sec. Cooldown: 15 min. -->
+		<set name="icon" val="icon.etc_talisman_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3289" level="1"/> <!-- Not used - Yellow Talisman - Benefaction -->
+		</skills>
+	</item>
+	<item id="49627" name="황색 탈리스만 - 차단" type="Armor">
+		<!-- Available for 1 h. In PvP, the enemy's HP recovery rate -70% for 15 sec. when used. Cooldown: 2 min. -->
+		<set name="icon" val="icon.etc_talisman_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3290" level="1"/> <!-- Not used - Yellow Talisman - Block -->
+		</skills>
+	</item>
+	<item id="49628" name="황색 탈리스만 - 무기력" type="Armor">
+		<!-- Available for 1 h. The target's Atk. Spd./ Casting Spd. -20% for 15 sec. when used. Cooldown: 2 min. -->
+		<set name="icon" val="icon.etc_talisman_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3291" level="1"/> <!-- Not used - Yellow Talisman - Gravity -->
+		</skills>
+	</item>
+	<item id="49629" name="황색 탈리스만 - 족쇄" type="Armor">
+		<!-- Available for 1 h. The target's Speed -30% for 15 sec. when used. Cooldown: 2 min. -->
+		<set name="icon" val="icon.etc_talisman_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="60"/>
+		<set name="bodypart" val="deco1"/>
+		<skills>
+			<skill id="3292" level="1"/> <!-- Not used - Yellow Talisman - Bond -->
+		</skills>
+	</item>
+	<item id="49630" name="청색 탈리스만 상자 - 물리 크리티컬" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49598" min="1" max="1" chance="100" name="청색 탈리스만 - 물리 크리티컬"/> <!-- Blue Talisman - P. Crit. - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49631" name="청색 탈리스만 상자 - 공격력" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49599" min="1" max="1" chance="100" name="청색 탈리스만 - 공격력"/> <!-- Blue Talisman - P. Atk. - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49632" name="청색 탈리스만 상자 - 방어력" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49600" min="1" max="1" chance="100" name="청색 탈리스만 - 방어력"/> <!-- Blue Talisman - P. Def. - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49633" name="청색 탈리스만 상자 - 물리 스킬 회피" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49601" min="1" max="1" chance="100" name="청색 탈리스만 - 물리 스킬 회피"/> <!-- Blue Talisman - P. Skill Evasion - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49634" name="청색 탈리스만 상자 - 마법 스킬 크리티컬" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49602" min="1" max="1" chance="100" name="청색 탈리스만 - 마법 스킬 크리티컬"/> <!-- Blue Talisman - M. Skill Critical Rate - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49635" name="청색 탈리스만 상자 - 마법력" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49603" min="1" max="1" chance="100" name="청색 탈리스만 - 마법력"/> <!-- Blue Talisman - M. Atk. - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49636" name="청색 탈리스만 상자 - 마법저항" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49604" min="1" max="1" chance="100" name="청색 탈리스만 - 마법저항"/> <!-- Blue Talisman - M. Def. - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49637" name="청색 탈리스만 상자 - 마법 스킬 회피" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49605" min="1" max="1" chance="100" name="청색 탈리스만 - 마법 스킬 회피"/> <!-- Blue Talisman - M. Skill Evasion - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49638" name="청색 탈리스만 상자 - HP 증가" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49606" min="1" max="1" chance="100" name="청색 탈리스만 - HP 증가"/> <!-- Blue Talisman - Max HP - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49639" name="청색 탈리스만 상자 - MP 증가" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49607" min="1" max="1" chance="100" name="청색 탈리스만 - MP 증가"/> <!-- Blue Talisman - Max MP - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49640" name="회색 탈리스만 상자 - 수호" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49608" min="1" max="1" chance="100" name="회색 탈리스만 - 수호"/> <!-- Gray Talisman - Guard - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49641" name="회색 탈리스만 상자 - 해제" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49609" min="1" max="1" chance="100" name="회색 탈리스만 - 해제"/> <!-- Gray Talisman - Denial - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49642" name="회색 탈리스만 상자 - 가호" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49610" min="1" max="1" chance="100" name="회색 탈리스만 - 가호"/> <!-- Gray Talisman - Benefaction - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49643" name="회색 탈리스만 상자 - 차단" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49611" min="1" max="1" chance="100" name="회색 탈리스만 - 차단"/> <!-- Gray Talisman - Block - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49644" name="회색 탈리스만 상자 - 무기력" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49612" min="1" max="1" chance="100" name="회색 탈리스만 - 무기력"/> <!-- Gray Talisman - Gravity - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49645" name="회색 탈리스만 상자 - 족쇄" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49613" min="1" max="1" chance="100" name="회색 탈리스만 - 족쇄"/> <!-- Gray Talisman - Bond - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49646" name="흰색 탈리스만 상자 - 물리 크리티컬" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49614" min="1" max="1" chance="100" name="흰색 탈리스만 - 물리 크리티컬"/> <!-- White Talisman - P. Crit. - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49647" name="흰색 탈리스만 상자 - 공격력" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49615" min="1" max="1" chance="100" name="흰색 탈리스만 - 공격력"/> <!-- White Talisman - P. Atk. - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49648" name="흰색 탈리스만 상자 - 방어력" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49616" min="1" max="1" chance="100" name="흰색 탈리스만 - 방어력"/> <!-- White Talisman - P. Def. - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49649" name="흰색 탈리스만 상자 - 물리 스킬 회피" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49617" min="1" max="1" chance="100" name="흰색 탈리스만 - 물리 스킬 회피"/> <!-- White Talisman - P. Skill Evasion - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49650" name="흰색 탈리스만 상자 - 마법 스킬 크리티컬" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49618" min="1" max="1" chance="100" name="흰색 탈리스만 - 마법 스킬 크리티컬"/> <!-- White Talisman - M. Skill Critical Rate - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49651" name="흰색 탈리스만 상자 - 마법력" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49619" min="1" max="1" chance="100" name="흰색 탈리스만 - 마법력"/> <!-- White Talisman - M. Atk. - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49652" name="흰색 탈리스만 상자 - 마법저항" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49620" min="1" max="1" chance="100" name="흰색 탈리스만 - 마법 저항"/> <!-- White Talisman - M. Def. - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49653" name="흰색 탈리스만 상자 - 마법 스킬 회피" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49621" min="1" max="1" chance="100" name="흰색 탈리스만 - 마법 스킬 회피"/> <!-- White Talisman - M. Skill Evasion - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49654" name="흰색 탈리스만 상자 - HP 증가" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49622" min="1" max="1" chance="100" name="흰색 탈리스만 - HP 증가"/> <!-- White Talisman - Max HP - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49655" name="흰색 탈리스만 상자 - MP 증가" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49623" min="1" max="1" chance="100" name="흰색 탈리스만 - MP 증가"/> <!-- White Talisman - Max MP - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49656" name="황색 탈리스만 상자 - 수호" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49624" min="1" max="1" chance="100" name="황색 탈리스만 - 수호"/> <!-- Yellow Talisman - Guard - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49657" name="황색 탈리스만 상자 - 해제" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49625" min="1" max="1" chance="100" name="황색 탈리스만 - 해제"/> <!-- Yellow Talisman - Denial - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49658" name="황색 탈리스만 상자 - 가호" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49626" min="1" max="1" chance="100" name="황색 탈리스만 - 가호"/> <!-- Yellow Talisman - Benefaction - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49659" name="황색 탈리스만 상자 - 차단" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49627" min="1" max="1" chance="100" name="황색 탈리스만 - 차단"/> <!-- Yellow Talisman - Block - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49660" name="황색 탈리스만 상자 - 무기력" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49628" min="1" max="1" chance="100" name="황색 탈리스만 - 무기력"/> <!-- Yellow Talisman - Gravity - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49661" name="황색 탈리스만 상자 - 족쇄" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="60"/>
+		<set name="material" val="FISH"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49629" min="1" max="1" chance="100" name="황색 탈리스만 - 족쇄"/> <!-- Yellow Talisman - Bond - 1-hour -->
+		</capsuled_items>
+	</item>
+	<item id="49662" name="세련된 컬러 호칭" type="EtcItem">
+		<!-- Allows you to change your title color. Characters of Lv. 90+ can choose the <font color="00DCFF">sky-blue</font> color. <font color=ff6666>Note!</font>. /resetname:. Restores the default color, a special item is required. The title disappears if you leave a clan. -->
+		<set name="icon" val="icon.color_name_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="NicknameColor"/>
+	</item>
+	<item id="49663" name="특급 HP 물약" type="EtcItem">
+		<!-- Momentarily recovers 500 HP. If HP is full, CP is recovered. -->
+		<set name="icon" val="BranchSys.icon.br_vitality_potion_i01"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="30"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="shared_reuse_group" val="91912"/>
+		<set name="reuse_delay" val="300"/>
+		<skills>
+			<skill id="39123" level="1"/> <!-- Maliss' HP Recovery Potion -->
+		</skills>
+	</item>
+	<item id="49664" name="무기 상자 - B그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_equip_item_box_i02"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39125" level="1"/> <!-- B-grade Weapon Pack -->
+		</skills>
+	</item>
+	<item id="49665" name="방어구 상자 - B그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_equip_item_box_i01"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39127" level="1"/> <!-- B-grade Armor Pack -->
+		</skills>
+	</item>
+	<item id="49666" name="액세서리 상자 - B그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_2_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39129" level="1"/> <!-- B-grade Accessory Pack -->
+		</skills>
+	</item>
+	<item id="49667" name="무기 상자 - C그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_equip_item_box_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39124" level="1"/> <!-- C-grade Weapon Supply Box -->
+		</skills>
+	</item>
+	<item id="49668" name="방어구 상자 - C그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_equip_item_box_i03"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39126" level="1"/> <!-- C-grade Armor Pack -->
+		</skills>
+	</item>
+	<item id="49669" name="액세서리 상자 - C그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_5_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39128" level="1"/> <!-- C-grade Accessory Pack -->
+		</skills>
+	</item>
+	<item id="49670" name="무기 재료 상자 - B그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i04"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92788" min="1" max="1" chance="5.263158" name="파타 블레이드"/> <!-- Pata Blade -->
+			<item id="92789" min="1" max="1" chance="5.263158" name="그레이트 소드 블레이드"/> <!-- Great Sword Blade -->
+			<item id="92790" min="1" max="1" chance="5.263158" name="헤비 워액스 헤드"/> <!-- Heavy War Axe Head -->
+			<item id="92792" min="1" max="1" chance="5.263158" name="크샨베르크 검신"/> <!-- Keshanberk Blade -->
+			<item id="92793" min="1" max="1" chance="5.263158" name="소드 오브 발할라 블레이드"/> <!-- Sword of Valhalla Blade -->
+			<item id="92794" min="1" max="1" chance="5.263158" name="크리스 엣지"/> <!-- Kris Edge -->
+			<item id="92795" min="1" max="1" chance="5.263158" name="헬 나이프 엣지"/> <!-- Twilight Knife Edge -->
+			<item id="92796" min="1" max="1" chance="5.263158" name="아스라네일 블레이드"/> <!-- Arthro Claw Blade -->
+			<item id="92797" min="1" max="1" chance="5.263158" name="다크엘븐 롱 보우 샤프트"/> <!-- Dark Elven Longbow Shaft -->
+			<item id="92798" min="1" max="1" chance="5.263158" name="그레이트 액스 헤드"/> <!-- Great Axe Head -->
+			<item id="92799" min="1" max="1" chance="5.263158" name="다마스커스 검신"/> <!-- Damascus Sword Blade -->
+			<item id="92800" min="1" max="1" chance="5.263158" name="랜시아 블레이드"/> <!-- Lance Blade -->
+			<item id="92801" min="1" max="1" chance="5.263158" name="사자의 영광 돌"/> <!-- Deadman's Glory Stone -->
+			<item id="92802" min="1" max="1" chance="5.263158" name="아트 오브 배틀액스 블레이드"/> <!-- Battle Art Axe Blade -->
+			<item id="92804" min="1" max="1" chance="5.263158" name="악마의 단검 엣지"/> <!-- Demon's Dagger Edge -->
+			<item id="92805" min="1" max="1" chance="5.263158" name="벨리온 세스터스 날"/> <!-- Bellion Cestus Edge -->
+			<item id="92806" min="1" max="1" chance="5.263158" name="해저드 보우 샤프트"/> <!-- Bow of Peril Shaft -->
+			<item id="92791" min="1" max="1" chance="5.263158" name="정령의 지팡이 머리"/> <!-- Spirit's Staff Head -->
+			<item id="92803" min="1" max="1" chance="5.263158" name="사령의 지팡이 머리"/> <!-- Staff of Evil Spirits Head -->
+		</capsuled_items>
+	</item>
+	<item id="49671" name="방어구/액세서리 재료 상자 - B그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92767" min="1" max="1" chance="2.5" name="둠 실드 조각"/> <!-- Doom Shield Fragment -->
+			<item id="92755" min="1" max="1" chance="2.5" name="쉬르노엔의 흉갑 조각"/> <!-- Zubei's Breastplate Part -->
+			<item id="92768" min="1" max="1" chance="2.5" name="푸른 늑대의 흉갑 조각"/> <!-- Blue Wolf Breastplate Part -->
+			<item id="92756" min="1" max="1" chance="2.5" name="쉬르노엔의 각반 밑감"/> <!-- Zubei's Gaiters Material -->
+			<item id="92787" min="1" max="1" chance="2.5" name="봉인된 쉬르노엔의 헬멧 원형"/> <!-- Sealed Zubei's Helmet Design -->
+			<item id="92782" min="1" max="1" chance="2.5" name="봉인된 쉬르노엔의 부츠 원형"/> <!-- Sealed Zubei's Boot Design -->
+			<item id="92783" min="1" max="1" chance="2.5" name="봉인된 아바돈 부츠 원형"/> <!-- Sealed Avadon Boots Design -->
+			<item id="92784" min="1" max="1" chance="2.5" name="봉인된 둠 부츠 조각"/> <!-- Sealed Doom Boot Fragment -->
+			<item id="92785" min="1" max="1" chance="2.5" name="봉인된 쉬르노엔의 건틀렛 조각"/> <!-- Sealed Zubei's Gauntlet Fragment -->
+			<item id="92786" min="1" max="1" chance="2.5" name="쉬르노엔의 실드 조각"/> <!-- Zubei's Shield Fragment -->
+			<item id="92808" min="1" max="1" chance="2.5" name="아바돈 실드 조각"/> <!-- Avadon Shield Fragment -->
+			<item id="92757" min="1" max="1" chance="2.5" name="아바돈 플레이트 흉갑 조각"/> <!-- Avadon Breastplate Part -->
+			<item id="92758" min="1" max="1" chance="2.5" name="아바돈 플레이트 각반 밑감"/> <!-- Avadon Gaiters Material -->
+			<item id="92769" min="1" max="1" chance="2.5" name="푸른 늑대의 각반 밑감"/> <!-- Blue Wolf Gaiter Material -->
+			<item id="92770" min="1" max="1" chance="2.5" name="둠 플레이트 아머 합금"/> <!-- Doom Plate Armor Temper -->
+			<item id="92759" min="1" max="1" chance="2.5" name="쉬르노엔 레더 셔츠 원단"/> <!-- Zubei's Leather Shirt Fabric -->
+			<item id="92760" min="1" max="1" chance="2.5" name="쉬르노엔 가죽 각반 겉감"/> <!-- Zubei's Leather Gaiters Texture -->
+			<item id="92761" min="1" max="1" chance="2.5" name="아바돈 레더 메일 안감"/> <!-- Avadon Leather Armor Lining -->
+			<item id="92771" min="1" max="1" chance="2.5" name="푸른 늑대의 레더 메일 겉감"/> <!-- Blue Wolf Leather Armor Texture -->
+			<item id="92772" min="1" max="1" chance="2.5" name="레더 메일 오브 둠 원형"/> <!-- Doom Leather Armor Design -->
+			<item id="92762" min="1" max="1" chance="2.5" name="튜닉 오브 쉬르노엔 원단"/> <!-- Zubei's Tunic Fabric -->
+			<item id="92773" min="1" max="1" chance="2.5" name="푸른 늑대의 튜닉 원단"/> <!-- Blue Wolf Tunic Fabric -->
+			<item id="92774" min="1" max="1" chance="2.5" name="튜닉 오브 둠 패턴"/> <!-- Doom Tunic Pattern -->
+			<item id="92763" min="1" max="1" chance="2.5" name="호즈 오브 쉬르노엔 원단"/> <!-- Zubei's Stockings Fabric -->
+			<item id="92775" min="1" max="1" chance="2.5" name="푸른 늑대의 호즈 패턴"/> <!-- Blue Wolf Stocking Pattern -->
+			<item id="92776" min="1" max="1" chance="2.5" name="호즈 오브 둠 패턴"/> <!-- Doom Stockings Pattern -->
+			<item id="92764" min="1" max="1" chance="2.5" name="아바돈 로브 원단"/> <!-- Avadon Robe Fabric -->
+			<item id="92765" min="1" max="1" chance="2.5" name="봉인된 아바돈 서클릿 패턴"/> <!-- Sealed Avadon Circlet Pattern -->
+			<item id="92777" min="1" max="1" chance="2.5" name="봉인된 푸른 늑대의 헬멧 원형"/> <!-- Sealed Blue Wolf Helmet Design -->
+			<item id="92778" min="1" max="1" chance="2.5" name="봉인된 둠 헬멧 패턴"/> <!-- Sealed Doom Helmet Pattern -->
+			<item id="92779" min="1" max="1" chance="2.5" name="봉인된 푸른 늑대의 부츠 원형"/> <!-- Sealed Blue Wolf Boot Design -->
+			<item id="92766" min="1" max="1" chance="2.5" name="봉인된 아바돈 글로브 조각"/> <!-- Sealed Avadon Glove Fragment -->
+			<item id="92780" min="1" max="1" chance="2.5" name="봉인된 둠 글로브 조각"/> <!-- Sealed Doom Glove Fragment -->
+			<item id="92781" min="1" max="1" chance="2.5" name="봉인된 푸른 늑대의 장갑 원단"/> <!-- Sealed Blue Wolf Glove Fabric -->
+			<item id="92748" min="1" max="1" chance="2.5" name="아다만타이트 귀걸이 젬"/> <!-- Adamantite Earring Gemstone -->
+			<item id="92749" min="1" max="1" chance="2.5" name="아다만타이트 링 와이어"/> <!-- Adamantite Ring Wire -->
+			<item id="92750" min="1" max="1" chance="2.5" name="아다만타이트 네크리스 체인"/> <!-- Adamantite Necklace Chain -->
+			<item id="92751" min="1" max="1" chance="2.5" name="흑광의 귀걸이 조각"/> <!-- Black Ore Earring Piece -->
+			<item id="92752" min="1" max="1" chance="2.5" name="흑광의 반지 젬"/> <!-- Black Ore Ring Gemstone -->
+			<item id="92753" min="1" max="1" chance="2.5" name="흑광의 목걸이 비즈"/> <!-- Black Ore Necklace Beads -->
+		</capsuled_items>
+	</item>
+	<item id="49672" name="무기 재료 상자 - C그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i06"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92687" min="1" max="1" chance="9.090909" name="싸울아비 장검신"/> <!-- Samurai Long Sword Blade -->
+			<item id="92688" min="1" max="1" chance="9.090909" name="망자의 지팡이 머리"/> <!-- Deadman's Staff Head -->
+			<item id="92689" min="1" max="1" chance="9.090909" name="구울의 지팡이 머리"/> <!-- Ghoul's Staff Head -->
+			<item id="92690" min="1" max="1" chance="9.090909" name="악마의 지팡이 머리"/> <!-- Demon's Staff Head -->
+			<item id="92691" min="1" max="1" chance="9.090909" name="크리스탈 단검신"/> <!-- Crystal Dagger Blade -->
+			<item id="92692" min="1" max="1" chance="9.090909" name="그레이트 파타 블레이드"/> <!-- Great Pata Blade -->
+			<item id="92693" min="1" max="1" chance="9.090909" name="에머넌스 보우 스태프"/> <!-- Eminence Bow Shaft -->
+			<item id="92694" min="1" max="1" chance="9.090909" name="오키쉬 폴액스 블레이드"/> <!-- Orcish Poleaxe Blade -->
+			<item id="92747" min="1" max="1" chance="9.090909" name="야크샤 메이스 헤드"/> <!-- Yaksa Mace Head -->
+			<item id="92839" min="1" max="1" chance="9.090909" name="버서커 블레이드 엣지"/> <!-- Berserker Blade Edge -->
+			<item id="92653" min="1" max="1" chance="9.090909" name="카타나 블레이드"/> <!-- Katana Blade -->
+		</capsuled_items>
+	</item>
+	<item id="49673" name="방어구/액세서리 재료 상자 - C그레이드" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92571" min="1" max="1" chance="3.846154" name="씨커 레더 메일 패턴"/> <!-- Theca Leather Armor Pattern -->
+			<item id="92572" min="1" max="1" chance="3.846154" name="씨커 가죽 각반 조각"/> <!-- Theca Leather Gaiter Fragment -->
+			<item id="92732" min="1" max="1" chance="3.846154" name="씨커 레더 부츠 밑감"/> <!-- Theca Leather Boots Texture -->
+			<item id="92733" min="1" max="1" chance="3.846154" name="씨커 레더 글로브 밑감"/> <!-- Theca Leather Gloves Texture -->
+			<item id="92573" min="1" max="1" chance="3.846154" name="풀 플레이트 아머 합금"/> <!-- Full Plate Armor Temper -->
+			<item id="92574" min="1" max="1" chance="3.846154" name="드레이크 레더 메일 겉감"/> <!-- Drake Leather Armor Texture -->
+			<item id="92575" min="1" max="1" chance="3.846154" name="신성의 튜닉 원단"/> <!-- Divine Tunic Fabric -->
+			<item id="92576" min="1" max="1" chance="3.846154" name="신성의 호즈 패턴"/> <!-- Divine Stocking Pattern -->
+			<item id="92577" min="1" max="1" chance="3.846154" name="미스릴 헬멧 원형"/> <!-- Mithril Helmet Design -->
+			<item id="92736" min="1" max="1" chance="3.846154" name="디바인 부츠 원단"/> <!-- Divine Boot Fabric -->
+			<item id="92578" min="1" max="1" chance="3.846154" name="사령의 건틀렛 패턴"/> <!-- Gauntlet of Ghost Pattern -->
+			<item id="92579" min="1" max="1" chance="3.846154" name="아다만타이트 부츠 원형"/> <!-- Adamantite Boot Design -->
+			<item id="92737" min="1" max="1" chance="3.846154" name="풀 플레이트 헬멧 원형"/> <!-- Full Plate Helmet Design -->
+			<item id="92738" min="1" max="1" chance="3.846154" name="드레이크 레더 부츠 원형"/> <!-- Drake Leather Boots Design -->
+			<item id="92739" min="1" max="1" chance="3.846154" name="풀 플레이트 부츠 조각"/> <!-- Full Plate Boot Fragment -->
+			<item id="92740" min="1" max="1" chance="3.846154" name="드레이크 레더 글로브 원형"/> <!-- Drake Leather Gloves Design -->
+			<item id="92741" min="1" max="1" chance="3.846154" name="풀 플레이트 건틀렛 조각"/> <!-- Full Plate Gauntlet Fragment -->
+			<item id="92742" min="1" max="1" chance="3.846154" name="신성의 장갑 패턴"/> <!-- Divine Glove Pattern -->
+			<item id="92743" min="1" max="1" chance="3.846154" name="디바인 글로브 원단"/> <!-- Blessed Glove Design -->
+			<item id="92744" min="1" max="1" chance="3.846154" name="풀 플레이트 실드 조각"/> <!-- Full Plate Shield Fragment -->
+			<item id="92501" min="1" max="1" chance="3.846154" name="봉인의 귀걸이 젬"/> <!-- Earring of Seal Gemstone -->
+			<item id="92502" min="1" max="1" chance="3.846154" name="영생의 반지 젬"/> <!-- Ring of Ages Gemstone -->
+			<item id="92503" min="1" max="1" chance="3.846154" name="인어의 눈물 방울"/> <!-- Necklace of Mermaid Teardrop -->
+			<item id="92507" min="1" max="1" chance="3.846154" name="봉인의 목걸이 체인"/> <!-- Necklace of Seal Chain -->
+			<item id="92505" min="1" max="1" chance="3.846154" name="나센의 귀걸이 젬"/> <!-- Nassen's Earring Gemstone -->
+			<item id="92695" min="1" max="1" chance="3.846154" name="봉인의 반지 젬"/> <!-- Ring of Seal Gemstone -->
+		</capsuled_items>
+	</item>
+	<item id="49674" name="경험치 향상 주문서" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. Acquired XP/ SP +30%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.etc_recall_exp_scroll"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="immediate_effect" val="true"/>
+		<skills>
+			<skill id="39134" level="1"/> <!-- XP Growth Scroll -->
+		</skills>
+	</item>
+	<item id="49675" name="용사의 큐브 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49534" min="1" max="1" chance="100" name="용사의 큐브"/> <!-- Hero's Cube - 7-day -->
+		</capsuled_items>
+	</item>
+	<item id="49676" name="오만의 탈리스만 Lv1" type="Armor">
+		<!-- <Properties>. P. Atk. +14. M. Atk. +22. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.oman_tallisman_new_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="35017" level="1"/> <!-- Not used - Talisman of Insolence I -->
+		</skills>
+	</item>
+	<item id="49677" name="오만의 탈리스만 Lv2" type="Armor">
+		<!-- <Properties>. P. Atk. +27. M. Atk. +44. M. Damage Resistance +2%. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.oman_tallisman_new_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="35017" level="2"/> <!-- Not used - Talisman of Insolence II -->
+		</skills>
+	</item>
+	<item id="49678" name="오만의 탈리스만 Lv3" type="Armor">
+		<!-- <Properties>. P. Atk. +41. M. Atk. +66. M. Damage Resistance +4%. Skill Power +1%. Resistance to All Weapons +1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.oman_tallisman_new_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="35017" level="3"/> <!-- Not used - Talisman of Insolence III -->
+		</skills>
+	</item>
+	<item id="49679" name="오만의 탈리스만 Lv4" type="Armor">
+		<!-- <Properties>. P. Atk. +68. M. Atk. +109. M. Damage Resistance +6%. Skill Power +2%. Resistance to All Weapons +2. CON/ MEN +1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.oman_tallisman_new_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="35017" level="4"/> <!-- Not used - Talisman of Insolence IV -->
+		</skills>
+	</item>
+	<item id="49680" name="오만의 탈리스만 Lv5" type="Armor">
+		<!-- <Properties>. P. Atk. +170. M. Atk. +235. M. Damage Resistance +7%. Skill Power +2%. Resistance to All Weapons +2. MP consumption -2%. STR/ INT +1. CON/ MEN +1. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.oman_tallisman_new_i02"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="35017" level="5"/> <!-- Not used - Talisman of Insolence V -->
+		</skills>
+	</item>
+	<item id="49681" name="오만의 탈리스만 Lv6" type="Armor">
+		<!-- <Properties>. P. Atk. +200. M. Atk. +275. M. Damage Resistance +8%. Skill Power +3%. Resistance to All Weapons +3. P. Critical Rate +10. M. Skill Critical Rate +10. MP Consumption -4%. STR/ INT +1. CON/ MEN +1. Required level: 60+. Effects of two identical talismans do not stack. -->
+		<set name="icon" val="icon.oman_tallisman_new_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_sellable" val="false"/>
+		<conditions msgId="113" addName="1">
+			<player level="60"/>
+		</conditions>
+		<skills>
+			<skill id="35017" level="6"/> <!-- Not used - Talisman of Insolence VI -->
+		</skills>
+	</item>
+	<item id="49682" name="바이움의 영혼" type="EtcItem">
+		<!-- Can be exchanged along with Talisman of Insolence Lv. 6 to Talisman of Baium by Blacksmith Baggins in Giran. -->
+		<set name="icon" val="icon.high_energy_condense_i00"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="49683" name="바이움 탈리스만" type="Armor">
+		<!-- A talisman imbued with Baium's power. <Enchant scroll>. Scroll: Enchant Talisman of Baium can be used on any enchant value. Enchant Scroll can be used starting from +4. Transcendent Upgrade Stone can be used starting from +4. Max enchant value: +10. <font color=ff6666>Note!</font>. Required level: 60+. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.baium_talisman_new"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="120"/>
+		<set name="is_sellable" val="false"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_limit" val="10"/>
+		<conditions msgId="113" addName="1">
+			<player level="60"/>
+		</conditions>
+		<skills>
+			<skill id="35020" level="1" type="ON_EQUIP"/> <!-- Not used - Talisman of Baium -->
+			<skill id="35021" level="1" type="ON_UNEQUIP"/> <!-- Not used - Talisman of Baium - Removal -->
+			<skill id="50191" level="1"/> <!-- Talisman of Baium -->
+			<skill id="50191" level="2" type="ON_ENCHANT" type_value="1"/> <!-- +1 Talisman of Baium -->
+			<skill id="50191" level="3" type="ON_ENCHANT" type_value="2"/> <!-- +2 Talisman of Baium -->
+			<skill id="50191" level="4" type="ON_ENCHANT" type_value="3"/> <!-- +3 Talisman of Baium -->
+			<skill id="50191" level="5" type="ON_ENCHANT" type_value="4"/> <!-- +4 Talisman of Baium -->
+			<skill id="50191" level="6" type="ON_ENCHANT" type_value="5"/> <!-- +5 Talisman of Baium -->
+			<skill id="50191" level="7" type="ON_ENCHANT" type_value="6"/> <!-- +6 Talisman of Baium -->
+			<skill id="50191" level="8" type="ON_ENCHANT" type_value="7"/> <!-- +7 Talisman of Baium -->
+			<skill id="50191" level="9" type="ON_ENCHANT" type_value="8"/> <!-- +8 Talisman of Baium -->
+			<skill id="50191" level="10" type="ON_ENCHANT" type_value="9"/> <!-- +9 Talisman of Baium -->
+			<skill id="50191" level="11" type="ON_ENCHANT" type_value="10"/> <!-- +10 Talisman of Baium -->
+		</skills>
+	</item>
+	<item id="49684" name="탈리스만 결정" type="EtcItem">
+		<!-- Take the Crystal along with Elemental Stone/ Energy of Insolence to Baggins in Giran to upgrade Talisman of Insolence. -->
+		<set name="icon" val="icon.low_energy_condense_i03"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="49685" name="힘을 잃은 오만의 기운" type="EtcItem">
+		<!-- The Energy of Insolence was unused for too long, so it lost its power. Can be sold to any Grocer. -->
+		<set name="icon" val="icon.ensoul_sommon"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="49686" name="세련된 은빛 샤프롱&lt;STR+1 INT+1&gt;" type="Armor">
+		<!-- Available for 30 d. STR +1, INT +1. Enables the Chic Silver Chapeau: Teleport skill (cooldown: 2 h.). <font color=eeaa22>Equipped in the left head accessory slot.</font> -->
+		<set name="icon" val="BranchSys2.icon2.pi_silverchaperon"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="hairall"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="WOOD"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<skills>
+			<skill id="39136" level="1"/> <!-- Chic Silver Chapeau Teleport - 30 d. -->
+			<skill id="39135" level="1"/> <!-- Chic Silver Chapeau (30-day) -->
+		</skills>
+	</item>
+	<item id="49687" name="세련된 은빛 샤프롱&lt;STR+1 INT+1&gt;" type="Armor">
+		<!-- STR +1, INT +1. Enables the Chic Silver Chapeau: Teleport skill (cooldown: 2 h.). <font color=eeaa22>Equipped in the left head accessory slot.</font> -->
+		<set name="icon" val="BranchSys2.icon2.pi_silverchaperon"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="hairall"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="WOOD"/>
+		<set name="is_sellable" val="false"/>
+		<set name="enchant_enabled" val="true"/>
+		<skills>
+			<skill id="35023" level="1"/> <!-- Chic Silver Chapeau Teleport -->
+			<skill id="35022" level="1"/> <!-- Chic Silver Chapeau -->
+			<skill id="39312" level="1"/> <!-- Not used - Head Accessory: Enchant Effect -->
+			<skill id="50564" level="2" type="ON_ENCHANT" type_value="1"/> <!-- Head Accessory: Enchant Effect +1 -->
+			<skill id="50564" level="3" type="ON_ENCHANT" type_value="2"/> <!-- Head Accessory: Enchant Effect +2 -->
+			<skill id="50564" level="4" type="ON_ENCHANT" type_value="3"/> <!-- Head Accessory: Enchant Effect +3 -->
+			<skill id="50564" level="5" type="ON_ENCHANT" type_value="4"/> <!-- Head Accessory: Enchant Effect +4 -->
+			<skill id="50564" level="6" type="ON_ENCHANT" type_value="5"/> <!-- Head Accessory: Enchant Effect +5 -->
+			<skill id="50564" level="7" type="ON_ENCHANT" type_value="6"/> <!-- Head Accessory: Enchant Effect +6 -->
+			<skill id="50564" level="8" type="ON_ENCHANT" type_value="7"/> <!-- Head Accessory: Enchant Effect +7 -->
+			<skill id="50564" level="9" type="ON_ENCHANT" type_value="8"/> <!-- Head Accessory: Enchant Effect +8 -->
+			<skill id="50564" level="10" type="ON_ENCHANT" type_value="9"/> <!-- Head Accessory: Enchant Effect +9 -->
+			<skill id="50564" level="11" type="ON_ENCHANT" type_value="10"/> <!-- Head Accessory: Enchant Effect +10 -->
+		</skills>
+	</item>
+	<item id="49688" name="세련된 은빛 샤프롱 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="43200"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49686" min="1" max="1" chance="100" name="세련된 은빛 샤프롱&lt;STR+1 INT+1&gt;"/> <!-- Chic Silver Chapeau (STR +1 INT +1) - 30-day -->
+		</capsuled_items>
+	</item>
+	<item id="49689" name="샤프롱 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39137" level="1"/> <!-- Chapeau Box -->
+		</skills>
+	</item>
+	<item id="49690" name="블루 다이너스티 변신 포션" type="EtcItem">
+		<!-- Changes an armor's appearance to that of Blue Dynasty Armor. Disappear after the event. -->
+		<set name="icon" val="icon.general_stone_i01"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39138" level="1"/> <!-- Blue Dynasty Transformation -->
+		</skills>
+	</item>
+	<item id="49691" name="레드 쉬르노엔 변신 포션" type="EtcItem">
+		<!-- Changes the armor appearance to that of Red Zubei. -->
+		<set name="icon" val="icon.general_stone_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39139" level="1"/> <!-- Transformation into Red Zubei -->
+		</skills>
+	</item>
+	<item id="49692" name="블랙 싸울아비" type="Weapon">
+		<!-- Available for 15 d. Cannot be enchanted or imbued with special properties. -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2340"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="21600"/>
+		<stats>
+			<stat type="pAtk">155</stat>
+			<stat type="mAtk">70</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="49693" name="점핑 마법 물약 1단계" type="EtcItem">
+		<!-- XP +12,000, SP +40. Required level: 20+. -->
+		<set name="icon" val="icon.etc_holy_potion_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39140" level="1"/> <!-- Magic Potion of Leaping Lv. 1 -->
+		</skills>
+	</item>
+	<item id="49694" name="점핑 마법 물약 2단계" type="EtcItem">
+		<!-- XP +78,000, SP +240. Required level: 30+. -->
+		<set name="icon" val="icon.etc_wind_potion_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39141" level="1"/> <!-- Magic Potion of Leaping Lv. 2 -->
+		</skills>
+	</item>
+	<item id="49695" name="점핑 마법 물약 3단계" type="EtcItem">
+		<!-- XP +342,000, SP +1040. Required level: 40+. -->
+		<set name="icon" val="icon.etc_water_potion_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39142" level="1"/> <!-- Magic Potion of Leaping Lv. 3 -->
+		</skills>
+	</item>
+	<item id="49696" name="돌아온 친구의 선물" type="EtcItem">
+		<!-- XP +370,000, SP +1110. Required level: 45+. -->
+		<set name="icon" val="BranchSys.icon.br_lucky_bag_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39143" level="1"/> <!-- Gift from a Returned Friend -->
+		</skills>
+	</item>
+	<item id="49697" name="해적단의 특별한 열매" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. P. Atk. +7%. M. Atk. +7%. P. Def. +10%. M. Def. +10%. Max HP +15%. Max MP +15%. Max CP +15%. HP Recovery Rate +20%. MP Recovery Rate +20%. With a certain chance, absorbs 3% of inflicted damage as HP. Acquired XP +5%. Acquired SP +5%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. <font color=eeaa22>Can be exchanged for Aden Coins through the Game Assistant.</font> -->
+		<set name="icon" val="icon.etc_codran_i09"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="reuse_delay" val="60000"/>
+		<skills>
+			<skill id="39144" level="1"/> <!-- Special Pirate Fruit -->
+		</skills>
+	</item>
+	<item id="49698" name="전직 패스권 - 2차 전직" type="EtcItem">
+		<!-- Take it to Chief Caliburs for the 2nd Class change. Required level: 40. -->
+		<set name="icon" val="icon.return_user_item"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="49699" name="마스터 스킬북 - 2차 전직" type="EtcItem">
+		<!-- Take it to Chief Caliburs to get all the skills for your character class and level. Required level: 45-60. -->
+		<set name="icon" val="icon.q10338_book_of_hades"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+</list>

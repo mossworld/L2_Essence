@@ -1,0 +1,2528 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="22500" level="94" type="Monster" name="데스케이브의 기사" element="EARTH">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="78"/> <!-- Great Sword -->
+		<acquire exp="87474" sp="873" attributeExp="1880"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="113220.9" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="4719" magical="3221" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="3491" magical="1297"/>
+			<speed>
+				<walk ground="42"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.88"/>
+			<height normal="41.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48047" level="1"/> <!-- Earth Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22501" level="75" type="Monster" name="크라키아 바투스" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="4584" sp="45" attributeExp="908"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="53936.07" hpRegen="8.5" mp="2770.2" mpRegen="3"/>
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="319.24623" magical="233.61053"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="28" grown="32"/>
+			<height normal="46.15" grown="55"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22502" level="75" type="Monster" name="크라키아 카르커스" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="15304"/> <!-- Transparent Crossbow (NPC) - Not Available -->
+		<acquire exp="4584" sp="45" attributeExp="908"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="53936.07" hpRegen="8.5" mp="2770.2" mpRegen="3"/>
+			<attack physical="794.70901" magical="542.68324" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="319.24623" magical="233.61053"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="25" grown="32"/>
+			<height normal="36" grown="55"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22503" level="75" type="Monster" name="크라키아 로터스" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="4584" sp="45" attributeExp="908"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="53936.07" hpRegen="8.5" mp="2770.2" mpRegen="3"/>
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="319.24623" magical="233.61053"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="28" grown="32"/>
+			<height normal="46.15" grown="55"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22504" level="75" type="Monster" name="라크잔" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="4584" sp="45" attributeExp="908"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="53936.07" hpRegen="8.5" mp="2770.2" mpRegen="3"/>
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="319.24623" magical="233.61053"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="65" grown="48"/>
+			<height normal="79" grown="93"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22505" level="75" type="Monster" name="바이스 칸" title="바이스 칸" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="45561" sp="453" attributeExp="908"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="539360.1" hpRegen="8.5" mp="2770.2" mpRegen="3"/>
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="319.24623" magical="233.61053"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16" grown="18"/>
+			<height normal="42.5" grown="46"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22506" level="82" type="Monster" name="바이스 엘" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="6939" sp="69" attributeExp="1173"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="73584.18" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="1688.456" magical="864.744" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="419.73" magical="230.358"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18" grown="12"/>
+			<height normal="35" grown="42"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22507" level="82" type="Monster" name="바몬티" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="6939" sp="69" attributeExp="1173"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="73584.18" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="1688.456" magical="864.744" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="419.73" magical="230.358"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="19" grown="14"/>
+			<height normal="43" grown="50"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22508" level="82" type="Monster" name="세크너스" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="6939" sp="69" attributeExp="1173"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="73584.18" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="1688.456" magical="864.744" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="419.73" magical="230.358"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18" grown="21"/>
+			<height normal="50" grown="76"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22509" level="82" type="Monster" name="데모닉 바투스" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="6939" sp="69" attributeExp="1173"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="73584.18" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="1688.456" magical="864.744" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="419.73" magical="230.358"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="28" grown="32"/>
+			<height normal="46.15" grown="55"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22510" level="82" type="Monster" name="데모닉 카르커스" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="15304"/> <!-- Transparent Crossbow (NPC) - Not Available -->
+		<acquire exp="6939" sp="69" attributeExp="1173"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="73584.18" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="1688.456" magical="864.744" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="419.73" magical="230.358"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="25" grown="32"/>
+			<height normal="36" grown="55"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22511" level="82" type="Monster" name="데모닉 로터스" title="데모닉 로터스" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="80688" sp="804" attributeExp="1173"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="735839.9" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="1688.456" magical="864.744" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="419.73" magical="230.358"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="28" grown="32"/>
+			<height normal="46.15" grown="55"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22512" level="88" type="Monster" name="데모닉 라크잔" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="13158" sp="129" attributeExp="1760"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="178355.7" hpRegen="10.2" mp="11714.4" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="42" grown="48"/>
+			<height normal="79" grown="93"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22513" level="88" type="Monster" name="데모닉 바이스 칸" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="13158" sp="129" attributeExp="1760"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="178355.7" hpRegen="10.2" mp="11714.4" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16" grown="18"/>
+			<height normal="42.5" grown="46"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22514" level="88" type="Monster" name="데모닉 바이스 엘" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="13158" sp="129" attributeExp="1760"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="178355.7" hpRegen="10.2" mp="11714.4" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18" grown="12"/>
+			<height normal="35" grown="42"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22515" level="88" type="Monster" name="데모닉 바몬티" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="13158" sp="129" attributeExp="1760"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="178355.7" hpRegen="10.2" mp="11714.4" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="19" grown="14"/>
+			<height normal="43" grown="50"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22516" level="88" type="Monster" name="데모닉 세크너스" title="데모닉 세크너스" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="139392" sp="1392" attributeExp="1760"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="1783560" hpRegen="10.2" mp="11714.4" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18" grown="21"/>
+			<height normal="50" grown="76"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22517" level="88" type="Monster" name="나크둠" title="나크둠" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="13158" sp="129" attributeExp="1760"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="178355.7" hpRegen="10.2" mp="11714.4" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="50"/>
+			<height normal="60.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22518" level="88" type="Monster" name="데모닉 나크둠" title="데모닉 나크둠" element="FIRE">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="13158" sp="129" attributeExp="1760"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="178355.7" hpRegen="10.2" mp="11714.4" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="50"/>
+			<height normal="60.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48044" level="1"/> <!-- Fire Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22519" level="80" type="Monster" name="델 리자드맨" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="1371" sp="12" attributeExp="1144"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="5765.307075" hpRegen="10.2" mp="2512.2" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="17"/>
+			<height normal="25"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="10"/> <!-- Dragons -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+			<skill id="5620" level="2"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="22520" level="80" type="Monster" name="델 리자드맨 로그" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="1488" sp="12" attributeExp="1144"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="11530.38" hpRegen="10.2" mp="2512.2" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="40.25"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+			<skill id="5620" level="2"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="22521" level="80" type="Monster" name="델 리자드맨 워리어" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="1488" sp="12" attributeExp="1144"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="11530.38" hpRegen="10.2" mp="2512.2" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="65"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="25"/>
+			<height normal="62"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="10"/> <!-- Dragons -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+			<skill id="5620" level="2"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="22522" level="80" type="Monster" name="델 리자드맨 위자드" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="1371" sp="12" attributeExp="1144"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="10204.43" hpRegen="10.2" mp="2512.2" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="17"/>
+			<height normal="44"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="10"/> <!-- Dragons -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+			<skill id="5620" level="2"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="22523" level="80" type="Monster" name="델 자이언트" title="델 자이언트" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="1842" sp="18" attributeExp="1144"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="17296.2" hpRegen="10.2" mp="2512.2" mpRegen="3.6"/>
+			<attack physical="1552.864" magical="795.304" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="409.65" magical="258.5499"/>
+			<speed>
+				<walk ground="85"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="31.5"/>
+			<height normal="52"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="10"/> <!-- Dragons -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+			<skill id="5620" level="2"/> <!-- Melee Attack Vulnerability -->
+		</skillList>
+	</npc>
+	<npc id="22524" level="90" type="Monster" name="정원의 사제" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="4974" sp="48" attributeExp="1800"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="78625.32" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="30"/>
+			<height normal="53"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22525" level="88" type="Monster" name="정원의 궁수" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="15302"/> <!-- Transparent Bow (NPC) - Not Available -->
+		<acquire exp="2664" sp="24" attributeExp="1258"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="29433.54" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="75"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.4"/>
+			<height normal="57.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="10"/> <!-- Dragons -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22526" level="88" type="Monster" name="정원의 순찰자" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<equipment rhand="97523" lhand="97524"/> <!-- Monsters Only - Demonic_Footman's_Sword2 - Not Available / Monsters Only - Dragontroop_Soldier's_Shield2 - Not Available -->
+		<acquire exp="2664" sp="24" attributeExp="1258"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="29433.54" hpRegen="10.2" mp="2928.25" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="56"/>
+				<run ground="210"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="19.2"/>
+			<height normal="40.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="10"/> <!-- Dragons -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22527" level="90" type="Monster" name="정원의 경비대장" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="4974" sp="48" attributeExp="1800"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="78625.32" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="27"/>
+			<height normal="52.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="10"/> <!-- Dragons -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22528" level="90" type="Monster" name="정원의 사도" title="정원의 사도" element="WATER">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DRAGON</race>
+		<sex>MALE</sex>
+		<acquire exp="7035" sp="69" attributeExp="1800"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="117938" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="75"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="28"/>
+			<height normal="72.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="10"/> <!-- Dragons -->
+			<skill id="48045" level="1"/> <!-- Water Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22529" level="85" type="Monster" name="네필림 근위병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="4335" sp="42" attributeExp="1700"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="185625.3" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="65"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="39.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22530" level="85" type="Monster" name="네필림 추기경">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="4335" sp="42" attributeExp="1700"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="185625.3" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="21" grown="14"/>
+			<height normal="44" grown="56"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22531" level="85" type="Monster" name="네필림 사령관">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="4335" sp="42" attributeExp="1700"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="185625.3" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="65"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13" grown="15.6"/>
+			<height normal="48" grown="57.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22532" level="90" type="Monster" name="릴림 기사">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="234" lhand="234"/> <!-- Demon's Dagger / Demon's Dagger -->
+		<acquire exp="6318" sp="63" attributeExp="1800"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="990000" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="36"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="10.4"/>
+			<height normal="34.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="22533" level="90" type="Monster" name="릴림 암살자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="6318" sp="63" attributeExp="1800"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="990000" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="29.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="22534" level="90" type="Monster" name="릴림 군사">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="5800" lhand="5799"/> <!-- Nephilim Lord - Not Available / Nephilim Lord -->
+		<acquire exp="6318" sp="63" attributeExp="1800"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="990000" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="56"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="10.4"/>
+			<height normal="43.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="22535" level="85" type="Monster" name="리쉬 척후병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="5795"/> <!-- Tomb Guard A - Not Available -->
+		<acquire exp="3468" sp="33" attributeExp="1700"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="185625.3" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="53"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="42"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22536" level="85" type="Monster" name="리쉬 영매">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="5797"/> <!-- Tomb Savant A - Not Available -->
+		<acquire exp="3468" sp="33" attributeExp="1700"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="185625.3" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="25"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="10"/>
+			<height normal="40"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22537" level="85" type="Monster" name="리쉬 군장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="5796"/> <!-- Tomb Guard B - Not Available -->
+		<acquire exp="3468" sp="33" attributeExp="1700"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="185625.3" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="53"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15"/>
+			<height normal="42"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22538" level="90" type="Monster" name="릴림 기사" title="릴림 기사">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="234" lhand="234"/> <!-- Demon's Dagger / Demon's Dagger -->
+		<acquire exp="3978" sp="39" attributeExp="1800"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="9900000" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="36"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="10.4"/>
+			<height normal="34.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="22539" level="90" type="Monster" name="릴림 암살자" title="릴림 암살자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="3978" sp="39" attributeExp="1800"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="9900000" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="29.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="22540" level="90" type="Monster" name="릴림 군사" title="릴림 군사">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="5800" lhand="5799"/> <!-- Nephilim Lord - Not Available / Nephilim Lord -->
+		<acquire exp="3978" sp="39" attributeExp="1800"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="9900000" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="56"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="10.4"/>
+			<height normal="43.4"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+		</skillList>
+	</npc>
+	<npc id="22541" level="85" type="Monster" name="미궁 집행자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="1917" sp="18"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="556960.8" hpRegen="10.2" mp="2365" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="51"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="25"/>
+			<height normal="64"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22542" level="85" type="Monster" name="미궁 감시자">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="1917" sp="18"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="556960.8" hpRegen="10.2" mp="2365" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="100"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="21.25"/>
+			<height normal="42.05"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22543" level="85" type="Monster" name="미궁 수장">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="1917" sp="18"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="556960.8" hpRegen="10.2" mp="2365" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24"/>
+			<height normal="47"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22544" level="85" type="Monster" name="감독관" title="감독관">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<acquire exp="2079" sp="18"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="696201.3" hpRegen="10.2" mp="2365" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="68"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+			<skill id="48539" level="1"/> <!-- Will to Fight -->
+		</skillList>
+	</npc>
+	<npc id="22545" level="90" type="Monster" name="Vanguard Commander" title="Kelbim's Legion">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="321649.36709" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="29.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22546" level="90" type="Monster" name="Summoner Commander" title="Kelbim's Legion">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="321649.36709" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="14"/>
+			<height normal="28.25"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22547" level="90" type="Monster" name="Wizard Commander" title="Kelbim's Legion">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="321649.36709" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="21"/>
+			<height normal="52.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+		</skillList>
+	</npc>
+	<npc id="22548" level="90" type="Monster" name="Assaulter Commander" title="Kelbim's Legion">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="321649.36709" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="24"/>
+			<height normal="47"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22549" level="90" type="Monster" name="Archer Commander" title="Kelbim's Legion">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="321649.36709" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="6"/>
+			<height normal="22.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22550" level="90" type="Monster" name="Warrior Commmander" title="Kelbim's Legion">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="321649.36709" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="6"/>
+			<height normal="22.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22551" level="90" type="Monster" name="Healer Commander" title="Kelbim's Legion">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="321649.36709" hpRegen="10.2" mp="11928" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="9"/>
+			<height normal="22"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+		</skillList>
+	</npc>
+	<npc id="22552" level="91" type="Monster" name="성채 정예 수호병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="97301"/> <!-- Gorde's Flame Spear -->
+		<acquire exp="51192" sp="510" attributeExp="1301"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="87404.43" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3888" magical="2654" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2660" magical="1108"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="21"/>
+			<height normal="43.2"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22553" level="91" type="Monster" name="성채 정예 수호병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="92404" lhand="94301"/> <!-- Zaken's Blood Sword / Shield of Vengeance -->
+		<acquire exp="51192" sp="510" attributeExp="1301"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="87404.43" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3888" magical="2654" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2660" magical="1108"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.4"/>
+			<height normal="50.9"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22554" level="91" type="Monster" name="성채 정예 수호병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="92421"/> <!-- Queen Ant's Stone Breaker -->
+		<acquire exp="51192" sp="510" attributeExp="1301"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="87404.43" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3888" magical="2654" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2660" magical="1108"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.4"/>
+			<height normal="36.9"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22555" level="91" type="Monster" name="성채 정예 수호병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="96268"/> <!-- Beleth' Soul Eater -->
+		<acquire exp="51192" sp="510" attributeExp="1301"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="87404.43" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3888" magical="2654" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2660" magical="1108"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="19.6"/>
+			<height normal="41.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22556" level="86" type="Monster" name="성채 외곽 수호병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="8683"/> <!-- Tiphon's Spear -->
+		<acquire exp="5550" sp="54" attributeExp="946"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="35125.95" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="21"/>
+			<height normal="43.2"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22557" level="86" type="Monster" name="성채 외곽 수호병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="8678" lhand="2498"/> <!-- Sirra's Blade / Shield of Nightmare -->
+		<acquire exp="5550" sp="54" attributeExp="946"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="35125.95" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.4"/>
+			<height normal="50.9"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22558" level="86" type="Monster" name="성채 외곽 수호병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="8687"/> <!-- Cabrio's Hand -->
+		<acquire exp="5550" sp="54" attributeExp="946"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="35125.95" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="15.4"/>
+			<height normal="36.9"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22559" level="86" type="Monster" name="성채 외곽 수호병">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<equipment rhand="8688"/> <!-- Daimon Crystal -->
+		<acquire exp="5550" sp="54" attributeExp="946"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="35125.95" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="19.6"/>
+			<height normal="41.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="6"/> <!-- Humanoids -->
+		</skillList>
+	</npc>
+	<npc id="22560" level="85" type="Monster" name="되살아난 영혼" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="4200" sp="39" attributeExp="842"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="12196.48485" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="165"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16.8"/>
+			<height normal="28.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22561" level="85" type="Monster" name="되살아난 정찰자" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ETC</race>
+		<sex>MALE</sex>
+		<acquire exp="4200" sp="39" attributeExp="935"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="12196.48485" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="110"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="25"/>
+			<height normal="30"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="2"/> <!-- Magical Creatures -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22562" level="85" type="Monster" name="되살아난 신병" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="4200" sp="39" attributeExp="1029"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="12196.48485" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="27"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22563" level="85" type="Monster" name="되살아난 궁수" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="15302"/> <!-- Transparent Bow (NPC) - Not Available -->
+		<acquire exp="4200" sp="39" attributeExp="1122"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="12196.48485" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="14"/>
+			<height normal="26.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22564" level="85" type="Monster" name="영혼 잃은 전사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="7191" sp="69" attributeExp="1216"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="12196.48485" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2226.2521499701" magical="1520.24164482038" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="998.10183" magical="730.36761"/>
+			<speed>
+				<walk ground="43"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="11"/>
+			<height normal="35"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22565" level="86" type="Monster" name="부패한 전사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="6711" sp="66" attributeExp="946"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="19480.2256" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2503" magical="1709" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1275" magical="793"/>
+			<speed>
+				<walk ground="55"/>
+				<run ground="130"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="11.7"/>
+			<height normal="36.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22566" level="86" type="Monster" name="부패한 맹견" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="6711" sp="66" attributeExp="1041"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="19480.2256" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2503" magical="1709" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1275" magical="793"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22"/>
+			<height normal="16.25"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="4"/> <!-- Animals -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22567" level="86" type="Monster" name="부패한 근위병" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="6711" sp="66" attributeExp="1135"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="19480.2256" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2503" magical="1709" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1275" magical="793"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="34.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22568" level="86" type="Monster" name="부패한 궁수" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="15302"/> <!-- Transparent Bow (NPC) - Not Available -->
+		<acquire exp="6711" sp="66" attributeExp="1135"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="19480.2256" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2503" magical="1709" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1275" magical="793"/>
+			<speed>
+				<walk ground="55"/>
+				<run ground="130"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="11.7"/>
+			<height normal="36.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22569" level="86" type="Monster" name="무의식의 심판자" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="9627" sp="96" attributeExp="1230"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="19480.2256" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2503" magical="1709" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1275" magical="793"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="140"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22"/>
+			<height normal="51"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22570" level="87" type="Monster" name="세뇌된 시녀" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="8898" sp="87" attributeExp="861"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="25549.6843239" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="20"/>
+			<height normal="49"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22571" level="87" type="Monster" name="세뇌된 현자" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="8898" sp="87" attributeExp="957"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="25549.6843239" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="165"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="16.8"/>
+			<height normal="28.8"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22572" level="87" type="Monster" name="세뇌된 전사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="11568" sp="114" attributeExp="1053"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="37302.53" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="35"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22573" level="87" type="Monster" name="세뇌된 궁수" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="94359"/> <!-- For Monster only (Crossbow) -->
+		<acquire exp="8898" sp="87" attributeExp="1148"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="25549.6843239" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="36"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="30"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22574" level="87" type="Monster" name="말룩의 군견" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>ANIMAL</race>
+		<sex>MALE</sex>
+		<acquire exp="14061" sp="138" attributeExp="1244"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="25549.6843239" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="2780" magical="1898" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1552" magical="856"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="40"/>
+			<height normal="26"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="4"/> <!-- Animals -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22575" level="88" type="Monster" name="할라트 전사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="84"/> <!-- Homunkulus' Sword -->
+		<acquire exp="16032" sp="159" attributeExp="871"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="44763.29" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="27"/>
+				<run ground="110"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="12" grown="14.5"/>
+			<height normal="29" grown="36"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22576" level="88" type="Monster" name="할라트 감시자" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<acquire exp="12333" sp="123" attributeExp="968"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="30659.6211911" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="139"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.5"/>
+			<height normal="42"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22577" level="88" type="Monster" name="할라트 기사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>UNDEAD</race>
+		<sex>MALE</sex>
+		<equipment rhand="142"/> <!-- Keshanberk -->
+		<acquire exp="12333" sp="123" attributeExp="1065"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="30659.6211911" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="21" grown="25"/>
+			<height normal="40" grown="48"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="1"/> <!-- Undead -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22578" level="88" type="Monster" name="할라트 주술사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<acquire exp="12333" sp="123" attributeExp="1162"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="30659.6211911" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="33.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22579" level="88" type="Monster" name="본 데스 로드" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DEMONIC</race>
+		<sex>MALE</sex>
+		<equipment rhand="78"/> <!-- Great Sword -->
+		<acquire exp="18795" sp="186" attributeExp="1258"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="30659.6211911" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3057" magical="2087" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1829" magical="919"/>
+			<speed>
+				<walk ground="42"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="22.88"/>
+			<height normal="41.6"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="9"/> <!-- Demons -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22580" level="89" type="Monster" name="고위 백금족 병사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="79"/> <!-- Damascus Sword -->
+		<acquire exp="14739" sp="147" attributeExp="881"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="36791.5454269" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3334" magical="2276" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2106" magical="982"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13" grown="17"/>
+			<height normal="32" grown="39"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22581" level="89" type="Monster" name="고위 백금족 주술사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="14739" sp="147" attributeExp="979"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="36791.5454269" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3334" magical="2276" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2106" magical="982"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="25"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22582" level="89" type="Monster" name="고위 백금족 호위병" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="19161" sp="189" attributeExp="1077"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="53715.82" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3334" magical="2276" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2106" magical="982"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="26"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22583" level="89" type="Monster" name="고위 백금족 기사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="14739" sp="147" attributeExp="1175"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="36791.5454269" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3334" magical="2276" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2106" magical="982"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="14.3"/>
+			<height normal="28.9"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22584" level="89" type="Monster" name="백금족 듀크" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="21717" sp="216" attributeExp="1273"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="36791.5454269" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3334" magical="2276" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2106" magical="982"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13" grown="15"/>
+			<height normal="28" grown="34"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22585" level="90" type="Monster" name="진화된 백금족 전사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="17478" sp="174" attributeExp="891"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="44149.8545147" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13" grown="15"/>
+			<height normal="28" grown="34"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22586" level="90" type="Monster" name="진화된 백금족 정예병" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="20973" sp="207" attributeExp="990"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="64458.86" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="14.3" grown="16.5"/>
+			<height normal="31.1" grown="37.7"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22587" level="90" type="Monster" name="진화된 백금족 궁수" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="15302"/> <!-- Transparent Bow (NPC) - Not Available -->
+		<acquire exp="17478" sp="174" attributeExp="1089"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="44149.8545147" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="27"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22588" level="90" type="Monster" name="진화된 백금족 정예기사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="17478" sp="174" attributeExp="1188"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="44149.8545147" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="14.3" grown="18.7"/>
+			<height normal="35.5" grown="43.2"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22589" level="90" type="Monster" name="백금족 로드" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="25452" sp="252" attributeExp="1287"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="44149.8545147" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3611" magical="2465" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2383" magical="1045"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13" grown="17"/>
+			<height normal="32" grown="39"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22590" level="91" type="Monster" name="천족의 전사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="148"/> <!-- Sword of Valhalla -->
+		<acquire exp="28023" sp="279" attributeExp="1101"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="52979.8254128" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3888" magical="2654" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2660" magical="1108"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13.5" grown="16"/>
+			<height normal="36.5" grown="42.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22591" level="91" type="Monster" name="천족의 장로" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="6718"/> <!-- Monster Only (Einhasad Shaman) -->
+		<acquire exp="28023" sp="279" attributeExp="1201"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="52979.8254128" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3888" magical="2654" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2660" magical="1108"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="165"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="11" grown="13"/>
+			<height normal="38.5" grown="46.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22592" level="91" type="Monster" name="천족의 근위기사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="6717"/> <!-- Monster Only (Einhasad Warrior) -->
+		<acquire exp="33627" sp="336" attributeExp="1201"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="77350.63" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3888" magical="2654" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2660" magical="1108"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="8" grown="9"/>
+			<height normal="30" grown="36.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22593" level="91" type="Monster" name="천족 가드" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="148"/> <!-- Sword of Valhalla -->
+		<acquire exp="35472" sp="354" attributeExp="1301"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="52979.8254128" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="3888" magical="2654" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2660" magical="1108"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="200"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="14"/>
+			<height normal="33"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22594" level="92" type="Monster" name="변이된 전령 천사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="6717"/> <!-- Monster Only (Einhasad Warrior) -->
+		<acquire exp="33381" sp="333" attributeExp="1316"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="63575.7905002" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="4165" magical="2843" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2937" magical="1171"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="180"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="8" grown="9"/>
+			<height normal="30" grown="36.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22595" level="92" type="Monster" name="변이된 전령 족장" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="148"/> <!-- Sword of Valhalla -->
+		<acquire exp="40056" sp="399" attributeExp="1316"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="92820.88" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="4165" magical="2843" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2937" magical="1171"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13.5" grown="16"/>
+			<height normal="36.5" grown="42.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22596" level="92" type="Monster" name="변이된 전령 사수" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="15302"/> <!-- Transparent Bow (NPC) - Not Available -->
+		<acquire exp="33381" sp="333" attributeExp="1316"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="63575.7905002" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="4165" magical="2843" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="2937" magical="1171"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="220"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="47"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22597" level="92" type="Monster" name="블랙 데바" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<acquire exp="48333" sp="483" attributeExp="1316"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="63575.7905002" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="4165" magical="2843" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="2937" magical="1171"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="150"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="18"/>
+			<height normal="44"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22598" level="93" type="Monster" name="어둠의 전사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="148"/> <!-- Sword of Valhalla -->
+		<acquire exp="49389" sp="492" attributeExp="1330"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="76290.9485954" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="4442" magical="3032" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="3214" magical="1234"/>
+			<speed>
+				<walk ground="30"/>
+				<run ground="170"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="13.5" grown="16"/>
+			<height normal="36.5" grown="42.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+	<npc id="22599" level="93" type="Monster" name="어둠의 법사" element="WIND">
+		<!-- AUTO GENERATED NPC TODO: FIX IT -->
+		<race>DIVINE</race>
+		<sex>MALE</sex>
+		<equipment rhand="6718"/> <!-- Monster Only (Einhasad Shaman) -->
+		<acquire exp="49389" sp="492" attributeExp="1330"/>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="76290.9485954" hpRegen="10.2" mp="2770.2" mpRegen="3.6"/>
+			<attack physical="4442" magical="3032" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="3214" magical="1234"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="165"/>
+			</speed>
+			<hitTime>600</hitTime>
+		</stats>
+		<status attackable="true"/>
+		<collision>
+			<radius normal="11" grown="13"/>
+			<height normal="38.5" grown="46.5"/>
+		</collision>
+		<skillList>
+			<skill id="4416" level="8"/> <!-- Angels -->
+			<skill id="48046" level="1"/> <!-- Wind Attribute Monster -->
+		</skillList>
+	</npc>
+</list>

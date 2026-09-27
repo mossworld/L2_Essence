@@ -1,0 +1,1358 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="104900" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +6. <font color=bbaa88><Bonus effect></font>. M. Def. +410. Received M. Skill Damage -2.25%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104901" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +6. <font color=bbaa88><Bonus effect></font>. M. Def. +553. Received M. Skill Damage -2.4%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104902" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +6. <font color=bbaa88><Bonus effect></font>. M. Def. +621. Received M. Skill Damage -2.55%. Received M. Skill Critical Damage -25. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104903" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +7. <font color=bbaa88><Bonus effect></font>. M. Def. +689. Received M. Skill Damage -2.7%. Received M. Skill Critical Damage -50. PvE damage +0.5%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104904" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +7. <font color=bbaa88><Bonus effect></font>. M. Def. +782. Received M. Skill Damage -2.85%. Received M. Skill Critical Damage -75. PvE damage +1%. Skill MP Consumption -1%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104905" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +8. <font color=bbaa88><Bonus effect></font>. M. Def. +875. Received M. Skill Damage -3%. Received M. Skill Critical Damage -100. PvE damage +2%. Skill MP Consumption -1%. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104906" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +1. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. The pattern is available to all classes after the 1st class change. -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="12000000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104907" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +2. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104908" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +3. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104909" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.1%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104910" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.21%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104911" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.32%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104912" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.43%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104913" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.53%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104914" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.64%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104915" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.75%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104916" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.85%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104917" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.96%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104918" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.07%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104919" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.18%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104920" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.29%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104921" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.4%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104922" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.5%. Spiritshot damage +0.3%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104923" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.6%. Spiritshot damage +0.43%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104924" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.72%. Spiritshot damage +0.58%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104925" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.82%. Spiritshot damage +0.85%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104926" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -1.93%. Spiritshot damage +1.15%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Enhanced Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104927" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.03%. Spiritshot damage +1.42%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104928" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.14%. Spiritshot damage +1.72%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104929" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.25%. Spiritshot damage +2%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104930" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +5. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.35%. Spiritshot damage +2.3%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104931" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +6. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -2.46%. Spiritshot damage +2.58%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104932" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +6. <font color=bbaa88><Bonus effect></font>. M. Atk. +125. Received M. Skill Critical Rate -2.58%. Spiritshot damage +3.6%. MP Recovery Rate +0.5. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104933" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +6. <font color=bbaa88><Bonus effect></font>. M. Atk. +175. Received M. Skill Critical Rate -2.68%. Spiritshot damage +4.43%. MP Recovery Rate +1. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104934" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +7. <font color=bbaa88><Bonus effect></font>. M. Atk. +225. Received M. Skill Critical Rate -2.78%. Spiritshot damage +5.78%. MP Recovery Rate +1.5. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104935" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +7. <font color=bbaa88><Bonus effect></font>. M. Atk. +300. Received M. Skill Critical Rate -2.88%. Spiritshot damage +7.38%. MP Recovery Rate +2. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Superior Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104936" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +8. <font color=bbaa88><Bonus effect></font>. M. Atk. +375. Received M. Skill Critical Rate -3%. Spiritshot damage +10.25%. MP Recovery Rate +2. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104937" name="구)마피아 인형 소환권(일반~영웅)-11회" type="EtcItem">
+		<!-- Double-click to summon 11 dolls from <font color=dddddd>common</font> to <font color=FF6666>heroic</font> grade. There is a chance to get Mafia Leader Luciano Doll among others. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.doll_summon_11_ticket_lv1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104938" name="대부 루치아노 인형 소환권(일반~고급)-1회" type="EtcItem">
+		<!-- Double-click to summon 1 Mafia Leader Luciano Doll from <font color=dddddd>common</font> to <font color=77FF99>enhanced</font> grade. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104939" name="대부 루치아노 인형 소환권(최고급~희귀)-1회" type="EtcItem">
+		<!-- Double-click to summon 1 Mafia Leader Luciano Doll from <font color=FF9955>superior</font> to <font color=5599FF>rare</font> grade. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv3_2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104940" name="희귀 대부 루치아노 인형 소환권" type="EtcItem">
+		<!-- Double-click to summon the <font color=eeaa22>rare Mafia Leader Luciano Doll</font> with a 100% chance. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv4"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104941" name="대부 루치아노 인형" type="EtcItem">
+		<!-- Use of Dolls UI -->
+		<set name="icon" val="icon.bigboss_doll_00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="104942" name="+0~+5 바이움 탈리스만 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i07"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104943" name="마스터 컬렉션 증표 교환권 100개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_battle_support_coin_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104944" name="미사용" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_box_of_adventure_5_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104945" name="마스터 컬렉션 증표 교환권 500개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_battle_support_coin_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104946" name="염료 강화제 행운 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.dye_charge_meal"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104947" name="영웅 비전 - 징조" type="EtcItem">
+		<!-- A prophecy for learning the Omen skill. <Class>. Samurai. <Skill effect>. Decreases nearby enemies' CP. Increases Max HP and momentarily recovers bonus HP. Increases Max MP. Increases P. Def. Increases M. Def. Increases P. Atk. Increases P. Skill Critical Rate. Increases P. Skill Critical Damage. Increases P. Skill Damage. Increases P. Skill Power. Increases Debuff/ Anomaly Resistance. Enables the following skill:. Battojutsu -->
+		<set name="icon" val="icon.skill_book_crow"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104948" name="영웅 비전 - 징조" type="EtcItem">
+		<!-- A prophecy for learning the Omen skill. <Class>. Samurai. <Skill effect>. Decreases nearby enemies' CP. Increases Max HP and momentarily recovers bonus HP. Increases Max MP. Increases P. Def. Increases M. Def. Increases P. Atk. Increases P. Skill Critical Rate. Increases P. Skill Critical Damage. Increases P. Skill Damage. Increases P. Skill Power. Increases Debuff/ Anomaly Resistance. Enables the following skill:. Battojutsu -->
+		<set name="icon" val="icon.skill_book_crow"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104949" name="전설 비전 - 강림" type="EtcItem">
+		<!-- A prophecy for learning the Advent skill. <Class>. Samurai. <Skill effect>. Decreases nearby enemies' CP. Increases Max HP and momentarily recovers bonus HP. Increases Max MP. Increases P. Atk. Increases P. Def. Increases M. Def. Increases P. Skill Critical Rate. Increases P. Skill Critical Damage. Increases P. Skill Damage. Increases P. Skill Power. With a certain chance, triggers Embodiment in battle. Enables the following skill:. Perception: Battojutsu. <Embodiment>. Increases Debuff/ Anomaly Resistance. Decreases received Skill Critical Rate. Decreases received Skill Critical Damage. Resets cooldown of the following skill:. Perception: Battojutsu -->
+		<set name="icon" val="icon.skill_book_crow"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104950" name="전설 비전 - 강림" type="EtcItem">
+		<!-- A prophecy for learning the Advent skill. <Class>. Samurai. <Skill effect>. Decreases nearby enemies' CP. Increases Max HP and momentarily recovers bonus HP. Increases Max MP. Increases P. Atk. Increases P. Def. Increases M. Def. Increases P. Skill Critical Rate. Increases P. Skill Critical Damage. Increases P. Skill Damage. Increases P. Skill Power. With a certain chance, triggers Embodiment in battle. Enables the following skill:. Perception: Battojutsu. <Embodiment>. Increases Debuff/ Anomaly Resistance. Decreases received Skill Critical Rate. Decreases received Skill Critical Damage. Resets cooldown of the following skill:. Perception: Battojutsu -->
+		<set name="icon" val="icon.skill_book_crow"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104951" name="크로우 웨폰 - none" type="Weapon">
+		<!-- <font color=bbaa88><Samurai's Introduction - none></font> -->
+		<set name="icon" val="icon.crow_katana_normal"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">329</stat>
+			<stat type="mAtk">145</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104952" name="크로우 웨폰 - boss" type="Weapon">
+		<!-- <font color=bbaa88><Samurai's Introduction - boss></font> -->
+		<set name="icon" val="icon.crow_katana_boss"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">329</stat>
+			<stat type="mAtk">145</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104953" name="크로우 웨폰 - frozen" type="Weapon">
+		<!-- <font color=bbaa88><Samurai's Introduction - frozen></font> -->
+		<set name="icon" val="icon.crow_katana_ice"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">340</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104954" name="크로우 웨폰 - water" type="Weapon">
+		<!-- <font color=bbaa88><Samurai's Introduction - water></font> -->
+		<set name="icon" val="icon.crow_katana_water"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">810</stat>
+			<stat type="mAtk">361</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104955" name="크로우 웨폰 - earth" type="Weapon">
+		<!-- <font color=bbaa88><Samurai's Introduction - earth></font> -->
+		<set name="icon" val="icon.crow_katana_earth"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">810</stat>
+			<stat type="mAtk">361</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104956" name="크로우 웨폰 - wind" type="Weapon">
+		<!-- <font color=bbaa88><Samurai's Introduction - wind></font> -->
+		<set name="icon" val="icon.crow_katana_wind"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">810</stat>
+			<stat type="mAtk">361</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104957" name="크로우 웨폰 - fire" type="Weapon">
+		<!-- <font color=bbaa88><Samurai's Introduction - fire></font> -->
+		<set name="icon" val="icon.crow_katana_fire"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">810</stat>
+			<stat type="mAtk">361</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104958" name="크로우 웨폰 - immotal" type="Weapon">
+		<!-- <font color=bbaa88><Samurai's Introduction - immotal></font> -->
+		<set name="icon" val="icon.immortal_weapon_bg0000"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1890"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="2"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">828</stat>
+			<stat type="mAtk">369</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104959" name="Unavailable Sealed Test Weapon none" additionalName="Not available" type="Weapon">
+		<!-- <font color=bbaa88>A weapon for training.</font> -->
+		<set name="icon" val="icon.weapon_zweihander_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="BRONZE"/>
+		<set name="weight" val="1530"/>
+		<set name="price" val="244000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">38</stat>
+			<stat type="mAtk">21</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104960" name="Unavailable Sealed Test Weapon d" additionalName="Not available" type="Weapon">
+		<!-- <font color=bbaa88>A weapon for training.</font> -->
+		<set name="icon" val="icon.weapon_claymore_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2090"/>
+		<set name="price" val="1800000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">112</stat>
+			<stat type="mAtk">54</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104961" name="Unavailable Sealed Test Weapon c" additionalName="Not available" type="Weapon">
+		<!-- <font color=bbaa88>A weapon for training.</font> -->
+		<set name="icon" val="icon.weapon_berserker_blade_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="ORIHARUKON"/>
+		<set name="weight" val="1380"/>
+		<set name="price" val="6130000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">190</stat>
+			<stat type="mAtk">91</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104962" name="Unavailable Sealed Test Weapon b" additionalName="Not available" type="Weapon">
+		<!-- <font color=bbaa88>A weapon for training.</font> -->
+		<set name="icon" val="icon.weapon_guardians_sword_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="B"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="1930"/>
+		<set name="price" val="13100000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">236</stat>
+			<stat type="mAtk">111</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104963" name="Unavailable Sealed Test Weapon a" additionalName="Not available" type="Weapon">
+		<!-- <font color=bbaa88>A weapon for training.</font> -->
+		<set name="icon" val="icon.weapon_sword_of_ipos_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="BONE"/>
+		<set name="weight" val="1820"/>
+		<set name="price" val="26968400"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">305</stat>
+			<stat type="mAtk">137</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104964" name="Unavailable Sealed Test Weapon boss" additionalName="Not available" type="Weapon">
+		<!-- <font color=bbaa88>A weapon for training.</font> -->
+		<set name="icon" val="icon.weapon_the_two_handed_sword_of_hero_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="BONE"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">329</stat>
+			<stat type="mAtk">145</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104965" name="Unavailable Sealed Test Weapon frozen" additionalName="Not available" type="Weapon">
+		<!-- <font color=bbaa88>A weapon for training.</font> -->
+		<set name="icon" val="icon.frozen_weapon_two_hand_sword"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="BONE"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<stats>
+			<stat type="pAtk">340</stat>
+			<stat type="mAtk">151</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="104966" name="대부 루치아노의 비밀 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_whiteday_choco"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104967" name="대부 루치아노의 비밀 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_whiteday_choco"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104968" name="마피아의 비밀거처 보물 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.npoint_tauti_30day_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104969" name="15단계 각인된 염료 교환권" type="EtcItem">
+		<!-- Double-click to obtain a dye Lv. 15 <font color=ff6666>(sealed)</font> of your choice. -->
+		<set name="icon" val="icon.dye_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104970" name="20단계 각인된 염료 교환권" type="EtcItem">
+		<!-- Double-click to obtain a dye Lv. 20 <font color=ff6666>(sealed)</font> of your choice. -->
+		<set name="icon" val="icon.dye_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104971" name="30단계 각인된 염료 교환권" type="EtcItem">
+		<!-- Double-click to obtain a dye Lv. 30 <font color=ff6666>(sealed)</font> of your choice. -->
+		<set name="icon" val="icon.dye_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104972" name="20단계 염료 교환권" type="EtcItem">
+		<!-- Double-click to obtain a dye Lv. 20 of your choice. -->
+		<set name="icon" val="icon.dye_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104973" name="30단계 염료 교환권" type="EtcItem">
+		<!-- Double-click to obtain a dye Lv. 30 of your choice. -->
+		<set name="icon" val="icon.dye_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104974" name="대부 루치아노 인형 소환권(최고급~전설)-1회" type="EtcItem">
+		<!-- Double-click to summon 1 Mafia Leader Luciano Doll from <font color=FF9955>superior</font> to <font color=FF6666>heroic</font> grade. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_lv3_2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104975" name="10패스 특전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104976" name="레어 액세서리 강화 주문서 (기간제)" type="EtcItem">
+		<!-- A scroll for enchanting rare accessories. <font color=eeaa22>Enchanting is safe up to +1. Immortal Ring's enchanting is not safe even to +1.</font> -->
+		<set name="icon" val="icon.etc_scrl_of_ench_fallen_angel"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104977" name="축복받은 레어 액세서리 강화 주문서 (기간제)" type="EtcItem">
+		<!-- A scroll for enchanting rare accessories. <font color=eeaa22>Enchanting is safe up to +1.</font>. <font color=eeaa22>Up to +2, enchanting is random from +1 to +2. Success rate to +1 is 90%, to +2 - 10%.</font>. <font color=ff6666>Cannot be used with rare accessories enchanted to +3 or higher.</font>. <font color=ff6666>Cannot be used for mass enchanting. Additional enhancement effects cannot be used.</font> -->
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_fallen_angel"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104978" name="축복받은 레어 액세서리 주문서 티켓 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.etc_royal_membership_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104979" name="+2 레어 액세서리 도전 티켓 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.etc_nobless_teleport_coupon_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104980" name="+7~+8 헤어 액세서리 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.etc_lottery_card_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104981" name="+1~+2 여왕개미의 반지 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104982" name="+1~+2 코어의 반지 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104983" name="+1~+2 오르펜의 귀걸이 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104984" name="+1~+2 바이움의 반지 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104985" name="+1~+2 자켄의 귀걸이 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104986" name="+1~+2 프린테사의 목걸이 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104987" name="+1~+2 안타라스의 귀걸이 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104988" name="+1~+2 아즈타칸의 귀걸이 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104989" name="+1~+2 페리온의 목걸이 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104990" name="초월 강화석(각인) 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain Transcendent Upgrade Stone <font color=ff6666>(untradeable)</font>. <font color=ff6666>Note!</font>. The package can be traded, but its contents are <font color=ff6666>untradeable</font>. -->
+		<set name="icon" val="icon.bless_soul_bead"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104991" name="Lv7 보석함 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_shhadai"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104992" name="+9 탈리스만 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.npoint_earring_of_lind_30day_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104993" name="탈리스만 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104994" name="특수 영웅 인형 소환권 (기간제)" type="EtcItem">
+		<!-- Double-click to summon 1 of the following <font color=FF6666>heroic</font> dolls: Ferion Doll, Kelbim Doll, Andreas van Halter Doll. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv5"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104995" name="+10 정령 아가시온 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.star_agathion_cube"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104996" name="초월 강화석(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain Transcendent Upgrade Stone <font color=ff6666>(untradeable)</font>. <font color=ff6666>Note!</font>. The package can be traded through the World Trade, but its contents are <font color=ff6666>untradeable</font>. -->
+		<set name="icon" val="icon.bless_soul_bead"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104997" name="베니르의 탈리스만 조각 5000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_ensoul_stone_PvP_empty"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104998" name="베니르의 탈리스만 조각 2000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_ensoul_stone_PvP_empty"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104999" name="베니르의 탈리스만 조각 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_ensoul_stone_PvP_empty"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

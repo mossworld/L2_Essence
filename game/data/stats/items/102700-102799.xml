@@ -1,0 +1,1499 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="102700" name="+0~+2 레어 액세서리 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93845" min="1" max="1" chance="6.666667" name="여왕개미의 반지 팩"/> <!-- Package: Queen Ant's Ring - Sealed -->
+			<item id="93846" min="1" max="1" chance="6.666667" name="오르펜의 귀걸이 팩"/> <!-- Package: Orfen's Earring - Sealed -->
+			<item id="93851" min="1" max="1" chance="6.666667" name="바이움의 반지 팩"/> <!-- Package: Baium's Ring - Sealed -->
+			<item id="93852" min="1" max="1" chance="6.666667" name="자켄의 귀걸이 팩"/> <!-- Package: Zaken's Earring - Sealed -->
+			<item id="94387" min="1" max="1" chance="6.666667" name="+1 여왕개미의 반지 팩"/> <!-- Package: +1 Queen Ant's Ring - Sealed -->
+			<item id="94388" min="1" max="1" chance="6.666667" name="+2 여왕개미의 반지 팩"/> <!-- Package: +2 Queen Ant's Ring - Sealed -->
+			<item id="94392" min="1" max="1" chance="6.666667" name="+1 오르펜의 귀걸이 팩"/> <!-- Package: +1 Orfen's Earring - Sealed -->
+			<item id="94393" min="1" max="1" chance="6.666667" name="+2 오르펜의 귀걸이 팩"/> <!-- Package: +2 Orfen's Earring - Sealed -->
+			<item id="94402" min="1" max="1" chance="6.666667" name="+1 바이움의 반지 팩"/> <!-- Package: +1 Baium's Ring - Sealed -->
+			<item id="94403" min="1" max="1" chance="6.666667" name="+2 바이움의 반지 팩"/> <!-- Package: +2 Baium's Ring - Sealed -->
+			<item id="94407" min="1" max="1" chance="6.666667" name="+1 자켄의 귀걸이 팩"/> <!-- Package: +1 Zaken's Earring - Sealed -->
+			<item id="94408" min="1" max="1" chance="6.666667" name="+2 자켄의 귀걸이 팩"/> <!-- Package: +2 Zaken's Earring - Sealed -->
+			<item id="94412" min="1" max="1" chance="6.666667" name="+1 프린테사의 목걸이 팩"/> <!-- Package: +1 Frintezza's Necklace - Sealed -->
+			<item id="94413" min="1" max="1" chance="6.666667" name="+2 프린테사의 목걸이 팩"/> <!-- Package: +2 Frintezza's Necklace - Sealed -->
+			<item id="94426" min="1" max="1" chance="6.666667" name="프린테사의 목걸이 팩"/> <!-- Package: Frintezza's Necklace - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102701" name="섬멸전 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.present_of_destination_event"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102702" min="1" max="1" chance="100" name="소모품 지원 티켓 (기간제)"/> <!-- Supply Distribution Ticket (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102702" name="소모품 지원 티켓 (기간제)" type="EtcItem">
+		<!-- Required for creating various items through the special craft. -->
+		<set name="icon" val="icon.etc_level_bustup_ticket_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102703" name="얼음 군주의 무기(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a Frost Lord's weapon <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.frozen_weapon_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102704" name="수호의 방어구(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Armor of Protection piece <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.protection_armor_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102705" name="리덕션 피어싱 마스크 (PVP 특화)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessory_black_half_face_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102706" name="신속의 탈리스만 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.tallisman_rapid_scrl"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102707" name="고급~최고급 인형 소환권 / 희귀 마법서 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys.br_gold_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102708" name="마스크 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain either Enchant Kit: Piercing Mask or Enchant Kit: Phantom Mask of your choice. -->
+		<set name="icon" val="icon.etc_hs_agit_war_joining_certificate_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102709" name="마스크 교환권 500개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_hs_agit_war_joining_certificate_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102708" min="500" max="500" chance="100" name="마스크 교환권 (기간제)"/> <!-- Mask Coupon (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102710" name="마스크 교환권 1000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_hs_agit_war_joining_certificate_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102708" min="1000" max="1000" chance="100" name="마스크 교환권 (기간제)"/> <!-- Mask Coupon (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102711" name="축복받은 마스크 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_battle_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92401" min="1" max="1" chance="2.702703" name="마법서 - 화이트 가디언"/> <!-- Spellbook: White Guardian -->
+			<item id="93739" min="1" max="1" chance="2.702703" name="기란의 인장 1000개 팩"/> <!-- Package: Giran Seal (1000 pcs.) - Sealed -->
+			<item id="94120" min="1" max="1" chance="2.702703" name="바이움 탈리스만(각인) 팩"/> <!-- Package: Talisman of Baium - Sealed -->
+			<item id="94184" min="1" max="1" chance="2.702703" name="축복 주문서 - 무기"/> <!-- Scroll of Blessing - Weapon -->
+			<item id="94329" min="1" max="1" chance="2.702703" name="기란의 인장 500개 팩"/> <!-- Package: Giran Seal (500 pcs.) - Sealed -->
+			<item id="94383" min="1" max="1" chance="2.702703" name="레어 액세서리 강화 주문서"/> <!-- Scroll: Enchant Rare Accessories -->
+			<item id="94385" min="1" max="1" chance="2.702703" name="축복받은 레어 액세서리 강화 주문서"/> <!-- Improved Scroll: Enchant Rare Accessories -->
+			<item id="95783" min="2" max="2" chance="2.702703" name="아덴의 집혼석 Lv1 - 무기"/> <!-- Aden's Soul Crystal Lv. 1 - Weapon -->
+			<item id="95803" min="1" max="1" chance="2.702703" name="하딘의 집혼석 Lv1"/> <!-- Hardin's Soul Crystal Lv. 1 -->
+			<item id="96297" min="1" max="1" chance="2.702703" name="얼음 군주의 무기 상자"/> <!-- Frost Lord's Weapon Pack - Sealed -->
+			<item id="96300" min="1" max="1" chance="2.702703" name="마법서 - 드래곤 슬레이어"/> <!-- Spellbook: Dragon Slayer -->
+			<item id="96650" min="1" max="1" chance="2.702703" name="수호의 방어구 상자"/> <!-- Armor of Protection Pack - Sealed -->
+			<item id="96901" min="2" max="2" chance="2.702703" name="아덴의 집혼석 Lv1 - 갑옷"/> <!-- Aden's Soul Crystal Lv. 1 - Armor -->
+			<item id="97338" min="1" max="1" chance="2.702703" name="축복 주문서 - 갑옷"/> <!-- Scroll of Blessing - Armor -->
+			<item id="97449" min="1" max="1" chance="2.702703" name="바이움 탈리스만 강화 주문서"/> <!-- Scroll: Enchant Talisman of Baium - Sealed -->
+			<item id="97529" min="2" max="2" chance="2.702703" name="브로치 Lv4 팩"/> <!-- Package: Brooch Lv. 4 - Sealed -->
+			<item id="97538" min="2" max="2" chance="2.702703" name="탈리스만 팔찌 Lv4 팩"/> <!-- Package: Talisman Bracelet Lv. 4 - Sealed -->
+			<item id="97547" min="2" max="2" chance="2.702703" name="아가시온 팔찌 Lv4 팩"/> <!-- Package: Agathion Bracelet Lv. 4 - Sealed -->
+			<item id="97787" min="1" max="1" chance="2.702703" name="특수 장비 제련석"/> <!-- Augmenting Stone: Special Equipment -->
+			<item id="97859" min="1" max="1" chance="2.702703" name="안정된 레어 액세서리 강화 주문서"/> <!-- Stable Scroll: Enchant Rare Accessories -->
+			<item id="98040" min="1" max="1" chance="2.702703" name="초월 강화석"/> <!-- Transcendent Upgrade Stone - Sealed -->
+			<item id="101371" min="1" max="1" chance="2.702703" name="기란의 인장 5000개 팩"/> <!-- Package: Giran Seal (5000 pcs.) - Sealed -->
+			<item id="102069" min="1" max="1" chance="2.702703" name="+2 레어 액세서리 상자 (기간제)"/> <!-- +2 Rare Accessory Pack (Time-limited) - Sealed -->
+			<item id="102708" min="10" max="10" chance="2.702703" name="마스크 교환권 (기간제)"/> <!-- Mask Coupon (Time-limited) - Sealed -->
+			<item id="102708" min="5" max="5" chance="2.702703" name="마스크 교환권 (기간제)"/> <!-- Mask Coupon (Time-limited) - Sealed -->
+			<item id="102708" min="1" max="1" chance="2.702703" name="마스크 교환권 (기간제)"/> <!-- Mask Coupon (Time-limited) - Sealed -->
+			<item id="102709" min="1" max="1" chance="2.702703" name="마스크 교환권 500개 팩 (기간제)"/> <!-- Package: Mask Coupon (500 pcs.) (Time-limited) - Sealed -->
+			<item id="102710" min="1" max="1" chance="2.702703" name="마스크 교환권 1000개 팩 (기간제)"/> <!-- Package: Mask Coupon (1000 pcs.) (Time-limited) - Sealed -->
+			<item id="94716" min="1" max="1" chance="2.702703" name="헬바운드 탈리스만 조각"/> <!-- Talisman of Hellbound Fragment -->
+			<item id="96613" min="1" max="1" chance="2.702703" name="마법서 - 익스팬드 다이 포텐셜"/> <!-- Spellbook: Expanded Potential of Dyes -->
+			<item id="96623" min="5" max="5" chance="2.702703" name="염료 강화제"/> <!-- Dye Booster -->
+			<item id="100053" min="1" max="1" chance="2.702703" name="영웅 마법서 교환권"/> <!-- Heroic Spellbook Coupon - Sealed -->
+			<item id="102634" min="5" max="5" chance="2.702703" name="소모품 교환권 (기간제)"/> <!-- Supply Order (Time-limited) - Sealed -->
+			<item id="96936" min="1" max="1" chance="2.702703" name="버서커 실드"/> <!-- Berserker's Shield -->
+			<item id="96937" min="1" max="1" chance="2.702703" name="버서커 시길"/> <!-- Berserker's Sigil -->
+			<item id="100214" min="1" max="1" chance="2.702703" name="광풍의 투구"/> <!-- Wild Wind Helmet -->
+			<item id="100780" min="1" max="1" chance="2.702703" name="홍염의 건틀렛"/> <!-- Red Flame Gauntlets -->
+		</capsuled_items>
+	</item>
+	<item id="102712" name="로열 특수 장비 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_gold_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92458" min="1" max="1" chance="12.5" name="+8 에바의 탈리스만 상자"/> <!-- +8 Talisman of Eva Pack - Sealed -->
+			<item id="92467" min="1" max="1" chance="12.5" name="+8 신속의 탈리스만 상자"/> <!-- +8 Talisman of Speed Pack - Sealed -->
+			<item id="94261" min="1" max="1" chance="12.5" name="아인하사드의 펜던트 Lv4 팩"/> <!-- Package: Einhasad's Pendant Lv. 4 - Sealed -->
+			<item id="98904" min="1" max="1" chance="12.5" name="+8 영웅의 서클릿 팩"/> <!-- Package: +8 Circlet of Hero - Sealed -->
+			<item id="100563" min="1" max="1" chance="12.5" name="+8 천상의 탈리스만 팩"/> <!-- Package: +8 Heavenly Talisman - Sealed -->
+			<item id="93730" min="1" max="1" chance="12.5" name="+8 드래곤의 벨트 상자"/> <!-- +8 Dragon Belt Pack - Sealed -->
+			<item id="94713" min="1" max="1" chance="12.5" name="헬바운드 탈리스만 Lv8"/> <!-- Talisman of Hellbound Lv. 8 -->
+			<item id="97955" min="1" max="1" chance="12.5" name="+8 권능의 탈리스만 상자"/> <!-- +8 Talisman of Authority Pack - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102713" name="이실장의 일반~영웅 등급 인형 소환권 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.surprise_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="100887" min="1" max="1" chance="0.9009009" name="일반 여왕개미 인형 소환권"/> <!-- Common Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100888" min="1" max="1" chance="0.9009009" name="일반 오르펜 인형 소환권"/> <!-- Common Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100889" min="1" max="1" chance="0.9009009" name="일반 코어 인형 소환권"/> <!-- Common Doll Summon Coupon - Core - Sealed -->
+			<item id="100890" min="1" max="1" chance="0.9009009" name="일반 프린테사 인형 소환권"/> <!-- Common Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100891" min="1" max="1" chance="0.9009009" name="일반 자켄 인형 소환권"/> <!-- Common Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100892" min="1" max="1" chance="0.9009009" name="일반 바이움 인형 소환권"/> <!-- Common Doll Summon Coupon - Baium - Sealed -->
+			<item id="100893" min="1" max="1" chance="0.9009009" name="일반 안타라스 인형 소환권"/> <!-- Common Doll Summon Coupon - Antharas - Sealed -->
+			<item id="100894" min="1" max="1" chance="0.9009009" name="고급 여왕개미 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100895" min="1" max="1" chance="0.9009009" name="고급 오르펜 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100896" min="1" max="1" chance="0.9009009" name="고급 코어 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Core - Sealed -->
+			<item id="100897" min="1" max="1" chance="0.9009009" name="고급 프린테사 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100898" min="1" max="1" chance="0.9009009" name="고급 자켄 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100899" min="1" max="1" chance="0.9009009" name="고급 바이움 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Baium - Sealed -->
+			<item id="100900" min="1" max="1" chance="0.9009009" name="고급 안타라스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Antharas - Sealed -->
+			<item id="100901" min="1" max="1" chance="0.9009009" name="고급 베히모스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Behemoth - Sealed -->
+			<item id="100902" min="1" max="1" chance="0.9009009" name="고급 글라키에스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Glakias - Sealed -->
+			<item id="100903" min="1" max="1" chance="0.9009009" name="고급 안드레아스 반 홀터 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Andreas van Halter - Sealed -->
+			<item id="100904" min="1" max="1" chance="0.9009009" name="고급 켈빔 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Kelbim - Sealed -->
+			<item id="100905" min="1" max="1" chance="0.9009009" name="최고급 여왕개미 인형 소환권"/> <!-- Superior Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100906" min="1" max="1" chance="0.9009009" name="최고급 오르펜 인형 소환권"/> <!-- Superior Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100907" min="1" max="1" chance="0.9009009" name="최고급 코어 인형 소환권"/> <!-- Superior Doll Summon Coupon - Core - Sealed -->
+			<item id="100908" min="1" max="1" chance="0.9009009" name="최고급 프린테사 인형 소환권"/> <!-- Superior Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100909" min="1" max="1" chance="0.9009009" name="최고급 자켄 인형 소환권"/> <!-- Superior Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100910" min="1" max="1" chance="0.9009009" name="최고급 바이움 인형 소환권"/> <!-- Superior Doll Summon Coupon - Baium - Sealed -->
+			<item id="100911" min="1" max="1" chance="0.9009009" name="최고급 안타라스 인형 소환권"/> <!-- Superior Doll Summon Coupon - Antharas - Sealed -->
+			<item id="100912" min="1" max="1" chance="0.9009009" name="최고급 베히모스 인형 소환권"/> <!-- Superior Doll Summon Coupon - Behemoth - Sealed -->
+			<item id="100913" min="1" max="1" chance="0.9009009" name="최고급 글라키에스 인형 소환권"/> <!-- Superior Doll Summon Coupon - Glakias - Sealed -->
+			<item id="100914" min="1" max="1" chance="0.9009009" name="최고급 안드레아스 반 홀터 인형 소환권"/> <!-- Superior Doll Summon Coupon - Andreas van Halter - Sealed -->
+			<item id="100915" min="1" max="1" chance="0.9009009" name="최고급 켈빔 인형 소환권"/> <!-- Superior Doll Summon Coupon - Kelbim - Sealed -->
+			<item id="100916" min="1" max="1" chance="0.9009009" name="희귀 여왕개미 인형 소환권"/> <!-- Rare Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100917" min="1" max="1" chance="0.9009009" name="희귀 오르펜 인형 소환권"/> <!-- Rare Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100918" min="1" max="1" chance="0.9009009" name="희귀 코어 인형 소환권"/> <!-- Rare Doll Summon Coupon - Core - Sealed -->
+			<item id="100919" min="1" max="1" chance="0.9009009" name="희귀 프린테사 인형 소환권"/> <!-- Rare Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100920" min="1" max="1" chance="0.9009009" name="희귀 자켄 인형 소환권"/> <!-- Rare Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100921" min="1" max="1" chance="0.9009009" name="희귀 바이움 인형 소환권"/> <!-- Rare Doll Summon Coupon - Baium - Sealed -->
+			<item id="100922" min="1" max="1" chance="0.9009009" name="희귀 안타라스 인형 소환권"/> <!-- Rare Doll Summon Coupon - Antharas - Sealed -->
+			<item id="100923" min="1" max="1" chance="0.9009009" name="희귀 베히모스 인형 소환권"/> <!-- Rare Doll Summon Coupon - Behemoth - Sealed -->
+			<item id="100924" min="1" max="1" chance="0.9009009" name="희귀 글라키에스 인형 소환권"/> <!-- Rare Doll Summon Coupon - Glakias - Sealed -->
+			<item id="100925" min="1" max="1" chance="0.9009009" name="희귀 안드레아스 반 홀터 인형 소환권"/> <!-- Rare Doll Summon Coupon - Andreas van Halter - Sealed -->
+			<item id="100926" min="1" max="1" chance="0.9009009" name="희귀 켈빔 인형 소환권"/> <!-- Rare Doll Summon Coupon - Kelbim - Sealed -->
+			<item id="100927" min="1" max="1" chance="0.9009009" name="영웅 여왕개미 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100928" min="1" max="1" chance="0.9009009" name="영웅 오르펜 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100929" min="1" max="1" chance="0.9009009" name="영웅 코어 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Core - Sealed -->
+			<item id="100930" min="1" max="1" chance="0.9009009" name="영웅 프린테사 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100931" min="1" max="1" chance="0.9009009" name="영웅 자켄 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100932" min="1" max="1" chance="0.9009009" name="영웅 바이움 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Baium - Sealed -->
+			<item id="100933" min="1" max="1" chance="0.9009009" name="영웅 안타라스 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Antharas - Sealed -->
+			<item id="100934" min="1" max="1" chance="0.9009009" name="영웅 베히모스 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Behemoth - Sealed -->
+			<item id="100935" min="1" max="1" chance="0.9009009" name="영웅 글라키에스 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Glakias - Sealed -->
+			<item id="100936" min="1" max="1" chance="0.9009009" name="영웅 안드레아스 반 홀터 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Andreas van Halter - Sealed -->
+			<item id="100937" min="1" max="1" chance="0.9009009" name="영웅 켈빔 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Kelbim - Sealed -->
+			<item id="101267" min="1" max="1" chance="0.9009009" name="일반 킹 페트람 인형 소환권"/> <!-- Common Doll Summon Coupon - King Petram - Sealed -->
+			<item id="101268" min="1" max="1" chance="0.9009009" name="일반 킹 프로첼라 인형 소환권"/> <!-- Common Doll Summon Coupon - King Procella - Sealed -->
+			<item id="101269" min="1" max="1" chance="0.9009009" name="일반 몰랑공주 인형 소환권"/> <!-- Common Doll Summon Coupon - Princess Molrang - Sealed -->
+			<item id="101390" min="1" max="1" chance="0.9009009" name="고급 페리온 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Ferion - Sealed -->
+			<item id="101391" min="1" max="1" chance="0.9009009" name="최고급 페리온 인형 소환권"/> <!-- Superior Doll Summon Coupon - Ferion - Sealed -->
+			<item id="101392" min="1" max="1" chance="0.9009009" name="희귀 페리온 인형 소환권"/> <!-- Rare Doll Summon Coupon - Ferion - Sealed -->
+			<item id="101393" min="1" max="1" chance="0.9009009" name="영웅 페리온 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Ferion - Sealed -->
+			<item id="101484" min="1" max="1" chance="0.9009009" name="최고급 킹 이그니스 인형 소환권"/> <!-- Superior Doll Summon Coupon - King Ignis - Sealed -->
+			<item id="101485" min="1" max="1" chance="0.9009009" name="최고급 퀸 네불라 인형 소환권"/> <!-- Superior Doll Summon Coupon - Queen Nebula - Sealed -->
+			<item id="101486" min="1" max="1" chance="0.9009009" name="최고급 킹 프로첼라 인형 소환권"/> <!-- Superior Doll Summon Coupon - King Procella - Sealed -->
+			<item id="101487" min="1" max="1" chance="0.9009009" name="최고급 킹 페트람 인형 소환권"/> <!-- Superior Doll Summon Coupon - King Petram - Sealed -->
+			<item id="101488" min="1" max="1" chance="0.9009009" name="최고급 트론 인형 소환권"/> <!-- Superior Doll Summon Coupon - Tiron - Sealed -->
+			<item id="101489" min="1" max="1" chance="0.9009009" name="최고급 스칼렛 반 할리샤 인형 소환권"/> <!-- Superior Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+			<item id="101490" min="1" max="1" chance="0.9009009" name="최고급 아나킴 인형 소환권"/> <!-- Superior Doll Summon Coupon - Anakim - Sealed -->
+			<item id="101491" min="1" max="1" chance="0.9009009" name="최고급 릴리스 인형 소환권"/> <!-- Superior Doll Summon Coupon - Lilith - Sealed -->
+			<item id="101573" min="1" max="1" chance="0.9009009" name="일반 불칸 인형 소환권"/> <!-- Common Doll Summon Coupon - Vulcan - Sealed -->
+			<item id="101574" min="1" max="1" chance="0.9009009" name="고급 불칸 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Vulcan - Sealed -->
+			<item id="101575" min="1" max="1" chance="0.9009009" name="최고급 불칸 인형 소환권"/> <!-- Superior Doll Summon Coupon - Vulcan - Sealed -->
+			<item id="101576" min="1" max="1" chance="0.9009009" name="희귀 불칸 인형 소환권"/> <!-- Rare Doll Summon Coupon - Vulcan - Sealed -->
+			<item id="101581" min="1" max="1" chance="0.9009009" name="영웅 불칸 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Vulcan - Sealed -->
+			<item id="101646" min="1" max="1" chance="0.9009009" name="고급 아나킴 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Anakim - Sealed -->
+			<item id="101647" min="1" max="1" chance="0.9009009" name="고급 릴리스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Lilith - Sealed -->
+			<item id="101816" min="1" max="1" chance="0.9009009" name="고급 몰랑공주 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Princess Molrang - Sealed -->
+			<item id="101817" min="1" max="1" chance="0.9009009" name="고급 데이만 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Deiman - Sealed -->
+			<item id="101818" min="1" max="1" chance="0.9009009" name="고급 자드나 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Satina - Sealed -->
+			<item id="101819" min="1" max="1" chance="0.9009009" name="고급 류미니르 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Ryuminir - Sealed -->
+			<item id="101820" min="1" max="1" chance="0.9009009" name="고급 아이젠 켄슐러 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Aizen Kelsour - Sealed -->
+			<item id="101821" min="1" max="1" chance="0.9009009" name="고급 킹 이그니스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - King Ignis - Sealed -->
+			<item id="101822" min="1" max="1" chance="0.9009009" name="고급 퀸 네불라 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Queen Nebula - Sealed -->
+			<item id="101823" min="1" max="1" chance="0.9009009" name="고급 킹 프로첼라 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - King Procella - Sealed -->
+			<item id="101824" min="1" max="1" chance="0.9009009" name="고급 킹 페트람 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - King Petram - Sealed -->
+			<item id="101825" min="1" max="1" chance="0.9009009" name="고급 트론 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Tiron - Sealed -->
+			<item id="101826" min="1" max="1" chance="0.9009009" name="고급 스칼렛 반 할리샤 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+			<item id="101982" min="1" max="1" chance="0.9009009" name="희귀 스칼렛 반 할리샤 인형 소환권"/> <!-- Rare Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+			<item id="101983" min="1" max="1" chance="0.9009009" name="희귀 아나킴 인형 소환권"/> <!-- Rare Doll Summon Coupon - Anakim - Sealed -->
+			<item id="101984" min="1" max="1" chance="0.9009009" name="희귀 릴리스 인형 소환권"/> <!-- Rare Doll Summon Coupon - Lilith - Sealed -->
+			<item id="101985" min="1" max="1" chance="0.9009009" name="영웅 스칼렛 반 할리샤 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+			<item id="101986" min="1" max="1" chance="0.9009009" name="영웅 아나킴 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Anakim Doll - Sealed -->
+			<item id="101987" min="1" max="1" chance="0.9009009" name="영웅 릴리스 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Lilith - Sealed -->
+			<item id="102084" min="1" max="1" chance="0.9009009" name="일반 아즈타칸 인형 소환권"/> <!-- Common Doll Summon Coupon - Aztacan - Sealed -->
+			<item id="102085" min="1" max="1" chance="0.9009009" name="고급 아즈타칸 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Aztacan - Sealed -->
+			<item id="102086" min="1" max="1" chance="0.9009009" name="최고급 아즈타칸 인형 소환권"/> <!-- Superior Doll Summon Coupon - Aztacan - Sealed -->
+			<item id="102087" min="1" max="1" chance="0.9009009" name="희귀 아즈타칸 인형 소환권"/> <!-- Rare Doll Summon Coupon - Aztacan - Sealed -->
+			<item id="102088" min="1" max="1" chance="0.9009009" name="영웅 아즈타칸 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Aztacan - Sealed -->
+			<item id="102133" min="1" max="1" chance="0.9009009" name="최고급 몰랑공주 인형 소환권"/> <!-- Superior Doll Summon Coupon - Princess Molrang - Sealed -->
+			<item id="102143" min="1" max="1" chance="0.9009009" name="일반 데이만 인형 소환권"/> <!-- Common Doll Summon Coupon - Deiman - Sealed -->
+			<item id="102144" min="1" max="1" chance="0.9009009" name="일반 자드나 인형 소환권"/> <!-- Common Doll Summon Coupon - Satina - Sealed -->
+			<item id="102145" min="1" max="1" chance="0.9009009" name="일반 류미니르 인형 소환권"/> <!-- Common Doll Summon Coupon - Ryuminir - Sealed -->
+			<item id="102146" min="1" max="1" chance="0.9009009" name="일반 아이젠 켄슐러 인형 소환권"/> <!-- Common Doll Summon Coupon - Aizen Kelsour - Sealed -->
+			<item id="102147" min="1" max="1" chance="0.9009009" name="일반 킹 이그니스 인형 소환권"/> <!-- Common Doll Summon Coupon - King Ignis - Sealed -->
+			<item id="102148" min="1" max="1" chance="0.9009009" name="일반 퀸 네불라 인형 소환권"/> <!-- Common Doll Summon Coupon - Queen Nebula - Sealed -->
+			<item id="102149" min="1" max="1" chance="0.9009009" name="일반 트론 인형 소환권"/> <!-- Common Doll Summon Coupon - Tiron - Sealed -->
+			<item id="102150" min="1" max="1" chance="0.9009009" name="일반 아나킴 인형 소환권"/> <!-- Common Doll Summon Coupon - Anakim - Sealed -->
+			<item id="102151" min="1" max="1" chance="0.9009009" name="일반 릴리스 인형 소환권"/> <!-- Common Doll Summon Coupon - Lilith - Sealed -->
+			<item id="102152" min="1" max="1" chance="0.9009009" name="일반 스칼렛 반 할리샤 인형 소환권"/> <!-- Common Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+			<item id="102153" min="1" max="1" chance="0.9009009" name="희귀 킹 이그니스 인형 소환권"/> <!-- Rare Doll Summon Coupon - King Ignis - Sealed -->
+			<item id="102154" min="1" max="1" chance="0.9009009" name="희귀 퀸 네불라 인형 소환권"/> <!-- Rare Doll Summon Coupon - Queen Nebula - Sealed -->
+			<item id="102155" min="1" max="1" chance="0.9009009" name="희귀 킹 프로첼라 인형 소환권"/> <!-- Rare Doll Summon Coupon - King Procella - Sealed -->
+			<item id="102156" min="1" max="1" chance="0.9009009" name="희귀 킹 페트람 인형 소환권"/> <!-- Rare Doll Summon Coupon - King Petram - Sealed -->
+			<item id="102157" min="1" max="1" chance="0.9009009" name="희귀 트론 인형 소환권"/> <!-- Rare Doll Summon Coupon - Tiron - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102714" name="초월 던전의 Lv5 보석 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 listed item of your choice. <Available items>. Onyx Lv. 5. Spinel Lv. 5. Zircon Lv. 5. Coral Lv. 5. Opal Lv. 5. Amber Lv. 5. Moonstone Lv. 5 -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102715" name="+2 레어 액세서리 교환권 - 수련 던전 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 listed item of your choice. <Available items>. Package: +2 Queen Ant's Ring (Sealed). Package: +2 Orfen's Earring (Sealed). Package: +2 Zaken's Earring (Sealed). Package: +2 Baium's Ring (Sealed) -->
+		<set name="icon" val="icon.bm_boss_accessory_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102716" name="초월 던전의 20단계 각인된 염료 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 sealed dye Lv. 20 of your choice. -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102717" name="최고급 인형 선택 소환권 - 수련 던전 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 superior doll of your choice. <font color=ff6666></font>. Superior Doll Summon Coupon - Vulcan and Superior Doll Summon Coupon - Ferion cannot be selected. -->
+		<set name="icon" val="icon.bm_boss_doll_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102718" name="+8 특수 장비 행운 상자 - 수련 던전 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_silver_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92458" min="1" max="1" chance="16.66667" name="+8 에바의 탈리스만 상자"/> <!-- +8 Talisman of Eva Pack - Sealed -->
+			<item id="92467" min="1" max="1" chance="16.66667" name="+8 신속의 탈리스만 상자"/> <!-- +8 Talisman of Speed Pack - Sealed -->
+			<item id="98904" min="1" max="1" chance="16.66667" name="+8 영웅의 서클릿 팩"/> <!-- Package: +8 Circlet of Hero - Sealed -->
+			<item id="102100" min="1" max="1" chance="16.66667" name="+8 팬텀 마스크 팩"/> <!-- Package: +8 Phantom Mask - Sealed -->
+			<item id="93730" min="1" max="1" chance="16.66667" name="+8 드래곤의 벨트 상자"/> <!-- +8 Dragon Belt Pack - Sealed -->
+			<item id="97955" min="1" max="1" chance="16.66667" name="+8 권능의 탈리스만 상자"/> <!-- +8 Talisman of Authority Pack - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102719" name="축제용 화약 (기간제)" type="EtcItem">
+		<!-- Required for crafting Firework Rocket. <font color=eeaa22><How to use></font>. Special craft - Firework Rocket Craft -->
+		<set name="icon" val="icon.etc_powder_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102720" name="축포탄 (기간제)" type="EtcItem">
+		<!-- Launches fireworks when used with the Festival's Firework Cannon on the platform in Giran. -->
+		<set name="icon" val="icon.etc_ultra_bomb_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102721" name="소모품 행운 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102727" min="1" max="1" chance="33.33333" name="공격력 강화 주문서 (기간제)"/> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
+			<item id="102728" min="1" max="1" chance="33.33333" name="방어력 강화 주문서 (기간제)"/> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
+			<item id="102732" min="1" max="1" chance="33.33333" name="미공급 - 버서커 주문서 (기간제)"/> <!-- Not Available - Berserker's Scroll (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102722" name="일반 인형 소환권 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv1"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="100887" min="1" max="1" chance="4.545455" name="일반 여왕개미 인형 소환권"/> <!-- Common Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100888" min="1" max="1" chance="4.545455" name="일반 오르펜 인형 소환권"/> <!-- Common Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100889" min="1" max="1" chance="4.545455" name="일반 코어 인형 소환권"/> <!-- Common Doll Summon Coupon - Core - Sealed -->
+			<item id="100890" min="1" max="1" chance="4.545455" name="일반 프린테사 인형 소환권"/> <!-- Common Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100891" min="1" max="1" chance="4.545455" name="일반 자켄 인형 소환권"/> <!-- Common Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100892" min="1" max="1" chance="4.545455" name="일반 바이움 인형 소환권"/> <!-- Common Doll Summon Coupon - Baium - Sealed -->
+			<item id="100893" min="1" max="1" chance="4.545455" name="일반 안타라스 인형 소환권"/> <!-- Common Doll Summon Coupon - Antharas - Sealed -->
+			<item id="101267" min="1" max="1" chance="4.545455" name="일반 킹 페트람 인형 소환권"/> <!-- Common Doll Summon Coupon - King Petram - Sealed -->
+			<item id="101268" min="1" max="1" chance="4.545455" name="일반 킹 프로첼라 인형 소환권"/> <!-- Common Doll Summon Coupon - King Procella - Sealed -->
+			<item id="101269" min="1" max="1" chance="4.545455" name="일반 몰랑공주 인형 소환권"/> <!-- Common Doll Summon Coupon - Princess Molrang - Sealed -->
+			<item id="101573" min="1" max="1" chance="4.545455" name="일반 불칸 인형 소환권"/> <!-- Common Doll Summon Coupon - Vulcan - Sealed -->
+			<item id="102084" min="1" max="1" chance="4.545455" name="일반 아즈타칸 인형 소환권"/> <!-- Common Doll Summon Coupon - Aztacan - Sealed -->
+			<item id="102143" min="1" max="1" chance="4.545455" name="일반 데이만 인형 소환권"/> <!-- Common Doll Summon Coupon - Deiman - Sealed -->
+			<item id="102144" min="1" max="1" chance="4.545455" name="일반 자드나 인형 소환권"/> <!-- Common Doll Summon Coupon - Satina - Sealed -->
+			<item id="102145" min="1" max="1" chance="4.545455" name="일반 류미니르 인형 소환권"/> <!-- Common Doll Summon Coupon - Ryuminir - Sealed -->
+			<item id="102146" min="1" max="1" chance="4.545455" name="일반 아이젠 켄슐러 인형 소환권"/> <!-- Common Doll Summon Coupon - Aizen Kelsour - Sealed -->
+			<item id="102147" min="1" max="1" chance="4.545455" name="일반 킹 이그니스 인형 소환권"/> <!-- Common Doll Summon Coupon - King Ignis - Sealed -->
+			<item id="102148" min="1" max="1" chance="4.545455" name="일반 퀸 네불라 인형 소환권"/> <!-- Common Doll Summon Coupon - Queen Nebula - Sealed -->
+			<item id="102149" min="1" max="1" chance="4.545455" name="일반 트론 인형 소환권"/> <!-- Common Doll Summon Coupon - Tiron - Sealed -->
+			<item id="102150" min="1" max="1" chance="4.545455" name="일반 아나킴 인형 소환권"/> <!-- Common Doll Summon Coupon - Anakim - Sealed -->
+			<item id="102151" min="1" max="1" chance="4.545455" name="일반 릴리스 인형 소환권"/> <!-- Common Doll Summon Coupon - Lilith - Sealed -->
+			<item id="102152" min="1" max="1" chance="4.545455" name="일반 스칼렛 반 할리샤 인형 소환권"/> <!-- Common Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102723" name="인형 소환권 행운 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102564" min="1" max="1" chance="50" name="고급 인형 소환권 팩 (기간제)"/> <!-- Package: Enhanced Doll Summon Coupon (Time-limited) - Sealed -->
+			<item id="102722" min="1" max="1" chance="50" name="일반 인형 소환권 팩 (기간제)"/> <!-- Package: Common Doll Summon Coupon (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102724" name="특급 행운 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_gold_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="102579" min="1" max="1" chance="20" name="최고급 인형 소환권 팩 (기간제)"/> <!-- Package: Superior Doll Summon Coupon (Time-limited) - Sealed -->
+			<item id="102583" min="1" max="1" chance="20" name="희귀 인형 소환권 팩 (기간제)"/> <!-- Package: Rare Doll Summon Coupon (Time-limited) - Sealed -->
+			<item id="102725" min="1" max="1" chance="20" name="축복/저주 무기 강화 주문서 상자 (기간제)"/> <!-- Improved/ Cursed Scroll: Enchant Weapon Pack (Time-limited) - Sealed -->
+			<item id="102726" min="1" max="1" chance="20" name="축복/저주 갑옷 강화 주문서 상자 (기간제)"/> <!-- Improved/ Cursed Scroll: Enchant Armor Pack (Time-limited) - Sealed -->
+			<item id="102733" min="1" max="1" chance="20" name="영웅 인형 소환권 팩 (기간제)"/> <!-- Package: Heroic Doll Summon Coupon (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102725" name="축복/저주 무기 강화 주문서 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="101382" min="1" max="1" chance="50" name="축복받은 무기 강화 주문서 (기간제)"/> <!-- Improved Scroll: Enchant Weapon (Time-limited) - Sealed -->
+			<item id="101384" min="1" max="1" chance="50" name="저주받은 무기 강화 주문서 (기간제)"/> <!-- Cursed Scroll: Enchant Weapon (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102726" name="축복/저주 갑옷 강화 주문서 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="101383" min="1" max="1" chance="50" name="축복받은 갑옷 강화 주문서 (기간제)"/> <!-- Improved Scroll: Enchant Armor (Time-limited) - Sealed -->
+			<item id="101385" min="1" max="1" chance="50" name="저주받은 갑옷 강화 주문서 (기간제)"/> <!-- Cursed Scroll: Enchant Armor (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102727" name="공격력 강화 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. P. Atk. +100. M. Atk. +100. Max MP +100. Skill MP Consumption -3%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.scrl_of_ladies_silver_knife_01"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102728" name="방어력 강화 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. P. Def. +200. M. Def. +200. All received Critical Damage -50. Acquired XP/ SP +10%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.scrl_of_ench_bracelet_lucien_01"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102729" name="수룡의 협곡 시간 충전석" type="EtcItem">
+		<!-- Prolongs your session zone's raid for 60 min. <Hunting zone>. Water Dragon's Canyon - World Hunting Zone. - Cooldown: 10 sec. -->
+		<set name="icon" val="Icon.timezone_refill_new_i34"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102730" name="수룡의 협곡 시간 충전석" type="EtcItem">
+		<!-- Prolongs your session zone's raid for 60 min. <Hunting zone>. Water Dragon's Canyon - World Hunting Zone. - Cooldown: 10 sec. -->
+		<set name="icon" val="Icon.timezone_refill_new_i34"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102731" name="수룡의 협곡 시간 충전석 (기간제)" type="EtcItem">
+		<!-- Prolongs your session zone's raid for 60 min. <Hunting zone>. Water Dragon's Canyon - World Hunting Zone. - Cooldown: 10 sec. -->
+		<set name="icon" val="Icon.timezone_refill_new_i34"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102732" name="미공급 - 버서커 주문서 (기간제)" type="EtcItem">
+		<set name="icon" val="icon.bereserker_scroll_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102733" name="영웅 인형 소환권 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv5"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="100927" min="1" max="1" chance="5.882353" name="영웅 여왕개미 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100928" min="1" max="1" chance="5.882353" name="영웅 오르펜 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100929" min="1" max="1" chance="5.882353" name="영웅 코어 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Core - Sealed -->
+			<item id="100930" min="1" max="1" chance="5.882353" name="영웅 프린테사 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100931" min="1" max="1" chance="5.882353" name="영웅 자켄 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100932" min="1" max="1" chance="5.882353" name="영웅 바이움 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Baium - Sealed -->
+			<item id="100933" min="1" max="1" chance="5.882353" name="영웅 안타라스 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Antharas - Sealed -->
+			<item id="100934" min="1" max="1" chance="5.882353" name="영웅 베히모스 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Behemoth - Sealed -->
+			<item id="100935" min="1" max="1" chance="5.882353" name="영웅 글라키에스 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Glakias - Sealed -->
+			<item id="100936" min="1" max="1" chance="5.882353" name="영웅 안드레아스 반 홀터 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Andreas van Halter - Sealed -->
+			<item id="100937" min="1" max="1" chance="5.882353" name="영웅 켈빔 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Kelbim - Sealed -->
+			<item id="101393" min="1" max="1" chance="5.882353" name="영웅 페리온 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Ferion - Sealed -->
+			<item id="101581" min="1" max="1" chance="5.882353" name="영웅 불칸 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Vulcan - Sealed -->
+			<item id="101985" min="1" max="1" chance="5.882353" name="영웅 스칼렛 반 할리샤 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+			<item id="101986" min="1" max="1" chance="5.882353" name="영웅 아나킴 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Anakim Doll - Sealed -->
+			<item id="101987" min="1" max="1" chance="5.882353" name="영웅 릴리스 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Lilith - Sealed -->
+			<item id="102088" min="1" max="1" chance="5.882353" name="영웅 아즈타칸 인형 소환권"/> <!-- Heroic Doll Summon Coupon - Aztacan - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102734" name="9월 패스 특전 코인 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. <font color=EEAA22><Special coins required></font>. Augmenting Stone: Weapon (Sealed) (10 pcs.) - 1 coin required. Augmenting Stone: Armor (Sealed) (10 pcs.) - 1 coin required. Augmenting Stone: Accessory (Sealed) (10 pcs.) - 1 coin required. September Pass' Special Pack (Time-limited) (Sealed) (1 pc.) - 5 coins required -->
+		<set name="icon" val="icon.etc_coins_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102735" name="9월 패스 특전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_six_party_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="101531" min="10" max="10" chance="100" name="고급 강화석"/> <!-- Greater Upgrade Stone - Sealed -->
+			<item id="101770" min="1" max="1" chance="100" name="+5 특수 방어구(각인) 교환권"/> <!-- +5 Special Armor Coupon (Sealed) - Sealed -->
+			<item id="102738" min="1" max="1" chance="100" name="최고급 프리미엄 인형 선택권 (기간제)"/> <!-- Selection Coupon: Premium Superior Doll (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102736" name="파푸리온 특전 코인 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. <font color=EEAA22><Special coins required></font>. Manager's Pack: Common - Heroic Doll Summon Coupon (Time-limited/ Sealed) (3 pcs.) - 1 coin required. Fafurion's Special Pack (Time-limited/ Sealed) (1 pc.) - 5 coins required -->
+		<set name="icon" val="icon.etc_magic_coin_gold_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102737" name="파푸리온 특전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_dragon_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102738" name="최고급 프리미엄 인형 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Superior Doll Summon Coupon of your choice. Andreas van Halter Doll/ Kelbim Doll/ Ferion Doll cannot be obtained. -->
+		<set name="icon" val="icon.bm_boss_doll_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102739" name="고급 마법서 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Enhanced Spellbook <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.ev_sb_1_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102740" name="최고급 마법서 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Unique Spellbook <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.ev_sb_2_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102741" name="희귀 마법서 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Rare Spellbook <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.ev_sb_3_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102742" name="일반 마법서 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Common Spellbook <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.ev_sb_0_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102743" name="이실장의 일반~영웅 등급 인형 소환권 상자 50개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.surprise_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102713" min="50" max="50" chance="100" name="이실장의 일반~영웅 등급 인형 소환권 상자 (기간제)"/> <!-- Manager's Pack: Common - Heroic Doll Summon Coupon (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102744" name="흩날리는 단풍 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.maple_leaf_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="102643" min="1" max="1" chance="100" name="킬 이펙트 - 흩날리는 단풍"/> <!-- Kill Effect - Fallen Maple Leaf - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102745" name="+5 보스 무기(각인) 교환권" type="EtcItem">
+		<!-- Double-click to obtain Package: +5 Boss Weapon <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.boss_weapon_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102746" name="+4 에바의 귀걸이 (MP 회복) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.r95_earring_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="100963" min="1" max="1" chance="100" name="에바의 귀걸이 (MP 회복)"/> <!-- Eva's Earring (MP Recovery) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102747" name="+4 실렌의 귀걸이 (HP 흡수) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessary_sages_earing_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="100964" min="1" max="1" chance="100" name="실렌의 귀걸이 (HP 흡수)"/> <!-- Shillien's Earring (HP Drain) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102748" name="+4 사이하의 반지 (공격속도) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessary_ring_of_aurakyria_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="100965" min="1" max="1" chance="100" name="사이하의 반지 (공격속도)"/> <!-- Sayha's Ring (Atk. Spd.) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102749" name="+4 파아그리오의 반지 (공격력/마법력) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessary_another_worlds_ring_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="100966" min="1" max="1" chance="100" name="파아그리오의 반지 (공격력/마법력)"/> <!-- Pa'agrio's Ring (P./ M. Atk.) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102750" name="+4 아인하사드의 목걸이 (스킬 딜레이) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.r95_necklace_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="100967" min="1" max="1" chance="100" name="아인하사드의 목걸이 (스킬 딜레이)"/> <!-- Einhasad's Necklace (Cooldown) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102751" name="보석 선택 교환권 (기간제)" type="EtcItem">
+		<!-- <font color=eeaa22>Double-click to obtain one of the Jewelry Boxes Lv. 1-5 of your choice (depends on the number of the coupons you have).</font> -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102752" name="파푸리온 성장 지원 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_silver_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102753" name="파푸리온 론칭 패스 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_gold_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102754" name="아베르의 보물 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_silver"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="3031" min="500" max="500" chance="100" name="마정석"/> <!-- Spirit Ore - Sealed -->
+			<item id="90907" min="50" max="50" chance="100" name="정령탄 교환권"/> <!-- Soulshot Ticket - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102755" name="엘르의 보물 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_blue"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="101265" min="1" max="1" chance="100" name="특수 장비 상자 (기간제)"/> <!-- Special Equipment Pack (Time-limited) - Sealed -->
+			<item id="3031" min="1000" max="1000" chance="100" name="마정석"/> <!-- Spirit Ore - Sealed -->
+			<item id="90907" min="100" max="100" chance="100" name="정령탄 교환권"/> <!-- Soulshot Ticket - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102756" name="각인된 염료 교환권" type="EtcItem">
+		<!-- Double-click to obtain 1 Dye Lv. 0 <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102757" name="각인된 힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +2. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102758" name="각인된 힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +3. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102759" name="각인된 힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +15. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102760" name="각인된 힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +30. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102761" name="각인된 힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +4. <font color=bbaa88><Bonus effect></font>. P. Atk. +44. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102762" name="각인된 체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +2. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102763" name="각인된 체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +3. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102764" name="각인된 체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +18. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102765" name="각인된 체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +36. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102766" name="각인된 체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +4. <font color=bbaa88><Bonus effect></font>. P. Def. +54. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102767" name="각인된 민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +2. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102768" name="각인된 민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +3. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102769" name="각인된 민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +4. <font color=bbaa88><Bonus effect></font>. Received P. Skill Critical Rate -0.1%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102770" name="각인된 민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +4. <font color=bbaa88><Bonus effect></font>. Received P. Skill Critical Rate -0.21%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102771" name="각인된 민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +4. <font color=bbaa88><Bonus effect></font>. Received P. Skill Critical Rate -0.32%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102772" name="각인된 지능의 문신 염료" type="EtcItem">
+		<!-- Required for applying INT Pattern. <font color=bbaa88><Effect></font>. INT +2. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon2.g_premium_dye_attribute_water"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102773" name="각인된 지능의 문신 염료" type="EtcItem">
+		<!-- Required for applying INT Pattern. <font color=bbaa88><Effect></font>. INT +3. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon2.g_premium_dye_attribute_water"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102774" name="각인된 지능의 문신 염료" type="EtcItem">
+		<!-- Required for applying INT Pattern. <font color=bbaa88><Effect></font>. INT +4. <font color=bbaa88><Bonus effect></font>. M. Atk. +15. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon2.g_premium_dye_attribute_water"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102775" name="각인된 지능의 문신 염료" type="EtcItem">
+		<!-- Required for applying INT Pattern. <font color=bbaa88><Effect></font>. INT +4. <font color=bbaa88><Bonus effect></font>. M. Atk. +30. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon2.g_premium_dye_attribute_water"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102776" name="각인된 지능의 문신 염료" type="EtcItem">
+		<!-- Required for applying INT Pattern. <font color=bbaa88><Effect></font>. INT +4. <font color=bbaa88><Bonus effect></font>. M. Atk. +44. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon2.g_premium_dye_attribute_water"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102777" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +2. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102778" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +3. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102779" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +4. <font color=bbaa88><Bonus effect></font>. M. Def. +18. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102780" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +4. <font color=bbaa88><Bonus effect></font>. M. Def. +36. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102781" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +4. <font color=bbaa88><Bonus effect></font>. M. Def. +54. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102782" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +2. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102783" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +3. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. Requirements: all classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102784" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.1%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102785" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.21%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102786" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +4. <font color=bbaa88><Bonus effect></font>. Received M. Skill Critical Rate -0.32%. <font color=bbaa88><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=ff6666>Note!</font>. Applying the pattern requires 1 dye. Requirements: All classes after the 1st class change -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="240000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102787" name="각인된 힘의 문신 염료" type="EtcItem">
+		<!-- Required for applying STR Pattern. <font color=bbaa88><Effect></font>. STR +1. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. The pattern is available to all classes after the 1st class change. -->
+		<set name="icon" val="BranchSys3.icon1.g_premium_dye_attribute_unholy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="12000000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102788" name="각인된 체력의 문신 염료" type="EtcItem">
+		<!-- Required for applying CON Pattern. <font color=bbaa88><Effect></font>. CON +1. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. The pattern is available to all classes after the 1st class change. -->
+		<set name="icon" val="BranchSys3.icon5.g_premium_dye_attribute_fire"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="12000000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102789" name="각인된 민첩의 문신 염료" type="EtcItem">
+		<!-- Required for applying DEX Pattern. <font color=bbaa88><Effect></font>. DEX +1. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. The pattern is available to all classes after the 1st class change. -->
+		<set name="icon" val="BranchSys3.icon3.g_premium_dye_attribute_holy"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="12000000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102790" name="각인된 지능의 문신 염료" type="EtcItem">
+		<!-- Required for applying INT Pattern. <font color=bbaa88><Effect></font>. INT +1. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. The pattern is available to all classes after the 1st class change. -->
+		<set name="icon" val="BranchSys3.icon2.g_premium_dye_attribute_water"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="12000000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102791" name="각인된 정신의 문신 염료" type="EtcItem">
+		<!-- Required for applying MEN Pattern. <font color=bbaa88><Effect></font>. MEN +1. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. The pattern is available to all classes after the 1st class change. -->
+		<set name="icon" val="BranchSys3.icon6.g_premium_dye_attribute_wind"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="12000000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102792" name="각인된 재치의 문신 염료" type="EtcItem">
+		<!-- Required for applying WIT Pattern. <font color=bbaa88><Effect></font>. WIT +1. <font color=ff6666><Pattern enhancement and compounding></font>. Enhancement materials: Dye Booster. In case of failure, the current level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Applying the pattern requires 1 dye. The pattern is available to all classes after the 1st class change. -->
+		<set name="icon" val="BranchSys3.icon4.g_premium_dye_attribute_earth"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="12000000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102793" name="드래곤의 알 아가시온 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.agathion_valakas_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98240" min="1000" max="1000" chance="100" name="드래곤의 알 아가시온 팩"/> <!-- Package: Agathion Dragon Egg - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102794" name="드래곤의 알 아가시온 2000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.agathion_valakas_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98240" min="2000" max="2000" chance="100" name="드래곤의 알 아가시온 팩"/> <!-- Package: Agathion Dragon Egg - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102795" name="드래곤의 인장 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92314" min="10" max="10" chance="2.564103" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="5" max="5" chance="2.564103" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="2" max="2" chance="2.564103" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="1" max="1" chance="2.564103" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="93739" min="1" max="1" chance="2.564103" name="기란의 인장 1000개 팩"/> <!-- Package: Giran Seal (1000 pcs.) - Sealed -->
+			<item id="94120" min="1" max="1" chance="2.564103" name="바이움 탈리스만(각인) 팩"/> <!-- Package: Talisman of Baium - Sealed -->
+			<item id="94329" min="1" max="1" chance="2.564103" name="기란의 인장 500개 팩"/> <!-- Package: Giran Seal (500 pcs.) - Sealed -->
+			<item id="94383" min="1" max="1" chance="2.564103" name="레어 액세서리 강화 주문서"/> <!-- Scroll: Enchant Rare Accessories -->
+			<item id="94385" min="1" max="1" chance="2.564103" name="축복받은 레어 액세서리 강화 주문서"/> <!-- Improved Scroll: Enchant Rare Accessories -->
+			<item id="95783" min="2" max="2" chance="2.564103" name="아덴의 집혼석 Lv1 - 무기"/> <!-- Aden's Soul Crystal Lv. 1 - Weapon -->
+			<item id="95803" min="1" max="1" chance="2.564103" name="하딘의 집혼석 Lv1"/> <!-- Hardin's Soul Crystal Lv. 1 -->
+			<item id="96300" min="1" max="1" chance="2.564103" name="마법서 - 드래곤 슬레이어"/> <!-- Spellbook: Dragon Slayer -->
+			<item id="96901" min="2" max="2" chance="2.564103" name="아덴의 집혼석 Lv1 - 갑옷"/> <!-- Aden's Soul Crystal Lv. 1 - Armor -->
+			<item id="97449" min="1" max="1" chance="2.564103" name="바이움 탈리스만 강화 주문서"/> <!-- Scroll: Enchant Talisman of Baium - Sealed -->
+			<item id="97529" min="2" max="2" chance="2.564103" name="브로치 Lv4 팩"/> <!-- Package: Brooch Lv. 4 - Sealed -->
+			<item id="97538" min="2" max="2" chance="2.564103" name="탈리스만 팔찌 Lv4 팩"/> <!-- Package: Talisman Bracelet Lv. 4 - Sealed -->
+			<item id="97547" min="2" max="2" chance="2.564103" name="아가시온 팔찌 Lv4 팩"/> <!-- Package: Agathion Bracelet Lv. 4 - Sealed -->
+			<item id="97859" min="1" max="1" chance="2.564103" name="안정된 레어 액세서리 강화 주문서"/> <!-- Stable Scroll: Enchant Rare Accessories -->
+			<item id="98040" min="1" max="1" chance="2.564103" name="초월 강화석"/> <!-- Transcendent Upgrade Stone - Sealed -->
+			<item id="98240" min="2" max="2" chance="2.564103" name="드래곤의 알 아가시온 팩"/> <!-- Package: Agathion Dragon Egg - Sealed -->
+			<item id="101371" min="1" max="1" chance="2.564103" name="기란의 인장 5000개 팩"/> <!-- Package: Giran Seal (5000 pcs.) - Sealed -->
+			<item id="102793" min="1" max="1" chance="2.564103" name="드래곤의 알 아가시온 1000개 팩"/> <!-- Package: Agathion Dragon Egg (1000 pcs.) - Sealed -->
+			<item id="102794" min="1" max="1" chance="2.564103" name="드래곤의 알 아가시온 2000개 팩"/> <!-- Package: Agathion Dragon Egg (2000 pcs.) - Sealed -->
+			<item id="6660" min="1" max="1" chance="2.564103" name="여왕개미의 반지"/> <!-- Queen Ant's Ring -->
+			<item id="6661" min="1" max="1" chance="2.564103" name="오르펜의 귀걸이"/> <!-- Orfen's Earring -->
+			<item id="49580" min="1" max="1" chance="2.564103" name="바이움의 반지"/> <!-- Baium's Ring -->
+			<item id="90763" min="1" max="1" chance="2.564103" name="자켄의 귀걸이"/> <!-- Zaken's Earring -->
+			<item id="90992" min="1" max="1" chance="2.564103" name="안타라스의 귀걸이"/> <!-- Antharas' Earring -->
+			<item id="91550" min="1" max="1" chance="2.564103" name="프린테사의 목걸이"/> <!-- Frintezza's Necklace -->
+			<item id="96600" min="1" max="1" chance="2.564103" name="베레스의 반지"/> <!-- Beleth's Ring -->
+			<item id="96613" min="1" max="1" chance="2.564103" name="마법서 - 익스팬드 다이 포텐셜"/> <!-- Spellbook: Expanded Potential of Dyes -->
+			<item id="96623" min="3" max="3" chance="2.564103" name="염료 강화제"/> <!-- Dye Booster -->
+			<item id="98932" min="1" max="1" chance="2.564103" name="아즈타칸의 귀걸이"/> <!-- Aztacan's Earring -->
+			<item id="100053" min="1" max="1" chance="2.564103" name="영웅 마법서 교환권"/> <!-- Heroic Spellbook Coupon - Sealed -->
+			<item id="100370" min="1" max="1" chance="2.564103" name="페리온의 목걸이"/> <!-- Ferion's Necklace -->
+			<item id="96936" min="1" max="1" chance="2.564103" name="버서커 실드"/> <!-- Berserker's Shield -->
+			<item id="96937" min="1" max="1" chance="2.564103" name="버서커 시길"/> <!-- Berserker's Sigil -->
+			<item id="100214" min="1" max="1" chance="2.564103" name="광풍의 투구"/> <!-- Wild Wind Helmet -->
+			<item id="100780" min="1" max="1" chance="2.564103" name="홍염의 건틀렛"/> <!-- Red Flame Gauntlets -->
+		</capsuled_items>
+	</item>
+	<item id="102796" name="각인된 염료 변경권 (기간제)" type="EtcItem">
+		<!-- To change a dye type, use this coupon. -->
+		<set name="icon" val="icon.dye_trade_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102797" name="루비 Lv1" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. P. Atk. +50. M. Atk. +50. All received Critical Damage -30. Received AoE Skill Damage -0.3%. <font color=bbaa88><Special effect></font>. <font color=FF8000>Ruby - Special Property (Attack)</font>. When triggered in PvE: Based on your attack type, makes an additional hit to a single target. - Additional P. attack: Power 5964. - Additional M. attack: Power 130. Trigger rate: 1%. When triggered in PvP: Makes an additional hit with 300 fixed damage to a single target. Trigger rate: 1%. <font color=ff6666><Compounding></font>. Materials: Identical jewels and jewelry boxes. In case of failure, the level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50824" level="1"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="102798" name="루비 Lv2" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. P. Atk. +100. M. Atk. +100. All received Critical Damage -60. Received AoE Skill Damage -0.6%. <font color=bbaa88><Special effect></font>. <font color=FF8000>Ruby - Special Property (Attack)</font>. When triggered in PvE: Based on your attack type, makes an additional hit to a single target. - Additional P. attack: Power 6167. - Additional M. attack: Power 138. Trigger rate: 1%. When triggered in PvP: Makes an additional hit with 500 fixed damage to a single target. Trigger rate: 1%. <font color=ff6666><Compounding></font>. Materials: Identical jewels and jewelry boxes. In case of failure, the level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50824" level="2"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="102799" name="루비 Lv3" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. P. Atk. +150. M. Atk. +150. All received Critical Damage -90. Received AoE Skill Damage -0.9%. <font color=bbaa88><Special effect></font>. <font color=FF8000>Ruby - Special Property (Attack)</font>. When triggered in PvE: Based on your attack type, makes an additional hit to a single target. - Additional P. attack: Power 6370. - Additional M. attack: Power 146. Trigger rate: 1%. When triggered in PvP: Makes an additional hit with 700 fixed damage to a single target. Trigger rate: 1%. <font color=ff6666><Compounding></font>. Materials: Identical jewels and jewelry boxes. In case of failure, the level remains the same, but materials disappear. <font color=bbaa88>Note!</font>. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50824" level="3"/> <!-- Ruby -->
+		</skills>
+	</item>
+</list>

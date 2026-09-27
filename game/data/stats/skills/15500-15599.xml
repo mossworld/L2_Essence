@@ -1,0 +1,1116 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="15500" toLevel="1" name="강력 생명의 기운">
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>2000</castRange>
+		<effectPoint>100</effectPoint>
+		<hitTime>100</hitTime>
+		<reuseDelay>2000</reuseDelay>
+	</skill>
+	<skill id="15501" toLevel="1" name="초강력 생명의 기운">
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>2000</castRange>
+		<effectPoint>100</effectPoint>
+		<hitTime>100</hitTime>
+		<reuseDelay>2000</reuseDelay>
+	</skill>
+	<skill id="15502" toLevel="1" name="마나의 기운">
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>2000</castRange>
+		<effectPoint>100</effectPoint>
+		<hitTime>100</hitTime>
+		<reuseDelay>2000</reuseDelay>
+	</skill>
+	<skill id="15503" toLevel="1" name="강력 마나의 기운">
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>2000</castRange>
+		<effectPoint>100</effectPoint>
+		<hitTime>100</hitTime>
+		<reuseDelay>2000</reuseDelay>
+	</skill>
+	<skill id="15504" toLevel="1" name="초강력 마나의 기운">
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>2000</castRange>
+		<effectPoint>100</effectPoint>
+		<hitTime>100</hitTime>
+		<reuseDelay>2000</reuseDelay>
+	</skill>
+	<skill id="15506" toLevel="1" name="신비로운 힘의 허브">
+		<!-- P. Atk. +100% for 1 min. 30 sec. -->
+		<icon>icon.etc_warrior_set_i00</icon>
+		<operateType>A2</operateType>
+		<castRange>2000</castRange>
+		<effectPoint>100</effectPoint>
+		<hitTime>100</hitTime>
+		<reuseDelay>2000</reuseDelay>
+	</skill>
+	<skill id="15507" toLevel="1" name="신비로운 마력의 허브">
+		<!-- M. Atk. +400% for 1 min. 30 sec. -->
+		<icon>icon.etc_magic_set_i00</icon>
+		<operateType>A2</operateType>
+		<castRange>2000</castRange>
+		<effectPoint>100</effectPoint>
+		<hitTime>100</hitTime>
+		<reuseDelay>2000</reuseDelay>
+	</skill>
+	<skill id="15508" toLevel="4" name="특수 갑옷">
+		<!-- Special armor reduces damage received from servitors. -->
+		<icon>icon.skill0000</icon>
+		<operateType>P</operateType>
+	</skill>
+	<skill id="15509" toLevel="1" name="라이도 디스트럭션">
+		<!-- Inflicts great damage on the enemies near the target. -->
+		<icon>icon.skill0036</icon>
+		<operateType>A1</operateType>
+		<targetType>TARGET</targetType>
+		<affectObject>NOT_FRIEND</affectObject>
+		<affectRange>100</affectRange>
+		<affectScope>RANGE</affectScope>
+		<castRange>40</castRange>
+		<effectPoint>-100</effectPoint>
+		<effectRange>270</effectRange>
+		<hitCancelTime>0</hitCancelTime>
+		<hitTime>1500</hitTime>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<magicLevel>94</magicLevel>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+		<effects>
+			<effect name="PhysicalDamage">
+				<power>999</power>
+				<overHit>true</overHit>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15510" toLevel="1" name="라이도 리페어">
+		<!-- Repairs ally. -->
+		<icon>icon.skill1217</icon>
+		<operateType>A1</operateType>
+		<castRange>50</castRange>
+		<effectPoint>100</effectPoint>
+		<hitTime>2000</hitTime>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>7000</reuseDelay>
+	</skill>
+	<skill id="15511" toLevel="1" name="라이도 펀치">
+		<!-- A powerful attack on an enemy. -->
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<targetType>TARGET</targetType>
+		<affectScope>SINGLE</affectScope>
+		<castRange>40</castRange>
+		<effectPoint>-100</effectPoint>
+		<effectRange>400</effectRange>
+		<hitCancelTime>0</hitCancelTime>
+		<hitTime>1500</hitTime>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<magicLevel>99</magicLevel>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+		<effects>
+			<effect name="PhysicalDamage">
+				<power>999</power>
+				<overHit>true</overHit>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15512" toLevel="1" name="스파크 스트로크">
+		<!-- A powerful attack on an enemy. -->
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<targetType>TARGET</targetType>
+		<affectScope>SINGLE</affectScope>
+		<castRange>40</castRange>
+		<effectPoint>-100</effectPoint>
+		<effectRange>400</effectRange>
+		<hitCancelTime>0</hitCancelTime>
+		<hitTime>1500</hitTime>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<magicLevel>99</magicLevel>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>2000</reuseDelay>
+		<effects>
+			<effect name="PhysicalDamage">
+				<power>999</power>
+				<overHit>true</overHit>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15513" toLevel="1" name="바이탈 스틸">
+		<!-- A powerful attack on an enemy. -->
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<targetType>TARGET</targetType>
+		<affectScope>SINGLE</affectScope>
+		<castRange>40</castRange>
+		<effectPoint>-100</effectPoint>
+		<effectRange>400</effectRange>
+		<hitCancelTime>0</hitCancelTime>
+		<hitTime>1500</hitTime>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<magicLevel>99</magicLevel>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>2000</reuseDelay>
+		<effects>
+			<effect name="PhysicalDamage">
+				<power>999</power>
+				<overHit>true</overHit>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15514" toLevel="1" name="블러디 체인">
+		<!-- Connects target and nearby enemies with chains for damage. -->
+		<icon>icon.skill0036</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>2000</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15515" toLevel="1" name="페네트레이션 아이즈">
+		<!-- Emits power from the eyes for powerful damage. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>100</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>4000</reuseDelay>
+	</skill>
+	<skill id="15516" toLevel="1" name="빅러블 서먼">
+		<!-- Twists the flow of time to summon a bigger version of the self upon death (Presentation). -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<hitTime>1000</hitTime>
+		<isMagic>1</isMagic>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15517" toLevel="1" name="카오스 어택">
+		<!-- Deals heavy P. damage to the enemy. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>70</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1000</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15518" toLevel="2" name="바디 컨퓨전">
+		<!-- Level 1: Confuses the target, their P./ M. Def. -10%. -->
+		<!-- Level 2: Confuses the target, their P./ M. Def. -15%. -->
+		<icon>icon.skill1422</icon>
+		<operateType>A2</operateType>
+		<castRange>300</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic>
+	</skill>
+	<skill id="15519" toLevel="1" name="언데드 서먼">
+		<!-- Summons real body. (Presentation) -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<hitTime>1000</hitTime>
+		<isMagic>1</isMagic>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15520" toLevel="1" name="러시 레이드">
+		<!-- Powerful rush attack on enemy. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>500</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15521" toLevel="1" name="스크래치 템페스트">
+		<!-- Deals heavy P. damage to the enemy. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>70</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1000</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15522" toLevel="1" name="다크니스 포이즌">
+		<!-- Damages enemy with dark poison and drains HP gradually. -->
+		<icon>icon.skill4035</icon>
+		<operateType>A2</operateType>
+		<castRange>40</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>4000</reuseDelay>
+	</skill>
+	<skill id="15523" toLevel="1" name="엑셀레이터">
+		<!-- Increases Speed. -->
+		<icon>icon.skill1204</icon>
+		<operateType>A2</operateType>
+		<effectPoint>2</effectPoint>
+		<hitTime>1000</hitTime>
+		<isMagic>1</isMagic>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15524" toLevel="1" name="블러드서킹">
+		<!-- Sucks blood from the enemy, continuously draining HP. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>40</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15525" toLevel="2" name="러시 어택">
+		<!-- Powerful rush attack on enemy. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>100</hitTime>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15526" toLevel="1" name="카라마르 브레이커">
+		<!-- Inflicts great damage on the enemies near the target. -->
+		<icon>icon.skill0036</icon>
+		<operateType>A1</operateType>
+		<targetType>TARGET</targetType>
+		<affectObject>NOT_FRIEND</affectObject>
+		<affectRange>100</affectRange>
+		<affectScope>RANGE</affectScope>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<effectRange>270</effectRange>
+		<hitCancelTime>0</hitCancelTime>
+		<hitTime>1500</hitTime>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<magicLevel>94</magicLevel>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+		<effects>
+			<effect name="PhysicalDamage">
+				<power>999</power>
+				<overHit>true</overHit>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15527" toLevel="1" name="카오스 브레스">
+		<!-- AoE M. Atk. on target's area. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15528" toLevel="1" name="카오넬 러쉬 레이드">
+		<!-- Powerful rush attack on enemy. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>100</hitTime>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15529" toLevel="1" name="스피릿 앱솔브">
+		<!-- Soul is drained. P. Def./ M. Def. -30%, and Atk. Spd. +10%. -->
+		<icon>icon.skill1422</icon>
+		<operateType>A2</operateType>
+		<castRange>300</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>3000</hitTime>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic>
+	</skill>
+	<skill id="15530" toLevel="1" name="슬럼버">
+		<!-- Immobilizes the target putting them to sleep. -->
+		<icon>icon.skill4046</icon>
+		<operateType>A2</operateType>
+		<targetType>ENEMY_ONLY</targetType>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>10</abnormalTime>
+		<abnormalType>SLEEP</abnormalType>
+		<abnormalVisualEffect>SLEEP</abnormalVisualEffect>
+		<activateRate>80</activateRate>
+		<affectScope>SINGLE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<effectRange>1100</effectRange>
+		<hitCancelTime>2</hitCancelTime>
+		<hitTime>3000</hitTime>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+		<lvlBonusRate>2</lvlBonusRate>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<magicLevel>99</magicLevel>
+		<mpConsume>10</mpConsume>
+		<mpInitialConsume>3</mpInitialConsume>
+		<removedOnDamage>true</removedOnDamage>
+		<reuseDelay>8000</reuseDelay>
+		<trait>SLEEP</trait>
+		<effects>
+			<effect name="BlockActions"/>
+		</effects>
+	</skill>
+	<skill id="15531" toLevel="1" name="홀드">
+		<!-- Holds the target. -->
+		<icon>icon.skill4047</icon>
+		<operateType>A2</operateType>
+		<targetType>ENEMY_ONLY</targetType>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>10</abnormalTime>
+		<abnormalType>ROOT_MAGICALLY</abnormalType>
+		<abnormalVisualEffect>ROOT</abnormalVisualEffect>
+		<activateRate>80</activateRate>
+		<affectScope>SINGLE</affectScope>
+		<basicProperty>MAGIC</basicProperty>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+		<mpConsume>10</mpConsume>
+		<mpInitialConsume>3</mpInitialConsume>
+		<reuseDelay>8000</reuseDelay>
+		<trait>HOLD</trait>
+		<effects>
+			<effect name="Root"/>
+		</effects>
+	</skill>
+	<skill id="15532" toLevel="1" name="포커스 서클">
+		<!-- Emits power from the eyes for powerful damage. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>40</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15533" toLevel="1" name="글러지 스파이트">
+		<!-- Damages enemy with poison and drains HP gradually. -->
+		<icon>icon.skill4035</icon>
+		<operateType>A2</operateType>
+		<castRange>40</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15534" toLevel="1" name="바디 뮤티레이트">
+		<!-- Cuts enemy for powerful damage. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>70</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1000</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15535" toLevel="1" name="블러드 브레스">
+		<!-- Strikes all enemies at the front with Bloody Breath. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15536" toLevel="1" name="마나 카오스">
+		<!-- You are in the Land of Chaos. You can feel Krogel's power around you. -->
+		<icon>icon.skill0046</icon>
+		<operateType>A2</operateType>
+		<effectPoint>1</effectPoint>
+		<hitTime>500</hitTime>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15537" toLevel="2" name="블러드 새크리션 - 이동속도 감소">
+		<!-- Level 1: Restores 50% of enemy's HP and gives an abnormal status debuff. -->
+		<!-- Level 2: Restores 100% of enemy's HP and gives an abnormal status debuff. -->
+		<icon>icon.skill1160</icon>
+		<operateType>A2</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<isDebuff>true</isDebuff>
+		<trait>SUPPRESSION</trait>
+	</skill>
+	<skill id="15538" toLevel="2" name="블러드 새크리션 - 물리명중 감소">
+		<!-- Level 1: Restores 50% of enemy's HP and gives an abnormal status debuff. -->
+		<!-- Level 2: Restores 100% of enemy's HP and gives an abnormal status debuff. -->
+		<icon>icon.skill1160</icon>
+		<operateType>A2</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="15539" toLevel="2" name="블러드 새크리션 - 방어력 감소">
+		<!-- Level 1: Restores 50% of enemy's HP and gives an abnormal status debuff. -->
+		<!-- Level 2: Restores 100% of enemy's HP and gives an abnormal status debuff. -->
+		<icon>icon.skill1160</icon>
+		<operateType>A2</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="15540" toLevel="2" name="블러드 새크리션 - 마법 방어 감소">
+		<!-- Level 1: Restores 50% of enemy's HP and gives an abnormal status debuff. -->
+		<!-- Level 2: Restores 100% of enemy's HP and gives an abnormal status debuff. -->
+		<icon>icon.skill1160</icon>
+		<operateType>A2</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="15541" toLevel="1" name="플레임 필라">
+		<!-- A pillar of fire rushes from beneath your target's feet for damage. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15542" toLevel="1" name="러시 레이드">
+		<!-- Rushes to the target, inflicts damage. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>100</hitTime>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15543" toLevel="1" name="포이즌 포그">
+		<!-- Throws poison dust on enemy, draining their HP. -->
+		<icon>icon.skill4035</icon>
+		<operateType>A2</operateType>
+		<castRange>300</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-687</effectPoint>
+		<hitTime>2000</hitTime>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15544" toLevel="1" name="러시 어택">
+		<!-- Powerful rush attack on enemy. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A2</operateType>
+		<castRange>300</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>100</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15545" toLevel="1" name="암브러스트">
+		<!-- Powerful attack on enemies in a fan-shaped radius of you. -->
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<castRange>200</castRange>
+		<effectPoint>-680</effectPoint>
+		<hitTime>1500</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>2000</reuseDelay>
+	</skill>
+	<skill id="15546" toLevel="1" name="다크니스 인비저블">
+		<!-- Temporarily grants invisibility. -->
+		<icon>icon.skill10784</icon>
+		<operateType>A2</operateType>
+		<effectPoint>2</effectPoint>
+		<hitTime>1000</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15547" toLevel="1" name="포인트 어택">
+		<!-- Swings sword at an enemy. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1000</hitTime>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15548" toLevel="1" name="옵티컬 라키시스">
+		<!-- Recovers a part of allies' HP. -->
+		<icon>icon.skill1219</icon>
+		<operateType>A2</operateType>
+		<castRange>600</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>694</effectPoint>
+		<hitTime>1500</hitTime>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15549" toLevel="1" name="소울 브레이크">
+		<!-- For 20 min., nearby enemies' Casting Spd. -20% and P. Critical Damage -30%. -->
+		<icon>icon.skill0036</icon>
+		<operateType>A2</operateType>
+		<castRange>600</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitTime>4000</hitTime>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15550" toLevel="1" name="하트 디스트로이">
+		<!-- Powerful attack on enemy's vital point. Speed increases upon hit. Has a low chance of doing Half-kill. -->
+		<icon>icon.skill10509</icon>
+		<operateType>A2</operateType>
+		<castRange>40</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-687</effectPoint>
+		<hitTime>1000</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15551" toLevel="1" name="헤비 어택">
+		<!-- Hits enemy's vital point, weakening P. Atk. -->
+		<icon>icon.skill1160</icon>
+		<operateType>A2</operateType>
+		<castRange>200</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1000</hitTime>
+		<isDebuff>true</isDebuff>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15552" toLevel="1" name="헬 프리즌">
+		<!-- The target's P. Atk. -30%. -->
+		<icon>icon.skill1068</icon>
+		<operateType>A2</operateType>
+		<castRange>200</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1500</hitTime>
+		<isDebuff>true</isDebuff>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15554" toLevel="1" name="레인지 웨프">
+		<!-- Powerful attack on target and nearby enemies. -->
+		<icon>icon.skill10016</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<coolTime>1000</coolTime>
+		<effectPoint>-2093</effectPoint>
+		<hitTime>6800</hitTime>
+		<isDebuff>true</isDebuff>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15555" toLevel="1" name="섀도우 어웨이">
+		<!-- Hits enemy's vital point. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>200</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>2000</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15556" toLevel="1" name="그랜드 프로보크">
+		<!-- Provokes the enemy into attacking you by forcefully changing their target. -->
+		<icon>icon.skill10027</icon>
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectLimit>10-10</affectLimit>
+		<affectObject>NOT_FRIEND</affectObject>
+		<affectRange>400</affectRange>
+		<affectScope>POINT_BLANK</affectScope>
+		<coolTime>500</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitCancelTime>0</hitCancelTime>
+		<hitTime>1500</hitTime>
+		<isDebuff>true</isDebuff>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<magicLevel>85</magicLevel>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+		<staticReuse>true</staticReuse>
+		<effects>
+			<effect name="TargetMe"/>
+			<effect name="GetAgro"/>
+		</effects>
+	</skill>
+	<skill id="15557" toLevel="1" name="크로스보우 어택">
+		<!-- Decreases target's Atk. Spd. by 10%. -->
+		<icon>icon.skill0101</icon>
+		<operateType>A2</operateType>
+		<castRange>300</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-867</effectPoint>
+		<hitTime>1000</hitTime>
+		<isDebuff>true</isDebuff>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15558" toLevel="1" name="소울 하울링">
+		<!-- Attacks enemy and decreases their Casting Spd. -->
+		<icon>icon.skill4038</icon>
+		<operateType>A2</operateType>
+		<castRange>300</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-507</effectPoint>
+		<hitTime>4000</hitTime>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="15559" toLevel="1" name="포이즌 어택">
+		<!-- Powerful attack on the whole party and poison damage. -->
+		<icon>icon.skill4035</icon>
+		<operateType>A2</operateType>
+		<coolTime>500</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitTime>1000</hitTime>
+		<isDebuff>true</isDebuff>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>7000</reuseDelay>
+	</skill>
+	<skill id="15561" toLevel="1" name="드레인 커넥">
+		<!-- Bleeding for 5 sec. -->
+		<icon>icon.skill0096</icon>
+		<operateType>A2</operateType>
+		<castRange>400</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-574</effectPoint>
+		<hitTime>1000</hitTime>
+		<isDebuff>true</isDebuff>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15562" toLevel="1" name="서먼 엣지">
+		<!-- Instantly kills a party member. -->
+		<icon>icon.skill0223</icon>
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitTime>2000</hitTime>
+		<isDebuff>true</isDebuff>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="15564" toLevel="2" name="테오르 어택">
+		<!-- Inflicts P. damage on a single target. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>70</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>2000</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15565" toLevel="1" name="테오르 레인지 어택">
+		<!-- AoE P. Atk. On nearby enemies. -->
+		<icon>icon.skill0036</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-100</effectPoint>
+		<hitTime>3000</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15566" toLevel="1" name="무장해제">
+		<!-- Disarms nearby enemies. -->
+		<icon>icon.skill0485</icon>
+		<operateType>A2</operateType>
+		<effectPoint>-100</effectPoint>
+		<hitTime>2000</hitTime>
+		<isDebuff>true</isDebuff>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+		<trait>DISARM</trait>
+	</skill>
+	<skill id="15567" toLevel="1" name="공중속박">
+		<!-- Aerial Yoke. -->
+		<icon>icon.skill1042</icon>
+		<operateType>A2</operateType>
+		<effectPoint>-100</effectPoint>
+		<hitTime>2000</hitTime>
+		<isDebuff>true</isDebuff>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15568" toLevel="1" name="돌격">
+		<!-- Powerful rush attack on enemy. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<hitTime>100</hitTime>
+		<mpConsume>10</mpConsume>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15570" toLevel="1" name="마스터 시즈 실드">
+		<!-- For 30 sec., reflects 50% of received damage. -->
+		<icon>icon.skill_transform_buff</icon>
+		<operateType>A2</operateType>
+		<coolTime>500</coolTime>
+		<effectPoint>379</effectPoint>
+		<hitTime>3000</hitTime>
+		<mpConsume>100</mpConsume>
+		<reuseDelay>150000</reuseDelay>
+	</skill>
+	<skill id="15571" toLevel="1" name="마스터 시즈 어택">
+		<!-- A powerful attack on an enemy. -->
+		<icon>icon.skill_transform_etc</icon>
+		<operateType>A1</operateType>
+		<targetType>TARGET</targetType>
+		<affectScope>SINGLE</affectScope>
+		<castRange>80</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-867</effectPoint>
+		<effectRange>400</effectRange>
+		<hitCancelTime>0</hitCancelTime>
+		<hitTime>3000</hitTime>
+		<magicCriticalRate>-5</magicCriticalRate>
+		<magicLevel>99</magicLevel>
+		<mpConsume>100</mpConsume>
+		<reuseDelay>1000</reuseDelay>
+		<effects>
+			<effect name="PhysicalDamage">
+				<power>999</power>
+				<overHit>true</overHit>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15572" toLevel="1" name="크로겔 스피드업">
+		<!-- Atk. Spd. +15%. -->
+		<icon>icon.skill1086</icon>
+		<operateType>A2</operateType>
+		<targetType>SELF</targetType>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>120</abnormalTime>
+		<abnormalType>ATTACK_TIME_DOWN</abnormalType>
+		<affectScope>SINGLE</affectScope>
+		<basicProperty>NONE</basicProperty>
+		<hitCancelTime>0</hitCancelTime>
+		<isMagic>2</isMagic> <!-- Static Skill -->
+		<magicCriticalRate>5</magicCriticalRate>
+		<magicLevel>1</magicLevel>
+		<effects>
+			<effect name="PhysicalAttackSpeed">
+				<amount>15</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15574" toLevel="1" name="마스터 시즈 해머">
+		<!-- Makes a powerful attack on castle gates and walls. -->
+		<icon>icon.skill_transform_s_attack</icon>
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-709</effectPoint>
+		<hitTime>5000</hitTime>
+		<mpConsume>100</mpConsume>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="15575" toLevel="1" name="혼신의 일격">
+		<!-- Deals heavy P. damage to an enemy. -->
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<castRange>150</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>1500</hitTime>
+		<magicCriticalRate>5</magicCriticalRate>
+		<nextAction>ATTACK</nextAction>
+		<reuseDelay>5000</reuseDelay>
+		<effects>
+			<effect name="PhysicalDamage">
+				<power>999</power>
+				<overHit>true</overHit>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15576" toLevel="1" name="혼신의 사격">
+		<!-- Deals heavy P. damage to an enemy. -->
+		<icon>icon.skill0056</icon>
+		<operateType>A1</operateType>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<castRange>250</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>1500</hitTime>
+		<magicCriticalRate>5</magicCriticalRate>
+		<nextAction>ATTACK</nextAction>
+		<reuseDelay>5000</reuseDelay>
+		<effects>
+			<effect name="PhysicalDamage">
+				<power>999</power>
+				<overHit>true</overHit>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15577" toLevel="1" name="분노의 일격">
+		<!-- Powerful P. Atk. on enemy. -->
+		<icon>icon.skill0110</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>1500</hitTime>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15578" toLevel="1" name="분노의 폭격">
+		<!-- A powerful P. Atk. on enemies at the front. -->
+		<icon>icon.skill1068</icon>
+		<operateType>A1</operateType>
+		<castRange>200</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="15579" toLevel="1" name="저주의 일격">
+		<!-- Powerful P. Atk. on enemy. -->
+		<icon>icon.skill0110</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>1500</hitTime>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15580" toLevel="1" name="저주의 폭격">
+		<!-- Powerful M. Atk. On target and nearby enemies. -->
+		<icon>icon.skill1092</icon>
+		<operateType>A1</operateType>
+		<castRange>250</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>2000</hitTime>
+		<isMagic>1</isMagic>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="15581" toLevel="1" name="공포의 일격">
+		<!-- Powerful P. Atk. on enemy. -->
+		<icon>icon.skill0101</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>1500</hitTime>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15582" toLevel="1" name="공포의 폭격">
+		<!-- Powerful M. Atk. On target and nearby enemies. -->
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<castRange>250</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>3000</hitTime>
+		<isMagic>1</isMagic>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="15583" toLevel="1" name="절망의 일격">
+		<!-- Powerful P. Atk. on enemy. -->
+		<icon>icon.skill1072</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>1500</hitTime>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15584" toLevel="1" name="절망의 폭격">
+		<!-- A powerful attack on nearby enemies. -->
+		<icon>icon.skill0922</icon>
+		<operateType>A1</operateType>
+		<targetType>SELF</targetType>
+		<affectObject>NOT_FRIEND</affectObject>
+		<affectRange>300</affectRange>
+		<affectScope>POINT_BLANK</affectScope>
+		<coolTime>200</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+		<effects>
+			<effect name="PhysicalDamage">
+				<power>999</power>
+				<overHit>true</overHit>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15585" toLevel="1" name="증오의 일격">
+		<!-- Swings a spark-filled chain for a powerful M. Atk. -->
+		<icon>icon.skill10768</icon>
+		<operateType>A1</operateType>
+		<castRange>150</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>1500</hitTime>
+		<isMagic>1</isMagic>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15586" toLevel="1" name="증오의 사슬">
+		<!-- Swings a spark-filled chain for a powerful M. Atk. On target and nearby enemies. -->
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<castRange>250</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitTime>3000</hitTime>
+		<isMagic>1</isMagic>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="15587" toLevel="1" name="고속 사격">
+		<!-- Ranged attack on enemies to the front in a rectangular radius of you. -->
+		<icon>icon.skill1086</icon>
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-100</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="15588" toLevel="1" name="영혼의 일격">
+		<!-- Powerful M. Atk. on enemy. -->
+		<icon>icon.skill1167</icon>
+		<operateType>A1</operateType>
+		<castRange>250</castRange>
+		<effectPoint>-2</effectPoint>
+		<hitTime>2000</hitTime>
+		<isMagic>1</isMagic>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="15589" toLevel="1" name="고통의 일격">
+		<!-- Deals heavy P. damage to an enemy. -->
+		<icon>icon.skill1275</icon>
+		<operateType>A1</operateType>
+		<targetType>ENEMY</targetType>
+		<affectScope>SINGLE</affectScope>
+		<castRange>150</castRange>
+		<coolTime>200</coolTime>
+		<effectPoint>-2</effectPoint>
+		<hitTime>1500</hitTime>
+		<magicCriticalRate>5</magicCriticalRate>
+		<nextAction>ATTACK</nextAction>
+		<effects>
+			<effect name="PhysicalDamage">
+				<power>999</power>
+				<overHit>true</overHit>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15590" toLevel="1" name="린드비오르 공포">
+		<!-- Afflicted with Fear and moving against own will. -->
+		<icon>icon.skill4108</icon>
+		<operateType>A2</operateType>
+		<targetType>SELF</targetType>
+		<abnormalLevel>1</abnormalLevel>
+		<abnormalTime>10</abnormalTime>
+		<abnormalType>TURN_FLEE</abnormalType>
+		<abnormalVisualEffect>TURN_FLEE</abnormalVisualEffect>
+		<activateRate>140</activateRate>
+		<affectLimit>70-80</affectLimit>
+		<affectObject>NOT_FRIEND</affectObject>
+		<affectRange>900</affectRange>
+		<affectScope>POINT_BLANK</affectScope>
+		<basicProperty>PHYSICAL</basicProperty>
+		<coolTime>500</coolTime>
+		<effectPoint>-867</effectPoint>
+		<hitTime>3000</hitTime>
+		<isDebuff>true</isDebuff>
+		<lvlBonusRate>20</lvlBonusRate>
+		<magicCriticalRate>5</magicCriticalRate>
+		<magicLevel>90</magicLevel>
+		<reuseDelay>0</reuseDelay>
+		<trait>DERANGEMENT</trait>
+		<effects>
+			<effect name="BlockControl"/>
+			<effect name="Fear"/>
+			<effect name="Speed">
+				<amount>-90</amount>
+				<mode>PER</mode>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15592" toLevel="1" name="다크윈드 아머">
+		<!-- Reflects a part of received damage. -->
+		<icon>icon.skill4095</icon>
+		<operateType>A2</operateType>
+		<coolTime>1500</coolTime>
+		<effectPoint>100</effectPoint>
+		<hitTime>3000</hitTime>
+		<effects>
+			<effect name="DamageShield">
+				<amount>20</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="15593" toLevel="1" name="에어 스트라이크">
+		<!-- Launches a ranged attack. -->
+		<icon>icon.skill0101</icon>
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-867</effectPoint>
+		<hitTime>1000</hitTime>
+		<isMagic>1</isMagic>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="15594" toLevel="1" name="린드비오르 이동속도 감소">
+		<!-- Stomping on the ground when enraged. -->
+		<icon>icon.skill0127</icon>
+		<operateType>A2</operateType>
+		<effectPoint>-867</effectPoint>
+		<hitTime>1000</hitTime>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="15595" toLevel="1" name="린드비오르 추락">
+		<!-- A physical attack on all nearby enemies. -->
+		<icon>icon.skill0036</icon>
+		<operateType>A2</operateType>
+		<effectPoint>-574</effectPoint>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic>
+	</skill>
+	<skill id="15596" toLevel="1" name="연출 - 린드비오르 이륙">
+		<!-- Lindvior takes off. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<hitTime>4200</hitTime>
+	</skill>
+	<skill id="15597" toLevel="1" name="연출 - 린드비오르 착륙">
+		<!-- Lindvior lands. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<hitTime>5000</hitTime>
+	</skill>
+	<skill id="15598" toLevel="1" name="메가 윈드 스트라이크">
+		<!-- Launches a ranged attack. -->
+		<icon>icon.skill0000</icon>
+		<operateType>A1</operateType>
+		<castRange>2500</castRange>
+		<effectPoint>-707</effectPoint>
+		<hitTime>2500</hitTime>
+		<isMagic>1</isMagic>
+	</skill>
+</list>

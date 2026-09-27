@@ -1,0 +1,995 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="3926" name="가이던스 주문서" type="EtcItem">
+		<!-- When used, P. Accuracy +2 for 20 min. -->
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="for_npc" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2050" level="1"/> <!-- Scroll: Guidance -->
+		</skills>
+	</item>
+	<item id="3927" name="데스 위스퍼 주문서" type="EtcItem">
+		<!-- When used, P. Critical Damage +25% for 20 min. -->
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="for_npc" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2051" level="1"/> <!-- Scroll: Death Whisper -->
+		</skills>
+	</item>
+	<item id="3928" name="포커스 주문서" type="EtcItem">
+		<!-- P. Critical Rate +20% for 20 min. -->
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="for_npc" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2052" level="1"/> <!-- Scroll: Focus -->
+		</skills>
+	</item>
+	<item id="3929" name="아큐멘 주문서" type="EtcItem">
+		<!-- When used, Casting Spd. +15% for 20 min. -->
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="for_npc" val="true"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2053" level="1"/> <!-- Scroll: Acumen -->
+		</skills>
+	</item>
+	<item id="3930" name="헤이스트 주문서" type="EtcItem">
+		<!-- When used, Atk. Spd. +15% for 20 min. -->
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="for_npc" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2054" level="1"/> <!-- Scroll: Haste -->
+		</skills>
+	</item>
+	<item id="3931" name="미공급 - L2day 어질리티 주문서" type="EtcItem">
+		<!-- The item is not available. Increases P. Evasion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="for_npc" val="true"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2055" level="1"/> <!-- Scroll: Agility -->
+		</skills>
+	</item>
+	<item id="3932" name="엠파워 주문서" type="EtcItem">
+		<!-- When used, M. Atk. +55% for 20 min. -->
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="for_npc" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2056" level="1"/> <!-- Scroll: Empower -->
+		</skills>
+	</item>
+	<item id="3933" name="미공급 - L2day 마이트 주문서" type="EtcItem">
+		<!-- The item is not available. Increases P. Atk. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="for_npc" val="true"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2057" level="1"/> <!-- Scroll: Might -->
+		</skills>
+	</item>
+	<item id="3934" name="윈드 워크 주문서" type="EtcItem">
+		<!-- When used, for 20 min., Speed +20. -->
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="for_npc" val="true"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2058" level="1"/> <!-- Scroll: Wind Walk -->
+		</skills>
+	</item>
+	<item id="3935" name="미공급 - L2day 실드 주문서" type="EtcItem">
+		<!-- The item is not available. Increases P. Def. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="for_npc" val="true"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2059" level="1"/> <!-- Scroll: Shield -->
+		</skills>
+	</item>
+	<item id="3936" name="축복받은 부활 주문서" type="EtcItem">
+		<!-- A magic scroll that resurrects a dead party member fully recovering their XP. -->
+		<set name="icon" val="icon.etc_scroll_of_resurrection_i01"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="400000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<skills>
+			<skill id="2049" level="1"/> <!-- Blessed Scroll of Resurrection -->
+		</skills>
+	</item>
+	<item id="3937" name="미공급 - 몹전용(하거인)" type="Weapon">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="POLE"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;66;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="101"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="BRONZE"/>
+		<set name="weight" val="300"/>
+		<set name="price" val="400000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="SPEAR"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="for_npc" val="true"/>
+		<stats>
+			<stat type="pAtk">50</stat>
+			<stat type="mAtk">26</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+		<skills>
+			<skill id="3599" level="1"/> <!-- Polearm Multiattack -->
+		</skills>
+	</item>
+	<item id="3938" name="미공급 - 몹전용(하거인마법사 무기)" type="Weapon">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="POLE"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;66;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="101"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="BRONZE"/>
+		<set name="weight" val="300"/>
+		<set name="price" val="400000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="SPEAR"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="for_npc" val="true"/>
+		<stats>
+			<stat type="pAtk">50</stat>
+			<stat type="mAtk">26</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+		<skills>
+			<skill id="3599" level="1"/> <!-- Polearm Multiattack -->
+		</skills>
+	</item>
+	<item id="3939" name="미공급 - 몹전용(벤쉬)" type="Weapon">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="POLE"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;66;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="101"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="BRONZE"/>
+		<set name="weight" val="300"/>
+		<set name="price" val="400000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="commissionItemType" val="SPEAR"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="for_npc" val="true"/>
+		<stats>
+			<stat type="pAtk">50</stat>
+			<stat type="mAtk">26</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">80</stat>
+		</stats>
+		<skills>
+			<skill id="3599" level="1"/> <!-- Polearm Multiattack -->
+		</skills>
+	</item>
+	<item id="3940" name="미공급 설계도 - 서먼 시즈 골렘" type="EtcItem">
+		<!-- The item is not available. A blueprint for learning the Summon Siege Golem skill. <Class>. Warsmith. <Skill effect>. Summons a Siege Golem (only during a siege). -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="3941" name="미공급 - 마법서 - 매스 리저렉션" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Mass Resurrection skill. Used by Bishops. Required level: 40. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="4600"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="3942" name="미공급 마법서 - 파티 리콜" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Party Return skill. <Class>. Elven Elder. <Skill effect>. Teleports party members to the nearest village. Cannot be used in special places such as the GM Consultation Service. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="3943" name="미공급 - 부적 - 하트 오브 파아그리오" type="EtcItem">
+		<!-- The item is not available. An amulet for learning the Pa'agrio's Heart skill. Used by Overlords. Required level: 44. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="3850"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="3944" name="미공급 마법서 - 디크리즈 웨이트" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Decrease Weight skill. <Classes>. Elven Oracle, Prophet. <Skill effect>. Increases overweight limit. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="43681"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="3947" name="미공급 - 축복받은 무급 마정탄" type="EtcItem">
+		<!-- The item is not available. Spiritshots increase a weapon's magic power. Used with No-grade weapons. Take it to the Game Assistant to exchange for a new Spiritshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SPIRITSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="4"/>
+		<set name="price" val="35"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="BlessedSpiritShot"/>
+		<set name="commissionItemType" val="SPIRITSHOT"/>
+		<set name="etcitem_type" val="SOULSHOT"/>
+		<skills>
+			<skill id="2061" level="1"/> <!-- Blessed Spiritshot -->
+		</skills>
+	</item>
+	<item id="3948" name="미공급 - 축복받은 마정탄 - D그레이드" type="EtcItem">
+		<!-- The item is not available. Spiritshots increase a weapon's magic power. Used with D-grade weapons. Take it to the Game Assistant to exchange for a new Spiritshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SPIRITSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="4"/>
+		<set name="price" val="45"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="BlessedSpiritShot"/>
+		<set name="crystal_type" val="D"/>
+		<set name="commissionItemType" val="SPIRITSHOT"/>
+		<set name="etcitem_type" val="SOULSHOT"/>
+		<skills>
+			<skill id="2160" level="1"/> <!-- Blessed D-grade Spiritshot -->
+		</skills>
+	</item>
+	<item id="3949" name="미공급 - 축복받은 마정탄 - C그레이드" type="EtcItem">
+		<!-- The item is not available. Spiritshots increase a weapon's magic power. Used with C-grade weapons. Take it to the Game Assistant to exchange for a new Spiritshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SPIRITSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="2"/>
+		<set name="price" val="90"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="BlessedSpiritShot"/>
+		<set name="crystal_type" val="C"/>
+		<set name="commissionItemType" val="SPIRITSHOT"/>
+		<set name="etcitem_type" val="SOULSHOT"/>
+		<skills>
+			<skill id="2161" level="1"/> <!-- Blessed C-grade Spiritshot -->
+		</skills>
+	</item>
+	<item id="3950" name="미공급 - 축복받은 마정탄 - B그레이드" type="EtcItem">
+		<!-- The item is not available. Spiritshots increase a weapon's magic power. Used with B-grade weapons. Take it to the Game Assistant to exchange for a new Spiritshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SPIRITSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="2"/>
+		<set name="price" val="245"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="BlessedSpiritShot"/>
+		<set name="crystal_type" val="B"/>
+		<set name="etcitem_type" val="SOULSHOT"/>
+		<set name="commissionItemType" val="SPIRITSHOT"/>
+		<skills>
+			<skill id="2162" level="1"/> <!-- Blessed B-grade Spiritshot -->
+		</skills>
+	</item>
+	<item id="3951" name="미공급 - 축복받은 마정탄 - A그레이드" type="EtcItem">
+		<!-- The item is not available. Spiritshots increase a weapon's magic power. Used with A-grade weapons. Take it to the Game Assistant to exchange for a new Spiritshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SPIRITSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="290"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="BlessedSpiritShot"/>
+		<set name="crystal_type" val="A"/>
+		<set name="etcitem_type" val="SOULSHOT"/>
+		<set name="commissionItemType" val="SPIRITSHOT"/>
+		<skills>
+			<skill id="2163" level="1"/> <!-- Blessed A-grade Spiritshot -->
+		</skills>
+	</item>
+	<item id="3952" name="미공급 - 축복받은 마정탄 - S그레이드" type="EtcItem">
+		<!-- The item is not available. Spiritshots increase a weapon's magic power. Used with S-grade weapons. Take it to the Game Assistant to exchange for a new Spiritshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SPIRITSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="1"/>
+		<set name="price" val="350"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="BlessedSpiritShot"/>
+		<set name="crystal_type" val="S"/>
+		<set name="etcitem_type" val="SOULSHOT"/>
+		<set name="commissionItemType" val="SPIRITSHOT"/>
+		<skills>
+			<skill id="2164" level="1"/> <!-- Blessed S-grade Spiritshot -->
+		</skills>
+	</item>
+	<item id="3953" name="미공급 - 레시피: 축복받은 마정탄 - D그레이드(100%)" type="EtcItem">
+		<!-- The item is not available. For Dwarves only. Recipe for Blessed D-grade Spiritshots. Not used. Take it to Cat Guild's trader to get some adena. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="RECIPE"/>
+		<set name="etcitem_type" val="RECIPE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="30"/>
+		<set name="price" val="5000"/>
+		<set name="recipe_id" val="323"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="RECIPE"/>
+		<set name="handler" val="Recipes"/>
+	</item>
+	<item id="3954" name="미공급 - 레시피: 축복받은 마정탄 - C그레이드(100%)" type="EtcItem">
+		<!-- The item is not available. For Dwarves only. Recipe for Blessed C-grade Spiritshots. Not used. Take it to Cat Guild's trader to get some adena. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="RECIPE"/>
+		<set name="etcitem_type" val="RECIPE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="30"/>
+		<set name="price" val="60000"/>
+		<set name="recipe_id" val="324"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="RECIPE"/>
+		<set name="handler" val="Recipes"/>
+	</item>
+	<item id="3955" name="미공급 - 레시피: 축복받은 마정탄 - B그레이드(100%)" type="EtcItem">
+		<!-- The item is not available. For Dwarves only. Recipe for Blessed B-grade Spiritshots. Not used. Take it to Cat Guild's trader to get some adena. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="RECIPE"/>
+		<set name="etcitem_type" val="RECIPE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="30"/>
+		<set name="price" val="100000"/>
+		<set name="recipe_id" val="325"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="RECIPE"/>
+		<set name="handler" val="Recipes"/>
+	</item>
+	<item id="3956" name="미공급 - 레시피: 축복받은 마정탄 - A그레이드(100%)" type="EtcItem">
+		<!-- The item is not available. For Dwarves only. Recipe for Blessed A-grade Spiritshots. Not used. Take it to Cat Guild's trader to get some adena. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="RECIPE"/>
+		<set name="etcitem_type" val="RECIPE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="30"/>
+		<set name="price" val="150000"/>
+		<set name="recipe_id" val="326"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="RECIPE"/>
+		<set name="handler" val="Recipes"/>
+	</item>
+	<item id="3957" name="미공급 - 레시피: 축복받은 마정탄 - S그레이드(100%)" type="EtcItem">
+		<!-- The item is not available. For Dwarves only. Recipe for Blessed S-grade Spiritshots. Not used. Take it to Cat Guild's trader to get some adena. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="RECIPE"/>
+		<set name="etcitem_type" val="RECIPE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="30"/>
+		<set name="price" val="450000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="recipe_id" val="327"/>
+		<set name="handler" val="Recipes"/>
+	</item>
+	<item id="3958" name="미공급 - L2day 축복받은 귀환 주문서" type="EtcItem">
+		<!-- The item is not available. Teleports to the nearest village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<skills>
+			<skill id="2036" level="2"/> <!-- Improved Scroll of Escape L2day -->
+		</skills>
+	</item>
+	<item id="3959" name="미공급 - L2day 축복받은 부활 주문서" type="EtcItem">
+		<!-- The item is not available. A magic scroll that resurrects a dead party member fully recovering their XP. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<skills>
+			<skill id="2062" level="1"/> <!-- Blessed Scroll of Resurrection -->
+		</skills>
+	</item>
+	<item id="3960" name="미공급 - 용병배치표(칼/고정)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="20000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3961" name="미공급 - 용병배치표(창/고정)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="30000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3962" name="미공급 - 용병배치표(활/고정)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="40000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3963" name="미공급 - 용병배치표(클레릭/고정)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3964" name="미공급 - 용병배치표(위저드/고정)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3965" name="미공급 - 용병배치표(칼/이동)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="20000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3966" name="미공급 - 용병배치표(창/이동)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="30000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3967" name="미공급 - 용병배치표(활/이동)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="40000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3968" name="미공급 - 용병배치표(클레릭/이동)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3969" name="미공급 - 용병배치표(위저드/이동)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3970" name="미공급 - 용병배치표(텔레포터1)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3971" name="미공급 - 용병배치표(텔레포터2)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3972" name="미공급 - 용병배치표(텔레포터3)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3973" name="용병배치표(칼/고정)" type="EtcItem">
+		<!-- Dion/ Sword/ Stationary. -->
+		<set name="icon" val="icon.mticket_sword_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="20000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3974" name="용병배치표(창/고정)" type="EtcItem">
+		<!-- Dion/ Spear/ Stationary. -->
+		<set name="icon" val="icon.mticket_pole_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="30000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3975" name="용병배치표(활/고정)" type="EtcItem">
+		<!-- Dion/ Bow/ Stationary. -->
+		<set name="icon" val="icon.mticket_bow_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="40000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3976" name="용병배치표(클레릭/고정)" type="EtcItem">
+		<!-- Dion/ Healer/ Stationary. -->
+		<set name="icon" val="icon.mticket_cleric_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3977" name="용병배치표(위저드/고정)" type="EtcItem">
+		<!-- Dion/ Wizard/ Stationary. -->
+		<set name="icon" val="icon.mticket_wizard_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3978" name="용병배치표(칼/이동)" type="EtcItem">
+		<!-- Dion/ Sword/ Mobile. -->
+		<set name="icon" val="icon.mticket_sword_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="20000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3979" name="용병배치표(창/이동)" type="EtcItem">
+		<!-- Dion/ Spear/ Mobile. -->
+		<set name="icon" val="icon.mticket_pole_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="30000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3980" name="용병배치표(활/이동)" type="EtcItem">
+		<!-- Dion/ Bow/ Mobile. -->
+		<set name="icon" val="icon.mticket_bow_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="40000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3981" name="용병배치표(클레릭/이동)" type="EtcItem">
+		<!-- Dion/ Healer/ Mobile. -->
+		<set name="icon" val="icon.mticket_cleric_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3982" name="용병배치표(위저드/이동)" type="EtcItem">
+		<!-- Dion/ Wizard/ Mobile. -->
+		<set name="icon" val="icon.mticket_wizard_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3983" name="용병배치표(텔레포터1)" type="EtcItem">
+		<!-- Placed in Dion, at the Teleporter or inside the castle, this ticket allows teleportation to the inner castle or the guardian's location. -->
+		<set name="icon" val="icon.mticket_teleporter_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3984" name="용병배치표(텔레포터2)" type="EtcItem">
+		<!-- Placed in Dion, at the Teleporter or inside the castle, this ticket allows teleportation to the outer castle or the guardian's location. -->
+		<set name="icon" val="icon.mticket_teleporter_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3985" name="용병배치표(텔레포터3)" type="EtcItem">
+		<!-- Placed in Dion, at the Teleporter or inside the castle, this ticket allows teleportation to the inner or outer castle. -->
+		<set name="icon" val="icon.mticket_teleporter_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3986" name="용병배치표(칼/고정)" type="EtcItem">
+		<!-- Giran/ Sword/ Stationary. -->
+		<set name="icon" val="icon.mticket_sword_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="20000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3987" name="용병배치표(창/고정)" type="EtcItem">
+		<!-- Giran/ Spear/ Stationary. -->
+		<set name="icon" val="icon.mticket_pole_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="30000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3988" name="용병배치표(활/고정)" type="EtcItem">
+		<!-- Giran/ Bow/ Stationary. -->
+		<set name="icon" val="icon.mticket_bow_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="40000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3989" name="용병배치표(클레릭/고정)" type="EtcItem">
+		<!-- Giran/ Healer/ Stationary. -->
+		<set name="icon" val="icon.mticket_cleric_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3990" name="용병배치표(위저드/고정)" type="EtcItem">
+		<!-- Giran/ Wizard/ Stationary. -->
+		<set name="icon" val="icon.mticket_wizard_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3991" name="용병배치표(칼/이동)" type="EtcItem">
+		<!-- Giran/ Sword/ Mobile. -->
+		<set name="icon" val="icon.mticket_sword_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="20000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3992" name="용병배치표(창/이동)" type="EtcItem">
+		<!-- Giran/ Spear/ Mobile. -->
+		<set name="icon" val="icon.mticket_pole_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="30000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3993" name="용병배치표(활/이동)" type="EtcItem">
+		<!-- Giran/ Bow/ Mobile. -->
+		<set name="icon" val="icon.mticket_bow_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="40000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3994" name="용병배치표(클레릭/이동)" type="EtcItem">
+		<!-- Giran/ Healer/ Mobile. -->
+		<set name="icon" val="icon.mticket_cleric_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3995" name="용병배치표(위저드/이동)" type="EtcItem">
+		<!-- Giran/ Wizard/ Mobile. -->
+		<set name="icon" val="icon.mticket_wizard_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3996" name="용병배치표(텔레포터1)" type="EtcItem">
+		<!-- Placed in Giran, at the Teleporter or inside the castle, this ticket allows teleportation to the inner castle or the guardian's location. -->
+		<set name="icon" val="icon.mticket_teleporter_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3997" name="용병배치표(텔레포터2)" type="EtcItem">
+		<!-- Placed in Giran, at the Teleporter or inside the castle, this ticket allows teleportation to the outer castle or the guardian's location. -->
+		<set name="icon" val="icon.mticket_teleporter_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3998" name="용병배치표(텔레포터3)" type="EtcItem">
+		<!-- Placed in Giran, at the Teleporter or inside the castle, this ticket allows teleportation to the inner or outer castle. -->
+		<set name="icon" val="icon.mticket_teleporter_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="3999" name="용병배치표(칼/고정)" type="EtcItem">
+		<!-- Oren/ Sword/ Stationary. -->
+		<set name="icon" val="icon.mticket_sword_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="20000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+</list>

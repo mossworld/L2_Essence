@@ -1,0 +1,830 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1600" name="미공급 - 카샤 회색곰의 발톱" type="EtcItem">
+		<!-- The item is not available. A claw pulled out from a Kasha Bear after killing it. Collect 5 of these. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1601" name="미공급 - 카샤 칼날 거미의 발톱" type="EtcItem">
+		<!-- The item is not available. A talon pulled out from a Kasha Blade Spider after killing it. Collect 5 of these. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1602" name="미공급 - 스칼렛 살러맨더의 비늘" type="EtcItem">
+		<!-- The item is not available. A scale of a Scarlet Salamander. Collect 5 of these. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1603" name="미공급 - 불꽃의 투혼 비전서" type="EtcItem">
+		<!-- The item is not available. The first scroll containing the secret of Kabart, the Orcs' traditional martial arts. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1604" name="미공급 - 로시크의 편지" type="EtcItem">
+		<!-- The item is not available. A letter written by Khavatari Rosheek. Take it to Gantaki Zu Urutu. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1605" name="미공급 - 간타키의 추천장" type="EtcItem">
+		<!-- The item is not available. Gantaki's letter of recommendation. Take it to Prefect Kasman in Gludin. You can get there by talking to Gatekeeper Tamil. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1606" name="미공급 - 무화과 열매" type="EtcItem">
+		<!-- The item is not available. A fig from Prefect Kasman. Take it to Khavatari Toruku. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1607" name="미공급 - 가죽 주머니" type="EtcItem">
+		<!-- The item is not available. A leather pouch given by Khavatari Toruku. Kill fighters of various tribes and collect 12 of their tokens. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1608" name="미공급 - 가득찬 가죽 주머니" type="EtcItem">
+		<!-- The item is not available. A pouch filled with tokens after killing fighters of various tribes. Take it to Khavatari Toruku. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1609" name="미공급 - 부쿠 오크의 엄니" type="EtcItem">
+		<!-- The item is not available. A tusk obtained after killing a Vuku Orc. Collect 3 of these. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1610" name="미공급 - 랫맨의 송곳니" type="EtcItem">
+		<!-- The item is not available. A fang from a dead Ratman Warrior. Collect 3 of these. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1611" name="미공급 - 랑크 리자드맨 전사의 이빨" type="EtcItem">
+		<!-- The item is not available. A tooth obtained after killing a Langk Lizardman. Collect 3 of these. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1612" name="미공급 - 팰림 리자드맨 전사의 이빨" type="EtcItem">
+		<!-- The item is not available. A tooth obtained after killing a Felim Lizardman. Collect 3 of these. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1613" name="미공급 - 강철의 의지 비전서" type="EtcItem">
+		<!-- The item is not available. The second scroll containing the secret of Kabart, the Orcs' traditional martial arts. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1614" name="미공급 - 토르쿠의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Khavatari Toruku. Take it to Prefect Kasman. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1615" name="미공급 - 카바타리의 토템" type="EtcItem">
+		<!-- The item is not available. A token given to those who are to become Orc Monks. Take it to the High Prefect to change your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1616" name="미공급 - 불꽃의 부적" type="EtcItem">
+		<!-- The item is not avalable. A charm inscribed with the fire mantra. Take it and find the 3 items that Tataru spoke of. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1617" name="미공급 - 카샤 회색곰의 가죽" type="EtcItem">
+		<!-- The item is not available. A pelt of Kasha Bear. Take it to Tataru along with Kasha Blade Spider Husk and Fiery Egg. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1618" name="미공급 - 카샤 칼날 거미의 허물" type="EtcItem">
+		<!-- The item is not available. A husk of Kasha Blade Spider. Take it to Tataru along with Kasha Bear Pelt and Fiery Egg. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1619" name="미공급 - 불꽃의 알" type="EtcItem">
+		<!-- The item is not available. An egg obtained from Scarlet Salamander. Take it to Tataru along with Kasha Bear Pelt and Kasha Blade Spider Husk. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1620" name="미공급 - 헤스투이의 가면" type="EtcItem">
+		<!-- The item is not available. A bear mask. Take it to Hestui Totem Spirit. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1621" name="미공급 - 불꽃의 알" type="EtcItem">
+		<!-- The item is not available. An egg obtained from Scarlet Salamander. Take it to Tataru along with Kasha Bear Pelt and Kasha Blade Spider Husk. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1622" name="미공급 - 토템령의 발톱" type="EtcItem">
+		<!-- The item is not available. A claw received from Hestui Totem Spirit. Take it to Tataru. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1623" name="미공급 - 타타르의 추천장" type="EtcItem">
+		<!-- The item is not available. A letter written by Tataru. Take it to Priest Umos in Gludin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1624" name="미공급 - 화염의 부적" type="EtcItem">
+		<!-- The item is not available. A charm inscribed with the flame mantra. Take it and collect Grizzly Blood for Priest Umos. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1625" name="미공급 - 그리즐리 곰의 피" type="EtcItem">
+		<!-- The item is not available. A glass bottle filled with Grizzly Blood. Collect 3 of these and take them to Priest Umos. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1626" name="미공급 - 피를 담은 항아리" type="EtcItem">
+		<!-- The item is not available. A cauldron filled with Grizzly Blood. Take it to Duda-Mara Totem Spirit. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1627" name="미공급 - 영혼의 그물" type="EtcItem">
+		<!-- The item is not available. A net made with spider silk. Use it to capture Durka Spirit hidden inside Poisonous Spiders. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1628" name="미공급 - 봉인된 두르카의 악령" type="EtcItem">
+		<!-- The item is not available. Durka Spirit bound with Spirit Net. Take it to Duda-Mara Totem Spirit. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1629" name="미공급 - 두르카의 기생령" type="EtcItem">
+		<!-- The item is not available. An evil spirit that comes out from spiders possessed with Durka Spirit. Required for summoning Durka Spirit. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1630" name="미공급 - 토템령의 피" type="EtcItem">
+		<!-- The item is not available. Blood of Duda-Mara Totem Spirit. Take it to Seer Umos. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1631" name="미공급 - 주술자의 가면" type="EtcItem">
+		<!-- The item is not available. A mask given to those who are to become Orc Shamans. Take it to the High Prefect to change your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1632" name="미공급 - 실베리의 반지" type="EtcItem">
+		<!-- The item is not available. A ring given to Artisan aspirants by Blacksmith Silvera. Kill Boogle Ratmen and collect their teeth. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1633" name="미공급 - 1차 시험 합격증" type="EtcItem">
+		<!-- The item is not available. The certificate for passing the 1st Artisan test. To take the next test, you must go to Blacksmith Kluto in Gludin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1634" name="미공급 - 2차 시험 합격증" type="EtcItem">
+		<!-- The item is not available. The certificate for passing the 2nd Artisan test. Take it to Blacksmith Kluto in Gludin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1635" name="미공급 - 최종 합격증" type="EtcItem">
+		<!-- The item is not available. The certificate for passing the final Artisan test. Take it to the Head Blacksmith to change your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1636" name="미공급 - 부글 랫맨의 앞니" type="EtcItem">
+		<!-- The item is not available. An ugly tooth of a Boogle Ratman. Just looking at it makes you nauseous. Collect 10 of these and take them to Blacksmith Silvera. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1637" name="미공급 - 부글 랫맨 대장의 앞니" type="EtcItem">
+		<!-- The item is not available. Boogle Ratman Captain's stinky tooth. Collect 2 of these and take them to Blacksmith Silvera. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1638" name="미공급 - 클루토의 편지" type="EtcItem">
+		<!-- The item is not available. Blacksmith Kluto's letter. Take to Blacksmith Pinter in Gludio. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1639" name="미공급 - 도둑의 발자국" type="EtcItem">
+		<!-- The item is not available. A trace left by thieves. Kill Vuku Orc Warriors, recover stolen items and take them to Blacksmith Pinter. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1640" name="미공급 - 도둑맞은 비밀의 상자" type="EtcItem">
+		<!-- The item is not available. A box stolen by Vuku Orc Warriors. Its contents are unknown, but anyway, take it to Blacksmith Pinter. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1641" name="미공급 - 비밀 상자" type="EtcItem">
+		<!-- The item is not available. A mysterious box received from Pinter. Its contents are unknown, but don't worry and take it to Blacksmith Kluto in Gludin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1642" name="미공급 - 갈가마귀의 반지" type="EtcItem">
+		<!-- The item is not available. The mark given to those who are to become Scavengers. Take it to the Warehouse Chief to change your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1643" name="미공급 - 피피의 소개장" type="EtcItem">
+		<!-- The item is not available. A letter of recommendation written by Collector Pepy. Take it to Grocer Mion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1644" name="미공급 - 라우트의 텔레포트 주문서" type="EtcItem">
+		<!-- The item is not available. An order sheet given by Warehouse Keeper Raut. Take it to Torai in the southern part of the Death Pass. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1645" name="미공급 - 서큐버스 속옷" type="EtcItem">
+		<!-- The item is not available. Succubus' underwear received from Torai. Take it to Warehouse Keeper Raut in Gludin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1646" name="미공급 - 미온의 편지" type="EtcItem">
+		<!-- The item is not available. A letter from Grocer Mion to her brother. Take it to Master Toma. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1647" name="미공급 - 브롱크의 은괴" type="EtcItem">
+		<!-- The item is not available. An ingot to be given to Head Blacksmith Bronk. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1648" name="미공급 - 챠리의 도끼" type="EtcItem">
+		<!-- The item is not available. An axe to be given to Armor Merchant Shari. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1649" name="미공급 - 지맨프의 물약" type="EtcItem">
+		<!-- The item is not available. A potion to give to Head Priest of the Earth Zimenf. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1650" name="미공급 - 브롱크의 물건값" type="EtcItem">
+		<!-- The item is not available. Payment from Head Blacksmith Bronk. Take it to Grocer Mion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1651" name="미공급 - 챠리의 물건값" type="EtcItem">
+		<!-- The item is not available. Payment from Shari. Take it to Grocer Mion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1652" name="미공급 - 지맨프의 물건값" type="EtcItem">
+		<!-- The item is not available. Payment from Zimenf. Take it to Grocer Mion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1653" name="미공급 - 곰돌이 그림" type="EtcItem">
+		<!-- The item is not available. A bear's picture from Master Toma. Carry it with you while hunting Hunter Bears until a Honey Bear appears. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1654" name="미공급 - 타란툴라 그림" type="EtcItem">
+		<!-- The item is not available. A spider's picture from Master Toma. Carry it with you while hunting Tarantulas. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1655" name="미공급 - 꿀 단지" type="EtcItem">
+		<!-- The item is not available. A honey jar from Honey Bear. Collect 5 of these and take them to Master Toma. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1656" name="미공급 - 구슬" type="EtcItem">
+		<!-- The item is not available. A bead obtained from Tarantula. Gather 20 of these and take them to Master Toma. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1657" name="미공급 - 구슬 꾸러미" type="EtcItem">
+		<!-- The item is not available. A parcel made of beads. Take it to Warehouse Keeper Raut in Gludin. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1658" name="게이트키퍼의 부적" type="EtcItem">
+		<!-- Used to teleport from the Orc Village to Gludin. -->
+		<set name="icon" val="icon.etc_totem_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="1659" name="게이트키퍼 토큰" type="EtcItem">
+		<!-- Used to teleport from the Dwarven Village to Gludin. -->
+		<set name="icon" val="icon.etc_coins_silver_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="1660" name="저주받은 메인거쉬" type="Weapon">
+		<!-- Cursed Maingauche. Its P. Atk. is low, but it can inflict Bleed on a critical attack with a certain chance. <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ High Elves/ Samurais></font> -->
+		<set name="icon" val="icon.t00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_count" val="2545"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1070"/>
+		<set name="price" val="1400000"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="commissionItemType" val="DAGGER"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<stats>
+			<stat type="pAtk">62</stat>
+			<stat type="mAtk">42</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="accCombat">-3.75</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+		<skills>
+			<skill id="3005" level="1" type="ON_CRITICAL_SKILL"/> <!-- Not used - Bleed -->
+		</skills>
+	</item>
+	<item id="1661" name="도적의 열쇠" type="EtcItem">
+		<set name="icon" val="icon.etc_key_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="1000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1665" name="미공급 - 지도 - 아덴" type="EtcItem">
+		<!-- The item is not available. An ancient map. Can be sold in any shop. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="1000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="Maps"/>
+	</item>
+	<item id="1666" name="레시피: 나무화살(100%)" type="EtcItem">
+		<!-- The item is not available. For Dwarves only. A recipe for Wooden Arrow. Outdated and no longer used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="RECIPE"/>
+		<set name="etcitem_type" val="RECIPE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="30"/>
+		<set name="price" val="600"/>
+		<set name="recipe_id" val="1"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="RECIPE"/>
+		<set name="handler" val="Recipes"/>
+	</item>
+	<item id="1667" name="미공급 - 마법서 - 서먼 섀도우" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Summon Shadow skill. Used by Dark Wizards. Required level: 20. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="800"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1668" name="미공급 - 마법서 - 서먼 뮤 더 캣" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Summon Mew the Cat skill. Used by Human Wizards. Required level: 20. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="1250"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1669" name="미공급 - 마법서 - 서먼 유니콘 박서" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Summon Boxer the Unicorn skill. Used by Elven Wizards. Required level: 20. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="800"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1670" name="미공급 - 마법서 - 서먼 유니콘 미라쥬" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Summon Mirage the Unicorn skill. Used by Elven Wizards. Required level: 20. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="1250"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1671" name="미공급 - 마법서 - 서먼 실루엣" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Summon Silhouette skill. Used by Dark Wizards. Required level: 20. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="800"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

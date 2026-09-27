@@ -1,0 +1,2315 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="93200" name="강화된 탈룸 레더 메일 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t78_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92265" min="1" max="1" chance="80" name="탈룸 레더 메일"/> <!-- Tallum Leather Armor - Sealed -->
+			<item id="92265" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 레더 메일"/> <!-- Tallum Leather Armor - Sealed -->
+			<item id="92265" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 레더 메일"/> <!-- Tallum Leather Armor - Sealed -->
+			<item id="92265" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 레더 메일"/> <!-- Tallum Leather Armor - Sealed -->
+			<item id="92265" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 레더 메일"/> <!-- Tallum Leather Armor - Sealed -->
+			<item id="92265" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 레더 메일"/> <!-- Tallum Leather Armor - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93201" name="강화된 악몽의 레더 메일 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t81_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92266" min="1" max="1" chance="80" name="악몽의 레더 메일"/> <!-- Leather Armor of Nightmare - Sealed -->
+			<item id="92266" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 레더 메일"/> <!-- Leather Armor of Nightmare - Sealed -->
+			<item id="92266" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 레더 메일"/> <!-- Leather Armor of Nightmare - Sealed -->
+			<item id="92266" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 레더 메일"/> <!-- Leather Armor of Nightmare - Sealed -->
+			<item id="92266" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 레더 메일"/> <!-- Leather Armor of Nightmare - Sealed -->
+			<item id="92266" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 레더 메일"/> <!-- Leather Armor of Nightmare - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93202" name="강화된 마제스틱 레더 메일 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t84_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92267" min="1" max="1" chance="80" name="마제스틱 레더 메일"/> <!-- Majestic Leather Armor - Sealed -->
+			<item id="92267" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 레더 메일"/> <!-- Majestic Leather Armor - Sealed -->
+			<item id="92267" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 레더 메일"/> <!-- Majestic Leather Armor - Sealed -->
+			<item id="92267" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 레더 메일"/> <!-- Majestic Leather Armor - Sealed -->
+			<item id="92267" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 레더 메일"/> <!-- Majestic Leather Armor - Sealed -->
+			<item id="92267" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 레더 메일"/> <!-- Majestic Leather Armor - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93203" name="강화된 탈룸 튜닉 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t79_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92268" min="1" max="1" chance="80" name="탈룸 튜닉"/> <!-- Tallum Tunic - Sealed -->
+			<item id="92268" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 튜닉"/> <!-- Tallum Tunic - Sealed -->
+			<item id="92268" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 튜닉"/> <!-- Tallum Tunic - Sealed -->
+			<item id="92268" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 튜닉"/> <!-- Tallum Tunic - Sealed -->
+			<item id="92268" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 튜닉"/> <!-- Tallum Tunic - Sealed -->
+			<item id="92268" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 튜닉"/> <!-- Tallum Tunic - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93204" name="강화된 탈룸 호즈 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t79_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92269" min="1" max="1" chance="80" name="탈룸 호즈"/> <!-- Tallum Stockings - Sealed -->
+			<item id="92269" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 호즈"/> <!-- Tallum Stockings - Sealed -->
+			<item id="92269" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 호즈"/> <!-- Tallum Stockings - Sealed -->
+			<item id="92269" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 호즈"/> <!-- Tallum Stockings - Sealed -->
+			<item id="92269" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 호즈"/> <!-- Tallum Stockings - Sealed -->
+			<item id="92269" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 호즈"/> <!-- Tallum Stockings - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93205" name="강화된 다크 크리스탈 로브 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t76_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92270" min="1" max="1" chance="80" name="다크 크리스탈 로브"/> <!-- Dark Crystal Robe - Sealed -->
+			<item id="92270" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 로브"/> <!-- Dark Crystal Robe - Sealed -->
+			<item id="92270" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 로브"/> <!-- Dark Crystal Robe - Sealed -->
+			<item id="92270" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 로브"/> <!-- Dark Crystal Robe - Sealed -->
+			<item id="92270" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 로브"/> <!-- Dark Crystal Robe - Sealed -->
+			<item id="92270" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 로브"/> <!-- Dark Crystal Robe - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93206" name="강화된 악몽의 로브 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t82_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92271" min="1" max="1" chance="80" name="악몽의 로브"/> <!-- Robe of Nightmare - Sealed -->
+			<item id="92271" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 로브"/> <!-- Robe of Nightmare - Sealed -->
+			<item id="92271" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 로브"/> <!-- Robe of Nightmare - Sealed -->
+			<item id="92271" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 로브"/> <!-- Robe of Nightmare - Sealed -->
+			<item id="92271" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 로브"/> <!-- Robe of Nightmare - Sealed -->
+			<item id="92271" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 로브"/> <!-- Robe of Nightmare - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93207" name="강화된 마제스틱 로브 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t85_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92272" min="1" max="1" chance="80" name="마제스틱 로브"/> <!-- Majestic Robe - Sealed -->
+			<item id="92272" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 로브"/> <!-- Majestic Robe - Sealed -->
+			<item id="92272" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 로브"/> <!-- Majestic Robe - Sealed -->
+			<item id="92272" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 로브"/> <!-- Majestic Robe - Sealed -->
+			<item id="92272" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 로브"/> <!-- Majestic Robe - Sealed -->
+			<item id="92272" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 로브"/> <!-- Majestic Robe - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93208" name="강화된 악몽의 투구 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92273" min="1" max="1" chance="80" name="악몽의 투구"/> <!-- Helm of Nightmare - Sealed -->
+			<item id="92273" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 투구"/> <!-- Helm of Nightmare - Sealed -->
+			<item id="92273" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 투구"/> <!-- Helm of Nightmare - Sealed -->
+			<item id="92273" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 투구"/> <!-- Helm of Nightmare - Sealed -->
+			<item id="92273" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 투구"/> <!-- Helm of Nightmare - Sealed -->
+			<item id="92273" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 투구"/> <!-- Helm of Nightmare - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93209" name="강화된 마제스틱 서클릿 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92274" min="1" max="1" chance="80" name="마제스틱 서클릿"/> <!-- Majestic Circlet - Sealed -->
+			<item id="92274" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 서클릿"/> <!-- Majestic Circlet - Sealed -->
+			<item id="92274" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 서클릿"/> <!-- Majestic Circlet - Sealed -->
+			<item id="92274" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 서클릿"/> <!-- Majestic Circlet - Sealed -->
+			<item id="92274" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 서클릿"/> <!-- Majestic Circlet - Sealed -->
+			<item id="92274" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 서클릿"/> <!-- Majestic Circlet - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93210" name="강화된 다크 크리스탈 글로브 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t15_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92275" min="1" max="1" chance="80" name="다크 크리스탈 글로브"/> <!-- Dark Crystal Gloves - Sealed -->
+			<item id="92275" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 글로브"/> <!-- Dark Crystal Gloves - Sealed -->
+			<item id="92275" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 글로브"/> <!-- Dark Crystal Gloves - Sealed -->
+			<item id="92275" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 글로브"/> <!-- Dark Crystal Gloves - Sealed -->
+			<item id="92275" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 글로브"/> <!-- Dark Crystal Gloves - Sealed -->
+			<item id="92275" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 글로브"/> <!-- Dark Crystal Gloves - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93211" name="강화된 악몽의 실드 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.shield_shield_of_nightmare_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92276" min="1" max="1" chance="80" name="악몽의 실드"/> <!-- Shield of Nightmare - Sealed -->
+			<item id="92276" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 실드"/> <!-- Shield of Nightmare - Sealed -->
+			<item id="92276" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 실드"/> <!-- Shield of Nightmare - Sealed -->
+			<item id="92276" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 실드"/> <!-- Shield of Nightmare - Sealed -->
+			<item id="92276" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 실드"/> <!-- Shield of Nightmare - Sealed -->
+			<item id="92276" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 실드"/> <!-- Shield of Nightmare - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93212" name="강화된 다크 크리스탈 글로브 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t74_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92277" min="1" max="1" chance="80" name="다크 크리스탈 글로브 - 중갑"/> <!-- Dark Crystal Gloves (Heavy) - Sealed -->
+			<item id="92277" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 글로브 - 중갑"/> <!-- Dark Crystal Gloves (Heavy) - Sealed -->
+			<item id="92277" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 글로브 - 중갑"/> <!-- Dark Crystal Gloves (Heavy) - Sealed -->
+			<item id="92277" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 글로브 - 중갑"/> <!-- Dark Crystal Gloves (Heavy) - Sealed -->
+			<item id="92277" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 글로브 - 중갑"/> <!-- Dark Crystal Gloves (Heavy) - Sealed -->
+			<item id="92277" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 글로브 - 중갑"/> <!-- Dark Crystal Gloves (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93213" name="강화된 다크 크리스탈 글로브 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t75_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92278" min="1" max="1" chance="80" name="다크 크리스탈 글로브 - 경갑"/> <!-- Dark Crystal Gloves (Light) - Sealed -->
+			<item id="92278" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 글로브 - 경갑"/> <!-- Dark Crystal Gloves (Light) - Sealed -->
+			<item id="92278" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 글로브 - 경갑"/> <!-- Dark Crystal Gloves (Light) - Sealed -->
+			<item id="92278" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 글로브 - 경갑"/> <!-- Dark Crystal Gloves (Light) - Sealed -->
+			<item id="92278" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 글로브 - 경갑"/> <!-- Dark Crystal Gloves (Light) - Sealed -->
+			<item id="92278" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 글로브 - 경갑"/> <!-- Dark Crystal Gloves (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93214" name="강화된 다크 크리스탈 글로브 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t76_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92279" min="1" max="1" chance="80" name="다크 크리스탈 글로브 - 로브"/> <!-- Dark Crystal Gloves (Robe) - Sealed -->
+			<item id="92279" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 글로브 - 로브"/> <!-- Dark Crystal Gloves (Robe) - Sealed -->
+			<item id="92279" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 글로브 - 로브"/> <!-- Dark Crystal Gloves (Robe) - Sealed -->
+			<item id="92279" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 글로브 - 로브"/> <!-- Dark Crystal Gloves (Robe) - Sealed -->
+			<item id="92279" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 글로브 - 로브"/> <!-- Dark Crystal Gloves (Robe) - Sealed -->
+			<item id="92279" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 글로브 - 로브"/> <!-- Dark Crystal Gloves (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93215" name="강화된 탈룸 글로브 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t77_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92280" min="1" max="1" chance="80" name="탈룸 글로브 - 중갑"/> <!-- Tallum Gloves (Heavy) - Sealed -->
+			<item id="92280" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 글로브 - 중갑"/> <!-- Tallum Gloves (Heavy) - Sealed -->
+			<item id="92280" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 글로브 - 중갑"/> <!-- Tallum Gloves (Heavy) - Sealed -->
+			<item id="92280" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 글로브 - 중갑"/> <!-- Tallum Gloves (Heavy) - Sealed -->
+			<item id="92280" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 글로브 - 중갑"/> <!-- Tallum Gloves (Heavy) - Sealed -->
+			<item id="92280" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 글로브 - 중갑"/> <!-- Tallum Gloves (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93216" name="강화된 탈룸 글로브 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t78_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92281" min="1" max="1" chance="80" name="탈룸 글로브 - 경갑"/> <!-- Tallum Gloves (Light) - Sealed -->
+			<item id="92281" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 글로브 - 경갑"/> <!-- Tallum Gloves (Light) - Sealed -->
+			<item id="92281" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 글로브 - 경갑"/> <!-- Tallum Gloves (Light) - Sealed -->
+			<item id="92281" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 글로브 - 경갑"/> <!-- Tallum Gloves (Light) - Sealed -->
+			<item id="92281" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 글로브 - 경갑"/> <!-- Tallum Gloves (Light) - Sealed -->
+			<item id="92281" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 글로브 - 경갑"/> <!-- Tallum Gloves (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93217" name="강화된 탈룸 글로브 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t79_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92282" min="1" max="1" chance="80" name="탈룸 글로브 - 로브"/> <!-- Tallum Gloves (Robe) - Sealed -->
+			<item id="92282" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 글로브 - 로브"/> <!-- Tallum Gloves (Robe) - Sealed -->
+			<item id="92282" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 글로브 - 로브"/> <!-- Tallum Gloves (Robe) - Sealed -->
+			<item id="92282" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 글로브 - 로브"/> <!-- Tallum Gloves (Robe) - Sealed -->
+			<item id="92282" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 글로브 - 로브"/> <!-- Tallum Gloves (Robe) - Sealed -->
+			<item id="92282" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 글로브 - 로브"/> <!-- Tallum Gloves (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93218" name="강화된 악몽의 건틀렛 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t80_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92283" min="1" max="1" chance="80" name="악몽의 건틀렛 - 중갑"/> <!-- Gauntlets of Nightmare (Heavy) - Sealed -->
+			<item id="92283" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 건틀렛 - 중갑"/> <!-- Gauntlets of Nightmare (Heavy) - Sealed -->
+			<item id="92283" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 건틀렛 - 중갑"/> <!-- Gauntlets of Nightmare (Heavy) - Sealed -->
+			<item id="92283" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 건틀렛 - 중갑"/> <!-- Gauntlets of Nightmare (Heavy) - Sealed -->
+			<item id="92283" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 건틀렛 - 중갑"/> <!-- Gauntlets of Nightmare (Heavy) - Sealed -->
+			<item id="92283" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 건틀렛 - 중갑"/> <!-- Gauntlets of Nightmare (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93219" name="강화된 악몽의 건틀렛 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t81_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92284" min="1" max="1" chance="80" name="악몽의 건틀렛 - 경갑"/> <!-- Gauntlets of Nightmare (Light) - Sealed -->
+			<item id="92284" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 건틀렛 - 경갑"/> <!-- Gauntlets of Nightmare (Light) - Sealed -->
+			<item id="92284" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 건틀렛 - 경갑"/> <!-- Gauntlets of Nightmare (Light) - Sealed -->
+			<item id="92284" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 건틀렛 - 경갑"/> <!-- Gauntlets of Nightmare (Light) - Sealed -->
+			<item id="92284" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 건틀렛 - 경갑"/> <!-- Gauntlets of Nightmare (Light) - Sealed -->
+			<item id="92284" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 건틀렛 - 경갑"/> <!-- Gauntlets of Nightmare (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93220" name="강화된 악몽의 건틀렛 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t82_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92285" min="1" max="1" chance="80" name="악몽의 건틀렛 - 로브"/> <!-- Gauntlets of Nightmare (Robe) - Sealed -->
+			<item id="92285" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 건틀렛 - 로브"/> <!-- Gauntlets of Nightmare (Robe) - Sealed -->
+			<item id="92285" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 건틀렛 - 로브"/> <!-- Gauntlets of Nightmare (Robe) - Sealed -->
+			<item id="92285" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 건틀렛 - 로브"/> <!-- Gauntlets of Nightmare (Robe) - Sealed -->
+			<item id="92285" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 건틀렛 - 로브"/> <!-- Gauntlets of Nightmare (Robe) - Sealed -->
+			<item id="92285" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 건틀렛 - 로브"/> <!-- Gauntlets of Nightmare (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93221" name="강화된 마제스틱 건틀렛 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t83_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92286" min="1" max="1" chance="80" name="마제스틱 건틀렛 - 중갑"/> <!-- Majestic Gauntlets - Heavy Armor - Sealed -->
+			<item id="92286" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 건틀렛 - 중갑"/> <!-- Majestic Gauntlets - Heavy Armor - Sealed -->
+			<item id="92286" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 건틀렛 - 중갑"/> <!-- Majestic Gauntlets - Heavy Armor - Sealed -->
+			<item id="92286" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 건틀렛 - 중갑"/> <!-- Majestic Gauntlets - Heavy Armor - Sealed -->
+			<item id="92286" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 건틀렛 - 중갑"/> <!-- Majestic Gauntlets - Heavy Armor - Sealed -->
+			<item id="92286" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 건틀렛 - 중갑"/> <!-- Majestic Gauntlets - Heavy Armor - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93222" name="강화된 마제스틱 건틀렛 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t84_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92287" min="1" max="1" chance="80" name="마제스틱 건틀렛 - 경갑"/> <!-- Majestic Gauntlets - Light Armor - Sealed -->
+			<item id="92287" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 건틀렛 - 경갑"/> <!-- Majestic Gauntlets - Light Armor - Sealed -->
+			<item id="92287" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 건틀렛 - 경갑"/> <!-- Majestic Gauntlets - Light Armor - Sealed -->
+			<item id="92287" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 건틀렛 - 경갑"/> <!-- Majestic Gauntlets - Light Armor - Sealed -->
+			<item id="92287" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 건틀렛 - 경갑"/> <!-- Majestic Gauntlets - Light Armor - Sealed -->
+			<item id="92287" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 건틀렛 - 경갑"/> <!-- Majestic Gauntlets - Light Armor - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93223" name="강화된 마제스틱 건틀렛 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t85_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92288" min="1" max="1" chance="80" name="마제스틱 건틀렛 - 로브"/> <!-- Majestic Gauntlets - Robe - Sealed -->
+			<item id="92288" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 건틀렛 - 로브"/> <!-- Majestic Gauntlets - Robe - Sealed -->
+			<item id="92288" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 건틀렛 - 로브"/> <!-- Majestic Gauntlets - Robe - Sealed -->
+			<item id="92288" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 건틀렛 - 로브"/> <!-- Majestic Gauntlets - Robe - Sealed -->
+			<item id="92288" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 건틀렛 - 로브"/> <!-- Majestic Gauntlets - Robe - Sealed -->
+			<item id="92288" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 건틀렛 - 로브"/> <!-- Majestic Gauntlets - Robe - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93224" name="강화된 다크 크리스탈 부츠 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t74_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92289" min="1" max="1" chance="80" name="다크 크리스탈 부츠 - 중갑"/> <!-- Dark Crystal Boots (Heavy) - Sealed -->
+			<item id="92289" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 부츠 - 중갑"/> <!-- Dark Crystal Boots (Heavy) - Sealed -->
+			<item id="92289" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 부츠 - 중갑"/> <!-- Dark Crystal Boots (Heavy) - Sealed -->
+			<item id="92289" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 부츠 - 중갑"/> <!-- Dark Crystal Boots (Heavy) - Sealed -->
+			<item id="92289" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 부츠 - 중갑"/> <!-- Dark Crystal Boots (Heavy) - Sealed -->
+			<item id="92289" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 부츠 - 중갑"/> <!-- Dark Crystal Boots (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93225" name="강화된 다크 크리스탈 부츠 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t75_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92290" min="1" max="1" chance="80" name="다크 크리스탈 부츠 - 경갑"/> <!-- Dark Crystal Boots (Light) - Sealed -->
+			<item id="92290" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 부츠 - 경갑"/> <!-- Dark Crystal Boots (Light) - Sealed -->
+			<item id="92290" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 부츠 - 경갑"/> <!-- Dark Crystal Boots (Light) - Sealed -->
+			<item id="92290" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 부츠 - 경갑"/> <!-- Dark Crystal Boots (Light) - Sealed -->
+			<item id="92290" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 부츠 - 경갑"/> <!-- Dark Crystal Boots (Light) - Sealed -->
+			<item id="92290" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 부츠 - 경갑"/> <!-- Dark Crystal Boots (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93226" name="강화된 다크 크리스탈 부츠 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t76_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92291" min="1" max="1" chance="80" name="다크 크리스탈 부츠 - 로브"/> <!-- Dark Crystal Boots (Robe) - Sealed -->
+			<item id="92291" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 부츠 - 로브"/> <!-- Dark Crystal Boots (Robe) - Sealed -->
+			<item id="92291" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 부츠 - 로브"/> <!-- Dark Crystal Boots (Robe) - Sealed -->
+			<item id="92291" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 부츠 - 로브"/> <!-- Dark Crystal Boots (Robe) - Sealed -->
+			<item id="92291" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 부츠 - 로브"/> <!-- Dark Crystal Boots (Robe) - Sealed -->
+			<item id="92291" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 부츠 - 로브"/> <!-- Dark Crystal Boots (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93227" name="강화된 탈룸 부츠 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t77_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92292" min="1" max="1" chance="80" name="탈룸 부츠 - 중갑"/> <!-- Tallum Boots (Heavy) - Sealed -->
+			<item id="92292" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 부츠 - 중갑"/> <!-- Tallum Boots (Heavy) - Sealed -->
+			<item id="92292" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 부츠 - 중갑"/> <!-- Tallum Boots (Heavy) - Sealed -->
+			<item id="92292" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 부츠 - 중갑"/> <!-- Tallum Boots (Heavy) - Sealed -->
+			<item id="92292" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 부츠 - 중갑"/> <!-- Tallum Boots (Heavy) - Sealed -->
+			<item id="92292" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 부츠 - 중갑"/> <!-- Tallum Boots (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93228" name="강화된 탈룸 부츠 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t78_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92293" min="1" max="1" chance="80" name="탈룸 부츠 - 경갑"/> <!-- Tallum Boots (Light) - Sealed -->
+			<item id="92293" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 부츠 - 경갑"/> <!-- Tallum Boots (Light) - Sealed -->
+			<item id="92293" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 부츠 - 경갑"/> <!-- Tallum Boots (Light) - Sealed -->
+			<item id="92293" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 부츠 - 경갑"/> <!-- Tallum Boots (Light) - Sealed -->
+			<item id="92293" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 부츠 - 경갑"/> <!-- Tallum Boots (Light) - Sealed -->
+			<item id="92293" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 부츠 - 경갑"/> <!-- Tallum Boots (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93229" name="강화된 탈룸 부츠 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t79_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92294" min="1" max="1" chance="80" name="탈룸 부츠 - 로브"/> <!-- Tallum Boots (Robe) - Sealed -->
+			<item id="92294" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 부츠 - 로브"/> <!-- Tallum Boots (Robe) - Sealed -->
+			<item id="92294" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 부츠 - 로브"/> <!-- Tallum Boots (Robe) - Sealed -->
+			<item id="92294" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 부츠 - 로브"/> <!-- Tallum Boots (Robe) - Sealed -->
+			<item id="92294" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 부츠 - 로브"/> <!-- Tallum Boots (Robe) - Sealed -->
+			<item id="92294" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 부츠 - 로브"/> <!-- Tallum Boots (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93230" name="강화된 악몽의 부츠 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t80_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92295" min="1" max="1" chance="80" name="악몽의 부츠 - 중갑"/> <!-- Boots of Nightmare (Heavy) - Sealed -->
+			<item id="92295" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 부츠 - 중갑"/> <!-- Boots of Nightmare (Heavy) - Sealed -->
+			<item id="92295" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 부츠 - 중갑"/> <!-- Boots of Nightmare (Heavy) - Sealed -->
+			<item id="92295" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 부츠 - 중갑"/> <!-- Boots of Nightmare (Heavy) - Sealed -->
+			<item id="92295" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 부츠 - 중갑"/> <!-- Boots of Nightmare (Heavy) - Sealed -->
+			<item id="92295" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 부츠 - 중갑"/> <!-- Boots of Nightmare (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93231" name="강화된 악몽의 부츠 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t81_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92296" min="1" max="1" chance="80" name="악몽의 부츠 - 경갑"/> <!-- Boots of Nightmare (Light) - Sealed -->
+			<item id="92296" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 부츠 - 경갑"/> <!-- Boots of Nightmare (Light) - Sealed -->
+			<item id="92296" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 부츠 - 경갑"/> <!-- Boots of Nightmare (Light) - Sealed -->
+			<item id="92296" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 부츠 - 경갑"/> <!-- Boots of Nightmare (Light) - Sealed -->
+			<item id="92296" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 부츠 - 경갑"/> <!-- Boots of Nightmare (Light) - Sealed -->
+			<item id="92296" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 부츠 - 경갑"/> <!-- Boots of Nightmare (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93232" name="강화된 악몽의 부츠 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t82_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92297" min="1" max="1" chance="80" name="악몽의 부츠 - 로브"/> <!-- Boots of Nightmare (Robe) - Sealed -->
+			<item id="92297" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 부츠 - 로브"/> <!-- Boots of Nightmare (Robe) - Sealed -->
+			<item id="92297" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 부츠 - 로브"/> <!-- Boots of Nightmare (Robe) - Sealed -->
+			<item id="92297" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 부츠 - 로브"/> <!-- Boots of Nightmare (Robe) - Sealed -->
+			<item id="92297" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 부츠 - 로브"/> <!-- Boots of Nightmare (Robe) - Sealed -->
+			<item id="92297" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 부츠 - 로브"/> <!-- Boots of Nightmare (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93233" name="강화된 마제스틱 부츠 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t83_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92298" min="1" max="1" chance="80" name="마제스틱 부츠 - 중갑"/> <!-- Majestic Boots (Heavy) - Sealed -->
+			<item id="92298" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 부츠 - 중갑"/> <!-- Majestic Boots (Heavy) - Sealed -->
+			<item id="92298" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 부츠 - 중갑"/> <!-- Majestic Boots (Heavy) - Sealed -->
+			<item id="92298" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 부츠 - 중갑"/> <!-- Majestic Boots (Heavy) - Sealed -->
+			<item id="92298" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 부츠 - 중갑"/> <!-- Majestic Boots (Heavy) - Sealed -->
+			<item id="92298" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 부츠 - 중갑"/> <!-- Majestic Boots (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93234" name="강화된 마제스틱 부츠 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t84_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92299" min="1" max="1" chance="80" name="마제스틱 부츠 - 경갑"/> <!-- Majestic Boots (Light) - Sealed -->
+			<item id="92299" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 부츠 - 경갑"/> <!-- Majestic Boots (Light) - Sealed -->
+			<item id="92299" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 부츠 - 경갑"/> <!-- Majestic Boots (Light) - Sealed -->
+			<item id="92299" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 부츠 - 경갑"/> <!-- Majestic Boots (Light) - Sealed -->
+			<item id="92299" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 부츠 - 경갑"/> <!-- Majestic Boots (Light) - Sealed -->
+			<item id="92299" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 부츠 - 경갑"/> <!-- Majestic Boots (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93235" name="강화된 마제스틱 부츠 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t85_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92300" min="1" max="1" chance="80" name="마제스틱 부츠 - 로브"/> <!-- Majestic Boots (Robe) - Sealed -->
+			<item id="92300" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 부츠 - 로브"/> <!-- Majestic Boots (Robe) - Sealed -->
+			<item id="92300" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 부츠 - 로브"/> <!-- Majestic Boots (Robe) - Sealed -->
+			<item id="92300" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 부츠 - 로브"/> <!-- Majestic Boots (Robe) - Sealed -->
+			<item id="92300" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 부츠 - 로브"/> <!-- Majestic Boots (Robe) - Sealed -->
+			<item id="92300" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 부츠 - 로브"/> <!-- Majestic Boots (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93236" name="강화된 탈룸 헬멧 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92301" min="1" max="1" chance="80" name="탈룸 헬멧 - 중갑"/> <!-- Tallum Helmet (Heavy) - Sealed -->
+			<item id="92301" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 헬멧 - 중갑"/> <!-- Tallum Helmet (Heavy) - Sealed -->
+			<item id="92301" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 헬멧 - 중갑"/> <!-- Tallum Helmet (Heavy) - Sealed -->
+			<item id="92301" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 헬멧 - 중갑"/> <!-- Tallum Helmet (Heavy) - Sealed -->
+			<item id="92301" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 헬멧 - 중갑"/> <!-- Tallum Helmet (Heavy) - Sealed -->
+			<item id="92301" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 헬멧 - 중갑"/> <!-- Tallum Helmet (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93237" name="강화된 탈룸 헬멧 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92302" min="1" max="1" chance="80" name="탈룸 헬멧 - 경갑"/> <!-- Tallum Helmet (Light) - Sealed -->
+			<item id="92302" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 헬멧 - 경갑"/> <!-- Tallum Helmet (Light) - Sealed -->
+			<item id="92302" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 헬멧 - 경갑"/> <!-- Tallum Helmet (Light) - Sealed -->
+			<item id="92302" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 헬멧 - 경갑"/> <!-- Tallum Helmet (Light) - Sealed -->
+			<item id="92302" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 헬멧 - 경갑"/> <!-- Tallum Helmet (Light) - Sealed -->
+			<item id="92302" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 헬멧 - 경갑"/> <!-- Tallum Helmet (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93238" name="강화된 탈룸 헬멧 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92303" min="1" max="1" chance="80" name="탈룸 헬멧 - 로브"/> <!-- Tallum Helmet (Robe) - Sealed -->
+			<item id="92303" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="탈룸 헬멧 - 로브"/> <!-- Tallum Helmet (Robe) - Sealed -->
+			<item id="92303" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="탈룸 헬멧 - 로브"/> <!-- Tallum Helmet (Robe) - Sealed -->
+			<item id="92303" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="탈룸 헬멧 - 로브"/> <!-- Tallum Helmet (Robe) - Sealed -->
+			<item id="92303" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="탈룸 헬멧 - 로브"/> <!-- Tallum Helmet (Robe) - Sealed -->
+			<item id="92303" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="탈룸 헬멧 - 로브"/> <!-- Tallum Helmet (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93239" name="강화된 다크 크리스탈 헬멧 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92304" min="1" max="1" chance="80" name="다크 크리스탈 헬멧 - 중갑"/> <!-- Dark Crystal Helmet (Heavy) - Sealed -->
+			<item id="92304" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 헬멧 - 중갑"/> <!-- Dark Crystal Helmet (Heavy) - Sealed -->
+			<item id="92304" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 헬멧 - 중갑"/> <!-- Dark Crystal Helmet (Heavy) - Sealed -->
+			<item id="92304" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 헬멧 - 중갑"/> <!-- Dark Crystal Helmet (Heavy) - Sealed -->
+			<item id="92304" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 헬멧 - 중갑"/> <!-- Dark Crystal Helmet (Heavy) - Sealed -->
+			<item id="92304" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 헬멧 - 중갑"/> <!-- Dark Crystal Helmet (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93240" name="강화된 다크 크리스탈 헬멧 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92305" min="1" max="1" chance="80" name="다크 크리스탈 헬멧 - 경갑"/> <!-- Dark Crystal Helmet (Light) - Sealed -->
+			<item id="92305" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 헬멧 - 경갑"/> <!-- Dark Crystal Helmet (Light) - Sealed -->
+			<item id="92305" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 헬멧 - 경갑"/> <!-- Dark Crystal Helmet (Light) - Sealed -->
+			<item id="92305" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 헬멧 - 경갑"/> <!-- Dark Crystal Helmet (Light) - Sealed -->
+			<item id="92305" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 헬멧 - 경갑"/> <!-- Dark Crystal Helmet (Light) - Sealed -->
+			<item id="92305" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 헬멧 - 경갑"/> <!-- Dark Crystal Helmet (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93241" name="강화된 다크 크리스탈 헬멧 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92306" min="1" max="1" chance="80" name="다크 크리스탈 헬멧 - 로브"/> <!-- Dark Crystal Helmet (Robe) - Sealed -->
+			<item id="92306" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="다크 크리스탈 헬멧 - 로브"/> <!-- Dark Crystal Helmet (Robe) - Sealed -->
+			<item id="92306" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="다크 크리스탈 헬멧 - 로브"/> <!-- Dark Crystal Helmet (Robe) - Sealed -->
+			<item id="92306" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="다크 크리스탈 헬멧 - 로브"/> <!-- Dark Crystal Helmet (Robe) - Sealed -->
+			<item id="92306" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="다크 크리스탈 헬멧 - 로브"/> <!-- Dark Crystal Helmet (Robe) - Sealed -->
+			<item id="92306" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="다크 크리스탈 헬멧 - 로브"/> <!-- Dark Crystal Helmet (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93242" name="강화된 악몽의 투구 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92307" min="1" max="1" chance="80" name="악몽의 투구 - 중갑"/> <!-- Helm of Nightmare (Heavy) - Sealed -->
+			<item id="92307" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 투구 - 중갑"/> <!-- Helm of Nightmare (Heavy) - Sealed -->
+			<item id="92307" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 투구 - 중갑"/> <!-- Helm of Nightmare (Heavy) - Sealed -->
+			<item id="92307" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 투구 - 중갑"/> <!-- Helm of Nightmare (Heavy) - Sealed -->
+			<item id="92307" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 투구 - 중갑"/> <!-- Helm of Nightmare (Heavy) - Sealed -->
+			<item id="92307" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 투구 - 중갑"/> <!-- Helm of Nightmare (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93243" name="강화된 악몽의 투구 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92308" min="1" max="1" chance="80" name="악몽의 투구 - 경갑"/> <!-- Helm of Nightmare (Light) - Sealed -->
+			<item id="92308" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 투구 - 경갑"/> <!-- Helm of Nightmare (Light) - Sealed -->
+			<item id="92308" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 투구 - 경갑"/> <!-- Helm of Nightmare (Light) - Sealed -->
+			<item id="92308" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 투구 - 경갑"/> <!-- Helm of Nightmare (Light) - Sealed -->
+			<item id="92308" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 투구 - 경갑"/> <!-- Helm of Nightmare (Light) - Sealed -->
+			<item id="92308" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 투구 - 경갑"/> <!-- Helm of Nightmare (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93244" name="강화된 악몽의 투구 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92309" min="1" max="1" chance="80" name="악몽의 투구 - 로브"/> <!-- Helm of Nightmare (Robe) - Sealed -->
+			<item id="92309" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="악몽의 투구 - 로브"/> <!-- Helm of Nightmare (Robe) - Sealed -->
+			<item id="92309" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="악몽의 투구 - 로브"/> <!-- Helm of Nightmare (Robe) - Sealed -->
+			<item id="92309" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="악몽의 투구 - 로브"/> <!-- Helm of Nightmare (Robe) - Sealed -->
+			<item id="92309" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="악몽의 투구 - 로브"/> <!-- Helm of Nightmare (Robe) - Sealed -->
+			<item id="92309" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="악몽의 투구 - 로브"/> <!-- Helm of Nightmare (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93245" name="강화된 마제스틱 서클릿 제작 - 중갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92310" min="1" max="1" chance="80" name="마제스틱 서클릿 - 중갑"/> <!-- Majestic Circlet (Heavy) - Sealed -->
+			<item id="92310" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 서클릿 - 중갑"/> <!-- Majestic Circlet (Heavy) - Sealed -->
+			<item id="92310" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 서클릿 - 중갑"/> <!-- Majestic Circlet (Heavy) - Sealed -->
+			<item id="92310" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 서클릿 - 중갑"/> <!-- Majestic Circlet (Heavy) - Sealed -->
+			<item id="92310" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 서클릿 - 중갑"/> <!-- Majestic Circlet (Heavy) - Sealed -->
+			<item id="92310" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 서클릿 - 중갑"/> <!-- Majestic Circlet (Heavy) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93246" name="강화된 마제스틱 서클릿 제작 - 경갑" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92311" min="1" max="1" chance="80" name="마제스틱 서클릿 - 경갑"/> <!-- Majestic Circlet (Light) - Sealed -->
+			<item id="92311" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 서클릿 - 경갑"/> <!-- Majestic Circlet (Light) - Sealed -->
+			<item id="92311" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 서클릿 - 경갑"/> <!-- Majestic Circlet (Light) - Sealed -->
+			<item id="92311" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 서클릿 - 경갑"/> <!-- Majestic Circlet (Light) - Sealed -->
+			<item id="92311" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 서클릿 - 경갑"/> <!-- Majestic Circlet (Light) - Sealed -->
+			<item id="92311" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 서클릿 - 경갑"/> <!-- Majestic Circlet (Light) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93247" name="강화된 마제스틱 서클릿 제작 - 로브" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92312" min="1" max="1" chance="80" name="마제스틱 서클릿 - 로브"/> <!-- Majestic Circlet (Robe) - Sealed -->
+			<item id="92312" min="1" max="1" minEnchant="1" maxEnchant="1" chance="10" name="마제스틱 서클릿 - 로브"/> <!-- Majestic Circlet (Robe) - Sealed -->
+			<item id="92312" min="1" max="1" minEnchant="2" maxEnchant="2" chance="4.5" name="마제스틱 서클릿 - 로브"/> <!-- Majestic Circlet (Robe) - Sealed -->
+			<item id="92312" min="1" max="1" minEnchant="3" maxEnchant="3" chance="3" name="마제스틱 서클릿 - 로브"/> <!-- Majestic Circlet (Robe) - Sealed -->
+			<item id="92312" min="1" max="1" minEnchant="4" maxEnchant="4" chance="2" name="마제스틱 서클릿 - 로브"/> <!-- Majestic Circlet (Robe) - Sealed -->
+			<item id="92312" min="1" max="1" minEnchant="5" maxEnchant="5" chance="0.5" name="마제스틱 서클릿 - 로브"/> <!-- Majestic Circlet (Robe) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93248" name="+6 B그레이드 헬멧 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="90455" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) -->
+			<item id="90456" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) -->
+			<item id="90457" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) -->
+			<item id="90458" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) -->
+			<item id="90459" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) -->
+			<item id="90460" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) -->
+			<item id="90461" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) -->
+			<item id="90462" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) -->
+			<item id="90463" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) -->
+			<item id="90464" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) -->
+			<item id="90465" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) -->
+			<item id="90466" min="1" max="1" minEnchant="6" maxEnchant="6" chance="8.333325" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="93249" name="+6 B그레이드 상의 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t68_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="357" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate -->
+			<item id="358" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate -->
+			<item id="2376" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate -->
+			<item id="2384" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt -->
+			<item id="2397" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic -->
+			<item id="2398" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic -->
+			<item id="2399" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="튜닉 오브 둠"/> <!-- Doom Tunic -->
+		</capsuled_items>
+	</item>
+	<item id="93250" name="+6 B그레이드 하의 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t68_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="2379" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters -->
+			<item id="2380" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters -->
+			<item id="2388" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters -->
+			<item id="2402" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings -->
+			<item id="2403" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings -->
+			<item id="2404" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="호즈 오브 둠"/> <!-- Doom Stockings -->
+			<item id="383" min="1" max="1" minEnchant="6" maxEnchant="6" chance="14.2" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters -->
+		</capsuled_items>
+	</item>
+	<item id="93251" name="+6 B그레이드 원피스 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t71_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="2381" min="1" max="1" minEnchant="6" maxEnchant="6" chance="20" name="둠 플레이트 아머"/> <!-- Doom Plate Armor -->
+			<item id="2390" min="1" max="1" minEnchant="6" maxEnchant="6" chance="20" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor -->
+			<item id="2391" min="1" max="1" minEnchant="6" maxEnchant="6" chance="20" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor -->
+			<item id="2392" min="1" max="1" minEnchant="6" maxEnchant="6" chance="20" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor -->
+			<item id="2406" min="1" max="1" minEnchant="6" maxEnchant="6" chance="20" name="아바돈 로브"/> <!-- Avadon Robe -->
+		</capsuled_items>
+	</item>
+	<item id="93252" name="+7 B그레이드 무기 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_sword_of_damascus_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93422" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="다마스커스 검"/> <!-- Damascus Sword - Sealed -->
+			<item id="93423" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="랜시아"/> <!-- Lance - Sealed -->
+			<item id="93424" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="사자의 영광"/> <!-- Deadman's Glory - Sealed -->
+			<item id="93425" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="아트 오브 배틀액스"/> <!-- Battle Art Axe - Sealed -->
+			<item id="93426" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="사령의 지팡이"/> <!-- Staff of Evil Spirits - Sealed -->
+			<item id="93427" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="악마의 단검"/> <!-- Demon's Dagger - Sealed -->
+			<item id="93428" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="벨리온 세스터스"/> <!-- Bellion Cestus - Sealed -->
+			<item id="93429" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="해저드 보우"/> <!-- Bow of Peril - Sealed -->
+			<item id="93430" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="싸울아비*싸울아비"/> <!-- Samurai Long Sword*Samurai Long Sword - Sealed -->
+			<item id="93431" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="가디언스 소드"/> <!-- Guardian's Sword - Sealed -->
+			<item id="93432" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="티어스 오브 위저드"/> <!-- Wizard's Tear - Sealed -->
+			<item id="93433" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="스타 버스터"/> <!-- Star Buster - Sealed -->
+			<item id="93434" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="디스멘틀러"/> <!-- Dismantler - Sealed -->
+			<item id="93435" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="콜리슈마르드"/> <!-- Colichemarde - Sealed -->
+			<item id="79" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="다마스커스 검"/> <!-- Damascus Sword -->
+			<item id="97" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="랜시아"/> <!-- Lance -->
+			<item id="171" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="사자의 영광"/> <!-- Deadman's Glory -->
+			<item id="175" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="아트 오브 배틀액스"/> <!-- Battle Art Axe -->
+			<item id="210" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="사령의 지팡이"/> <!-- Staff of Evil Spirits -->
+			<item id="234" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="악마의 단검"/> <!-- Demon's Dagger -->
+			<item id="268" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="벨리온 세스터스"/> <!-- Bellion Cestus -->
+			<item id="287" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="해저드 보우"/> <!-- Bow of Peril -->
+			<item id="2626" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="싸울아비*싸울아비"/> <!-- Samurai Long Sword*Samurai Long Sword -->
+			<item id="7883" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="가디언스 소드"/> <!-- Guardian's Sword -->
+			<item id="7889" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="티어스 오브 위저드"/> <!-- Wizard's Tear -->
+			<item id="7901" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="스타 버스터"/> <!-- Star Buster -->
+			<item id="91885" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="디스멘틀러"/> <!-- Dismantler -->
+			<item id="91900" min="1" max="1" minEnchant="7" maxEnchant="7" chance="3.7" name="콜리슈마르드"/> <!-- Colichemarde -->
+		</capsuled_items>
+	</item>
+	<item id="93253" name="+4 탈리스만 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_aden_talisman"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="91745" min="1" max="1" minEnchant="4" maxEnchant="4" chance="33.3" name="아덴의 탈리스만"/> <!-- Talisman of Aden - Sealed -->
+			<item id="92018" min="1" max="1" minEnchant="4" maxEnchant="4" chance="33.3" name="에바의 탈리스만"/> <!-- Talisman of Eva - Sealed -->
+			<item id="92403" min="1" max="1" minEnchant="4" maxEnchant="4" chance="33.3" name="신속의 탈리스만"/> <!-- Talisman of Speed - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93254" name="레어 액세서리 Lv1 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessory_ring_of_queen_ant_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="6660" min="1" max="1" chance="25" name="여왕개미의 반지"/> <!-- Queen Ant's Ring -->
+			<item id="6661" min="1" max="1" chance="25" name="오르펜의 귀걸이"/> <!-- Orfen's Earring -->
+			<item id="6662" min="1" max="1" chance="25" name="코어의 반지"/> <!-- Core's Ring -->
+			<item id="90763" min="1" max="1" chance="25" name="자켄의 귀걸이"/> <!-- Zaken's Earring -->
+		</capsuled_items>
+	</item>
+	<item id="93255" name="축복받은 무기 강화 주문서" type="EtcItem">
+		<!-- A scroll for enchanting an A-grade weapon. The <font color=eeaa22>sealed</font> item can be obtained through the <font color=EEAA22>special craft</font>. <font color=EEAA22>Enchanting is safe up to +4.</font>. <font color=eeaa22>Up to +5, enchanting is random from +1 to +2. Enchant success rate to +1 is 65%, to +2 - 35%. Starting from +6, the enchanting step is +1 only.</font>. <font color=ff6666>Cannot be used for mass enchanting.</font> -->
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_a_i04"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="GIANT_ENCHT_WP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<set name="commissionItemType" val="SCROLL_ENCHANT_WEAPON"/>
+		<set name="is_sellable" val="true"/>
+		<skills>
+			<skill id="40109" level="1"/> <!-- Improved Scroll: Enchant A-grade Weapon -->
+		</skills>
+	</item>
+	<item id="93256" name="축복받은 갑옷 강화 주문서" type="EtcItem">
+		<!-- A scroll for enchanting A-grade upper armor/ lower armor/ full-body armor/ helmets/ gloves/ boots/ sigils/ shields. The <font color=eeaa22>sealed</font> item can be obtained through the <font color=EEAA22>special craft</font>. <font color=EEAA22>Enchanting is safe up to +4.</font>. <font color=eeaa22>Up to +5, enchanting is random from +1 to +2. Enchant success rate to +1 is 65%, to +2 - 35%. Starting from +6, the enchanting step is +1 only.</font>. <font color=ff6666>Cannot be used for mass enchanting.</font> -->
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_a_i04"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="GIANT_ENCHT_AM"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<set name="commissionItemType" val="SCROLL_ENCHANT_ARMOR"/>
+		<set name="is_sellable" val="true"/>
+		<skills>
+			<skill id="40110" level="1"/> <!-- Improved Scroll: Enchant A-grade Armor -->
+		</skills>
+	</item>
+	<item id="93257" name="저주받은 무기 강화 주문서" type="EtcItem">
+		<!-- When used, enchant value -1. <font color=eeaa22>Only for items enchanted to +1 and higher.</font>. <font color=ff6666>Cannot be used for mass enchanting.</font> -->
+		<set name="icon" val="icon.etc_cursed_scrl_of_ench_wp_a_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="true"/>
+		<set name="is_dropable" val="true"/>
+		<set name="is_sellable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="etcitem_type" val="CURSED_ENCHT_WP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<set name="commissionItemType" val="SCROLL_ENCHANT_WEAPON"/>
+		<skills>
+			<skill id="40111" level="1"/> <!-- Cursed Scroll: Enchant A-grade Weapon -->
+		</skills>
+	</item>
+	<item id="93258" name="저주받은 갑옷 강화 주문서" type="EtcItem">
+		<!-- When used, enchant value -1. <font color=eeaa22>Only for items enchanted to +1 and higher.</font>. <font color=ff6666>Cannot be used for mass enchanting.</font> -->
+		<set name="icon" val="icon.etc_cursed_scrl_of_ench_am_a_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="true"/>
+		<set name="is_dropable" val="true"/>
+		<set name="is_sellable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="etcitem_type" val="CURSED_ENCHT_AM"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<set name="commissionItemType" val="SCROLL_ENCHANT_ARMOR"/>
+		<skills>
+			<skill id="40112" level="1"/> <!-- Cursed Scroll: Enchant A-grade Armor -->
+		</skills>
+	</item>
+	<item id="93259" name="견고한 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_2018_jewelbox_random"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92176" min="1" max="1" chance="12.5" name="앰버 Lv1 보석함"/> <!-- Amber Jewelry Box Lv. 1 -->
+			<item id="92186" min="1" max="1" chance="12.5" name="오팔 Lv1 보석함"/> <!-- Opal Jewelry Box Lv. 1 -->
+			<item id="92196" min="1" max="1" chance="12.5" name="아쿠아마린 Lv1 보석함"/> <!-- Aquamarine Jewelry Box Lv. 1 -->
+			<item id="92206" min="1" max="1" chance="12.5" name="에메랄드 Lv1 보석함"/> <!-- Emerald Jewelry Box Lv. 1 -->
+			<item id="92216" min="1" max="1" chance="12.5" name="에메랄드 Lv1 보석함"/> <!-- Emerald Jewelry Box Lv. 1 -->
+			<item id="92226" min="1" max="1" chance="12.5" name="사파이어 Lv1 보석함"/> <!-- Sapphire Jewelry Box Lv. 1 -->
+			<item id="92236" min="1" max="1" chance="12.5" name="아쿠아마린 Lv1 보석함"/> <!-- Aquamarine Jewelry Box Lv. 1 -->
+		</capsuled_items>
+	</item>
+	<item id="93260" name="A그레이드 최상급 무기 교환권" type="EtcItem">
+		<!-- Can be exchanged through Master Yogi for Top-grade A-grade untradable weapon. -->
+		<set name="icon" val="icon.etc_level_bustup_ticket_i00"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="93261" name="+8 아가시온 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.star_agathion_cube"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93128" min="1" max="1" minEnchant="8" maxEnchant="8" chance="20" name="이그니스 아가시온"/> <!-- Agathion Ignis - Sealed -->
+			<item id="93129" min="1" max="1" minEnchant="8" maxEnchant="8" chance="20" name="네불라 아가시온"/> <!-- Agathion Nebula - Sealed -->
+			<item id="93130" min="1" max="1" minEnchant="8" maxEnchant="8" chance="20" name="프로첼라 아가시온"/> <!-- Agathion Procella - Sealed -->
+			<item id="93131" min="1" max="1" minEnchant="8" maxEnchant="8" chance="20" name="페트람 아가시온"/> <!-- Agathion Petram - Sealed -->
+			<item id="93132" min="1" max="1" minEnchant="8" maxEnchant="8" chance="20" name="샤방 아가시온"/> <!-- Agathion Joy - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93262" name="+5 보스 무기 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.zariche_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="92404" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92405" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92407" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92421" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="92408" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="94888" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+		</capsuled_items>
+	</item>
+	<item id="93263" name="+5 A그레이드 최상급 무기 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="8678" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="시르 블레이드"/> <!-- Sirra's Blade -->
+			<item id="8679" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="소드 오브 이포스"/> <!-- Ipos' Sword -->
+			<item id="8680" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="바라키엘 액스"/> <!-- Barakiel's Axe -->
+			<item id="8681" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="베헤모스의 소리굽쇠"/> <!-- Behemoth's Tuning Fork -->
+			<item id="8682" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="나가 스톰"/> <!-- Naga's Storm -->
+			<item id="8683" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="타이폰 스피어"/> <!-- Tiphon's Spear -->
+			<item id="8684" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="샤이드 보우"/> <!-- Shyeed's Bow -->
+			<item id="8685" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="소베크 허리케인"/> <!-- Sobekk's Hurricane -->
+			<item id="8686" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="테미스의 혀"/> <!-- Themis' Tongue -->
+			<item id="8687" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="핸드 오브 카브리오"/> <!-- Cabrio's Hand -->
+			<item id="8688" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="데이몬의 결정"/> <!-- Daimon Crystal -->
+			<item id="8938" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="탈룸 블레이드*다마스커스"/> <!-- Tallum Blade*Damascus Sword -->
+			<item id="91887" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="불트강"/> <!-- Durendal -->
+			<item id="91902" min="1" max="1" minEnchant="5" maxEnchant="5" chance="7.142857" name="에끌레르 비쥬"/> <!-- Éclair Bijou -->
+		</capsuled_items>
+	</item>
+	<item id="93264" name="사이하의 축복 5개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_artifact_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91641" min="5" max="5" chance="100" name="사이하의 축복"/> <!-- Sayha's Blessing - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93265" name="아가시온 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain one of the following rewards. <Random>. Agathion Ignis. Agathion Nebula. Agathion Procella. Agathion Petram. Agathion Joy -->
+		<set name="icon" val="icon.star_agathion_cube"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93128" min="1" max="1" chance="20" name="이그니스 아가시온"/> <!-- Agathion Ignis - Sealed -->
+			<item id="93129" min="1" max="1" chance="20" name="네불라 아가시온"/> <!-- Agathion Nebula - Sealed -->
+			<item id="93130" min="1" max="1" chance="20" name="프로첼라 아가시온"/> <!-- Agathion Procella - Sealed -->
+			<item id="93131" min="1" max="1" chance="20" name="페트람 아가시온"/> <!-- Agathion Petram - Sealed -->
+			<item id="93132" min="1" max="1" chance="20" name="샤방 아가시온"/> <!-- Agathion Joy - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93266" name="PC방 보물상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_dragon_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>‬
+			<item id="92997" min="1" max="1" chance="11.117" name="낡고 알 수 없는 재료"/> <!-- Old Unknown Resources - Sealed -->
+			<item id="91763" min="1" max="1" chance="11.11" name="PC방 포인트 충전 코인"/> <!-- PA Coin - Sealed -->
+			<item id="90405" min="1" max="1" chance="11.11" name="자유 텔레포트 주문서"/> <!-- My Teleport Scroll - Sealed -->
+			<item id="93080" min="1" max="1" chance="11.11" name="일반 제작 1회 충전석"/> <!-- Charging Stone of Common Craft - 1 Charge - Sealed -->
+			<item id="93133" min="1" max="1" chance="11.11" name="아가시온 강화 주문서"/> <!-- Scroll: Enchant Agathion - Sealed -->
+			<item id="93265" min="1" max="1" chance="11.11" name="아가시온 상자 (기간제)"/> <!-- Agathion Pack (Time-limited) - Sealed -->
+			<item id="91745" min="1" max="1" chance="11.11" name="아덴의 탈리스만"/> <!-- Talisman of Aden - Sealed -->
+			<item id="92018" min="1" max="1" chance="11.11" name="에바의 탈리스만"/> <!-- Talisman of Eva - Sealed -->
+			<item id="92403" min="1" max="1" chance="11.11" name="신속의 탈리스만"/> <!-- Talisman of Speed - Sealed -->
+			<item id="49683" min="1" max="1" chance="0.001" name="바이움 탈리스만"/> <!-- Talisman of Baium -->
+			<item id="93025" min="1" max="1" chance="0.001" name="A그레이드 무기 상자"/> <!-- A-grade Weapon Pack - Sealed -->
+			<item id="93026" min="1" max="1" chance="0.001" name="A그레이드 방어구 상자"/> <!-- A-grade Armor Pack - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93267" name="엘코인 1000개 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_strongbox"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91663" min="1000" max="1000" chance="100" name="엘코인"/> <!-- L-Coin -->
+		</capsuled_items>
+	</item>
+	<item id="93268" name="축복받은 무기 강화 주문서" type="EtcItem">
+		<!-- A scroll for enchanting A-grade weapons. <font color=eeaa22>Enchanting is safe up to +4.</font>. <font color=eeaa22>Up to +5, enchanting is random from +1 to +2. Enchant success rate to +1 is 65%, to +2 - 35%. Starting from +6, the enchanting step is +1 only.</font>. <font color=ff6666>Cannot be used for mass enchanting.</font> -->
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_wp_a_i04"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="GIANT_ENCHT_WP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="commissionItemType" val="SCROLL_ENCHANT_WEAPON"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="40109" level="1"/> <!-- Improved Scroll: Enchant A-grade Weapon -->
+		</skills>
+	</item>
+	<item id="93269" name="축복받은 갑옷 강화 주문서" type="EtcItem">
+		<!-- A scroll for enchanting A-grade upper armor/ lower armor/ full-body armor/ helmets/ gloves/ boots/ sigils/ shields. <font color=eeaa22>Enchanting is safe up to +4.</font>. <font color=eeaa22>Up to +5, enchanting is random from +1 to +2. Enchant success rate to +1 is 65%, to +2 - 35%. Starting from +6, the enchanting step is +1 only.</font>. <font color=ff6666>Cannot be used for mass enchanting.</font> -->
+		<set name="icon" val="icon.etc_blessed_scrl_of_ench_am_a_i04"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="GIANT_ENCHT_AM"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="commissionItemType" val="SCROLL_ENCHANT_ARMOR"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="40110" level="1"/> <!-- Improved Scroll: Enchant A-grade Armor -->
+		</skills>
+	</item>
+	<item id="93270" name="저주받은 무기 강화 주문서" type="EtcItem">
+		<!-- When used, enchant value -1. <font color=eeaa22>Only for items enchanted to +1 and higher.</font>. <font color=ff6666>Cannot be used for mass enchanting.</font> -->
+		<set name="icon" val="icon.etc_cursed_scrl_of_ench_wp_a_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="etcitem_type" val="CURSED_ENCHT_WP"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<set name="commissionItemType" val="SCROLL_ENCHANT_WEAPON"/>
+		<skills>
+			<skill id="40111" level="1"/> <!-- Cursed Scroll: Enchant A-grade Weapon -->
+		</skills>
+	</item>
+	<item id="93271" name="저주받은 갑옷 강화 주문서" type="EtcItem">
+		<!-- When used, enchant value -1. <font color=eeaa22>Only for items enchanted to +1 and higher.</font>. <font color=ff6666>Cannot be used for mass enchanting.</font> -->
+		<set name="icon" val="icon.etc_cursed_scrl_of_ench_am_a_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="etcitem_type" val="CURSED_ENCHT_AM"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<set name="commissionItemType" val="SCROLL_ENCHANT_ARMOR"/>
+		<skills>
+			<skill id="40112" level="1"/> <!-- Cursed Scroll: Enchant A-grade Armor -->
+		</skills>
+	</item>
+	<item id="93272" name="마법서 - 인크리즈 오브 디비니티 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i05"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="8618" min="1" max="1" chance="25" name="마법서 - 인크리즈 오브 디비니티 Lv1"/> <!-- Spellbook: Divine Inspiration Lv. 1 -->
+			<item id="8619" min="1" max="1" chance="25" name="마법서 - 인크리즈 오브 디비니티 Lv2"/> <!-- Spellbook: Divine Inspiration Lv. 2 -->
+			<item id="8620" min="1" max="1" chance="25" name="마법서 - 인크리즈 오브 디비니티 Lv3"/> <!-- Spellbook: Divine Inspiration Lv. 3 -->
+			<item id="8621" min="1" max="1" chance="25" name="마법서 - 인크리즈 오브 디비니티 Lv4"/> <!-- Spellbook: Divine Inspiration Lv. 4 -->
+		</capsuled_items>
+	</item>
+	<item id="93273" name="레어 액세서리 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="6660" min="1" max="1" chance="33.33333" name="여왕개미의 반지"/> <!-- Queen Ant's Ring -->
+			<item id="6661" min="1" max="1" chance="33.33333" name="오르펜의 귀걸이"/> <!-- Orfen's Earring -->
+			<item id="6662" min="1" max="1" chance="33.33333" name="코어의 반지"/> <!-- Core's Ring -->
+		</capsuled_items>
+	</item>
+	<item id="93274" name="은총 쿠키" type="EtcItem">
+		<!-- Sayha's Grace points +35,000. -->
+		<set name="icon" val="BranchSys.icon.br_valentine_cookie_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="immediate_effect" val="true"/>
+		<skills>
+			<skill id="40113" level="1"/> <!-- Sayha's Cookie -->
+		</skills>
+	</item>
+	<item id="93275" name="강화된 싸울아비 장검 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_samurai_old_longsword_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93047" min="1" max="1" chance="12.5" name="싸울아비 장검"/> <!-- Samurai Long Sword - Sealed -->
+			<item id="93047" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="싸울아비 장검"/> <!-- Samurai Long Sword - Sealed -->
+			<item id="93047" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="싸울아비 장검"/> <!-- Samurai Long Sword - Sealed -->
+			<item id="93047" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="싸울아비 장검"/> <!-- Samurai Long Sword - Sealed -->
+			<item id="93047" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="싸울아비 장검"/> <!-- Samurai Long Sword - Sealed -->
+			<item id="93047" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="싸울아비 장검"/> <!-- Samurai Long Sword - Sealed -->
+			<item id="93047" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="싸울아비 장검"/> <!-- Samurai Long Sword - Sealed -->
+			<item id="93047" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="싸울아비 장검"/> <!-- Samurai Long Sword - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93276" name="강화된 이클립스 액스 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_eclipse_axe_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93049" min="1" max="1" chance="12.5" name="이클립스 액스"/> <!-- Ecliptic Axe - Sealed -->
+			<item id="93049" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="이클립스 액스"/> <!-- Ecliptic Axe - Sealed -->
+			<item id="93049" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="이클립스 액스"/> <!-- Ecliptic Axe - Sealed -->
+			<item id="93049" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="이클립스 액스"/> <!-- Ecliptic Axe - Sealed -->
+			<item id="93049" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="이클립스 액스"/> <!-- Ecliptic Axe - Sealed -->
+			<item id="93049" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="이클립스 액스"/> <!-- Ecliptic Axe - Sealed -->
+			<item id="93049" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="이클립스 액스"/> <!-- Ecliptic Axe - Sealed -->
+			<item id="93049" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="이클립스 액스"/> <!-- Ecliptic Axe - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93277" name="강화된 에머넌스 보우 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_eminence_bow_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93051" min="1" max="1" chance="12.5" name="에머넌스 보우"/> <!-- Eminence Bow - Sealed -->
+			<item id="93051" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="에머넌스 보우"/> <!-- Eminence Bow - Sealed -->
+			<item id="93051" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="에머넌스 보우"/> <!-- Eminence Bow - Sealed -->
+			<item id="93051" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="에머넌스 보우"/> <!-- Eminence Bow - Sealed -->
+			<item id="93051" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="에머넌스 보우"/> <!-- Eminence Bow - Sealed -->
+			<item id="93051" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="에머넌스 보우"/> <!-- Eminence Bow - Sealed -->
+			<item id="93051" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="에머넌스 보우"/> <!-- Eminence Bow - Sealed -->
+			<item id="93051" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="에머넌스 보우"/> <!-- Eminence Bow - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93278" name="강화된 카타나*카타나 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_dual_sword_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93053" min="1" max="1" chance="12.5" name="카타나*카타나"/> <!-- Katana*Katana - Sealed -->
+			<item id="93053" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="카타나*카타나"/> <!-- Katana*Katana - Sealed -->
+			<item id="93053" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="카타나*카타나"/> <!-- Katana*Katana - Sealed -->
+			<item id="93053" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="카타나*카타나"/> <!-- Katana*Katana - Sealed -->
+			<item id="93053" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="카타나*카타나"/> <!-- Katana*Katana - Sealed -->
+			<item id="93053" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="카타나*카타나"/> <!-- Katana*Katana - Sealed -->
+			<item id="93053" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="카타나*카타나"/> <!-- Katana*Katana - Sealed -->
+			<item id="93053" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="카타나*카타나"/> <!-- Katana*Katana - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93279" name="강화된 버서커 블레이드 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_berserker_blade_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93055" min="1" max="1" chance="12.5" name="버서커 블레이드"/> <!-- Berserker Blade - Sealed -->
+			<item id="93055" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="버서커 블레이드"/> <!-- Berserker Blade - Sealed -->
+			<item id="93055" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="버서커 블레이드"/> <!-- Berserker Blade - Sealed -->
+			<item id="93055" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="버서커 블레이드"/> <!-- Berserker Blade - Sealed -->
+			<item id="93055" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="버서커 블레이드"/> <!-- Berserker Blade - Sealed -->
+			<item id="93055" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="버서커 블레이드"/> <!-- Berserker Blade - Sealed -->
+			<item id="93055" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="버서커 블레이드"/> <!-- Berserker Blade - Sealed -->
+			<item id="93055" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="버서커 블레이드"/> <!-- Berserker Blade - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93280" name="강화된 아미랄 에스터크 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_blink_slasher_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93057" min="1" max="1" chance="12.5" name="아미랄 에스터크"/> <!-- Admiral's Estoc - Sealed -->
+			<item id="93057" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="아미랄 에스터크"/> <!-- Admiral's Estoc - Sealed -->
+			<item id="93057" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="아미랄 에스터크"/> <!-- Admiral's Estoc - Sealed -->
+			<item id="93057" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="아미랄 에스터크"/> <!-- Admiral's Estoc - Sealed -->
+			<item id="93057" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="아미랄 에스터크"/> <!-- Admiral's Estoc - Sealed -->
+			<item id="93057" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="아미랄 에스터크"/> <!-- Admiral's Estoc - Sealed -->
+			<item id="93057" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="아미랄 에스터크"/> <!-- Admiral's Estoc - Sealed -->
+			<item id="93057" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="아미랄 에스터크"/> <!-- Admiral's Estoc - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93281" name="강화된 악마의 지팡이 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_demons_staff_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93048" min="1" max="1" chance="12.5" name="악마의 지팡이"/> <!-- Demon's Staff - Sealed -->
+			<item id="93048" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="악마의 지팡이"/> <!-- Demon's Staff - Sealed -->
+			<item id="93048" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="악마의 지팡이"/> <!-- Demon's Staff - Sealed -->
+			<item id="93048" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="악마의 지팡이"/> <!-- Demon's Staff - Sealed -->
+			<item id="93048" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="악마의 지팡이"/> <!-- Demon's Staff - Sealed -->
+			<item id="93048" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="악마의 지팡이"/> <!-- Demon's Staff - Sealed -->
+			<item id="93048" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="악마의 지팡이"/> <!-- Demon's Staff - Sealed -->
+			<item id="93048" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="악마의 지팡이"/> <!-- Demon's Staff - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93282" name="강화된 크리스탈 단검 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_crystal_dagger_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93050" min="1" max="1" chance="12.5" name="크리스탈 단검"/> <!-- Crystal Dagger - Sealed -->
+			<item id="93050" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="크리스탈 단검"/> <!-- Crystal Dagger - Sealed -->
+			<item id="93050" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="크리스탈 단검"/> <!-- Crystal Dagger - Sealed -->
+			<item id="93050" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="크리스탈 단검"/> <!-- Crystal Dagger - Sealed -->
+			<item id="93050" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="크리스탈 단검"/> <!-- Crystal Dagger - Sealed -->
+			<item id="93050" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="크리스탈 단검"/> <!-- Crystal Dagger - Sealed -->
+			<item id="93050" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="크리스탈 단검"/> <!-- Crystal Dagger - Sealed -->
+			<item id="93050" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="크리스탈 단검"/> <!-- Crystal Dagger - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93283" name="강화된 오키쉬 폴액스 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_orcish_poleaxe_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93052" min="1" max="1" chance="12.5" name="오키쉬 폴액스"/> <!-- Orcish Poleaxe - Sealed -->
+			<item id="93052" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="오키쉬 폴액스"/> <!-- Orcish Poleaxe - Sealed -->
+			<item id="93052" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="오키쉬 폴액스"/> <!-- Orcish Poleaxe - Sealed -->
+			<item id="93052" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="오키쉬 폴액스"/> <!-- Orcish Poleaxe - Sealed -->
+			<item id="93052" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="오키쉬 폴액스"/> <!-- Orcish Poleaxe - Sealed -->
+			<item id="93052" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="오키쉬 폴액스"/> <!-- Orcish Poleaxe - Sealed -->
+			<item id="93052" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="오키쉬 폴액스"/> <!-- Orcish Poleaxe - Sealed -->
+			<item id="93052" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="오키쉬 폴액스"/> <!-- Orcish Poleaxe - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93284" name="강화된 야크샤 메이스 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_yaksa_mace_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93054" min="1" max="1" chance="12.5" name="야크샤 메이스"/> <!-- Yaksa Mace - Sealed -->
+			<item id="93054" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="야크샤 메이스"/> <!-- Yaksa Mace - Sealed -->
+			<item id="93054" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="야크샤 메이스"/> <!-- Yaksa Mace - Sealed -->
+			<item id="93054" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="야크샤 메이스"/> <!-- Yaksa Mace - Sealed -->
+			<item id="93054" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="야크샤 메이스"/> <!-- Yaksa Mace - Sealed -->
+			<item id="93054" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="야크샤 메이스"/> <!-- Yaksa Mace - Sealed -->
+			<item id="93054" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="야크샤 메이스"/> <!-- Yaksa Mace - Sealed -->
+			<item id="93054" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="야크샤 메이스"/> <!-- Yaksa Mace - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93285" name="강화된 그레이트 파타 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_great_pata_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93056" min="1" max="1" chance="12.5" name="그레이트 파타"/> <!-- Great Pata - Sealed -->
+			<item id="93056" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="그레이트 파타"/> <!-- Great Pata - Sealed -->
+			<item id="93056" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="그레이트 파타"/> <!-- Great Pata - Sealed -->
+			<item id="93056" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="그레이트 파타"/> <!-- Great Pata - Sealed -->
+			<item id="93056" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="그레이트 파타"/> <!-- Great Pata - Sealed -->
+			<item id="93056" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="그레이트 파타"/> <!-- Great Pata - Sealed -->
+			<item id="93056" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="그레이트 파타"/> <!-- Great Pata - Sealed -->
+			<item id="93056" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="그레이트 파타"/> <!-- Great Pata - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93286" name="강화된 세이버투스 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_invincible_blade_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93058" min="1" max="1" chance="12.5" name="세이버투스"/> <!-- Saber Tooth - Sealed -->
+			<item id="93058" min="1" max="1" minEnchant="1" maxEnchant="1" chance="12.5" name="세이버투스"/> <!-- Saber Tooth - Sealed -->
+			<item id="93058" min="1" max="1" minEnchant="2" maxEnchant="2" chance="12.5" name="세이버투스"/> <!-- Saber Tooth - Sealed -->
+			<item id="93058" min="1" max="1" minEnchant="3" maxEnchant="3" chance="12.5" name="세이버투스"/> <!-- Saber Tooth - Sealed -->
+			<item id="93058" min="1" max="1" minEnchant="4" maxEnchant="4" chance="12.5" name="세이버투스"/> <!-- Saber Tooth - Sealed -->
+			<item id="93058" min="1" max="1" minEnchant="5" maxEnchant="5" chance="12.5" name="세이버투스"/> <!-- Saber Tooth - Sealed -->
+			<item id="93058" min="1" max="1" minEnchant="6" maxEnchant="6" chance="12.5" name="세이버투스"/> <!-- Saber Tooth - Sealed -->
+			<item id="93058" min="1" max="1" minEnchant="7" maxEnchant="7" chance="12.5" name="세이버투스"/> <!-- Saber Tooth - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93287" name="+5 보스 무기 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.zariche_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92404" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92405" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92407" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92421" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="92408" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="94888" min="1" max="1" minEnchant="5" maxEnchant="5" chance="16.66" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+		</capsuled_items>
+	</item>
+	<item id="93288" name="+6 에바의 탈리스만 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_eva_talisman"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="92018" min="1" max="1" minEnchant="6" maxEnchant="6" chance="100" name="에바의 탈리스만"/> <!-- Talisman of Eva - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93289" name="+6 신속의 탈리스만 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.tallisman_rapid"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="92403" min="1" max="1" chance="100" minEnchant="6" maxEnchant="6" name="신속의 탈리스만"/> <!-- Talisman of Speed - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93290" name="승리의 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_treasure_box_i11"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93287" min="1" max="1" chance="7.692307" name="+5 보스 무기 상자"/> <!-- +5 Boss Weapon Pack - Sealed -->
+			<item id="92448" min="1" max="1" chance="7.692307" name="+6 아덴의 탈리스만 상자"/> <!-- +6 Talisman of Aden Pack - Sealed -->
+			<item id="93289" min="1" max="1" chance="7.692307" name="+6 신속의 탈리스만 상자"/> <!-- +6 Talisman of Speed Pack - Sealed -->
+			<item id="93141" min="1" max="1" chance="7.692307" name="빙결의 흉갑"/> <!-- Ice Crystal Breastplate - Sealed -->
+			<item id="93142" min="1" max="1" chance="7.692307" name="빙결의 각반"/> <!-- Ice Crystal Gaiters - Sealed -->
+			<item id="93268" min="1" max="1" chance="7.692307" name="축복받은 무기 강화 주문서"/> <!-- Blessed Scroll: Enchant Weapon - Sealed -->
+			<item id="93269" min="1" max="1" chance="7.692307" name="축복받은 갑옷 강화 주문서"/> <!-- Blessed Scroll: Enchant Armor - Sealed -->
+			<item id="93259" min="2" max="2" chance="7.692307" name="견고한 보석함"/> <!-- Reinforced Jewelry Box - Sealed -->
+			<item id="92459" min="3" max="3" chance="7.692307" name="신속의 탈리스만 상자"/> <!-- Talisman of Speed Pack - Sealed -->
+			<item id="91767" min="2" max="2" chance="7.692307" name="아덴의 탈리스만 강화 패키지"/> <!-- Enchant Kit: Talisman of Aden - Sealed -->
+			<item id="91780" min="20" max="20" chance="7.692307" name="낡은 전투의 주문서"/> <!-- Old Battle Scroll - Sealed -->
+			<item id="93486" min="20" max="20" chance="7.692307" name="낡은 전장의 주문서"/> <!-- Old Combat Scroll - Sealed -->
+			<item id="92991" min="10" max="10" chance="7.692307" name="아인하사드의 축복 주문서"/> <!-- Einhasad's Blessing Scroll - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="93291" name="자켄의 블러드 소드" type="Weapon">
+		<!-- A weapon imbued with Zaken's power. <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ Element Weavers/ Wargs></font> -->
+		<set name="icon" val="icon.special_weapon_onehandsword"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="1300"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="enchant_limit" val="10"/>
+		<stats>
+			<stat type="pAtk">271</stat>
+			<stat type="mAtk">145</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="pAtkRange">40</stat>
+			<stat type="randomDamage">10</stat>
+		</stats>
+		<skills>
+			<skill id="50280" level="1"/> <!-- Zaken's Blood Sword -->
+			<skill id="50280" level="2" type="ON_ENCHANT" type_value="1"/> <!-- +1 Zaken's Blood Sword -->
+			<skill id="50280" level="3" type="ON_ENCHANT" type_value="2"/> <!-- +2 Zaken's Blood Sword -->
+			<skill id="50280" level="4" type="ON_ENCHANT" type_value="3"/> <!-- +3 Zaken's Blood Sword -->
+			<skill id="50280" level="5" type="ON_ENCHANT" type_value="4"/> <!-- +4 Zaken's Blood Sword -->
+			<skill id="50280" level="6" type="ON_ENCHANT" type_value="5"/> <!-- +5 Zaken's Blood Sword -->
+			<skill id="50280" level="7" type="ON_ENCHANT" type_value="6"/> <!-- +6 Zaken's Blood Sword -->
+			<skill id="50280" level="8" type="ON_ENCHANT" type_value="7"/> <!-- +7 Zaken's Blood Sword -->
+			<skill id="50280" level="9" type="ON_ENCHANT" type_value="8"/> <!-- +8 Zaken's Blood Sword -->
+			<skill id="50280" level="10" type="ON_ENCHANT" type_value="9"/> <!-- +9 Zaken's Blood Sword -->
+			<skill id="50280" level="11" type="ON_ENCHANT" type_value="10"/> <!-- +10 Zaken's Blood Sword -->
+			<skill id="50392" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+			<skill id="50412" level="1" type="ON_BLESSING" type_value="5"/> <!-- Blessing Effect: +5 Boss Weapon -->
+			<skill id="50413" level="1" type="ON_BLESSING" type_value="6"/> <!-- Blessing Effect: +6 Boss Weapon -->
+			<skill id="50414" level="1" type="ON_BLESSING" type_value="7"/> <!-- Blessing Effect: +7 Boss Weapon -->
+			<skill id="50415" level="1" type="ON_BLESSING" type_value="8"/> <!-- Blessing Effect: +8 Boss Weapon -->
+			<skill id="50416" level="1" type="ON_BLESSING" type_value="9"/> <!-- Blessing Effect: +9 Boss Weapon -->
+			<skill id="50417" level="1" type="ON_BLESSING" type_value="10"/> <!-- Blessing Effect: +10 Boss Weapon -->
+		</skills>
+	</item>
+	<item id="93292" name="코어의 플라즈마 보우" type="Weapon">
+		<!-- A weapon imbued with Core's power. <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_karupis_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BOW"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;10;0"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="ORIHARUKON"/>
+		<set name="weight" val="1640"/>
+		<set name="soulshots" val="2"/>
+		<set name="spiritshots" val="1"/>
+		<set name="mp_consume" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_limit" val="10"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="pAtk">610</stat>
+			<stat type="mAtk">160</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="pAtkSpd">293</stat>
+			<stat type="pAtkRange">500</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="accCombat">-3.75</stat>
+		</stats>
+		<skills>
+			<skill id="50290" level="1"/> <!-- Core's Plasmic Bow -->
+			<skill id="50290" level="2" type="ON_ENCHANT" type_value="1"/> <!-- +1 Core's Plasmic Bow -->
+			<skill id="50290" level="3" type="ON_ENCHANT" type_value="2"/> <!-- +2 Core's Plasmic Bow -->
+			<skill id="50290" level="4" type="ON_ENCHANT" type_value="3"/> <!-- +3 Core's Plasmic Bow -->
+			<skill id="50290" level="5" type="ON_ENCHANT" type_value="4"/> <!-- +4 Core's Plasmic Bow -->
+			<skill id="50290" level="6" type="ON_ENCHANT" type_value="5"/> <!-- +5 Core's Plasmic Bow -->
+			<skill id="50290" level="7" type="ON_ENCHANT" type_value="6"/> <!-- +6 Core's Plasmic Bow -->
+			<skill id="50290" level="8" type="ON_ENCHANT" type_value="7"/> <!-- +7 Core's Plasmic Bow -->
+			<skill id="50290" level="9" type="ON_ENCHANT" type_value="8"/> <!-- +8 Core's Plasmic Bow -->
+			<skill id="50290" level="10" type="ON_ENCHANT" type_value="9"/> <!-- +9 Core's Plasmic Bow -->
+			<skill id="50290" level="11" type="ON_ENCHANT" type_value="10"/> <!-- +10 Core's Plasmic Bow -->
+			<skill id="50401" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+			<skill id="50412" level="1" type="ON_BLESSING" type_value="5"/> <!-- Blessing Effect: +5 Boss Weapon -->
+			<skill id="50413" level="1" type="ON_BLESSING" type_value="6"/> <!-- Blessing Effect: +6 Boss Weapon -->
+			<skill id="50414" level="1" type="ON_BLESSING" type_value="7"/> <!-- Blessing Effect: +7 Boss Weapon -->
+			<skill id="50415" level="1" type="ON_BLESSING" type_value="8"/> <!-- Blessing Effect: +8 Boss Weapon -->
+			<skill id="50416" level="1" type="ON_BLESSING" type_value="9"/> <!-- Blessing Effect: +9 Boss Weapon -->
+			<skill id="50417" level="1" type="ON_BLESSING" type_value="10"/> <!-- Blessing Effect: +10 Boss Weapon -->
+		</skills>
+	</item>
+	<item id="93293" name="오르펜의 포이즈닉 소드" type="Weapon">
+		<!-- A weapon imbued with Orfen's power. <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_the_two_handed_sword_of_hero_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="SWORD"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="damage_range" val="0;0;46;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="BONE"/>
+		<set name="weight" val="1820"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="enchant_limit" val="10"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="pAtk">329</stat>
+			<stat type="mAtk">145</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="pAtkRange">40</stat>
+			<stat type="randomDamage">10</stat>
+		</stats>
+		<skills>
+			<skill id="50285" level="1"/> <!-- Orfen's Venom Sword -->
+			<skill id="50285" level="2" type="ON_ENCHANT" type_value="1"/> <!-- +1 Orfen's Venom Sword -->
+			<skill id="50285" level="3" type="ON_ENCHANT" type_value="2"/> <!-- +2 Orfen's Venom Sword -->
+			<skill id="50285" level="4" type="ON_ENCHANT" type_value="3"/> <!-- +3 Orfen's Venom Sword -->
+			<skill id="50285" level="5" type="ON_ENCHANT" type_value="4"/> <!-- +4 Orfen's Venom Sword -->
+			<skill id="50285" level="6" type="ON_ENCHANT" type_value="5"/> <!-- +5 Orfen's Venom Sword -->
+			<skill id="50285" level="7" type="ON_ENCHANT" type_value="6"/> <!-- +6 Orfen's Venom Sword -->
+			<skill id="50285" level="8" type="ON_ENCHANT" type_value="7"/> <!-- +7 Orfen's Venom Sword -->
+			<skill id="50285" level="9" type="ON_ENCHANT" type_value="8"/> <!-- +8 Orfen's Venom Sword -->
+			<skill id="50285" level="10" type="ON_ENCHANT" type_value="9"/> <!-- +9 Orfen's Venom Sword -->
+			<skill id="50285" level="11" type="ON_ENCHANT" type_value="10"/> <!-- +10 Orfen's Venom Sword -->
+			<skill id="50395" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+			<skill id="50412" level="1" type="ON_BLESSING" type_value="5"/> <!-- Blessing Effect: +5 Boss Weapon -->
+			<skill id="50413" level="1" type="ON_BLESSING" type_value="6"/> <!-- Blessing Effect: +6 Boss Weapon -->
+			<skill id="50414" level="1" type="ON_BLESSING" type_value="7"/> <!-- Blessing Effect: +7 Boss Weapon -->
+			<skill id="50415" level="1" type="ON_BLESSING" type_value="8"/> <!-- Blessing Effect: +8 Boss Weapon -->
+			<skill id="50416" level="1" type="ON_BLESSING" type_value="9"/> <!-- Blessing Effect: +9 Boss Weapon -->
+			<skill id="50417" level="1" type="ON_BLESSING" type_value="10"/> <!-- Blessing Effect: +10 Boss Weapon -->
+		</skills>
+	</item>
+	<item id="93294" name="바이움의 썬더 브레이커" type="Weapon">
+		<!-- A weapon imbued with Baium's power. <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.weapon_terakan_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="ORIHARUKON"/>
+		<set name="weight" val="930"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="enchant_limit" val="10"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="pAtk">238</stat>
+			<stat type="mAtk">145</stat>
+			<stat type="rCrit">12</stat>
+			<stat type="pAtkSpd">433</stat>
+			<stat type="pAtkRange">40</stat>
+			<stat type="randomDamage">5</stat>
+			<stat type="accCombat">-3.75</stat>
+		</stats>
+		<skills>
+			<skill id="50270" level="1"/> <!-- Baium's Thunder Breaker -->
+			<skill id="50270" level="2" type="ON_ENCHANT" type_value="1"/> <!-- +1 Baium's Thunder Breaker -->
+			<skill id="50270" level="3" type="ON_ENCHANT" type_value="2"/> <!-- +2 Baium's Thunder Breaker -->
+			<skill id="50270" level="4" type="ON_ENCHANT" type_value="3"/> <!-- +3 Baium's Thunder Breaker -->
+			<skill id="50270" level="5" type="ON_ENCHANT" type_value="4"/> <!-- +4 Baium's Thunder Breaker -->
+			<skill id="50270" level="6" type="ON_ENCHANT" type_value="5"/> <!-- +5 Baium's Thunder Breaker -->
+			<skill id="50270" level="7" type="ON_ENCHANT" type_value="6"/> <!-- +6 Baium's Thunder Breaker -->
+			<skill id="50270" level="8" type="ON_ENCHANT" type_value="7"/> <!-- +7 Baium's Thunder Breaker -->
+			<skill id="50270" level="9" type="ON_ENCHANT" type_value="8"/> <!-- +8 Baium's Thunder Breaker -->
+			<skill id="50270" level="10" type="ON_ENCHANT" type_value="9"/> <!-- +9 Baium's Thunder Breaker -->
+			<skill id="50270" level="11" type="ON_ENCHANT" type_value="10"/> <!-- +10 Baium's Thunder Breaker -->
+			<skill id="50402" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+			<skill id="50412" level="1" type="ON_BLESSING" type_value="5"/> <!-- Blessing Effect: +5 Boss Weapon -->
+			<skill id="50413" level="1" type="ON_BLESSING" type_value="6"/> <!-- Blessing Effect: +6 Boss Weapon -->
+			<skill id="50414" level="1" type="ON_BLESSING" type_value="7"/> <!-- Blessing Effect: +7 Boss Weapon -->
+			<skill id="50415" level="1" type="ON_BLESSING" type_value="8"/> <!-- Blessing Effect: +8 Boss Weapon -->
+			<skill id="50416" level="1" type="ON_BLESSING" type_value="9"/> <!-- Blessing Effect: +9 Boss Weapon -->
+			<skill id="50417" level="1" type="ON_BLESSING" type_value="10"/> <!-- Blessing Effect: +10 Boss Weapon -->
+		</skills>
+	</item>
+	<item id="93295" name="여왕개미의 스톤 크래셔" type="Weapon">
+		<!-- A weapon imbued with Queen Ant's power. <font color=ff6666><Unavailable to Sylphs/ Vanguard Riders/ Assassins/ Blood Roses/ High Elves/ Wargs/ Samurais></font> -->
+		<set name="icon" val="icon.special_weapon_onehandblunt"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="BLUNT"/>
+		<set name="damage_range" val="0;0;40;120"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="ORIHARUKON"/>
+		<set name="weight" val="1550"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="ensoulNormalSlots" val="2"/>
+		<set name="ensoulSpecialSlots" val="1"/>
+		<set name="bodypart" val="rhand"/>
+		<set name="enchant_limit" val="10"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="pAtk">271</stat>
+			<stat type="mAtk">182</stat>
+			<stat type="rCrit">6</stat>
+			<stat type="pAtkSpd">379</stat>
+			<stat type="pAtkRange">40</stat>
+			<stat type="accCombat">8</stat>
+			<stat type="randomDamage">19</stat>
+		</stats>
+		<skills>
+			<skill id="50275" level="1"/> <!-- Queen Ant's Stone Breaker -->
+			<skill id="50275" level="2" type="ON_ENCHANT" type_value="1"/> <!-- +1 Queen Ant's Stone Breaker -->
+			<skill id="50275" level="3" type="ON_ENCHANT" type_value="2"/> <!-- +2 Queen Ant's Stone Breaker -->
+			<skill id="50275" level="4" type="ON_ENCHANT" type_value="3"/> <!-- +3 Queen Ant's Stone Breaker -->
+			<skill id="50275" level="5" type="ON_ENCHANT" type_value="4"/> <!-- +4 Queen Ant's Stone Breaker -->
+			<skill id="50275" level="6" type="ON_ENCHANT" type_value="5"/> <!-- +5 Queen Ant's Stone Breaker -->
+			<skill id="50275" level="7" type="ON_ENCHANT" type_value="6"/> <!-- +6 Queen Ant's Stone Breaker -->
+			<skill id="50275" level="8" type="ON_ENCHANT" type_value="7"/> <!-- +7 Queen Ant's Stone Breaker -->
+			<skill id="50275" level="9" type="ON_ENCHANT" type_value="8"/> <!-- +8 Queen Ant's Stone Breaker -->
+			<skill id="50275" level="10" type="ON_ENCHANT" type_value="9"/> <!-- +9 Queen Ant's Stone Breaker -->
+			<skill id="50275" level="11" type="ON_ENCHANT" type_value="10"/> <!-- +10 Queen Ant's Stone Breaker -->
+			<skill id="50397" level="1" type="ON_BLESSING"/> <!-- Blessing Effect: Weapon -->
+			<skill id="50412" level="1" type="ON_BLESSING" type_value="5"/> <!-- Blessing Effect: +5 Boss Weapon -->
+			<skill id="50413" level="1" type="ON_BLESSING" type_value="6"/> <!-- Blessing Effect: +6 Boss Weapon -->
+			<skill id="50414" level="1" type="ON_BLESSING" type_value="7"/> <!-- Blessing Effect: +7 Boss Weapon -->
+			<skill id="50415" level="1" type="ON_BLESSING" type_value="8"/> <!-- Blessing Effect: +8 Boss Weapon -->
+			<skill id="50416" level="1" type="ON_BLESSING" type_value="9"/> <!-- Blessing Effect: +9 Boss Weapon -->
+			<skill id="50417" level="1" type="ON_BLESSING" type_value="10"/> <!-- Blessing Effect: +10 Boss Weapon -->
+		</skills>
+	</item>
+	<item id="93296" name="아인하사드의 펜던트 Lv1" type="Armor">
+		<!-- A pendant imbued with Einhasad's power. M. Def. +30. <font color=bbaa88><Compounding></font>. Materials: Pendants and packages of the same level. In case of failure, the current level remains the same, but materials disappear. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="underwear"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pDef">39</stat>
+		</stats>
+		<skills>
+			<skill id="50341" level="1"/> <!-- Einhasad's Pendant -->
+		</skills>
+	</item>
+	<item id="93297" name="아인하사드의 펜던트 Lv2" type="Armor">
+		<!-- A pendant imbued with Einhasad's power. M. Def. +60. Acquired XP +20%. Acquired SP +20%. Received damage -10%. Atk. Spd. +3%. Casting Spd. +3%. <font color=bbaa88><Compounding></font>. Materials: Pendants and packages of the same level. In case of failure, the current level remains the same, but materials disappear. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="underwear"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pDef">48</stat>
+		</stats>
+		<skills>
+			<skill id="50341" level="2"/> <!-- Einhasad's Pendant -->
+		</skills>
+	</item>
+	<item id="93298" name="아인하사드의 펜던트 Lv3" type="Armor">
+		<!-- A pendant imbued with Einhasad's power. M. Def. +90. Acquired XP +25%. Acquired SP +25%. Received damage -15%. Atk. Spd. +4%. Casting Spd. +4%. Basic Critical Damage +6%. M. Skill Critical Damage +6%. <font color=bbaa88><Compounding></font>. Materials: Pendants and packages of the same level. In case of failure, the current level remains the same, but materials disappear. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="underwear"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pDef">57</stat>
+		</stats>
+		<skills>
+			<skill id="50341" level="3"/> <!-- Einhasad's Pendant -->
+		</skills>
+	</item>
+	<item id="93299" name="아인하사드의 펜던트 Lv4" type="Armor">
+		<!-- A pendant imbued with Einhasad's power. M. Def. +120. Acquired XP +30%. Acquired SP +30%. Received damage -20%. Atk. Spd. +5%. Casting Spd. +5%. Basic Critical Damage +8%. M. Skill Critical Damage +8%. P. Atk. +10%. M. Atk. +10%. <font color=bbaa88><Active skill></font>. Invocation Lv. 1. Buff: Speed +33. Recovers 333 HP/ 167 MP every 3.3 sec. Duration: 15 sec. (Guardians cannot use Invocation.). <font color=bbaa88><Compounding></font>. Materials: Pendants and packages of the same level. In case of failure, the current level remains the same, but materials disappear. -->
+		<set name="icon" val="BranchIcon.Icon.bm_pendant_pve_white"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="underwear"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="pDef">66</stat>
+		</stats>
+		<skills>
+			<skill id="50342" level="1"/> <!-- Invocation -->
+			<skill id="50341" level="4"/> <!-- Einhasad's Pendant -->
+		</skills>
+	</item>
+</list>

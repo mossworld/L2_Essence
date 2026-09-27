@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- 특수 방어구 교환권 -->
+	</npcs>
+
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="93139" count="1" /> <!-- 빙결의 흉갑 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="93140" count="1" /> <!-- 빙결의 각반 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="93315" count="1" /> <!-- 전격의 레더 메일 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="93316" count="1" /> <!-- 전격의 레더 레깅스 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="93733" count="1" /> <!-- 화염의 튜닉 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="93734" count="1" /> <!-- 화염의 호즈 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="94083" count="1" /> <!-- 마나의 투구 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="94085" count="1" /> <!-- 회피의 부츠 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="94263" count="1" /> <!-- 스턴 건틀렛 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="93075" count="1" /> <!-- 침묵의 장갑 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="94299" count="1" /> <!-- 페이탈 시길 -->
+	</item>
+	<item>
+		<ingredient id="97130" count="1" /> <!-- 특수 방어구 교환권 -->
+		<production id="94301" count="1" /> <!-- 리벤지 실드 -->
+	</item>
+</list>

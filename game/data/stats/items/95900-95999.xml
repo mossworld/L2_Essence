@@ -1,0 +1,2594 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="95900" name="마프르의 행운 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_shhadai"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93387" min="1" max="1" chance="1.818182" name="마법서 - 진 데스나이트"/> <!-- Spellbook: Ultimate Death Knight -->
+			<item id="94498" min="1" max="1" chance="1.818182" name="마법서 - 챔피언 오브 타이탄"/> <!-- Spellbook: Titan Champion -->
+			<item id="95354" min="1" max="1" chance="1.818182" name="마법서 - 드래곤 스트라이크"/> <!-- Spellbook: Dragon Strike -->
+			<item id="94861" min="1" max="1" chance="1.818182" name="마법서 - 세레니티"/> <!-- Spellbook: Tranquility -->
+			<item id="94668" min="1" max="1" chance="1.818182" name="마법서 - 터치 오브 파아그리오"/> <!-- Spellbook: Pa'agrio's Touch -->
+			<item id="95347" min="1" max="1" chance="1.818182" name="마법서 - 롤링 다이스"/> <!-- Spellbook: Rolling Dice -->
+			<item id="95861" min="1" max="1" chance="1.818182" name="마법서 - 프라임 마에스트로"/> <!-- Spellbook: Prime Master -->
+			<item id="94508" min="1" max="1" chance="1.818182" name="마법서 - 워 로어"/> <!-- Spellbook: Cacophony of War -->
+			<item id="94862" min="1" max="1" chance="1.818182" name="마법서 - 엑스펠"/> <!-- Spellbook: Exclusion -->
+			<item id="94863" min="1" max="1" chance="1.818182" name="마법서 - 다크 루인"/> <!-- Spellbook: Dark Disruption -->
+			<item id="95346" min="1" max="1" chance="1.818182" name="마법서 - 메테오"/> <!-- Spellbook: Meteor -->
+			<item id="94840" min="1" max="1" chance="1.818182" name="수호의 흉갑"/> <!-- Breastplate of Protection -->
+			<item id="94841" min="1" max="1" chance="1.818182" name="수호의 각반"/> <!-- Gaiters of Protection -->
+			<item id="94844" min="1" max="1" chance="1.818182" name="수호의 레더 메일"/> <!-- Leather Armor of Protection -->
+			<item id="94845" min="1" max="1" chance="1.818182" name="수호의 레더 레깅스"/> <!-- Leather Leggings of Protection -->
+			<item id="94848" min="1" max="1" chance="1.818182" name="수호의 튜닉"/> <!-- Tunic of Protection -->
+			<item id="94849" min="1" max="1" chance="1.818182" name="수호의 호즈"/> <!-- Stockings of Protection -->
+			<item id="95665" min="1" max="1" chance="1.818182" name="수호의 실드"/> <!-- Shield of Protection -->
+			<item id="95663" min="1" max="1" chance="1.818182" name="수호의 시길"/> <!-- Sigil of Protection -->
+			<item id="95660" min="1" max="1" chance="1.818182" name="보스 무기 상자"/> <!-- Boss' Weapon Pack - Sealed -->
+			<item id="49683" min="1" max="1" chance="1.818182" name="바이움 탈리스만"/> <!-- Talisman of Baium -->
+			<item id="91550" min="1" max="1" chance="1.818182" name="프린테사의 목걸이"/> <!-- Frintezza's Necklace -->
+			<item id="49580" min="1" max="1" chance="1.818182" name="바이움의 반지"/> <!-- Baium's Ring -->
+			<item id="90763" min="1" max="1" chance="1.818182" name="자켄의 귀걸이"/> <!-- Zaken's Earring -->
+			<item id="6660" min="1" max="1" chance="1.818182" name="여왕개미의 반지"/> <!-- Queen Ant's Ring -->
+			<item id="6661" min="1" max="1" chance="1.818182" name="오르펜의 귀걸이"/> <!-- Orfen's Earring -->
+			<item id="6662" min="1" max="1" chance="1.818182" name="코어의 반지"/> <!-- Core's Ring -->
+			<item id="94385" min="1" max="1" chance="1.818182" name="축복받은 레어 액세서리 강화 주문서"/> <!-- Improved Scroll: Enchant Rare Accessories -->
+			<item id="94383" min="1" max="1" chance="1.818182" name="레어 액세서리 강화 주문서"/> <!-- Scroll: Enchant Rare Accessories -->
+			<item id="94853" min="1" max="1" chance="1.818182" name="전설의 염약&lt;STR+4&gt;"/> <!-- Legendary Colorant (STR +4) - 3rd Class -->
+			<item id="94856" min="1" max="1" chance="1.818182" name="전설의 염약&lt;INT+4&gt;"/> <!-- Legendary Colorant (INT +4) - 3rd Class -->
+			<item id="94855" min="1" max="1" chance="1.818182" name="전설의 염약&lt;DEX+4&gt;"/> <!-- Legendary Colorant (DEX +4) - 3rd Class -->
+			<item id="94858" min="1" max="1" chance="1.818182" name="전설의 염약&lt;WIT+4&gt;"/> <!-- Legendary Colorant (WIT +4) - 3rd Class -->
+			<item id="94854" min="1" max="1" chance="1.818182" name="전설의 염약&lt;CON+4&gt;"/> <!-- Legendary Colorant (CON +4) - 3rd Class -->
+			<item id="94857" min="1" max="1" chance="1.818182" name="전설의 염약&lt;MEN+4&gt;"/> <!-- Legendary Colorant (MEN +4) - 3rd Class -->
+			<item id="93739" min="1" max="1" chance="1.818182" name="기란의 인장 1000개 팩"/> <!-- Package: Giran Seal (1000 pcs.) - Sealed -->
+			<item id="93448" min="1" max="1" chance="1.818182" name="A그레이드 무기 교환 티켓"/> <!-- A-grade Weapon Coupon - Sealed -->
+			<item id="93449" min="1" max="1" chance="1.818182" name="A그레이드 방어구 교환 티켓"/> <!-- A-grade Armor Coupon - Sealed -->
+			<item id="94208" min="1" max="1" chance="1.818182" name="축복 주문서 - 무기"/> <!-- Scroll of Blessing - Weapon - Sealed -->
+			<item id="94328" min="1" max="1" chance="1.818182" name="엘릭서 가루"/> <!-- Elixir Powder - Sealed -->
+			<item id="94168" min="1" max="1" chance="1.818182" name="영웅의 서클릿 강화 패키지"/> <!-- Enchant Kit: Circlet of Hero - Sealed -->
+			<item id="91864" min="1" max="1" chance="1.818182" name="드래곤의 벨트 상자"/> <!-- Dragon Belt Pack - Sealed -->
+			<item id="93976" min="1" max="1" chance="1.818182" name="무기 강화 주문서"/> <!-- Scroll: Enchant Weapon - Sealed -->
+			<item id="93977" min="1" max="1" chance="1.818182" name="갑옷 강화 주문서"/> <!-- Scroll: Enchant Armor - Sealed -->
+			<item id="91641" min="5" max="5" chance="1.818182" name="사이하의 축복"/> <!-- Sayha's Blessing - Sealed -->
+			<item id="91712" min="2" max="2" chance="1.818182" name="사이하의 폭풍 (기간제)"/> <!-- Sayha's Storm (Time-limited) - Sealed -->
+			<item id="94269" min="2" max="2" chance="1.818182" name="공격력 강화 주문서"/> <!-- Scroll: Boost Attack - Sealed -->
+			<item id="94271" min="2" max="2" chance="1.818182" name="방어력 강화 주문서"/> <!-- Scroll: Boost Defense - Sealed -->
+			<item id="91690" min="50" max="50" chance="1.818182" name="특급 HP 물약 (기간제)"/> <!-- Special HP Recovery Potion - Sealed -->
+			<item id="92314" min="100" max="100" chance="1.818182" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="20" max="20" chance="1.818182" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="10" max="10" chance="1.818182" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="5" max="5" chance="1.818182" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="2" max="2" chance="1.818182" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="1" max="1" chance="1.818182" name="기란의 인장"/> <!-- Giran Seal -->
+		</capsuled_items>
+	</item>
+	<item id="95901" name="화이트 초콜릿 (기간제)" type="EtcItem">
+		<!-- White chocolate for celebrating the Valentine's Day. <How to use>. Add to a collection to boost your stats. -->
+		<set name="icon" val="icon.ev_valentine_white_choco"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="95902" name="다크 초콜릿 (기간제)" type="EtcItem">
+		<!-- Dark chocolate for celebrating the Valentine's Day. <How to use>. Add to a collection to boost your stats. -->
+		<set name="icon" val="icon.ev_valentine_dark_choco"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="95903" name="초콜릿 재료 (기간제)" type="EtcItem">
+		<!-- Required for creating Valentine's Day Chocolate Box through the Special Craft. -->
+		<set name="icon" val="icon.etc_coda_seed_i08"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="95904" name="포장용 상자 (기간제)" type="EtcItem">
+		<!-- Required for creating Valentine's Day Chocolate Box through the Special Craft. -->
+		<set name="icon" val="icon.ev_valentine_basic_box"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="95905" name="장식용 리본 (기간제)" type="EtcItem">
+		<!-- Required for creating Valentine's Day Chocolate Box through the Special Craft. -->
+		<set name="icon" val="icon.ev_valentine_deco_ribbon"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="95906" name="밸런타인 버프 주문서 (기간제)" type="EtcItem">
+		<!-- Double-click to apply one of the following buffs to your allies with a certain chance. <Available buffs>. - Valentine's Day Blessing - Attack. - Valentine's Day Blessing - Defense. - Valentine's Day Blessing - Speed. <Special effect>. If all three buffs are active at the same time, an additional buff is applied: Valentine's Day Blessing - Harmony. Duration: 60 min. Cooldown: 10 sec. The effect remains after death. -->
+		<set name="icon" val="icon.event_altair_enchant_scroll_i03"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="40364" level="1"/> <!-- Valentine's Day Blessing -->
+		</skills>
+	</item>
+	<item id="95907" name="밸런타인 초콜릿 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain White Chocolate (1 pc.) or Dark Chocolate (1 pc.) and 1 item from the detailed info list. -->
+		<set name="icon" val="icon.etc_whiteday_choco"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95908" min="1" max="1" chance="9.090909" name="Lv5 보석함 (기간제)"/> <!-- Jewelry Box Lv. 5 (Time-limited) - Not available -->
+			<item id="94435" min="1" max="1" chance="9.090909" name="Lv4 보석함 (기간제)"/> <!-- Jewelry Box Lv. 4 (Time-limited) - Not available -->
+			<item id="95909" min="1" max="1" chance="9.090909" name="Lv3 보석함 (기간제)"/> <!-- Jewelry Box Lv. 3 (Time-limited) - Not available -->
+			<item id="94838" min="1" max="1" chance="9.090909" name="변신 주문서 (기간제)"/> <!-- Transformation Scroll (Time-limited) - Sealed -->
+			<item id="93701" min="1" max="1" chance="9.090909" name="일반 제작 1회 충전석 (기간제)"/> <!-- Charging Stone of Common Craft - 1 Charge (Time-limited) - Sealed -->
+			<item id="94215" min="1" max="1" chance="9.090909" name="Lv1 보석함 (기간제)"/> <!-- Jewelry Box Lv. 1 (Time-limited) - Not available -->
+			<item id="94380" min="1" max="1" chance="9.090909" name="공격력 강화 주문서 (기간제)"/> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
+			<item id="94381" min="1" max="1" chance="9.090909" name="방어력 강화 주문서 (기간제)"/> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
+			<item id="93848" min="1" max="1" chance="9.090909" name="은총 쿠키 (기간제)"/> <!-- Sayha's Cookie (Sealed) - Sealed -->
+			<item id="90907" min="2" max="2" chance="9.090909" name="정령탄 교환권"/> <!-- Soulshot Ticket - Sealed -->
+			<item id="3031" min="5" max="5" chance="9.090909" name="마정석"/> <!-- Spirit Ore - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95908" name="Lv5 보석함 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="94518" min="1" max="1" chance="14.28571" name="앰버 Lv5"/> <!-- Amber Lv. 5 - Sealed -->
+			<item id="94519" min="1" max="1" chance="14.28571" name="오팔 Lv5"/> <!-- Opal Lv. 5 - Sealed -->
+			<item id="94520" min="1" max="1" chance="14.28571" name="코랄 Lv5"/> <!-- Coral Lv. 5 - Not available -->
+			<item id="94521" min="1" max="1" chance="14.28571" name="오닉스 Lv5"/> <!-- Onyx Lv. 5 - Not available -->
+			<item id="94522" min="1" max="1" chance="14.28571" name="스피넬 Lv5"/> <!-- Spinel Lv. 5 - Not available -->
+			<item id="94523" min="1" max="1" chance="14.28571" name="지르콘 Lv5"/> <!-- Zircon Lv. 5 - Not available -->
+			<item id="94524" min="1" max="1" chance="14.28571" name="문스톤 Lv5"/> <!-- Moonstone Lv. 5 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="95909" name="Lv3 보석함 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92058" min="1" max="1" chance="14.28571" name="코랄 Lv3"/> <!-- Coral Lv. 3 - Not available -->
+			<item id="92088" min="1" max="1" chance="14.28571" name="지르콘 Lv3"/> <!-- Zircon Lv. 3 - Not available -->
+			<item id="92048" min="1" max="1" chance="14.28571" name="오팔 Lv3"/> <!-- Opal Lv. 3 - Sealed -->
+			<item id="92068" min="1" max="1" chance="14.28571" name="오닉스 Lv3"/> <!-- Onyx Lv. 3 - Not available -->
+			<item id="92038" min="1" max="1" chance="14.28571" name="앰버 Lv3"/> <!-- Amber Lv. 3 - Sealed -->
+			<item id="92078" min="1" max="1" chance="14.28571" name="스피넬 Lv3"/> <!-- Spinel Lv. 3 - Not available -->
+			<item id="92098" min="1" max="1" chance="14.28571" name="문스톤 Lv3"/> <!-- Moonstone Lv. 3 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="95910" name="신축년의 축복 (기간제)" type="EtcItem">
+		<!-- Applies the following effect when used. <Effect>. Acquired XP +30%. Acquired SP +30%. The buff is renewed every hour. Maximum duration: 24 h. Grants various items with each buff renewal. <font color=ff6666>Note!</font>. You cannot obtain a gift if you are dead. You cannot obtain a gift if you are teleporting. You cannot obtain a gift if you have too little space in your inventory. -->
+		<set name="icon" val="icon.ev_cow_bless_scrl"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="40369" level="1"/> <!-- New Year Blessing -->
+		</skills>
+	</item>
+	<item id="95911" name="신축년의 증표 (기간제)" type="EtcItem">
+		<!-- A gift from the White Bull to celebrate the New Year. Can be exchanged for various items through the special craft. -->
+		<set name="icon" val="icon.ev_cow_coin"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="95912" name="신축년의 복주머니 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.christmas_card_box2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90907" min="10" max="10" chance="100" name="정령탄 교환권"/> <!-- Soulshot Ticket - Sealed -->
+			<item id="94380" min="3" max="3" chance="100" name="공격력 강화 주문서 (기간제)"/> <!-- Scroll: Boost Attack (Time-limited) - Sealed -->
+			<item id="94381" min="3" max="3" chance="100" name="방어력 강화 주문서 (기간제)"/> <!-- Scroll: Boost Defense (Time-limited) - Sealed -->
+			<item id="3031" min="300" max="300" chance="100" name="마정석"/> <!-- Spirit Ore - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95913" name="+5 A그레이드 최상급 무기 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="8678" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="시르 블레이드"/> <!-- Sirra's Blade -->
+			<item id="8679" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="소드 오브 이포스"/> <!-- Ipos' Sword -->
+			<item id="8680" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="바라키엘 액스"/> <!-- Barakiel's Axe -->
+			<item id="8681" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="베헤모스의 소리굽쇠"/> <!-- Behemoth's Tuning Fork -->
+			<item id="8682" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="나가 스톰"/> <!-- Naga's Storm -->
+			<item id="8683" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="타이폰 스피어"/> <!-- Tiphon's Spear -->
+			<item id="8684" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="샤이드 보우"/> <!-- Shyeed's Bow -->
+			<item id="8685" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="소베크 허리케인"/> <!-- Sobekk's Hurricane -->
+			<item id="8686" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="테미스의 혀"/> <!-- Themis' Tongue -->
+			<item id="8687" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="핸드 오브 카브리오"/> <!-- Cabrio's Hand -->
+			<item id="8688" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="데이몬의 결정"/> <!-- Daimon Crystal -->
+			<item id="8938" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="탈룸 블레이드*다마스커스"/> <!-- Tallum Blade*Damascus Sword -->
+			<item id="91887" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="불트강"/> <!-- Durendal -->
+			<item id="91902" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="에끌레르 비쥬"/> <!-- Éclair Bijou -->
+			<item id="94886" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.666667" name="제피로스"/> <!-- Zephyrus -->
+		</capsuled_items>
+	</item>
+	<item id="95914" name="보스 무기 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.aka_manaf_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92404" min="1" max="1" chance="16.66667" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92405" min="1" max="1" chance="16.66667" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92407" min="1" max="1" chance="16.66667" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92421" min="1" max="1" chance="16.66667" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="92408" min="1" max="1" chance="16.66667" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="94888" min="1" max="1" chance="16.66667" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+		</capsuled_items>
+	</item>
+	<item id="95915" name="고급 마법서 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93387" min="1" max="1" chance="2.173913" name="마법서 - 진 데스나이트"/> <!-- Spellbook: Ultimate Death Knight -->
+			<item id="94498" min="1" max="1" chance="2.173913" name="마법서 - 챔피언 오브 타이탄"/> <!-- Spellbook: Titan Champion -->
+			<item id="94508" min="1" max="1" chance="2.173913" name="마법서 - 워 로어"/> <!-- Spellbook: Cacophony of War -->
+			<item id="94668" min="1" max="1" chance="2.173913" name="마법서 - 터치 오브 파아그리오"/> <!-- Spellbook: Pa'agrio's Touch -->
+			<item id="94673" min="1" max="1" chance="2.173913" name="마법서 - 파티 유나이트"/> <!-- Spellbook: Team Building -->
+			<item id="94861" min="1" max="1" chance="2.173913" name="마법서 - 세레니티"/> <!-- Spellbook: Tranquility -->
+			<item id="94862" min="1" max="1" chance="2.173913" name="마법서 - 엑스펠"/> <!-- Spellbook: Exclusion -->
+			<item id="94863" min="1" max="1" chance="2.173913" name="마법서 - 다크 루인"/> <!-- Spellbook: Dark Disruption -->
+			<item id="95346" min="1" max="1" chance="2.173913" name="마법서 - 메테오"/> <!-- Spellbook: Meteor -->
+			<item id="95347" min="1" max="1" chance="2.173913" name="마법서 - 롤링 다이스"/> <!-- Spellbook: Rolling Dice -->
+			<item id="95354" min="1" max="1" chance="2.173913" name="마법서 - 드래곤 스트라이크"/> <!-- Spellbook: Dragon Strike -->
+			<item id="95861" min="1" max="1" chance="2.173913" name="마법서 - 프라임 마에스트로"/> <!-- Spellbook: Prime Master -->
+			<item id="92401" min="1" max="1" chance="2.173913" name="마법서 - 화이트 가디언"/> <!-- Spellbook: White Guardian -->
+			<item id="93103" min="1" max="1" chance="2.173913" name="마법서 - 프리스트 레이"/> <!-- Spellbook: Priest's Beam - Not available -->
+			<item id="93384" min="1" max="1" chance="2.173913" name="마법서 - 버닝 필드"/> <!-- Spellbook: Burning Field - Not available -->
+			<item id="93385" min="1" max="1" chance="2.173913" name="마법서 - 프리징 에어리어"/> <!-- Spellbook: Frozen Field - Not available -->
+			<item id="93386" min="1" max="1" chance="2.173913" name="마법서 - 라이트닝 스톰"/> <!-- Spellbook: Lightning Storm - Not available -->
+			<item id="93631" min="1" max="1" chance="2.173913" name="마법서 - 헬 파이어"/> <!-- Spellbook: Hellfire - Not available -->
+			<item id="93869" min="1" max="1" chance="2.173913" name="마법서 - 엘레멘탈 버스터"/> <!-- Spellbook: Elemental Burst - Not available -->
+			<item id="93870" min="1" max="1" chance="2.173913" name="마법서 - 에테리얼 스트라이크"/> <!-- Spellbook: Ethereal Strike - Not available -->
+			<item id="94137" min="1" max="1" chance="2.173913" name="마법서 - 컨슘"/> <!-- Spellbook: Devour - Not available -->
+			<item id="94324" min="1" max="1" chance="2.173913" name="마법서 - 송 오브 어스"/> <!-- Spellbook: Song of Earth - Not available -->
+			<item id="94325" min="1" max="1" chance="2.173913" name="마법서 - 송 오브 헌터"/> <!-- Spellbook: Song of Hunter - Not available -->
+			<item id="94326" min="1" max="1" chance="2.173913" name="마법서 - 댄스 오브 워리어"/> <!-- Spellbook: Dance of Warrior - Not available -->
+			<item id="94327" min="1" max="1" chance="2.173913" name="마법서 - 댄스 오브 파이어"/> <!-- Spellbook: Dance of Fire - Not available -->
+			<item id="94497" min="1" max="1" chance="2.173913" name="마법서 - 바이탈리티 밸런스"/> <!-- Spellbook: Life Force Harmony - Not available -->
+			<item id="94499" min="1" max="1" chance="2.173913" name="마법서 - 기간틱 웨폰"/> <!-- Spellbook: Titanic Weapon - Not available -->
+			<item id="94500" min="1" max="1" chance="2.173913" name="마법서 - 기간틱 스윙"/> <!-- Spellbook: Titanic Sweep - Not available -->
+			<item id="94501" min="1" max="1" chance="2.173913" name="마법서 - 기간틱 크러쉬"/> <!-- Spellbook: Titanic Break - Not available -->
+			<item id="94502" min="1" max="1" chance="2.173913" name="마법서 - 에센스 오브 오우거 Lv2"/> <!-- Spellbook: Ogre's Essence Lv. 2 - Not available -->
+			<item id="94503" min="1" max="1" chance="2.173913" name="마법서 - 토템 스피릿 래빗 Lv2"/> <!-- Spellbook: Rabbit Spirit Totem Lv. 2 - Not available -->
+			<item id="94504" min="1" max="1" chance="2.173913" name="마법서 - 토템 스피릿 퓨마 Lv2"/> <!-- Spellbook: Puma Spirit Totem Lv. 2 - Not available -->
+			<item id="94505" min="1" max="1" chance="2.173913" name="마법서 - 버닝 스트라이크"/> <!-- Spellbook: Burning Strike - Not available -->
+			<item id="94507" min="1" max="1" chance="2.173913" name="마법서 - 버닝 블로우"/> <!-- Spellbook: Flaming Strike - Not available -->
+			<item id="94670" min="1" max="1" chance="2.173913" name="마법서 - 디버프 마스터"/> <!-- Spellbook: Debuff Master - Not available -->
+			<item id="94671" min="1" max="1" chance="2.173913" name="마법서 - 플레임 블래스트"/> <!-- Spellbook: Flame Burst - Not available -->
+			<item id="94674" min="1" max="1" chance="2.173913" name="마법서 - 블러드 링크"/> <!-- Spellbook: Blood Bond - Not available -->
+			<item id="95348" min="1" max="1" chance="2.173913" name="마법서 - 송 오브 윈드"/> <!-- Spellbook: Song of Wind - Not available -->
+			<item id="95349" min="1" max="1" chance="2.173913" name="마법서 - 댄스 오브 퓨리"/> <!-- Spellbook: Dance of Fury - Not available -->
+			<item id="95350" min="1" max="1" chance="2.173913" name="마법서 - 피어싱 쓰러스트"/> <!-- Spellbook: Goring Charge - Not available -->
+			<item id="95352" min="1" max="1" chance="2.173913" name="마법서 - 엘레멘탈 트랜지션"/> <!-- Spellbook: Elemental Change - Not available -->
+			<item id="95356" min="1" max="1" chance="2.173913" name="마법서 - 에디셔널 히트"/> <!-- Spellbook: Extra Hit - Not available -->
+			<item id="95365" min="1" max="1" chance="2.173913" name="마법서 - 엘레멘탈 스피릿 Lv4"/> <!-- Spellbook: Elemental Spirit Lv. 4 - Not available -->
+			<item id="95856" min="1" max="1" chance="2.173913" name="마법서 - 포츈 타임"/> <!-- Spellbook: Fortune Time - Not available -->
+			<item id="95862" min="1" max="1" chance="2.173913" name="마법서 - 메카닉 마스터피스"/> <!-- Spellbook: Mechanical Masterpiece - Not available -->
+			<item id="95863" min="1" max="1" chance="2.173913" name="마법서 - 포지 어택"/> <!-- Spellbook: Blacksmith' Attack - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="95916" name="미공급 - 리오넬 헌터 외형" type="Armor">
+		<!-- A test item. -->
+		<set name="icon" val="icon.lionelhunter_dress"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="1000"/>
+		<set name="price" val="5000000"/>
+	</item>
+	<item id="95917" name="미공급 - 리오넬 헌터 망토" type="Armor">
+		<!-- A test item. -->
+		<set name="icon" val="icon.amor_goodness_cloak"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="back"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="220"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="95918" name="신축년의 보상 팩 - 은총 쿠키 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="BranchSys.icon.br_valentine_cookie_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93848" min="2" max="2" chance="100" name="은총 쿠키 (기간제)"/> <!-- Sayha's Cookie (Sealed) - Sealed -->
+			<item id="95911" min="1" max="1" chance="100" name="신축년의 증표 (기간제)"/> <!-- New Year's Token (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95919" name="신축년의 보상 팩 - 마정석 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_stone_gray_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="3031" min="50" max="50" chance="100" name="마정석"/> <!-- Spirit Ore - Sealed -->
+			<item id="95911" min="1" max="1" chance="100" name="신축년의 증표 (기간제)"/> <!-- New Year's Token (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95920" name="신축년의 보상 팩 - 정령탄 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_exchange_ticket_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90907" min="5" max="5" chance="100" name="정령탄 교환권"/> <!-- Soulshot Ticket - Sealed -->
+			<item id="95911" min="1" max="1" chance="100" name="신축년의 증표 (기간제)"/> <!-- New Year's Token (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95921" name="신축년의 보상 팩 - 일반 제작 1회 충전석 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_chaser_stone"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93701" min="1" max="1" chance="100" name="일반 제작 1회 충전석 (기간제)"/> <!-- Charging Stone of Common Craft - 1 Charge (Time-limited) - Sealed -->
+			<item id="95911" min="5" max="5" chance="100" name="신축년의 증표 (기간제)"/> <!-- New Year's Token (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95922" name="아덴의 축복 상자 Lv1 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="3031" min="10000" max="10000" chance="100" name="마정석"/> <!-- Spirit Ore - Sealed -->
+			<item id="90907" min="200" max="200" chance="100" name="정령탄 교환권"/> <!-- Soulshot Ticket - Sealed -->
+			<item id="91641" min="100" max="100" chance="100" name="사이하의 축복"/> <!-- Sayha's Blessing - Sealed -->
+			<item id="95481" min="5" max="5" chance="100" name="아덴의 토벌 결정체"/> <!-- Aden Purge Crystal - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95923" name="아덴의 축복 상자 Lv2 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94269" min="100" max="100" chance="100" name="공격력 강화 주문서"/> <!-- Scroll: Boost Attack - Sealed -->
+			<item id="94271" min="100" max="100" chance="100" name="방어력 강화 주문서"/> <!-- Scroll: Boost Defense - Sealed -->
+			<item id="90907" min="200" max="200" chance="100" name="정령탄 교환권"/> <!-- Soulshot Ticket - Sealed -->
+			<item id="91641" min="200" max="200" chance="100" name="사이하의 축복"/> <!-- Sayha's Blessing - Sealed -->
+			<item id="95481" min="5" max="5" chance="100" name="아덴의 토벌 결정체"/> <!-- Aden Purge Crystal - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95924" name="아덴의 축복 상자 Lv3 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93448" min="1" max="1" chance="100" name="A그레이드 무기 교환 티켓"/> <!-- A-grade Weapon Coupon - Sealed -->
+			<item id="93449" min="2" max="2" chance="100" name="A그레이드 방어구 교환 티켓"/> <!-- A-grade Armor Coupon - Sealed -->
+			<item id="93976" min="3" max="3" chance="100" name="무기 강화 주문서"/> <!-- Scroll: Enchant Weapon - Sealed -->
+			<item id="93977" min="6" max="6" chance="100" name="갑옷 강화 주문서"/> <!-- Scroll: Enchant Armor - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95925" name="아덴의 축복 상자 Lv4 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93268" min="2" max="2" chance="100" name="축복받은 무기 강화 주문서"/> <!-- Blessed Scroll: Enchant Weapon - Sealed -->
+			<item id="93269" min="2" max="2" chance="100" name="축복받은 갑옷 강화 주문서"/> <!-- Blessed Scroll: Enchant Armor - Sealed -->
+			<item id="93270" min="2" max="2" chance="100" name="저주받은 무기 강화 주문서"/> <!-- Cursed Scroll: Enchant Weapon - Sealed -->
+			<item id="93271" min="2" max="2" chance="100" name="저주받은 갑옷 강화 주문서"/> <!-- Cursed Scroll: Enchant Armor - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95926" name="아덴의 축복 상자 Lv5 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain the following items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="92314" min="100" max="100" chance="100" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="95740" min="1" max="1" chance="100" name="장인의 아덴의 탈리스만 강화 주문서"/> <!-- Artisan's Scroll: Enchant Talisman of Aden - Sealed -->
+			<item id="94208" min="1" max="1" chance="100" name="축복 주문서 - 무기"/> <!-- Scroll of Blessing - Weapon - Sealed -->
+			<item id="94328" min="10" max="10" chance="100" name="엘릭서 가루"/> <!-- Elixir Powder - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95927" name="미공급 - 부활 수수료 할인 부적" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="95928" name="미공급 - 부활 수수료 할인 부적" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="95929" name="미공급 - 부활 수수료 할인 부적" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="95930" name="미공급 - 부활 수수료 할인 부적" type="EtcItem">
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="95931" name="아인하사드의 축복 상자(기간제)" type="EtcItem">
+		<!-- Double-click to obtain a random item from the list or one of various items. -->
+		<set name="icon" val="icon.bm_sayha_blessed_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93387" min="1" max="1" chance="1.612903" name="마법서 - 진 데스나이트"/> <!-- Spellbook: Ultimate Death Knight -->
+			<item id="94498" min="1" max="1" chance="1.612903" name="마법서 - 챔피언 오브 타이탄"/> <!-- Spellbook: Titan Champion -->
+			<item id="95354" min="1" max="1" chance="1.612903" name="마법서 - 드래곤 스트라이크"/> <!-- Spellbook: Dragon Strike -->
+			<item id="94861" min="1" max="1" chance="1.612903" name="마법서 - 세레니티"/> <!-- Spellbook: Tranquility -->
+			<item id="94668" min="1" max="1" chance="1.612903" name="마법서 - 터치 오브 파아그리오"/> <!-- Spellbook: Pa'agrio's Touch -->
+			<item id="95347" min="1" max="1" chance="1.612903" name="마법서 - 롤링 다이스"/> <!-- Spellbook: Rolling Dice -->
+			<item id="95861" min="1" max="1" chance="1.612903" name="마법서 - 프라임 마에스트로"/> <!-- Spellbook: Prime Master -->
+			<item id="94508" min="1" max="1" chance="1.612903" name="마법서 - 워 로어"/> <!-- Spellbook: Cacophony of War -->
+			<item id="94862" min="1" max="1" chance="1.612903" name="마법서 - 엑스펠"/> <!-- Spellbook: Exclusion -->
+			<item id="94863" min="1" max="1" chance="1.612903" name="마법서 - 다크 루인"/> <!-- Spellbook: Dark Disruption -->
+			<item id="95346" min="1" max="1" chance="1.612903" name="마법서 - 메테오"/> <!-- Spellbook: Meteor -->
+			<item id="94840" min="1" max="1" chance="1.612903" name="수호의 흉갑"/> <!-- Breastplate of Protection -->
+			<item id="94841" min="1" max="1" chance="1.612903" name="수호의 각반"/> <!-- Gaiters of Protection -->
+			<item id="94844" min="1" max="1" chance="1.612903" name="수호의 레더 메일"/> <!-- Leather Armor of Protection -->
+			<item id="94845" min="1" max="1" chance="1.612903" name="수호의 레더 레깅스"/> <!-- Leather Leggings of Protection -->
+			<item id="94848" min="1" max="1" chance="1.612903" name="수호의 튜닉"/> <!-- Tunic of Protection -->
+			<item id="94849" min="1" max="1" chance="1.612903" name="수호의 호즈"/> <!-- Stockings of Protection -->
+			<item id="95665" min="1" max="1" chance="1.612903" name="수호의 실드"/> <!-- Shield of Protection -->
+			<item id="95663" min="1" max="1" chance="1.612903" name="수호의 시길"/> <!-- Sigil of Protection -->
+			<item id="95660" min="1" max="1" chance="1.612903" name="보스 무기 상자"/> <!-- Boss' Weapon Pack - Sealed -->
+			<item id="49683" min="1" max="1" chance="1.612903" name="바이움 탈리스만"/> <!-- Talisman of Baium -->
+			<item id="91550" min="1" max="1" chance="1.612903" name="프린테사의 목걸이"/> <!-- Frintezza's Necklace -->
+			<item id="49580" min="1" max="1" chance="1.612903" name="바이움의 반지"/> <!-- Baium's Ring -->
+			<item id="90763" min="1" max="1" chance="1.612903" name="자켄의 귀걸이"/> <!-- Zaken's Earring -->
+			<item id="6660" min="1" max="1" chance="1.612903" name="여왕개미의 반지"/> <!-- Queen Ant's Ring -->
+			<item id="6661" min="1" max="1" chance="1.612903" name="오르펜의 귀걸이"/> <!-- Orfen's Earring -->
+			<item id="6662" min="1" max="1" chance="1.612903" name="코어의 반지"/> <!-- Core's Ring -->
+			<item id="94385" min="1" max="1" chance="1.612903" name="축복받은 레어 액세서리 강화 주문서"/> <!-- Improved Scroll: Enchant Rare Accessories -->
+			<item id="94383" min="1" max="1" chance="1.612903" name="레어 액세서리 강화 주문서"/> <!-- Scroll: Enchant Rare Accessories -->
+			<item id="93739" min="1" max="1" chance="1.612903" name="기란의 인장 1000개 팩"/> <!-- Package: Giran Seal (1000 pcs.) - Sealed -->
+			<item id="94853" min="1" max="1" chance="1.612903" name="전설의 염약&lt;STR+4&gt;"/> <!-- Legendary Colorant (STR +4) - 3rd Class -->
+			<item id="94856" min="1" max="1" chance="1.612903" name="전설의 염약&lt;INT+4&gt;"/> <!-- Legendary Colorant (INT +4) - 3rd Class -->
+			<item id="94855" min="1" max="1" chance="1.612903" name="전설의 염약&lt;DEX+4&gt;"/> <!-- Legendary Colorant (DEX +4) - 3rd Class -->
+			<item id="94858" min="1" max="1" chance="1.612903" name="전설의 염약&lt;WIT+4&gt;"/> <!-- Legendary Colorant (WIT +4) - 3rd Class -->
+			<item id="94854" min="1" max="1" chance="1.612903" name="전설의 염약&lt;CON+4&gt;"/> <!-- Legendary Colorant (CON +4) - 3rd Class -->
+			<item id="94857" min="1" max="1" chance="1.612903" name="전설의 염약&lt;MEN+4&gt;"/> <!-- Legendary Colorant (MEN +4) - 3rd Class -->
+			<item id="94156" min="1" max="1" chance="1.612903" name="일반 바이움 인형 소환권 팩"/> <!-- Package: Common Doll Summon Coupon - Baium - Sealed -->
+			<item id="94513" min="1" max="1" chance="1.612903" name="일반 프린테사 인형 소환권 팩"/> <!-- Package: Common Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="94651" min="1" max="1" chance="1.612903" name="일반 자켄 인형 소환권 팩"/> <!-- Package: Common Doll Summon Coupon - Zaken - Sealed -->
+			<item id="94654" min="1" max="1" chance="1.612903" name="일반 코어 인형 소환권 팩"/> <!-- Package: Common Doll Summon Coupon - Core - Sealed -->
+			<item id="94159" min="1" max="1" chance="1.612903" name="일반 여왕개미 인형 소환권 팩"/> <!-- Package: Common Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="94162" min="1" max="1" chance="1.612903" name="일반 오르펜 인형 소환권 팩"/> <!-- Package: Common Doll Summon Coupon - Orfen - Sealed -->
+			<item id="93448" min="1" max="1" chance="1.612903" name="A그레이드 무기 교환 티켓"/> <!-- A-grade Weapon Coupon - Sealed -->
+			<item id="93449" min="1" max="1" chance="1.612903" name="A그레이드 방어구 교환 티켓"/> <!-- A-grade Armor Coupon - Sealed -->
+			<item id="94208" min="1" max="1" chance="1.612903" name="축복 주문서 - 무기"/> <!-- Scroll of Blessing - Weapon - Sealed -->
+			<item id="94328" min="1" max="1" chance="1.612903" name="엘릭서 가루"/> <!-- Elixir Powder - Sealed -->
+			<item id="93304" min="1" max="1" chance="1.612903" name="아인하사드의 펜던트 Lv1 팩 "/> <!-- Package: Einhasad's Pendant Lv. 1 - Sealed -->
+			<item id="93303" min="1" max="1" chance="1.612903" name="수호의 망토 팩"/> <!-- Package: Cloak of Protection - Sealed -->
+			<item id="729" min="1" max="1" chance="1.612903" name="무기 강화 주문서"/> <!-- Scroll: Enchant Weapon -->
+			<item id="730" min="1" max="1" chance="1.612903" name="갑옷 강화 주문서"/> <!-- Scroll: Enchant Armor -->
+			<item id="93255" min="1" max="1" chance="1.612903" name="축복받은 무기 강화 주문서"/> <!-- Blessed Scroll: Enchant Weapon -->
+			<item id="93256" min="1" max="1" chance="1.612903" name="축복받은 갑옷 강화 주문서"/> <!-- Blessed Scroll: Enchant Armor -->
+			<item id="93257" min="1" max="1" chance="1.612903" name="저주받은 무기 강화 주문서"/> <!-- Cursed Scroll: Enchant Weapon -->
+			<item id="93258" min="1" max="1" chance="1.612903" name="저주받은 갑옷 강화 주문서"/> <!-- Cursed Scroll: Enchant Armor -->
+			<item id="94269" min="2" max="2" chance="1.612903" name="공격력 강화 주문서"/> <!-- Scroll: Boost Attack - Sealed -->
+			<item id="94271" min="2" max="2" chance="1.612903" name="방어력 강화 주문서"/> <!-- Scroll: Boost Defense - Sealed -->
+			<item id="91690" min="30" max="30" chance="1.612903" name="특급 HP 물약 (기간제)"/> <!-- Special HP Recovery Potion - Sealed -->
+			<item id="92314" min="10" max="10" chance="1.612903" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="5" max="5" chance="1.612903" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="2" max="2" chance="1.612903" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="1" max="1" chance="1.612903" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="91641" min="5" max="5" chance="1.612903" name="사이하의 축복"/> <!-- Sayha's Blessing - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95932" name="수호의 투구" type="Armor">
+		<!-- A helmet imbued with the energy of protection. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="head"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="LEATHER"/>
+		<set name="weight" val="560"/>
+		<set name="price" val="2032000"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<set name="ensoulNormalSlots" val="1"/>
+		<stats>
+			<stat type="pDef">110</stat>
+		</stats>
+		<skills>
+			<skill id="50541" level="1"/> <!-- Not used - A-grade Equipment: Helmet of Protection -->
+			<skill id="50542" level="1"/> <!-- Helmet of Protection -->
+			<skill id="50543" level="1" type="ON_ENCHANT" type_value="1"/> <!-- Helmet of Protection -->
+			<skill id="50543" level="2" type="ON_ENCHANT" type_value="2"/> <!-- +1 Helmet of Protection -->
+			<skill id="50543" level="3" type="ON_ENCHANT" type_value="3"/> <!-- +2 Helmet of Protection -->
+			<skill id="50543" level="4" type="ON_ENCHANT" type_value="4"/> <!-- +3 Helmet of Protection -->
+			<skill id="50543" level="5" type="ON_ENCHANT" type_value="5"/> <!-- +4 Helmet of Protection -->
+			<skill id="50543" level="6" type="ON_ENCHANT" type_value="6"/> <!-- +5 Helmet of Protection -->
+			<skill id="50543" level="7" type="ON_ENCHANT" type_value="7"/> <!-- +6 Helmet of Protection -->
+			<skill id="50543" level="8" type="ON_ENCHANT" type_value="8"/> <!-- +7 Helmet of Protection -->
+			<skill id="50543" level="9" type="ON_ENCHANT" type_value="9"/> <!-- +8 Helmet of Protection -->
+			<skill id="50543" level="10" type="ON_ENCHANT" type_value="10"/> <!-- +9 Helmet of Protection -->
+			<skill id="83215" level="4" type="ON_BLESSING"/> <!-- Blessing Effect: Helmet -->
+			<skill id="83116" level="1" type="ON_BLESSING" type_value="6"/> <!-- Helmet of Protection - 6 Item Effect -->
+			<skill id="83117" level="1" type="ON_BLESSING" type_value="7"/> <!-- Helmet of Protection - 7 Item Effect -->
+			<skill id="83118" level="1" type="ON_BLESSING" type_value="8"/> <!-- Helmet of Protection - 8 Item Effect -->
+		</skills>
+	</item>
+	<item id="95933" name="수호의 건틀렛" type="Armor">
+		<!-- Gauntlets imbued with the energy of protection. -->
+		<set name="icon" val="icon.armor_t901_g_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="gloves"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="LEATHER"/>
+		<set name="weight" val="540"/>
+		<set name="price" val="890000"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="ensoulNormalSlots" val="1"/>
+		<stats>
+			<stat type="pDef">80</stat>
+		</stats>
+		<skills>
+			<skill id="50545" level="1"/> <!-- Not used - A-grade Equipment: Gauntlets of Protection -->
+			<skill id="50546" level="1"/> <!-- Gauntlets of Protection -->
+			<skill id="50547" level="1" type="ON_ENCHANT" type_value="1"/> <!-- Gauntlets of Protection -->
+			<skill id="50547" level="2" type="ON_ENCHANT" type_value="2"/> <!-- +1 Gauntlets of Protection -->
+			<skill id="50547" level="3" type="ON_ENCHANT" type_value="3"/> <!-- +2 Gauntlets of Protection -->
+			<skill id="50547" level="4" type="ON_ENCHANT" type_value="4"/> <!-- +3 Gauntlets of Protection -->
+			<skill id="50547" level="5" type="ON_ENCHANT" type_value="5"/> <!-- +4 Gauntlets of Protection -->
+			<skill id="50547" level="6" type="ON_ENCHANT" type_value="6"/> <!-- +5 Gauntlets of Protection -->
+			<skill id="50547" level="7" type="ON_ENCHANT" type_value="7"/> <!-- +6 Gauntlets of Protection -->
+			<skill id="50547" level="8" type="ON_ENCHANT" type_value="8"/> <!-- +7 Gauntlets of Protection -->
+			<skill id="50547" level="9" type="ON_ENCHANT" type_value="9"/> <!-- +8 Gauntlets of Protection -->
+			<skill id="50547" level="10" type="ON_ENCHANT" type_value="10"/> <!-- +9 Gauntlets of Protection -->
+			<skill id="83222" level="4" type="ON_BLESSING"/> <!-- Blessing Effect: Gloves -->
+			<skill id="83200" level="1" type="ON_BLESSING" type_value="6"/> <!-- Gloves of Protection - 6 Item Effect -->
+			<skill id="83201" level="1" type="ON_BLESSING" type_value="7"/> <!-- Gloves of Protection - 7 Item Effect -->
+			<skill id="83202" level="1" type="ON_BLESSING" type_value="8"/> <!-- Gloves of Protection - 8 Item Effect -->
+		</skills>
+	</item>
+	<item id="95934" name="수호의 부츠" type="Armor">
+		<!-- Boots imbued with the energy of protection. -->
+		<set name="icon" val="icon.armor_t901_b_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="feet"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="LEATHER"/>
+		<set name="weight" val="1070"/>
+		<set name="price" val="1355000"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="ensoulNormalSlots" val="1"/>
+		<stats>
+			<stat type="pDef">75</stat>
+		</stats>
+		<skills>
+			<skill id="50549" level="1"/> <!-- Not used - A-grade Equipment: Boots of Protection -->
+			<skill id="50550" level="1"/> <!-- Boots of Protection -->
+			<skill id="50551" level="1" type="ON_ENCHANT" type_value="1"/> <!-- Boots of Protection -->
+			<skill id="50551" level="2" type="ON_ENCHANT" type_value="2"/> <!-- +1 Boots of Protection -->
+			<skill id="50551" level="3" type="ON_ENCHANT" type_value="3"/> <!-- +2 Boots of Protection -->
+			<skill id="50551" level="4" type="ON_ENCHANT" type_value="4"/> <!-- +3 Boots of Protection -->
+			<skill id="50551" level="5" type="ON_ENCHANT" type_value="5"/> <!-- +4 Boots of Protection -->
+			<skill id="50551" level="6" type="ON_ENCHANT" type_value="6"/> <!-- +5 Boots of Protection -->
+			<skill id="50551" level="7" type="ON_ENCHANT" type_value="7"/> <!-- +6 Boots of Protection -->
+			<skill id="50551" level="8" type="ON_ENCHANT" type_value="8"/> <!-- +7 Boots of Protection -->
+			<skill id="50551" level="9" type="ON_ENCHANT" type_value="9"/> <!-- +8 Boots of Protection -->
+			<skill id="50551" level="10" type="ON_ENCHANT" type_value="10"/> <!-- +9 Boots of Protection -->
+			<skill id="83223" level="4" type="ON_BLESSING"/> <!-- Blessing Effect: Boots -->
+			<skill id="83212" level="1" type="ON_BLESSING" type_value="6"/> <!-- Boots of Protection - 6 Item Effect -->
+			<skill id="83213" level="1" type="ON_BLESSING" type_value="7"/> <!-- Boots of Protection - 7 Item Effect -->
+			<skill id="83214" level="1" type="ON_BLESSING" type_value="8"/> <!-- Boots of Protection - 8 Item Effect -->
+		</skills>
+	</item>
+	<item id="95935" name="수호의 투구" type="Armor">
+		<!-- A helmet imbued with the energy of protection. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="head"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="LEATHER"/>
+		<set name="weight" val="560"/>
+		<set name="price" val="2032000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="ensoulNormalSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="pDef">110</stat>
+		</stats>
+		<skills>
+			<skill id="50541" level="1"/> <!-- Not used - A-grade Equipment: Helmet of Protection -->
+			<skill id="50542" level="1"/> <!-- Helmet of Protection -->
+			<skill id="50543" level="1" type="ON_ENCHANT" type_value="1"/> <!-- Helmet of Protection -->
+			<skill id="50543" level="2" type="ON_ENCHANT" type_value="2"/> <!-- +1 Helmet of Protection -->
+			<skill id="50543" level="3" type="ON_ENCHANT" type_value="3"/> <!-- +2 Helmet of Protection -->
+			<skill id="50543" level="4" type="ON_ENCHANT" type_value="4"/> <!-- +3 Helmet of Protection -->
+			<skill id="50543" level="5" type="ON_ENCHANT" type_value="5"/> <!-- +4 Helmet of Protection -->
+			<skill id="50543" level="6" type="ON_ENCHANT" type_value="6"/> <!-- +5 Helmet of Protection -->
+			<skill id="50543" level="7" type="ON_ENCHANT" type_value="7"/> <!-- +6 Helmet of Protection -->
+			<skill id="50543" level="8" type="ON_ENCHANT" type_value="8"/> <!-- +7 Helmet of Protection -->
+			<skill id="50543" level="9" type="ON_ENCHANT" type_value="9"/> <!-- +8 Helmet of Protection -->
+			<skill id="50543" level="10" type="ON_ENCHANT" type_value="10"/> <!-- +9 Helmet of Protection -->
+			<skill id="83215" level="4" type="ON_BLESSING"/> <!-- Blessing Effect: Helmet -->
+			<skill id="83116" level="1" type="ON_BLESSING" type_value="6"/> <!-- Helmet of Protection - 6 Item Effect -->
+			<skill id="83117" level="1" type="ON_BLESSING" type_value="7"/> <!-- Helmet of Protection - 7 Item Effect -->
+			<skill id="83118" level="1" type="ON_BLESSING" type_value="8"/> <!-- Helmet of Protection - 8 Item Effect -->
+		</skills>
+	</item>
+	<item id="95936" name="수호의 건틀렛" type="Armor">
+		<!-- Gauntlets imbued with the energy of protection. -->
+		<set name="icon" val="icon.armor_t901_g_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="gloves"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="LEATHER"/>
+		<set name="weight" val="540"/>
+		<set name="price" val="890000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="ensoulNormalSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="pDef">80</stat>
+		</stats>
+		<skills>
+			<skill id="50545" level="1"/> <!-- Not used - A-grade Equipment: Gauntlets of Protection -->
+			<skill id="50546" level="1"/> <!-- Gauntlets of Protection -->
+			<skill id="50547" level="1" type="ON_ENCHANT" type_value="1"/> <!-- Gauntlets of Protection -->
+			<skill id="50547" level="2" type="ON_ENCHANT" type_value="2"/> <!-- +1 Gauntlets of Protection -->
+			<skill id="50547" level="3" type="ON_ENCHANT" type_value="3"/> <!-- +2 Gauntlets of Protection -->
+			<skill id="50547" level="4" type="ON_ENCHANT" type_value="4"/> <!-- +3 Gauntlets of Protection -->
+			<skill id="50547" level="5" type="ON_ENCHANT" type_value="5"/> <!-- +4 Gauntlets of Protection -->
+			<skill id="50547" level="6" type="ON_ENCHANT" type_value="6"/> <!-- +5 Gauntlets of Protection -->
+			<skill id="50547" level="7" type="ON_ENCHANT" type_value="7"/> <!-- +6 Gauntlets of Protection -->
+			<skill id="50547" level="8" type="ON_ENCHANT" type_value="8"/> <!-- +7 Gauntlets of Protection -->
+			<skill id="50547" level="9" type="ON_ENCHANT" type_value="9"/> <!-- +8 Gauntlets of Protection -->
+			<skill id="50547" level="10" type="ON_ENCHANT" type_value="10"/> <!-- +9 Gauntlets of Protection -->
+			<skill id="83222" level="4" type="ON_BLESSING"/> <!-- Blessing Effect: Gloves -->
+			<skill id="83200" level="1" type="ON_BLESSING" type_value="6"/> <!-- Gloves of Protection - 6 Item Effect -->
+			<skill id="83201" level="1" type="ON_BLESSING" type_value="7"/> <!-- Gloves of Protection - 7 Item Effect -->
+			<skill id="83202" level="1" type="ON_BLESSING" type_value="8"/> <!-- Gloves of Protection - 8 Item Effect -->
+		</skills>
+	</item>
+	<item id="95937" name="수호의 부츠" type="Armor">
+		<!-- Boots imbued with the energy of protection. -->
+		<set name="icon" val="icon.armor_t901_b_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="feet"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="LEATHER"/>
+		<set name="weight" val="1070"/>
+		<set name="price" val="1355000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="ensoulNormalSlots" val="1"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="pDef">75</stat>
+		</stats>
+		<skills>
+			<skill id="50549" level="1"/> <!-- Not used - A-grade Equipment: Boots of Protection -->
+			<skill id="50550" level="1"/> <!-- Boots of Protection -->
+			<skill id="50551" level="1" type="ON_ENCHANT" type_value="1"/> <!-- Boots of Protection -->
+			<skill id="50551" level="2" type="ON_ENCHANT" type_value="2"/> <!-- +1 Boots of Protection -->
+			<skill id="50551" level="3" type="ON_ENCHANT" type_value="3"/> <!-- +2 Boots of Protection -->
+			<skill id="50551" level="4" type="ON_ENCHANT" type_value="4"/> <!-- +3 Boots of Protection -->
+			<skill id="50551" level="5" type="ON_ENCHANT" type_value="5"/> <!-- +4 Boots of Protection -->
+			<skill id="50551" level="6" type="ON_ENCHANT" type_value="6"/> <!-- +5 Boots of Protection -->
+			<skill id="50551" level="7" type="ON_ENCHANT" type_value="7"/> <!-- +6 Boots of Protection -->
+			<skill id="50551" level="8" type="ON_ENCHANT" type_value="8"/> <!-- +7 Boots of Protection -->
+			<skill id="50551" level="9" type="ON_ENCHANT" type_value="9"/> <!-- +8 Boots of Protection -->
+			<skill id="50551" level="10" type="ON_ENCHANT" type_value="10"/> <!-- +9 Boots of Protection -->
+			<skill id="83223" level="4" type="ON_BLESSING"/> <!-- Blessing Effect: Boots -->
+			<skill id="83212" level="1" type="ON_BLESSING" type_value="6"/> <!-- Boots of Protection - 6 Item Effect -->
+			<skill id="83213" level="1" type="ON_BLESSING" type_value="7"/> <!-- Boots of Protection - 7 Item Effect -->
+			<skill id="83214" level="1" type="ON_BLESSING" type_value="8"/> <!-- Boots of Protection - 8 Item Effect -->
+		</skills>
+	</item>
+	<item id="95938" name="빛나는 오만의 탑 보물 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain one of the following items. -->
+		<set name="icon" val="icon.etc_readybox_gold"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93848" min="5" max="5" chance="7.692307" name="은총 쿠키 (기간제)"/> <!-- Sayha's Cookie (Sealed) - Sealed -->
+			<item id="91840" min="2" max="2" chance="7.692307" name="경험치 향상 주문서 (기간제)"/> <!-- XP Growth Scroll (Time-limited) - Sealed -->
+			<item id="95660" min="1" max="1" chance="7.692307" name="보스 무기 상자"/> <!-- Boss' Weapon Pack - Sealed -->
+			<item id="49683" min="1" max="1" chance="7.692307" name="바이움 탈리스만"/> <!-- Talisman of Baium -->
+			<item id="49580" min="1" max="1" chance="7.692307" name="바이움의 반지"/> <!-- Baium's Ring -->
+			<item id="93448" min="1" max="1" chance="7.692307" name="A그레이드 무기 교환 티켓"/> <!-- A-grade Weapon Coupon - Sealed -->
+			<item id="93449" min="1" max="1" chance="7.692307" name="A그레이드 방어구 교환 티켓"/> <!-- A-grade Armor Coupon - Sealed -->
+			<item id="93499" min="1" max="1" chance="7.692307" name="B그레이드 강화 무기 교환 티켓"/> <!-- Enchanted B-grade Weapon Coupon - Sealed -->
+			<item id="93500" min="1" max="1" chance="7.692307" name="B그레이드 강화 방어구 교환 티켓"/> <!-- Enchanted B-grade Armor Coupon - Sealed -->
+			<item id="93976" min="1" max="1" chance="7.692307" name="무기 강화 주문서"/> <!-- Scroll: Enchant Weapon - Sealed -->
+			<item id="93977" min="1" max="1" chance="7.692307" name="갑옷 강화 주문서"/> <!-- Scroll: Enchant Armor - Sealed -->
+			<item id="90907" min="7" max="7" chance="7.692307" name="정령탄 교환권"/> <!-- Soulshot Ticket - Sealed -->
+			<item id="3031" min="20" max="20" chance="7.692307" name="마정석"/> <!-- Spirit Ore - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="95939" name="일반 제작: +12 야크샤 메이스 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_yaksa_mace_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93054" min="1" max="1" minEnchant="12" maxEnchant="12" chance="50" name="야크샤 메이스"/> <!-- Yaksa Mace - Sealed -->
+			<item id="2503" min="1" max="1" minEnchant="12" maxEnchant="12" chance="50" name="야크샤 메이스"/> <!-- Yaksa Mace -->
+		</capsuled_items>
+	</item>
+	<item id="95940" name="일반 제작: +12 세이버투스 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_invincible_blade_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93058" min="1" max="1" minEnchant="12" maxEnchant="12" chance="50" name="세이버투스"/> <!-- Saber Tooth - Sealed -->
+			<item id="91882" min="1" max="1" minEnchant="12" maxEnchant="12" chance="50" name="세이버투스"/> <!-- Saber Tooth -->
+		</capsuled_items>
+	</item>
+	<item id="95941" name="강화된 쉬르노엔의 흉갑 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t64_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93501" min="1" max="1" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate - Sealed -->
+			<item id="93501" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate - Sealed -->
+			<item id="93501" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate - Sealed -->
+			<item id="93501" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate - Sealed -->
+			<item id="93501" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate - Sealed -->
+			<item id="93501" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate - Sealed -->
+			<item id="357" min="1" max="1" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate -->
+			<item id="357" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate -->
+			<item id="357" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate -->
+			<item id="357" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate -->
+			<item id="357" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate -->
+			<item id="357" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 흉갑"/> <!-- Zubei's Breastplate -->
+		</capsuled_items>
+	</item>
+	<item id="95942" name="강화된 푸른 늑대의 흉갑 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t68_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93502" min="1" max="1" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate - Sealed -->
+			<item id="93502" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate - Sealed -->
+			<item id="93502" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate - Sealed -->
+			<item id="93502" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate - Sealed -->
+			<item id="93502" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate - Sealed -->
+			<item id="93502" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate - Sealed -->
+			<item id="358" min="1" max="1" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate -->
+			<item id="358" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate -->
+			<item id="358" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate -->
+			<item id="358" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate -->
+			<item id="358" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate -->
+			<item id="358" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 흉갑"/> <!-- Blue Wolf Breastplate -->
+		</capsuled_items>
+	</item>
+	<item id="95943" name="강화된 쉬르노엔의 각반 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t64_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93503" min="1" max="1" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters - Sealed -->
+			<item id="93503" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters - Sealed -->
+			<item id="93503" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters - Sealed -->
+			<item id="93503" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters - Sealed -->
+			<item id="93503" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters - Sealed -->
+			<item id="93503" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters - Sealed -->
+			<item id="383" min="1" max="1" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters -->
+			<item id="383" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters -->
+			<item id="383" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters -->
+			<item id="383" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters -->
+			<item id="383" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters -->
+			<item id="383" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 각반"/> <!-- Zubei's Gaiters -->
+		</capsuled_items>
+	</item>
+	<item id="95944" name="강화된 아바돈 플레이트 흉갑 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t66_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93504" min="1" max="1" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate - Sealed -->
+			<item id="93504" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate - Sealed -->
+			<item id="93504" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate - Sealed -->
+			<item id="93504" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate - Sealed -->
+			<item id="93504" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate - Sealed -->
+			<item id="93504" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate - Sealed -->
+			<item id="2376" min="1" max="1" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate -->
+			<item id="2376" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate -->
+			<item id="2376" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate -->
+			<item id="2376" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate -->
+			<item id="2376" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate -->
+			<item id="2376" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 플레이트 흉갑"/> <!-- Avadon Breastplate -->
+		</capsuled_items>
+	</item>
+	<item id="95945" name="강화된 아바돈 플레이트 각반 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t66_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93505" min="1" max="1" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters - Sealed -->
+			<item id="93505" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters - Sealed -->
+			<item id="93505" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters - Sealed -->
+			<item id="93505" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters - Sealed -->
+			<item id="93505" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters - Sealed -->
+			<item id="93505" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters - Sealed -->
+			<item id="2379" min="1" max="1" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters -->
+			<item id="2379" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters -->
+			<item id="2379" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters -->
+			<item id="2379" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters -->
+			<item id="2379" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters -->
+			<item id="2379" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 플레이트 각반"/> <!-- Avadon Gaiters -->
+		</capsuled_items>
+	</item>
+	<item id="95946" name="강화된 푸른 늑대의 각반 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t68_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93506" min="1" max="1" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters - Sealed -->
+			<item id="93506" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters - Sealed -->
+			<item id="93506" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters - Sealed -->
+			<item id="93506" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters - Sealed -->
+			<item id="93506" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters - Sealed -->
+			<item id="93506" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters - Sealed -->
+			<item id="2380" min="1" max="1" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters -->
+			<item id="2380" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters -->
+			<item id="2380" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters -->
+			<item id="2380" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters -->
+			<item id="2380" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters -->
+			<item id="2380" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 각반"/> <!-- Blue Wolf Gaiters -->
+		</capsuled_items>
+	</item>
+	<item id="95947" name="강화된 둠 플레이트 아머 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t71_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93507" min="1" max="1" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor - Sealed -->
+			<item id="93507" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor - Sealed -->
+			<item id="93507" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor - Sealed -->
+			<item id="93507" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor - Sealed -->
+			<item id="93507" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor - Sealed -->
+			<item id="93507" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor - Sealed -->
+			<item id="2381" min="1" max="1" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor -->
+			<item id="2381" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor -->
+			<item id="2381" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor -->
+			<item id="2381" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor -->
+			<item id="2381" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor -->
+			<item id="2381" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 플레이트 아머"/> <!-- Doom Plate Armor -->
+		</capsuled_items>
+	</item>
+	<item id="95948" name="강화된 쉬르노엔 레더 셔츠 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t65_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93508" min="1" max="1" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt - Sealed -->
+			<item id="93508" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt - Sealed -->
+			<item id="93508" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt - Sealed -->
+			<item id="93508" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt - Sealed -->
+			<item id="93508" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt - Sealed -->
+			<item id="93508" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt - Sealed -->
+			<item id="2384" min="1" max="1" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt -->
+			<item id="2384" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt -->
+			<item id="2384" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt -->
+			<item id="2384" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt -->
+			<item id="2384" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt -->
+			<item id="2384" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔 레더 셔츠"/> <!-- Zubei's Leather Shirt -->
+		</capsuled_items>
+	</item>
+	<item id="95949" name="강화된 쉬르노엔 가죽 각반 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t65_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93509" min="1" max="1" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters - Sealed -->
+			<item id="93509" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters - Sealed -->
+			<item id="93509" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters - Sealed -->
+			<item id="93509" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters - Sealed -->
+			<item id="93509" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters - Sealed -->
+			<item id="93509" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters - Sealed -->
+			<item id="2388" min="1" max="1" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters -->
+			<item id="2388" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters -->
+			<item id="2388" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters -->
+			<item id="2388" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters -->
+			<item id="2388" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters -->
+			<item id="2388" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔 가죽 각반"/> <!-- Zubei's Leather Gaiters -->
+		</capsuled_items>
+	</item>
+	<item id="95950" name="강화된 아바돈 레더 메일 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t67_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93510" min="1" max="1" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor - Sealed -->
+			<item id="93510" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor - Sealed -->
+			<item id="93510" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor - Sealed -->
+			<item id="93510" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor - Sealed -->
+			<item id="93510" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor - Sealed -->
+			<item id="93510" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor - Sealed -->
+			<item id="2390" min="1" max="1" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor -->
+			<item id="2390" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor -->
+			<item id="2390" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor -->
+			<item id="2390" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor -->
+			<item id="2390" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor -->
+			<item id="2390" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 레더 메일"/> <!-- Avadon Leather Armor -->
+		</capsuled_items>
+	</item>
+	<item id="95951" name="강화된 푸른 늑대의 레더 메일 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t69_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93511" min="1" max="1" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor - Sealed -->
+			<item id="93511" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor - Sealed -->
+			<item id="93511" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor - Sealed -->
+			<item id="93511" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor - Sealed -->
+			<item id="93511" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor - Sealed -->
+			<item id="93511" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor - Sealed -->
+			<item id="2391" min="1" max="1" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor -->
+			<item id="2391" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor -->
+			<item id="2391" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor -->
+			<item id="2391" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor -->
+			<item id="2391" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor -->
+			<item id="2391" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 레더 메일"/> <!-- Blue Wolf Leather Armor -->
+		</capsuled_items>
+	</item>
+	<item id="95952" name="강화된 레더 메일 오브 둠 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t72_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93512" min="1" max="1" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor - Sealed -->
+			<item id="93512" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor - Sealed -->
+			<item id="93512" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor - Sealed -->
+			<item id="93512" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor - Sealed -->
+			<item id="93512" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor - Sealed -->
+			<item id="93512" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor - Sealed -->
+			<item id="2392" min="1" max="1" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor -->
+			<item id="2392" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor -->
+			<item id="2392" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor -->
+			<item id="2392" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor -->
+			<item id="2392" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor -->
+			<item id="2392" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="레더 메일 오브 둠"/> <!-- Doom Leather Armor -->
+		</capsuled_items>
+	</item>
+	<item id="95953" name="강화된 튜닉 오브 쉬르노엔 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t56_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93513" min="1" max="1" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic - Sealed -->
+			<item id="93513" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic - Sealed -->
+			<item id="93513" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic - Sealed -->
+			<item id="93513" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic - Sealed -->
+			<item id="93513" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic - Sealed -->
+			<item id="93513" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic - Sealed -->
+			<item id="2397" min="1" max="1" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic -->
+			<item id="2397" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic -->
+			<item id="2397" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic -->
+			<item id="2397" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic -->
+			<item id="2397" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic -->
+			<item id="2397" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="튜닉 오브 쉬르노엔"/> <!-- Zubei's Tunic -->
+		</capsuled_items>
+	</item>
+	<item id="95954" name="강화된 푸른 늑대의 튜닉 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t70_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93514" min="1" max="1" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic - Sealed -->
+			<item id="93514" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic - Sealed -->
+			<item id="93514" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic - Sealed -->
+			<item id="93514" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic - Sealed -->
+			<item id="93514" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic - Sealed -->
+			<item id="93514" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic - Sealed -->
+			<item id="2398" min="1" max="1" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic -->
+			<item id="2398" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic -->
+			<item id="2398" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic -->
+			<item id="2398" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic -->
+			<item id="2398" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic -->
+			<item id="2398" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 튜닉"/> <!-- Blue Wolf Tunic -->
+		</capsuled_items>
+	</item>
+	<item id="95955" name="강화된 튜닉 오브 둠 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t73_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93515" min="1" max="1" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic - Sealed -->
+			<item id="93515" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic - Sealed -->
+			<item id="93515" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic - Sealed -->
+			<item id="93515" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic - Sealed -->
+			<item id="93515" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic - Sealed -->
+			<item id="93515" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic - Sealed -->
+			<item id="2399" min="1" max="1" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic -->
+			<item id="2399" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic -->
+			<item id="2399" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic -->
+			<item id="2399" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic -->
+			<item id="2399" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic -->
+			<item id="2399" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="튜닉 오브 둠"/> <!-- Doom Tunic -->
+		</capsuled_items>
+	</item>
+	<item id="95956" name="강화된 호즈 오브 쉬르노엔 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t56_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93516" min="1" max="1" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings - Sealed -->
+			<item id="93516" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings - Sealed -->
+			<item id="93516" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings - Sealed -->
+			<item id="93516" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings - Sealed -->
+			<item id="93516" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings - Sealed -->
+			<item id="93516" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings - Sealed -->
+			<item id="2402" min="1" max="1" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings -->
+			<item id="2402" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings -->
+			<item id="2402" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings -->
+			<item id="2402" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings -->
+			<item id="2402" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings -->
+			<item id="2402" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="호즈 오브 쉬르노엔"/> <!-- Zubei's Stockings -->
+		</capsuled_items>
+	</item>
+	<item id="95957" name="강화된 푸른 늑대의 호즈 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t70_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93517" min="1" max="1" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings - Sealed -->
+			<item id="93517" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings - Sealed -->
+			<item id="93517" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings - Sealed -->
+			<item id="93517" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings - Sealed -->
+			<item id="93517" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings - Sealed -->
+			<item id="93517" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings - Sealed -->
+			<item id="2403" min="1" max="1" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings -->
+			<item id="2403" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings -->
+			<item id="2403" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings -->
+			<item id="2403" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings -->
+			<item id="2403" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings -->
+			<item id="2403" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 호즈"/> <!-- Blue Wolf Stockings -->
+		</capsuled_items>
+	</item>
+	<item id="95958" name="강화된 호즈 오브 둠 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t73_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93518" min="1" max="1" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings - Sealed -->
+			<item id="93518" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings - Sealed -->
+			<item id="93518" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings - Sealed -->
+			<item id="93518" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings - Sealed -->
+			<item id="93518" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings - Sealed -->
+			<item id="93518" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings - Sealed -->
+			<item id="2404" min="1" max="1" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings -->
+			<item id="2404" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings -->
+			<item id="2404" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings -->
+			<item id="2404" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings -->
+			<item id="2404" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings -->
+			<item id="2404" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="호즈 오브 둠"/> <!-- Doom Stockings -->
+		</capsuled_items>
+	</item>
+	<item id="95959" name="강화된 아바돈 로브 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t59_ul_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93519" min="1" max="1" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe - Sealed -->
+			<item id="93519" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe - Sealed -->
+			<item id="93519" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe - Sealed -->
+			<item id="93519" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe - Sealed -->
+			<item id="93519" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe - Sealed -->
+			<item id="93519" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe - Sealed -->
+			<item id="2406" min="1" max="1" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe -->
+			<item id="2406" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe -->
+			<item id="2406" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe -->
+			<item id="2406" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe -->
+			<item id="2406" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe -->
+			<item id="2406" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 로브"/> <!-- Avadon Robe -->
+		</capsuled_items>
+	</item>
+	<item id="95960" name="강화된 쉬르노엔의 건틀렛 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t64_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93520" min="1" max="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) - Sealed -->
+			<item id="93520" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) - Sealed -->
+			<item id="93520" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) - Sealed -->
+			<item id="93520" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) - Sealed -->
+			<item id="93520" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) - Sealed -->
+			<item id="93520" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) - Sealed -->
+			<item id="5710" min="1" max="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) -->
+			<item id="5710" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) -->
+			<item id="5710" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) -->
+			<item id="5710" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) -->
+			<item id="5710" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) -->
+			<item id="5710" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 건틀렛 - 중갑"/> <!-- Zubei's Gauntlets (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95961" name="강화된 쉬르노엔의 건틀렛 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t65_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93521" min="1" max="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) - Sealed -->
+			<item id="93521" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) - Sealed -->
+			<item id="93521" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) - Sealed -->
+			<item id="93521" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) - Sealed -->
+			<item id="93521" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) - Sealed -->
+			<item id="93521" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) - Sealed -->
+			<item id="5711" min="1" max="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) -->
+			<item id="5711" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) -->
+			<item id="5711" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) -->
+			<item id="5711" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) -->
+			<item id="5711" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) -->
+			<item id="5711" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 건틀렛 - 경갑"/> <!-- Zubei's Gauntlets (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95962" name="강화된 쉬르노엔의 건틀렛 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t56_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93522" min="1" max="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) - Sealed -->
+			<item id="93522" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) - Sealed -->
+			<item id="93522" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) - Sealed -->
+			<item id="93522" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) - Sealed -->
+			<item id="93522" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) - Sealed -->
+			<item id="93522" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) - Sealed -->
+			<item id="5712" min="1" max="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) -->
+			<item id="5712" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) -->
+			<item id="5712" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) -->
+			<item id="5712" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) -->
+			<item id="5712" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) -->
+			<item id="5712" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 건틀렛 - 로브"/> <!-- Zubei's Gauntlets (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95963" name="강화된 아바돈 글로브 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t66_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93523" min="1" max="1" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) - Sealed -->
+			<item id="93523" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) - Sealed -->
+			<item id="93523" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) - Sealed -->
+			<item id="93523" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) - Sealed -->
+			<item id="93523" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) - Sealed -->
+			<item id="93523" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) - Sealed -->
+			<item id="5714" min="1" max="1" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) -->
+			<item id="5714" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) -->
+			<item id="5714" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) -->
+			<item id="5714" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) -->
+			<item id="5714" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) -->
+			<item id="5714" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 글로브 - 중갑"/> <!-- Avadon Gloves (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95964" name="강화된 아바돈 글로브 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t67_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93524" min="1" max="1" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) - Sealed -->
+			<item id="93524" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) - Sealed -->
+			<item id="93524" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) - Sealed -->
+			<item id="93524" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) - Sealed -->
+			<item id="93524" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) - Sealed -->
+			<item id="93524" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) - Sealed -->
+			<item id="5715" min="1" max="1" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) -->
+			<item id="5715" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) -->
+			<item id="5715" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) -->
+			<item id="5715" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) -->
+			<item id="5715" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) -->
+			<item id="5715" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 글로브 - 경갑"/> <!-- Avadon Gloves (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95965" name="강화된 아바돈 글로브 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t59_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93525" min="1" max="1" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) - Sealed -->
+			<item id="93525" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) - Sealed -->
+			<item id="93525" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) - Sealed -->
+			<item id="93525" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) - Sealed -->
+			<item id="93525" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) - Sealed -->
+			<item id="93525" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) - Sealed -->
+			<item id="5716" min="1" max="1" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) -->
+			<item id="5716" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) -->
+			<item id="5716" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) -->
+			<item id="5716" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) -->
+			<item id="5716" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) -->
+			<item id="5716" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 글로브 - 로브"/> <!-- Avadon Gloves (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95966" name="강화된 푸른 늑대의 장갑 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t68_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93526" min="1" max="1" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) - Sealed -->
+			<item id="93526" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) - Sealed -->
+			<item id="93526" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) - Sealed -->
+			<item id="93526" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) - Sealed -->
+			<item id="93526" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) - Sealed -->
+			<item id="93526" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) - Sealed -->
+			<item id="5718" min="1" max="1" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) -->
+			<item id="5718" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) -->
+			<item id="5718" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) -->
+			<item id="5718" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) -->
+			<item id="5718" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) -->
+			<item id="5718" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 장갑 - 중갑"/> <!-- Blue Wolf Gloves (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95967" name="강화된 푸른 늑대의 장갑 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t69_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93527" min="1" max="1" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) - Sealed -->
+			<item id="93527" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) - Sealed -->
+			<item id="93527" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) - Sealed -->
+			<item id="93527" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) - Sealed -->
+			<item id="93527" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) - Sealed -->
+			<item id="93527" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) - Sealed -->
+			<item id="5719" min="1" max="1" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) -->
+			<item id="5719" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) -->
+			<item id="5719" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) -->
+			<item id="5719" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) -->
+			<item id="5719" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) -->
+			<item id="5719" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 장갑 - 경갑"/> <!-- Blue Wolf Gloves (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95968" name="강화된 푸른 늑대의 장갑 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t70_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93528" min="1" max="1" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) - Sealed -->
+			<item id="93528" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) - Sealed -->
+			<item id="93528" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) - Sealed -->
+			<item id="93528" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) - Sealed -->
+			<item id="93528" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) - Sealed -->
+			<item id="93528" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) - Sealed -->
+			<item id="5720" min="1" max="1" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) -->
+			<item id="5720" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) -->
+			<item id="5720" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) -->
+			<item id="5720" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) -->
+			<item id="5720" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) -->
+			<item id="5720" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 장갑 - 로브"/> <!-- Blue Wolf Gloves (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95969" name="강화된 둠 글로브 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t71_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93529" min="1" max="1" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) - Sealed -->
+			<item id="93529" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) - Sealed -->
+			<item id="93529" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) - Sealed -->
+			<item id="93529" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) - Sealed -->
+			<item id="93529" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) - Sealed -->
+			<item id="93529" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) - Sealed -->
+			<item id="5722" min="1" max="1" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) -->
+			<item id="5722" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) -->
+			<item id="5722" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) -->
+			<item id="5722" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) -->
+			<item id="5722" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) -->
+			<item id="5722" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 글로브 - 중갑"/> <!-- Doom Gloves (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95970" name="강화된 둠 글로브 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t72_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93530" min="1" max="1" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) - Sealed -->
+			<item id="93530" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) - Sealed -->
+			<item id="93530" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) - Sealed -->
+			<item id="93530" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) - Sealed -->
+			<item id="93530" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) - Sealed -->
+			<item id="93530" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) - Sealed -->
+			<item id="5723" min="1" max="1" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) -->
+			<item id="5723" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) -->
+			<item id="5723" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) -->
+			<item id="5723" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) -->
+			<item id="5723" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) -->
+			<item id="5723" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 글로브 - 경갑"/> <!-- Doom Gloves (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95971" name="강화된 둠 글로브 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t73_g_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93531" min="1" max="1" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) - Sealed -->
+			<item id="93531" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) - Sealed -->
+			<item id="93531" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) - Sealed -->
+			<item id="93531" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) - Sealed -->
+			<item id="93531" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) - Sealed -->
+			<item id="93531" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) - Sealed -->
+			<item id="5724" min="1" max="1" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) -->
+			<item id="5724" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) -->
+			<item id="5724" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) -->
+			<item id="5724" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) -->
+			<item id="5724" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) -->
+			<item id="5724" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 글로브 - 로브"/> <!-- Doom Gloves (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95972" name="강화된 쉬르노엔의 부츠 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t64_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93532" min="1" max="1" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) - Sealed -->
+			<item id="93532" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) - Sealed -->
+			<item id="93532" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) - Sealed -->
+			<item id="93532" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) - Sealed -->
+			<item id="93532" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) - Sealed -->
+			<item id="93532" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) - Sealed -->
+			<item id="5726" min="1" max="1" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) -->
+			<item id="5726" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) -->
+			<item id="5726" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) -->
+			<item id="5726" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) -->
+			<item id="5726" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) -->
+			<item id="5726" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 부츠 - 중갑"/> <!-- Zubei's Boots (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95973" name="강화된 쉬르노엔의 부츠 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t65_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93533" min="1" max="1" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) - Sealed -->
+			<item id="93533" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) - Sealed -->
+			<item id="93533" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) - Sealed -->
+			<item id="93533" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) - Sealed -->
+			<item id="93533" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) - Sealed -->
+			<item id="93533" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) - Sealed -->
+			<item id="5727" min="1" max="1" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) -->
+			<item id="5727" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) -->
+			<item id="5727" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) -->
+			<item id="5727" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) -->
+			<item id="5727" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) -->
+			<item id="5727" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 부츠 - 경갑"/> <!-- Zubei's Boots (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95974" name="강화된 쉬르노엔의 부츠 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t56_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93534" min="1" max="1" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) - Sealed -->
+			<item id="93534" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) - Sealed -->
+			<item id="93534" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) - Sealed -->
+			<item id="93534" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) - Sealed -->
+			<item id="93534" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) - Sealed -->
+			<item id="93534" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) - Sealed -->
+			<item id="5728" min="1" max="1" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) -->
+			<item id="5728" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) -->
+			<item id="5728" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) -->
+			<item id="5728" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) -->
+			<item id="5728" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) -->
+			<item id="5728" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 부츠 - 로브"/> <!-- Zubei's Boots (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95975" name="강화된 아바돈 부츠 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t66_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93535" min="1" max="1" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) - Sealed -->
+			<item id="93535" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) - Sealed -->
+			<item id="93535" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) - Sealed -->
+			<item id="93535" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) - Sealed -->
+			<item id="93535" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) - Sealed -->
+			<item id="93535" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) - Sealed -->
+			<item id="5730" min="1" max="1" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) -->
+			<item id="5730" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) -->
+			<item id="5730" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) -->
+			<item id="5730" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) -->
+			<item id="5730" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) -->
+			<item id="5730" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 부츠 - 중갑"/> <!-- Avadon Boots (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95976" name="강화된 아바돈 부츠 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t67_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93536" min="1" max="1" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) - Sealed -->
+			<item id="93536" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) - Sealed -->
+			<item id="93536" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) - Sealed -->
+			<item id="93536" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) - Sealed -->
+			<item id="93536" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) - Sealed -->
+			<item id="93536" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) - Sealed -->
+			<item id="5731" min="1" max="1" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) -->
+			<item id="5731" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) -->
+			<item id="5731" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) -->
+			<item id="5731" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) -->
+			<item id="5731" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) -->
+			<item id="5731" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 부츠 - 경갑"/> <!-- Avadon Boots (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95977" name="강화된 아바돈 부츠 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t59_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93537" min="1" max="1" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) - Sealed -->
+			<item id="93537" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) - Sealed -->
+			<item id="93537" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) - Sealed -->
+			<item id="93537" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) - Sealed -->
+			<item id="93537" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) - Sealed -->
+			<item id="93537" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) - Sealed -->
+			<item id="5732" min="1" max="1" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) -->
+			<item id="5732" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) -->
+			<item id="5732" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) -->
+			<item id="5732" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) -->
+			<item id="5732" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) -->
+			<item id="5732" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 부츠 - 로브"/> <!-- Avadon Boots (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95978" name="강화된 푸른 늑대의 부츠 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t68_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93538" min="1" max="1" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) - Sealed -->
+			<item id="93538" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) - Sealed -->
+			<item id="93538" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) - Sealed -->
+			<item id="93538" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) - Sealed -->
+			<item id="93538" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) - Sealed -->
+			<item id="93538" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) - Sealed -->
+			<item id="5734" min="1" max="1" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) -->
+			<item id="5734" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) -->
+			<item id="5734" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) -->
+			<item id="5734" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) -->
+			<item id="5734" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) -->
+			<item id="5734" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 부츠 - 중갑"/> <!-- Blue Wolf Boots (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95979" name="강화된 푸른 늑대의 부츠 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t69_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93539" min="1" max="1" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) - Sealed -->
+			<item id="93539" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) - Sealed -->
+			<item id="93539" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) - Sealed -->
+			<item id="93539" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) - Sealed -->
+			<item id="93539" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) - Sealed -->
+			<item id="93539" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) - Sealed -->
+			<item id="5735" min="1" max="1" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) -->
+			<item id="5735" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) -->
+			<item id="5735" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) -->
+			<item id="5735" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) -->
+			<item id="5735" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) -->
+			<item id="5735" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 부츠 - 경갑"/> <!-- Blue Wolf Boots (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95980" name="강화된 푸른 늑대의 부츠 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t70_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93540" min="1" max="1" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) - Sealed -->
+			<item id="93540" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) - Sealed -->
+			<item id="93540" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) - Sealed -->
+			<item id="93540" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) - Sealed -->
+			<item id="93540" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) - Sealed -->
+			<item id="93540" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) - Sealed -->
+			<item id="5736" min="1" max="1" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) -->
+			<item id="5736" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) -->
+			<item id="5736" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) -->
+			<item id="5736" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) -->
+			<item id="5736" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) -->
+			<item id="5736" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 부츠 - 로브"/> <!-- Blue Wolf Boots (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95981" name="강화된 둠 부츠 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t71_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93541" min="1" max="1" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) - Sealed -->
+			<item id="93541" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) - Sealed -->
+			<item id="93541" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) - Sealed -->
+			<item id="93541" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) - Sealed -->
+			<item id="93541" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) - Sealed -->
+			<item id="93541" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) - Sealed -->
+			<item id="5738" min="1" max="1" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) -->
+			<item id="5738" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) -->
+			<item id="5738" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) -->
+			<item id="5738" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) -->
+			<item id="5738" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) -->
+			<item id="5738" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 부츠 - 중갑"/> <!-- Doom Boots (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95982" name="강화된 둠 부츠 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t72_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93542" min="1" max="1" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) - Sealed -->
+			<item id="93542" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) - Sealed -->
+			<item id="93542" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) - Sealed -->
+			<item id="93542" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) - Sealed -->
+			<item id="93542" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) - Sealed -->
+			<item id="93542" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) - Sealed -->
+			<item id="5739" min="1" max="1" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) -->
+			<item id="5739" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) -->
+			<item id="5739" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) -->
+			<item id="5739" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) -->
+			<item id="5739" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) -->
+			<item id="5739" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 부츠 - 경갑"/> <!-- Doom Boots (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95983" name="강화된 둠 부츠 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t73_b_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93543" min="1" max="1" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) - Sealed -->
+			<item id="93543" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) - Sealed -->
+			<item id="93543" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) - Sealed -->
+			<item id="93543" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) - Sealed -->
+			<item id="93543" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) - Sealed -->
+			<item id="93543" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) - Sealed -->
+			<item id="5740" min="1" max="1" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) -->
+			<item id="5740" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) -->
+			<item id="5740" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) -->
+			<item id="5740" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) -->
+			<item id="5740" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) -->
+			<item id="5740" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 부츠 - 로브"/> <!-- Doom Boots (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95984" name="강화된 아바돈 서클릿 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93544" min="1" max="1" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) - Sealed -->
+			<item id="93544" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) - Sealed -->
+			<item id="93544" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) - Sealed -->
+			<item id="93544" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) - Sealed -->
+			<item id="93544" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) - Sealed -->
+			<item id="93544" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) - Sealed -->
+			<item id="90455" min="1" max="1" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) -->
+			<item id="90455" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) -->
+			<item id="90455" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) -->
+			<item id="90455" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) -->
+			<item id="90455" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) -->
+			<item id="90455" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 서클릿 - 중갑"/> <!-- Avadon Circlet (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95985" name="강화된 아바돈 서클릿 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93545" min="1" max="1" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) - Sealed -->
+			<item id="93545" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) - Sealed -->
+			<item id="93545" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) - Sealed -->
+			<item id="93545" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) - Sealed -->
+			<item id="93545" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) - Sealed -->
+			<item id="93545" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) - Sealed -->
+			<item id="90456" min="1" max="1" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) -->
+			<item id="90456" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) -->
+			<item id="90456" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) -->
+			<item id="90456" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) -->
+			<item id="90456" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) -->
+			<item id="90456" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 서클릿 - 경갑"/> <!-- Avadon Circlet (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95986" name="강화된 아바돈 서클릿 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93546" min="1" max="1" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) - Sealed -->
+			<item id="93546" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) - Sealed -->
+			<item id="93546" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) - Sealed -->
+			<item id="93546" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) - Sealed -->
+			<item id="93546" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) - Sealed -->
+			<item id="93546" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) - Sealed -->
+			<item id="90457" min="1" max="1" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) -->
+			<item id="90457" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) -->
+			<item id="90457" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) -->
+			<item id="90457" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) -->
+			<item id="90457" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) -->
+			<item id="90457" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 서클릿 - 로브"/> <!-- Avadon Circlet (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95987" name="강화된 쉬르노엔의 헬멧 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93547" min="1" max="1" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) - Sealed -->
+			<item id="93547" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) - Sealed -->
+			<item id="93547" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) - Sealed -->
+			<item id="93547" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) - Sealed -->
+			<item id="93547" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) - Sealed -->
+			<item id="93547" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) - Sealed -->
+			<item id="90458" min="1" max="1" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) -->
+			<item id="90458" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) -->
+			<item id="90458" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) -->
+			<item id="90458" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) -->
+			<item id="90458" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) -->
+			<item id="90458" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 헬멧 - 중갑"/> <!-- Zubei's Helmet (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95988" name="강화된 쉬르노엔의 헬멧 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93548" min="1" max="1" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) - Sealed -->
+			<item id="93548" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) - Sealed -->
+			<item id="93548" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) - Sealed -->
+			<item id="93548" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) - Sealed -->
+			<item id="93548" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) - Sealed -->
+			<item id="93548" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) - Sealed -->
+			<item id="90459" min="1" max="1" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) -->
+			<item id="90459" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) -->
+			<item id="90459" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) -->
+			<item id="90459" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) -->
+			<item id="90459" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) -->
+			<item id="90459" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 헬멧 - 경갑"/> <!-- Zubei's Helmet (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95989" name="강화된 쉬르노엔의 헬멧 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93549" min="1" max="1" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) - Sealed -->
+			<item id="93549" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) - Sealed -->
+			<item id="93549" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) - Sealed -->
+			<item id="93549" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) - Sealed -->
+			<item id="93549" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) - Sealed -->
+			<item id="93549" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) - Sealed -->
+			<item id="90460" min="1" max="1" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) -->
+			<item id="90460" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) -->
+			<item id="90460" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) -->
+			<item id="90460" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) -->
+			<item id="90460" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) -->
+			<item id="90460" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 헬멧 - 로브"/> <!-- Zubei's Helmet (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95990" name="강화된 푸른 늑대의 헬멧 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93550" min="1" max="1" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) - Sealed -->
+			<item id="93550" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) - Sealed -->
+			<item id="93550" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) - Sealed -->
+			<item id="93550" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) - Sealed -->
+			<item id="93550" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) - Sealed -->
+			<item id="93550" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) - Sealed -->
+			<item id="90461" min="1" max="1" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) -->
+			<item id="90461" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) -->
+			<item id="90461" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) -->
+			<item id="90461" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) -->
+			<item id="90461" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) -->
+			<item id="90461" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 헬멧 - 중갑"/> <!-- Blue Wolf Helmet (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95991" name="강화된 푸른 늑대의 헬멧 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93551" min="1" max="1" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) - Sealed -->
+			<item id="93551" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) - Sealed -->
+			<item id="93551" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) - Sealed -->
+			<item id="93551" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) - Sealed -->
+			<item id="93551" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) - Sealed -->
+			<item id="93551" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) - Sealed -->
+			<item id="90462" min="1" max="1" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) -->
+			<item id="90462" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) -->
+			<item id="90462" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) -->
+			<item id="90462" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) -->
+			<item id="90462" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) -->
+			<item id="90462" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 헬멧 - 경갑"/> <!-- Blue Wolf Helmet (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95992" name="강화된 푸른 늑대의 헬멧 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93552" min="1" max="1" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) - Sealed -->
+			<item id="93552" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) - Sealed -->
+			<item id="93552" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) - Sealed -->
+			<item id="93552" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) - Sealed -->
+			<item id="93552" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) - Sealed -->
+			<item id="93552" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) - Sealed -->
+			<item id="90463" min="1" max="1" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) -->
+			<item id="90463" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) -->
+			<item id="90463" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) -->
+			<item id="90463" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) -->
+			<item id="90463" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) -->
+			<item id="90463" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="푸른 늑대의 헬멧 - 로브"/> <!-- Blue Wolf Helmet (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95993" name="강화된 둠 헬멧 (중갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93553" min="1" max="1" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) - Sealed -->
+			<item id="93553" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) - Sealed -->
+			<item id="93553" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) - Sealed -->
+			<item id="93553" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) - Sealed -->
+			<item id="93553" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) - Sealed -->
+			<item id="93553" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) - Sealed -->
+			<item id="90464" min="1" max="1" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) -->
+			<item id="90464" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) -->
+			<item id="90464" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) -->
+			<item id="90464" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) -->
+			<item id="90464" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) -->
+			<item id="90464" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 헬멧 - 중갑"/> <!-- Doom Helmet (Heavy) -->
+		</capsuled_items>
+	</item>
+	<item id="95994" name="강화된 둠 헬멧 (경갑용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93554" min="1" max="1" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) - Sealed -->
+			<item id="93554" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) - Sealed -->
+			<item id="93554" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) - Sealed -->
+			<item id="93554" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) - Sealed -->
+			<item id="93554" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) - Sealed -->
+			<item id="93554" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) - Sealed -->
+			<item id="90465" min="1" max="1" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) -->
+			<item id="90465" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) -->
+			<item id="90465" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) -->
+			<item id="90465" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) -->
+			<item id="90465" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) -->
+			<item id="90465" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 헬멧 - 경갑"/> <!-- Doom Helmet (Light) -->
+		</capsuled_items>
+	</item>
+	<item id="95995" name="강화된 둠 헬멧 (로브용) 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_leather_helmet_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93555" min="1" max="1" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) - Sealed -->
+			<item id="93555" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) - Sealed -->
+			<item id="93555" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) - Sealed -->
+			<item id="93555" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) - Sealed -->
+			<item id="93555" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) - Sealed -->
+			<item id="93555" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) - Sealed -->
+			<item id="90466" min="1" max="1" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) -->
+			<item id="90466" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) -->
+			<item id="90466" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) -->
+			<item id="90466" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) -->
+			<item id="90466" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) -->
+			<item id="90466" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 헬멧 - 로브"/> <!-- Doom Helmet (Robe) -->
+		</capsuled_items>
+	</item>
+	<item id="95996" name="강화된 쉬르노엔의 실드 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.shield_shrnoens_shield_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95131" min="1" max="1" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield - Sealed -->
+			<item id="95131" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield - Sealed -->
+			<item id="95131" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield - Sealed -->
+			<item id="95131" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield - Sealed -->
+			<item id="95131" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield - Sealed -->
+			<item id="95131" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield - Sealed -->
+			<item id="633" min="1" max="1" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield -->
+			<item id="633" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield -->
+			<item id="633" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield -->
+			<item id="633" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield -->
+			<item id="633" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield -->
+			<item id="633" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="쉬르노엔의 실드"/> <!-- Zubei's Shield -->
+		</capsuled_items>
+	</item>
+	<item id="95997" name="강화된 아바돈 실드 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.shield_avadon_shield_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95132" min="1" max="1" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield - Sealed -->
+			<item id="95132" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield - Sealed -->
+			<item id="95132" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield - Sealed -->
+			<item id="95132" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield - Sealed -->
+			<item id="95132" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield - Sealed -->
+			<item id="95132" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield - Sealed -->
+			<item id="673" min="1" max="1" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield -->
+			<item id="673" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield -->
+			<item id="673" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield -->
+			<item id="673" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield -->
+			<item id="673" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield -->
+			<item id="673" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="아바돈 실드"/> <!-- Avadon Shield -->
+		</capsuled_items>
+	</item>
+	<item id="95998" name="강화된 둠 실드 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.shield_doom_shield_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="94934" min="1" max="1" chance="8.333333" name="둠 실드"/> <!-- Doom Shield - Sealed -->
+			<item id="94934" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 실드"/> <!-- Doom Shield - Sealed -->
+			<item id="94934" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 실드"/> <!-- Doom Shield - Sealed -->
+			<item id="94934" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 실드"/> <!-- Doom Shield - Sealed -->
+			<item id="94934" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 실드"/> <!-- Doom Shield - Sealed -->
+			<item id="94934" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 실드"/> <!-- Doom Shield - Sealed -->
+			<item id="110" min="1" max="1" chance="8.333333" name="둠 실드"/> <!-- Doom Shield -->
+			<item id="110" min="1" max="1" minEnchant="1" maxEnchant="1" chance="8.333333" name="둠 실드"/> <!-- Doom Shield -->
+			<item id="110" min="1" max="1" minEnchant="2" maxEnchant="2" chance="8.333333" name="둠 실드"/> <!-- Doom Shield -->
+			<item id="110" min="1" max="1" minEnchant="3" maxEnchant="3" chance="8.333333" name="둠 실드"/> <!-- Doom Shield -->
+			<item id="110" min="1" max="1" minEnchant="4" maxEnchant="4" chance="8.333333" name="둠 실드"/> <!-- Doom Shield -->
+			<item id="110" min="1" max="1" minEnchant="5" maxEnchant="5" chance="8.333333" name="둠 실드"/> <!-- Doom Shield -->
+		</capsuled_items>
+	</item>
+	<item id="95999" name="강화된 오만의 반지 제작" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.ring_of_oman"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95718" min="1" max="1" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence - Sealed -->
+			<item id="91952" min="1" max="1" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence -->
+			<item id="95718" min="1" max="1" minEnchant="1" maxEnchant="1" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence - Sealed -->
+			<item id="91952" min="1" max="1" minEnchant="1" maxEnchant="1" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence -->
+			<item id="95718" min="1" max="1" minEnchant="2" maxEnchant="2" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence - Sealed -->
+			<item id="91952" min="1" max="1" minEnchant="2" maxEnchant="2" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence -->
+			<item id="95718" min="1" max="1" minEnchant="3" maxEnchant="3" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence - Sealed -->
+			<item id="91952" min="1" max="1" minEnchant="3" maxEnchant="3" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence -->
+			<item id="95718" min="1" max="1" minEnchant="4" maxEnchant="4" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence - Sealed -->
+			<item id="91952" min="1" max="1" minEnchant="4" maxEnchant="4" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence -->
+			<item id="95718" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence - Sealed -->
+			<item id="91952" min="1" max="1" minEnchant="5" maxEnchant="5" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence -->
+			<item id="95718" min="1" max="1" minEnchant="6" maxEnchant="6" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence - Sealed -->
+			<item id="91952" min="1" max="1" minEnchant="6" maxEnchant="6" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence -->
+			<item id="95718" min="1" max="1" minEnchant="7" maxEnchant="7" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence - Sealed -->
+			<item id="91952" min="1" max="1" minEnchant="7" maxEnchant="7" chance="6.25" name="오만의 반지"/> <!-- Ring of Insolence -->
+		</capsuled_items>
+	</item>
+</list>

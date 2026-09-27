@@ -1,0 +1,826 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/LimitShop.xsd">
+
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="0" - 프로모션 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="1" - 강화 소모품 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="2" - 소모품 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="3" - 고대의 아데나 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="4" - 아데나 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="5" - 오퍼스 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="6" - // ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="7" - // ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="8" - 무기 & 방어구 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="9" - 보스 악세서리 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="10" - 스패셜 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="11" - 특별 할인 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="12" - 이벤트 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+
+		<!-- ========== ◆ 서버 환전 재화 ◆ ========== -->
+		<!-- ///// ========== ◆ 8765 붉은 구슬[13275680 아데나] ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 3864 수호자의 증표 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 95570 명예 주화 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 93681 마스터의 증표 ◆ ========== ///// -->
+		
+		<!-- ========== ◆ 서버 이벤트 재화 ◆ ========== -->
+		<!-- ///// ========== ◆ 91408 엘모아덴 주화 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 90181 반짝이는 주화 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 4037 행운의 동전 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 96685 미스터리 결정 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 100305 소모품 교환권 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 98783 고급 소모품 교환권 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 102401 해적의 피 ◆ ========== -->
+		<!-- ///// ========== ◆ 103817 영웅의 정수 (기간제) ◆ ========== -->
+		<!-- ///// ========== ◆ 104261 로즈 베인의 장미 (기간제) ◆ ========== -->
+		<!-- ///// ========== ◆ 104286 황금 장미 (기간제) ◆ ========== -->
+
+		<!-- ========== ◆ 유저 교환 재화 ◆ ========== -->
+		<!-- ///// ========== ◆ 49088 황금 메달 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 8868 지고의 보석 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 91663 엘코인 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 95569 아데나 주머니 ◆ ========== ///// -->
+
+		<!-- ========== ◆ 주요 잡화 ◆ ========== -->
+		<!-- ///// ========== ◆ 101406 장미 에센스 (기간 한정) ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 98423 마력의 서판 ◆ ========== -->
+		<!-- ///// ========== ◆ 101571 SP 주머니 ◆ ========== -->
+		<!-- ///// ========== ◆ 93080 일반 제작 1회 충전석 ◆ ========== -->
+		<!-- ///// ========== ◆ 96095 헤르프아의 인장 ◆ ========== -->
+		<!-- ///// ========== ◆ 95781 검은 빙결의 핵 ◆ ========== -->
+		<!-- ///// ========== ◆ 95782 얼음 군주의 무기 결정 ◆ ========== -->
+
+		<!-- ========== ◆ 버프 ◆ ========== -->
+		<!-- ///// ========== ◆ 91906 활력의 룬[30일 기간제] ◆ ========== -->
+		<!-- ///// ========== ◆ 93321 활력의 룬[1일 기간제] ◆ ========== -->
+		<!-- ///// ========== ◆ 97168 활력의 룬[7일 기간제] ◆ ========== -->
+		<!-- ///// ========== ◆ 96002 아덴의 주문서 ◆ ========== -->
+		<!-- ///// ========== ◆ 90143 아인하사드의 가호 ◆ ========== -->
+		<!-- ///// ========== ◆ skill_begin	skill_id=6171	skill_level=1 충만한 권능 ◆ ========== -->
+		<!-- ///// ========== ◆ skill_begin	skill_id=48639	skill_level=1 리오나의 권능 ◆ ========== -->
+
+		<!-- ========== ◆ 상자 ◆ ========== -->
+		<!-- ///// ========== ◆ 96109 전투 지원 상자 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 100255 로열 쿠폰 (기간제) ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 95569 아데나 주머니 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 98950 찬란한 여우의 비단 주머니 ◆ ========== -->
+		<!-- ///// ========== ◆ 98951 여우의 비단 주머니 ◆ ========== -->
+		<!-- ///// ========== ◆ 101918 마법의 주머니 ◆ ========== -->
+		<!-- ///// ========== ◆ 100812 인형 소환권(일반~최고급) - 11회 ◆ ========== -->
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+
+		<!-- ///// ========== ◆ category="0" - 프로모션 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="1" - 강화 소모품 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="2" - 소모품 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="3" - 고대의 아데나 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="4" - 아데나 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="5" - 오퍼스 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="6" - // ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="7" - // ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="8" - 무기 & 방어구 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="9" - 보스 악세서리 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="10" - 스패셜 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="11" - 특별 할인 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="12" - 이벤트 ◆ ========== ///// -->
+
+		<!-- ///// ========== ◆ 95327 여왕개미의 반지 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 95328 오르펜의 귀걸이 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 95329 코어의 반지 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 95330 바이움의 반지 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 95331 자켄의 귀걸이 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 95332 안타라스의 귀걸이 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 95333 프린테사의 목걸이 ◆ ========== ///// -->
+		
+		<!-- ///// ========== ◆ 97074 베레스의 반지 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 98827 불멸의 반지 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 98933 아즈타칸의 귀걸이 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 100371 페리온의 목걸이 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 105398 파푸리온의 반지 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 105400 발라카스의 반지 ◆ ========== ///// -->
+		
+		<!-- ///// ========== ◆ 91061 권능의 탈리스만 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 91745 아덴의 탈리스만 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 92018 에바의 탈리스만 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 92403 신속의 탈리스만 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 94119 바이움 탈리스만 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 100547 천상의 탈리스만 ◆ ========== ///// -->
+		
+		<!-- ///// ========== ◆ 93128 이그니스 아가시온 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 93129 네불라 아가시온 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 93130 프로첼라 아가시온 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 93131 페트람 아가시온 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 93132 샤방 아가시온 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 98235 드래곤의 알 아가시온 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 98236 발라카스 아가시온 ◆ ========== ///// -->
+		
+		<!-- ///// ========== ◆ 91862 드래곤의 벨트 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 98782 그랑카인의 펜던트 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 97259 리덕션 피어싱 마스크 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 100545 팬텀 마스크 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 94166 영웅의 서클릿 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 93301 수호의 망토 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 99504 천상의 망토 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 95636 혈맹 망토 ◆ ========== ///// -->
+
+		<!-- ///// ========== ◆ 95637 혈맹 서클릿 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 96089 아덴의 망토 ◆ ========== ///// -->
+
+		<!-- ///// ========== ◆ 94384 레어 액세서리 강화 주문서 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 98611 장신구 강화 주문서 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ 97449 바이움 탈리스만 강화 주문서 ◆ ========== ///// -->
+		
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="0" - 프로모션 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="1" - 강화 소모품 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="2" - 소모품 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="3" - 고대의 아데나 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="4" - 아데나 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="5" - 오퍼스 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="6" - // ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="7" - // ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="8" - 무기 & 방어구 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="9" - 보스 악세서리 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="10" - 스패셜 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="11" - 특별 할인 ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="12" - 이벤트 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="0" - 프로모션 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="101" category="0">
+		<ingredient id="91663" count="1000" /> <!-- 엘코인 -->
+		<production id="96031" count="1" /> <!-- +5 전격의 레더 메일 팩 -->
+	</product>
+	<product id="102" category="0">
+		<ingredient id="91663" count="1000" /> <!-- 엘코인 -->
+		<production id="96032" count="1" /> <!-- +5 전격의 레더 레깅스 팩 -->
+	</product>
+	<product id="103" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96033" count="1" /> <!-- +5 빙결의 흉갑 팩 -->
+	</product>
+	<product id="104" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96034" count="1" /> <!-- +5 빙결의 각반 팩 -->
+	</product>
+	<product id="105" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96035" count="1" /> <!-- +5 화염의 튜닉 팩 -->
+	</product>
+	<product id="106" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96036" count="1" /> <!-- +5 화염의 호즈 팩 -->
+	</product>
+	<product id="107" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="98045" count="1" /> <!-- +5 마나의 투구 팩 -->
+	</product>
+	<product id="108" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="98046" count="1" /> <!-- +5 스턴 건틀렛 팩 -->
+	</product>
+	<product id="109" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="98047" count="1" /> <!-- +5 회피의 부츠 팩 -->
+	</product>
+	<product id="110" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="98048" count="1" /> <!-- +5 침묵의 장갑 팩 -->
+	</product>
+	<product id="111" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="98049" count="1" /> <!-- +5 페이탈 시길 팩 -->
+	</product>
+	<product id="112" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="98050" count="1" /> <!-- +5 리벤지 실드 팩 -->
+	</product>
+	<product id="113" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98051" count="1" /> <!-- +5 자켄의 블러드 소드 팩 -->
+	</product>
+	<product id="114" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98052" count="1" /> <!-- +5 코어의 플라즈마 보우 팩 -->
+	</product>
+	<product id="115" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98053" count="1" /> <!-- +5 여왕개미의 스톤 크래셔 팩 -->
+	</product>
+	<product id="116" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98054" count="1" /> <!-- +5 오르펜의 포이즈닉 소드 팩 -->
+	</product>
+	<product id="117" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98055" count="1" /> <!-- +5 바이움의 썬더 브레이커 팩 -->
+	</product>
+	<product id="118" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98056" count="1" /> <!-- +5 아나킴의 디바인 슈터 팩 -->
+	</product>
+	<product id="119" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98057" count="1" /> <!-- +5 베레스의 소울 이터 팩 -->
+	</product>
+	<product id="120" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98058" count="1" /> <!-- +5 고드의 플레임 스피어 팩 -->
+	</product>
+	<product id="121" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98059" count="1" /> <!-- +5 갈락시아의 에인션트 소드 팩 -->
+	</product>
+	<product id="122" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98060" count="1" /> <!-- +5 브리엘의 레이피어 팩 -->
+	</product>
+	<product id="123" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98061" count="1" /> <!-- +5 아나이스의 듀얼 피스트 팩 -->
+	</product>
+	<product id="124" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="98062" count="1" /> <!-- +5 유리헬의 듀얼 소드 팩 -->
+	</product>
+	<product id="125" category="0">
+		<ingredient id="91663" count="20000" /> <!-- 엘코인 -->
+		<production id="94389" count="1" /> <!-- +3 여왕개미의 반지 팩 -->
+	</product>
+	<product id="126" category="0">
+		<ingredient id="91663" count="20000" /> <!-- 엘코인 -->
+		<production id="94394" count="1" /> <!-- +3 오르펜의 귀걸이 팩 -->
+	</product>
+	<product id="127" category="0">
+		<ingredient id="91663" count="20000" /> <!-- 엘코인 -->
+		<production id="94399" count="1" /> <!-- +3 코어의 반지 팩 -->
+	</product>
+	<product id="128" category="0">
+		<ingredient id="91663" count="20000" /> <!-- 엘코인 -->
+		<production id="94404" count="1" /> <!-- +3 바이움의 반지 팩 -->
+	</product>
+	<product id="129" category="0">
+		<ingredient id="91663" count="20000" /> <!-- 엘코인 -->
+		<production id="94409" count="1" /> <!-- +3 자켄의 귀걸이 팩 -->
+	</product>
+	<product id="130" category="0">
+		<ingredient id="91663" count="20000" /> <!-- 엘코인 -->
+		<production id="94414" count="1" /> <!-- +3 프린테사의 목걸이 팩 -->
+	</product>
+	<product id="131" category="0">
+		<ingredient id="91663" count="20000" /> <!-- 엘코인 -->
+		<production id="94419" count="1" /> <!-- +3 안타라스의 귀걸이 팩 -->
+	</product>
+	<product id="133" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="96207" count="1" /> <!-- 브로치 Lv5 팩 (기간 한정) -->
+	</product>
+	<product id="134" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="96214" count="1" /> <!-- 아가시온 팔찌 Lv5 팩 (기간 한정) -->
+	</product>
+	<product id="135" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="96220" count="1" /> <!-- 탈리스만 팔찌 Lv5 팩 (기간 한정) -->
+	</product>
+	<product id="136" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96625" count="1" /> <!-- 이그니스 아가시온 팩 -->
+	</product>
+	<product id="137" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96626" count="1" /> <!-- 네불라 아가시온 팩 -->
+	</product>
+	<product id="138" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96627" count="1" /> <!-- 프로첼라 아가시온 팩 -->
+	</product>
+	<product id="139" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96628" count="1" /> <!-- 페트람 아가시온 팩 -->
+	</product>
+	<product id="140" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96629" count="1" /> <!-- 샤방 아가시온 팩 -->
+	</product>
+	<product id="141" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="92447" count="1" /> <!-- +5 아덴의 탈리스만 상자 -->
+	</product>
+	<product id="142" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="92455" count="1" /> <!-- +5 에바의 탈리스만 상자 -->
+	</product>
+	<product id="143" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="92464" count="1" /> <!-- +5 신속의 탈리스만 상자 -->
+	</product>
+	<product id="144" category="0">
+		<ingredient id="91663" count="20000" /> <!-- 엘코인 -->
+		<production id="97953" count="1" /> <!-- +5 권능의 탈리스만 상자 -->
+	</product>
+	<product id="145" category="0">
+		<ingredient id="91663" count="50000" /> <!-- 엘코인 -->
+		<production id="104711" count="1" /> <!-- +5 바이움 탈리스만 팩 -->
+	</product>
+	<product id="146" category="0">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="100560" count="1" /> <!-- +5 천상의 탈리스만 팩 -->
+	</product>
+	<product id="147" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="94618" count="1" /> <!-- +5 영웅의 서클릿 팩 -->
+	</product>
+	<product id="148" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96624" count="1" /> <!-- +5 수호의 망토 팩 -->
+	</product>
+	<product id="149" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="98031" count="1" /> <!-- +5 리덕션 피어싱 마스크 팩 -->
+	</product>
+	<product id="150" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="94346" count="1" /> <!-- +5 드래곤의 벨트 상자 -->
+	</product>
+	<product id="151" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="94262" count="1" /> <!-- 아인하사드의 펜던트 Lv5 팩 -->
+	</product>
+	<product id="152" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="97602" count="1" /> <!-- 베릴 Lv5 보석함 -->
+	</product>
+	<product id="153" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="97607" count="1" /> <!-- 오닉스 Lv5 보석함 -->
+	</product>
+	<product id="154" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="97612" count="1" /> <!-- 스피넬 Lv5 보석함 -->
+	</product>
+	<product id="155" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="97617" count="1" /> <!-- 지르콘 Lv5 보석함 -->
+	</product>
+	<product id="156" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="97622" count="1" /> <!-- 코랄 Lv5 보석함 -->
+	</product>
+	<product id="157" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="97627" count="1" /> <!-- 오팔 Lv5 보석함 -->
+	</product>
+	<product id="158" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="97632" count="1" /> <!-- 앰버 Lv5 보석함 -->
+	</product>
+	<product id="159" category="0">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="97637" count="1" /> <!-- 문스톤 Lv5 보석함 -->
+	</product>
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="1" - 강화 소모품 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="201" category="1">
+		<ingredient id="91663" count="1000" /> <!-- 엘코인 -->
+		<production id="104286" count="1" /> <!-- 황금 장미 -->
+	</product>
+	<product id="202" category="1">
+		<ingredient id="91663" count="1000" /> <!-- 엘코인 -->
+		<production id="98040" count="1" /> <!-- 초월 강화석 -->
+	</product>
+	<product id="203" category="1">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="102401" count="1" /> <!-- 해적의 피 -->
+	</product>
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="2" - 소모품 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="301" category="2">
+		<ingredient id="91663" count="10" /> <!-- 엘코인 -->
+		<production id="91690" count="50" /> <!-- 특급 HP 물약 -->
+	</product>
+	<product id="302" category="2">
+		<ingredient id="91663" count="200" /> <!-- 엘코인 -->
+		<production id="91641" count="10" /> <!-- 사이하의 축복 -->
+	</product>
+	<product id="303" category="2">
+		<ingredient id="91663" count="100" /> <!-- 엘코인 -->
+		<production id="7126" count="1" /> <!-- 귀환 - 기란성 마을 -->
+	</product>
+	<product id="304" category="2">
+		<ingredient id="91663" count="500" /> <!-- 엘코인 -->
+		<production id="100812" count="10" /> <!-- 인형 소환권(일반~최고급) - 11회 -->
+	</product>
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="3" - 고대의 아데나 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="401" category="3">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96374" count="1" /> <!-- 힘의 문신 염료-20단계 -->
+	</product>
+	<product id="402" category="3">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96394" count="1" /> <!-- 체력의 문신 염료-20단계 -->
+	</product>
+	<product id="403" category="3">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96414" count="1" /> <!-- 민첩의 문신 염료-20단계 -->
+	</product>
+	<product id="404" category="3">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96434" count="1" /> <!-- 지능의 문신 염료-20단계 -->
+	</product>
+	<product id="405" category="3">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96454" count="1" /> <!-- 정신의 문신 염료-20단계 -->
+	</product>
+	<product id="406" category="3">
+		<ingredient id="91663" count="10000" /> <!-- 엘코인 -->
+		<production id="96474" count="1" /> <!-- 재치의 문신 염료-20단계 -->	
+	</product>
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="4" - 아데나 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="501" category="4">
+		<ingredient id="57" count="10000000" /> <!-- 아데나 -->
+		<production id="96685" count="10" /> <!-- 미스터리 결정 -->
+	</product>
+	<product id="502" category="4">
+		<ingredient id="57" count="5000000" /> <!-- 아데나 -->
+		<production id="7126" count="1" /> <!-- 귀환 - 기란성 마을 -->
+	</product>
+	<product id="503" category="4">
+		<ingredient id="57" count="1000000" /> <!-- 아데나 -->
+		<production id="96002" count="1" /> <!-- 아덴의 주문서 -->
+	</product>
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="5" - 오퍼스 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="601" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="97535" count="1" /> <!-- 브로치 Lv10 팩 -->
+	</product>
+	<product id="602" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="97544" count="1" /> <!-- 탈리스만 팔찌 Lv10 팩 -->
+	</product>
+	<product id="603" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="97553" count="1" /> <!-- 아가시온 팔찌 Lv10 팩 -->
+	</product>
+	<product id="604" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="93732" count="1" /> <!-- +10 드래곤의 벨트 상자 -->
+	</product>
+	<product id="605" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="91414" count="1" /> <!-- +5 드래곤의 펜던트 Lv2 -->
+	</product>
+	<product id="606" category="5">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="99953" count="1" /> <!-- 그랑카인의 펜던트 팩 -->
+	</product>
+	<product id="607" category="5">
+		<ingredient id="91663" count="200000" /> <!-- 엘코인 -->
+		<production id="104278" count="1" /> <!-- 천상의 망토 팩 -->
+	</product>
+	<product id="608" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="102463" count="1" /> <!-- +10 수호의 망토 팩 -->
+	</product>
+	<product id="609" category="5">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="103254" count="1" /> <!-- +10 팬텀 마스크 팩 -->
+	</product>
+	<product id="610" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="104728" count="1" /> <!-- +10 영웅의 서클릿 팩 -->
+	</product>
+	<product id="611" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="104736" count="1" /> <!-- +10 리덕션 피어싱 마스크 팩 -->
+	</product>
+	<product id="612" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="97702" count="1" /> <!-- 오팔 Lv8 보석함 -->
+	</product>
+	<product id="613" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="97705" count="1" /> <!-- 앰버 Lv8 보석함 -->
+	</product>
+	<product id="614" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="102844" count="1" /> <!-- 루비 Lv8 보석함 -->
+	</product>
+	<product id="615" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="102854" count="1" /> <!-- 에메랄드 Lv8 보석함 -->
+	</product>
+	<product id="616" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="102864" count="1" /> <!-- 사파이어 Lv8 보석함 -->
+	</product>
+	<product id="617" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="102874" count="1" /> <!-- 아쿠아마린 Lv8 보석함 -->
+	</product>
+	<product id="618" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="98749" count="1" /> <!-- +10 이그니스 아가시온 팩 -->
+	</product>
+	<product id="619" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="98750" count="1" /> <!-- +10 네불라 아가시온 팩 -->
+	</product>
+	<product id="620" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="98751" count="1" /> <!-- +10 프로첼라 아가시온 팩 -->
+	</product>
+	<product id="621" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="98752" count="1" /> <!-- +10 페트람 아가시온 팩 -->
+	</product>
+	<product id="622" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="98753" count="1" /> <!-- +10 샤방 아가시온 팩 -->
+	</product>
+	<product id="623" category="5">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="100441" count="1" /> <!-- +10 드래곤의 알 아가시온 팩 -->
+	</product>
+	<product id="624" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="94565" count="1" /> <!-- +10 아덴의 탈리스만 상자 -->
+	</product>
+	<product id="625" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="94638" count="1" /> <!-- +10 신속의 탈리스만 상자 -->
+	</product>
+	<product id="626" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="94686" count="1" /> <!-- +10 에바의 탈리스만 상자 -->
+	</product>
+	<product id="627" category="5">
+		<ingredient id="91663" count="200000" /> <!-- 엘코인 -->
+		<production id="104716" count="1" /> <!-- +10 바이움 탈리스만 팩 -->
+	</product>
+	<product id="628" category="5">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="98826" count="1" /> <!-- +10 권능의 탈리스만 상자 -->
+	</product>
+	<product id="629" category="5">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="103253" count="1" /> <!-- +10 천상의 탈리스만 팩 -->
+	</product>
+
+		<!-- ///// ========== ◆ category="6" - // ◆ ========== ///// -->
+		<!-- ///// ========== ◆ category="7" - // ◆ ========== ///// -->
+
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="8" - 무기 & 방어구 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="701" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105134" count="1" /> <!-- +8 빙결의 흉갑(각인) 팩 -->
+	</product>
+	<product id="702" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105135" count="1" /> <!-- +8 빙결의 각반(각인) 팩 -->
+	</product>
+	<product id="703" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105136" count="1" /> <!-- +8 전격의 레더 메일(각인) 팩 -->
+	</product>
+	<product id="704" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105137" count="1" /> <!-- +8 전격의 레더 레깅스(각인) 팩 -->
+	</product>
+	<product id="705" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105138" count="1" /> <!-- +8 화염의 튜닉(각인) 팩 -->
+	</product>
+	<product id="706" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105139" count="1" /> <!-- +8 화염의 호즈(각인) 팩 -->
+	</product>
+	<product id="707" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105140" count="1" /> <!-- +8 마나의 투구(각인) 팩 -->
+	</product>
+	<product id="708" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105141" count="1" /> <!-- +8 스턴 건틀렛(각인) 팩 -->
+	</product>
+	<product id="709" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105142" count="1" /> <!-- +8 회피의 부츠(각인) 팩 -->
+	</product>
+	<product id="710" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105143" count="1" /> <!-- +8 침묵의 장갑(각인) 팩 -->
+	</product>
+	<product id="711" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105144" count="1" /> <!-- +8 페이탈 시길(각인) 팩 -->
+	</product>
+	<product id="712" category="8">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105145" count="1" /> <!-- +8 리벤지 실드(각인) 팩 -->
+	</product>
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="9" - 보스 악세서리 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="801" category="9">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="94391" count="1" /> <!-- +5 여왕개미의 반지 팩 -->
+	</product>
+	<product id="802" category="9">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="94396" count="1" /> <!-- +5 오르펜의 귀걸이 팩 -->
+	</product>
+	<product id="803" category="9">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="94401" count="1" /> <!-- +5 코어의 반지 팩 -->
+	</product>
+	<product id="804" category="9">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="94406" count="1" /> <!-- +5 바이움의 반지 팩 -->
+	</product>
+	<product id="805" category="9">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="94411" count="1" /> <!-- +5 자켄의 귀걸이 팩 -->
+	</product>
+	<product id="806" category="9">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="94416" count="1" /> <!-- +5 프린테사의 목걸이 팩 -->
+	</product>
+	<product id="807" category="9">
+		<ingredient id="91663" count="100000" /> <!-- 엘코인 -->
+		<production id="94421" count="1" /> <!-- +5 안타라스의 귀걸이 팩 -->
+	</product>
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="10" - 스패셜 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="901" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105620" count="1" /> <!-- +10 자켄의 블러드 소드 팩 -->
+	</product>
+	<product id="902" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105621" count="1" /> <!-- +10 코어의 플라즈마 보우 팩 -->
+	</product>
+	<product id="903" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105622" count="1" /> <!-- +10 오르펜의 포이즈닉 소드 팩 -->
+	</product>
+	<product id="904" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105623" count="1" /> <!-- +10 바이움의 썬더 브레이커 팩 -->
+	</product>
+	<product id="905" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105624" count="1" /> <!-- +10 여왕개미의 스톤 크래셔 팩 -->
+	</product>
+	<product id="906" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105625" count="1" /> <!-- +10 아나킴의 디바인 슈터 팩 -->
+	</product>
+	<product id="907" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105626" count="1" /> <!-- +10 베레스의 소울 이터 팩 -->
+	</product>
+	<product id="908" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105627" count="1" /> <!-- +10 고드의 플레임 스피어 팩 -->
+	</product>
+	<product id="909" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105628" count="1" /> <!-- +10 갈락시아의 에인션트 소드 팩 -->
+	</product>
+	<product id="910" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105629" count="1" /> <!-- +10 브리엘의 레이피어 팩 -->
+	</product>
+	<product id="911" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105630" count="1" /> <!-- +10 아나이스의 듀얼 피스트 팩 -->
+	</product>
+	<product id="912" category="10">
+		<ingredient id="91663" count="300000" /> <!-- 엘코인 -->
+		<production id="105631" count="1" /> <!-- +10 유리헬의 듀얼 소드 팩 -->
+	</product>
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="11" - 특별 할인 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="1001" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105656" count="1" /> <!-- +10 얼음 군주의 검 팩 -->
+	</product>
+	<product id="1002" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105657" count="1" /> <!-- +10 얼음 군주의 대검 팩 -->
+	</product>
+	<product id="1003" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105658" count="1" /> <!-- +10 얼음 군주의 도끼 팩 -->
+	</product>
+	<product id="1004" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105659" count="1" /> <!-- +10 얼음 군주의 단검 팩 -->
+	</product>
+	<product id="1005" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105660" count="1" /> <!-- +10 얼음 군주의 창 팩 -->
+	</product>
+	<product id="1006" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105661" count="1" /> <!-- +10 얼음 군주의 활 팩 -->
+	</product>
+	<product id="1007" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105662" count="1" /> <!-- +10 얼음 군주의 칼날 주먹 팩 -->
+	</product>
+	<product id="1008" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105663" count="1" /> <!-- +10 얼음 군주의 마법 둔기 팩 -->
+	</product>
+	<product id="1009" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105664" count="1" /> <!-- +10 얼음 군주의 지팡이 팩 -->
+	</product>
+	<product id="1010" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105665" count="1" /> <!-- +10 얼음 군주의 고대검 팩 -->
+	</product>
+	<product id="1011" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105666" count="1" /> <!-- +10 얼음 군주의 세검 팩 -->
+	</product>
+	<product id="1012" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105667" count="1" /> <!-- +10 얼음 군주의 총 팩 -->
+	</product>
+	<product id="1013" category="11">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="105668" count="1" /> <!-- +10 얼음 군주의 쌍검 팩 -->
+	</product>
+		<!-- //////////////////////////////////////////////////////////// -->
+		<!-- ///// ========== ◆ category="12" - 이벤트 ◆ ========== ///// -->
+		<!-- //////////////////////////////////////////////////////////// -->
+	<product id="1101" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100132" count="1" /> <!-- +8 수호의 흉갑 팩 -->
+	</product>
+	<product id="1102" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100133" count="1" /> <!-- +8 +8 수호의 각반 팩 -->
+	</product>
+	<product id="1103" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100134" count="1" /> <!-- +8 +8 수호의 레더 메일 팩 -->
+	</product>
+	<product id="1104" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100135" count="1" /> <!-- +8 +8 수호의 레더 레깅스 팩 -->
+	</product>
+	<product id="1105" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100136" count="1" /> <!-- +8 +8 수호의 튜닉 팩 -->
+	</product>
+	<product id="1106" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100137" count="1" /> <!-- +8 +8 수호의 호즈 팩 -->
+	</product>
+	<product id="1107" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100138" count="1" /> <!-- +8 +8 수호의 건틀렛 팩 -->
+	</product>
+	<product id="1108" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100139" count="1" /> <!-- +8 +8 수호의 투구 팩 -->
+	</product>
+	<product id="1109" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100140" count="1" /> <!-- +8 +8 수호의 부츠 팩 -->
+	</product>
+	<product id="1110" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100141" count="1" /> <!-- +8 +8 수호의 시길 팩 -->
+	</product>
+	<product id="1111" category="12">
+		<ingredient id="91663" count="500000" /> <!-- 엘코인 -->
+		<production id="100142" count="1" /> <!-- +8 +8 수호의 실드 팩 -->
+	</product>
+</list>

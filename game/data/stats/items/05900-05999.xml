@@ -1,0 +1,665 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="5900" name="미공급 - 동전 수집 앨범" type="EtcItem">
+		<!-- The item is not available. A coin-collecting album made of high-quality leather. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5901" name="제물의 피" type="EtcItem">
+		<!-- Blood that can be obtained by killing a Monster of Offering. The number of this item will determine your score. -->
+		<set name="icon" val="icon.etc_dragon_blood_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="5902" name="고대 마법의 주문서" type="EtcItem">
+		<!-- Scroll that contains ancient magic. Take it to Gatekeeper Ziggurat. -->
+		<set name="icon" val="icon.etc_scroll_of_enchant_weapon_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="5903" name="고대의 유골 단지" type="EtcItem">
+		<!-- Ancient urn that was found in the Tower of Insolence. Take it to Seer Reva of Town of Aden. -->
+		<set name="icon" val="icon.etc_oil_pot_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="5916" name="마법서의 페이지 조각" type="EtcItem">
+		<!-- Torn piece of paper that seems to have been ripped out of a spellbook. If you Double-click it, you can examine it closely. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="default_action" val="CAPSULE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="80"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_depositable" val="false"/>
+		<skills>
+			<skill id="2171" level="1"/> <!-- Spellbook Paper -->
+		</skills>
+	</item>
+	<item id="5917" name="크란벨의 서 - 불" type="EtcItem">
+		<!-- A chapter from the spellbook of Great Mage Kranvel. Collect all chapters - Fire, Water, Wind and Earth, and take them to Elder Casian. -->
+		<set name="icon" val="icon.etc_paper_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="80"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+	</item>
+	<item id="5918" name="크란벨의 서 - 물" type="EtcItem">
+		<!-- A chapter from the spellbook of Great Mage Kranvel. Collect all chapters - Fire, Water, Wind and Earth, and take them to Elder Casian. -->
+		<set name="icon" val="icon.etc_paper_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="80"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+	</item>
+	<item id="5919" name="크란벨의 서 - 바람" type="EtcItem">
+		<!-- A chapter from the spellbook of Great Mage Kranvel. Collect all chapters - Fire, Water, Wind and Earth, and take them to Elder Casian. -->
+		<set name="icon" val="icon.etc_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="80"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+	</item>
+	<item id="5920" name="크란벨의 서 - 대지" type="EtcItem">
+		<!-- A chapter from the spellbook of Great Mage Kranvel. Collect all chapters - Fire, Water, Wind and Earth, and take them to Elder Casian. -->
+		<set name="icon" val="icon.etc_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="80"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+	</item>
+	<item id="5921" name="쓸모 없는 종이 조각" type="EtcItem">
+		<!-- Paper piece that has useless scribbles written on it. -->
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="80"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5922" name="거인의 골램 설계도, 1장" type="EtcItem">
+		<!-- A part of the golem blueprint from the Lesser Giant era. The first out of five pages. -->
+		<set name="icon" val="icon.etc_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5923" name="거인의 골램 설계도, 2장" type="EtcItem">
+		<!-- A part of the golem blueprint from the Lesser Giant era. The second out of five pages. -->
+		<set name="icon" val="icon.etc_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5924" name="거인의 골램 설계도, 3장" type="EtcItem">
+		<!-- A part of the golem blueprint from the Lesser Giant era. The third out of five pages. -->
+		<set name="icon" val="icon.etc_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5925" name="거인의 골램 설계도, 4장" type="EtcItem">
+		<!-- A part of the golem blueprint from the Lesser Giant era. The fourth out of five pages. -->
+		<set name="icon" val="icon.etc_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5926" name="거인의 골램 설계도, 5장" type="EtcItem">
+		<!-- A part of the golem blueprint from the Lesser Giant era. The fifth out of five pages. -->
+		<set name="icon" val="icon.etc_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5927" name="거인의 마법 이론서, 1편" type="EtcItem">
+		<!-- A book on the magic of the Giants from the Lesser Giant era. The first chapter. -->
+		<set name="icon" val="icon.etc_paper_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5928" name="거인의 마법 이론서, 2편" type="EtcItem">
+		<!-- A book on the magic of the Giants from the Lesser Giant era. The second chapter. -->
+		<set name="icon" val="icon.etc_paper_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5929" name="거인의 마법 이론서, 3편" type="EtcItem">
+		<!-- A book on the magic of the Giants from the Lesser Giant era. The third chapter. -->
+		<set name="icon" val="icon.etc_paper_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5930" name="거인의 마법 이론서, 4편" type="EtcItem">
+		<!-- A book on the magic of the Giants from the Lesser Giant era. The fourth chapter. -->
+		<set name="icon" val="icon.etc_paper_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5931" name="거인의 마법 이론서, 5편" type="EtcItem">
+		<!-- A book on the magic of the Giants from the Lesser Giant era. The fifth chapter. -->
+		<set name="icon" val="icon.etc_paper_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5932" name="거인의 건축 편람, 1장" type="EtcItem">
+		<!-- A handbook on the architecture of the Giants from the Lesser Giant era. The first chapter. -->
+		<set name="icon" val="icon.etc_paper_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5933" name="거인의 건축 편람, 2장" type="EtcItem">
+		<!-- A handbook on the architecture of the Giants from the Lesser Giant era. The second chapter. -->
+		<set name="icon" val="icon.etc_paper_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5934" name="거인의 건축 편람, 3장" type="EtcItem">
+		<!-- A handbook on the architecture of the Giants from the Lesser Giant era. The third chapter. -->
+		<set name="icon" val="icon.etc_paper_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5935" name="거인의 건축 편람, 4장" type="EtcItem">
+		<!-- A handbook on the architecture of the Giants from the Lesser Giant era. The fourth chapter. -->
+		<set name="icon" val="icon.etc_paper_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5936" name="거인의 건축 편람, 5장" type="EtcItem">
+		<!-- A handbook on the architecture of the Giants from the Lesser Giant era. The fifth chapter. -->
+		<set name="icon" val="icon.etc_paper_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5937" name="거인의 의학 이론서, 1편" type="EtcItem">
+		<!-- A medical book of the Giants from the Lesser Giant era. The first chapter. -->
+		<set name="icon" val="icon.etc_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5938" name="거인의 의학 이론서, 2편" type="EtcItem">
+		<!-- A medical book of the Giants from the Lesser Giant era. The second chapter. -->
+		<set name="icon" val="icon.etc_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5939" name="거인의 의학 이론서, 3편" type="EtcItem">
+		<!-- A medical book of the Giants from the Lesser Giant era. The third chapter. -->
+		<set name="icon" val="icon.etc_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5940" name="거인의 의학 이론서, 4편" type="EtcItem">
+		<!-- A medical book of the Giants from the Lesser Giant era. The fourth chapter. -->
+		<set name="icon" val="icon.etc_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5941" name="거인의 의학 이론서, 5편" type="EtcItem">
+		<!-- A medical book of the Giants from the Lesser Giant era. The fifth chapter. -->
+		<set name="icon" val="icon.etc_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5942" name="거인의 연애 편지" type="EtcItem">
+		<!-- It seems like even the giants used to have a love life. -->
+		<set name="icon" val="icon.etc_piece_of_report_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="200"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5943" name="거인의 낙서" type="EtcItem">
+		<!-- Crude picture drawn by a would-be painter giant. -->
+		<set name="icon" val="icon.etc_painting_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="200"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5944" name="고대의 양피지" type="EtcItem">
+		<!-- A piece of parchment from the Lesser Giant era. Double-click to read. -->
+		<set name="icon" val="icon.etc_roll_of_paper_black_i00"/>
+		<set name="default_action" val="CAPSULE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_depositable" val="false"/>
+		<skills>
+			<skill id="2172" level="1"/> <!-- Scroll of Giants -->
+		</skills>
+	</item>
+	<item id="5945" name="거인의 과학 이론서, 1장" type="EtcItem">
+		<!-- A part of the book that describes the science and technology of the Giant era. The first chapter. -->
+		<set name="icon" val="icon.etc_spell_books_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5946" name="거인의 과학 이론서, 2장" type="EtcItem">
+		<!-- A part of the book that describes the science and technology of the Giant era. The second chapter. -->
+		<set name="icon" val="icon.etc_spell_books_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5947" name="거인의 과학 이론서, 3장" type="EtcItem">
+		<!-- A part of the book that describes the science and technology of the Giant era. The third chapter. -->
+		<set name="icon" val="icon.etc_spell_books_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5948" name="거인의 과학 이론서, 4장" type="EtcItem">
+		<!-- A part of the book that describes the science and technology of the Giant era. The fourth chapter. -->
+		<set name="icon" val="icon.etc_spell_books_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5949" name="거인의 과학 이론서, 5장" type="EtcItem">
+		<!-- A part of the book that describes the science and technology of the Giant era. The fifth chapter. -->
+		<set name="icon" val="icon.etc_spell_books_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5950" name="하거인 문화 연감, 1편" type="EtcItem">
+		<!-- A part of the almanac about the culture of the Giant era. The first chapter. -->
+		<set name="icon" val="icon.etc_spell_books_summon_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5951" name="하거인 문화 연감, 2편" type="EtcItem">
+		<!-- A part of the almanac about the culture of the Giant era. The second chapter. -->
+		<set name="icon" val="icon.etc_spell_books_summon_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5952" name="하거인 문화 연감, 3편" type="EtcItem">
+		<!-- A part of the almanac about the culture of the Giant era. The third chapter. -->
+		<set name="icon" val="icon.etc_spell_books_summon_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5953" name="하거인 문화 연감, 4편" type="EtcItem">
+		<!-- A part of the almanac about the culture of the Giant era. The fourth chapter. -->
+		<set name="icon" val="icon.etc_spell_books_summon_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5954" name="하거인 문화 연감, 5편" type="EtcItem">
+		<!-- A part of the almanac about the culture of the Giant era. The fifth chapter. -->
+		<set name="icon" val="icon.etc_spell_books_summon_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5955" name="하거인 고서적" type="EtcItem">
+		<!-- A book from the Lesser Giant era. Double-click to read. -->
+		<set name="icon" val="icon.etc_spell_books_black_i00"/>
+		<set name="default_action" val="CAPSULE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_depositable" val="false"/>
+		<skills>
+			<skill id="2173" level="1"/> <!-- Book of Giants -->
+		</skills>
+	</item>
+	<item id="5956" name="15년산 포도주" type="EtcItem">
+		<!-- A gift from Harlan as a token of his gratitude. An average, 15-year-aged wine. -->
+		<set name="icon" val="icon.etc_luxury_wine_a_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="5900"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="5957" name="30년산 포도주" type="EtcItem">
+		<!-- Gift from Harlan as a token of gratitude. It is aged 30 years. High quality wine. -->
+		<set name="icon" val="icon.etc_luxury_wine_b_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="7900"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="5958" name="60년산 포도주" type="EtcItem">
+		<!-- Gift from Harlan as a token of gratitude. It is aged 60 years. Excellent quality wine. -->
+		<set name="icon" val="icon.etc_luxury_wine_c_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="30900"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="5959" name="리트론 디저트 레시피" type="EtcItem">
+		<!-- Secret recipe for making dessert by using ritron fruit as its ingredient. It can to sold at a store. -->
+		<set name="icon" val="icon.etc_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="price" val="40000"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="5960" name="리트론 젤리" type="EtcItem">
+		<!-- Delicious jelly made from ritron fruit. It can be sold at a store. -->
+		<set name="icon" val="icon.etc_cobol_i04"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="price" val="920"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="5961" name="카일의 실버 바실리스크" type="EtcItem">
+		<!-- A royal coin. -->
+		<set name="icon" val="icon.etc_kyles_silver_basilisk_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="1000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="5962" name="카일의 골드 골렘" type="EtcItem">
+		<!-- Royal-grade Coin -->
+		<set name="icon" val="icon.etc_kyles_gold_golem_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="1000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="5963" name="카일의 블러드 드래곤" type="EtcItem">
+		<!-- Royal-grade Coin -->
+		<set name="icon" val="icon.etc_kyles_blood_dragon_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="1000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="5964" name="창고지기의 메달" type="EtcItem">
+		<!-- Medal that is issued by the Iron Gate Guild to Warehouse Keepers according to their productivity. If you collect them, you can use them to play bingo. -->
+		<set name="icon" val="icon.etc_irongate_medal_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="5971" name="고대인의 만담집" type="EtcItem">
+		<!-- Collection of jokes of Galfredo Romer, a Royal Clown. -->
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5972" name="봉인의 묵시록, 탐욕의 장" type="EtcItem">
+		<!-- Ancient record regarding the Seven Seals. The first of seven chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5973" name="봉인의 묵시록, 계시의 장" type="EtcItem">
+		<!-- Ancient record regarding the Seven Seals. The second of seven chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5974" name="봉인의 묵시록, 전란의 장" type="EtcItem">
+		<!-- Ancient record regarding the Seven Seals. The third of seven chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5975" name="봉인의 묵시록, 응징의 장" type="EtcItem">
+		<!-- Ancient record regarding the Seven Seals. The fourth of seven chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5976" name="봉인의 묵시록, 각성의 장" type="EtcItem">
+		<!-- Ancient record regarding the Seven Seals. The fifth of seven chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5977" name="봉인의 묵시록, 재해의 장" type="EtcItem">
+		<!-- Ancient record regarding the Seven Seals. The sixth of seven chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5978" name="봉인의 묵시록, 강림의 장" type="EtcItem">
+		<!-- Ancient record regarding the Seven Seals. The seventh of seven chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5979" name="제국의 서사시, 1편" type="EtcItem">
+		<!-- Story of heroes written by ancient troubadours. The first of five chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5980" name="제국의 서사시, 2편" type="EtcItem">
+		<!-- Story of heroes written by ancient troubadours. The second of five chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5981" name="제국의 서사시, 3편" type="EtcItem">
+		<!-- Story of heroes written by ancient troubadours. The third of five chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5982" name="제국의 서사시, 4편" type="EtcItem">
+		<!-- Story of heroes written by ancient troubadours. The fourth of five chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5983" name="제국의 서사시, 5편" type="EtcItem">
+		<!-- Story of heroes written by ancient troubadours. The fifth of five chapters. -->
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5984" name="제국의 계보, 1편" type="EtcItem">
+		<!-- The genealogy of the Elmoreden royal family. The first of five chapters. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5985" name="제국의 계보, 2편" type="EtcItem">
+		<!-- The genealogy of the Elmoreden royal family. The second of five chapters. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5986" name="제국의 계보, 3편" type="EtcItem">
+		<!-- The genealogy of the Elmoreden royal family. The third of five chapters. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5987" name="제국의 계보, 4편" type="EtcItem">
+		<!-- The genealogy of the Elmoreden royal family. The fourth of five chapters. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="5988" name="제국의 계보, 5편" type="EtcItem">
+		<!-- The genealogy of the Elmoreden royal family. The fifth of five chapters. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="price" val="400"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

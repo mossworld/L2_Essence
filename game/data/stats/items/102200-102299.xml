@@ -1,0 +1,1721 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="102200" name="+5~+7 얼음 군주의 세검 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.frozen_weapon_rapier"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95735" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="얼음 군주의 세검"/> <!-- Frost Lord's Rapier -->
+			<item id="95735" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="얼음 군주의 세검"/> <!-- Frost Lord's Rapier -->
+			<item id="95735" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="얼음 군주의 세검"/> <!-- Frost Lord's Rapier -->
+		</capsuled_items>
+	</item>
+	<item id="102201" name="+5~+7 얼음 군주의 쌍검 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.frozen_weapon_dual_sword"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95737" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="얼음 군주의 쌍검"/> <!-- Frost Lord's Dual Swords -->
+			<item id="95737" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="얼음 군주의 쌍검"/> <!-- Frost Lord's Dual Swords -->
+			<item id="95737" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="얼음 군주의 쌍검"/> <!-- Frost Lord's Dual Swords -->
+		</capsuled_items>
+	</item>
+	<item id="102202" name="+5~+7 얼음 군주의 대검 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.frozen_weapon_two_hand_sword"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95726" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="얼음 군주의 대검"/> <!-- Frost Lord's Two-handed Sword -->
+			<item id="95726" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="얼음 군주의 대검"/> <!-- Frost Lord's Two-handed Sword -->
+			<item id="95726" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="얼음 군주의 대검"/> <!-- Frost Lord's Two-handed Sword -->
+		</capsuled_items>
+	</item>
+	<item id="102203" name="+5~+7 얼음 군주의 단검 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.frozen_weapon_dagger"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95728" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="얼음 군주의 단검"/> <!-- Frost Lord's Dagger -->
+			<item id="95728" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="얼음 군주의 단검"/> <!-- Frost Lord's Dagger -->
+			<item id="95728" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="얼음 군주의 단검"/> <!-- Frost Lord's Dagger -->
+		</capsuled_items>
+	</item>
+	<item id="102204" name="+5~+7 얼음 군주의 활 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.frozen_weapon_bow"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95730" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="얼음 군주의 활"/> <!-- Frost Lord's Bow -->
+			<item id="95730" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="얼음 군주의 활"/> <!-- Frost Lord's Bow -->
+			<item id="95730" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="얼음 군주의 활"/> <!-- Frost Lord's Bow -->
+		</capsuled_items>
+	</item>
+	<item id="102205" name="+5~+7 얼음 군주의 마법 둔기 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.frozen_weapon_staff"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95732" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="얼음 군주의 마법 둔기"/> <!-- Frost Lord's Magic Blunt Weapon -->
+			<item id="95732" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="얼음 군주의 마법 둔기"/> <!-- Frost Lord's Magic Blunt Weapon -->
+			<item id="95732" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="얼음 군주의 마법 둔기"/> <!-- Frost Lord's Magic Blunt Weapon -->
+		</capsuled_items>
+	</item>
+	<item id="102206" name="+5~+7 얼음 군주의 고대검 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.frozen_weapon_ancientsword"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95734" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="얼음 군주의 고대검"/> <!-- Frost Lord's Ancient Sword -->
+			<item id="95734" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="얼음 군주의 고대검"/> <!-- Frost Lord's Ancient Sword -->
+			<item id="95734" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="얼음 군주의 고대검"/> <!-- Frost Lord's Ancient Sword -->
+		</capsuled_items>
+	</item>
+	<item id="102207" name="+5~+7 얼음 군주의 총 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.frozen_weapon_shooter"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95736" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="얼음 군주의 총"/> <!-- Frost Lord's Pistols -->
+			<item id="95736" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="얼음 군주의 총"/> <!-- Frost Lord's Pistols -->
+			<item id="95736" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="얼음 군주의 총"/> <!-- Frost Lord's Pistols -->
+		</capsuled_items>
+	</item>
+	<item id="102208" name="+5~+7 보스 무기 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.aka_manaf_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92404" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92404" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92404" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92405" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92405" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92405" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92407" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92407" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92407" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92408" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="92408" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="92408" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="92421" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="92421" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="92421" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="94888" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+			<item id="94888" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+			<item id="94888" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+			<item id="96268" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater -->
+			<item id="96268" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater -->
+			<item id="96268" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater -->
+			<item id="97301" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear -->
+			<item id="97301" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear -->
+			<item id="97301" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear -->
+			<item id="97956" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword -->
+			<item id="97956" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword -->
+			<item id="97956" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword -->
+			<item id="97958" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier -->
+			<item id="97958" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier -->
+			<item id="97958" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier -->
+			<item id="97960" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists -->
+			<item id="97960" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists -->
+			<item id="97960" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists -->
+			<item id="97962" min="1" max="1" minEnchant="5" maxEnchant="5" chance="2.777778" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords -->
+			<item id="97962" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords -->
+			<item id="97962" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords -->
+		</capsuled_items>
+	</item>
+	<item id="102209" name="+6~+8 보스 무기 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.aka_manaf_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92404" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92404" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92404" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92405" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92405" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92405" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92407" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92407" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92407" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92408" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="92408" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="92408" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="92421" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="92421" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="92421" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="94888" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+			<item id="94888" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+			<item id="94888" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+			<item id="96268" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater -->
+			<item id="96268" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater -->
+			<item id="96268" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater -->
+			<item id="97301" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear -->
+			<item id="97301" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear -->
+			<item id="97301" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear -->
+			<item id="97956" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword -->
+			<item id="97956" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword -->
+			<item id="97956" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword -->
+			<item id="97958" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier -->
+			<item id="97958" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier -->
+			<item id="97958" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier -->
+			<item id="97960" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists -->
+			<item id="97960" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists -->
+			<item id="97960" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists -->
+			<item id="97962" min="1" max="1" minEnchant="6" maxEnchant="6" chance="2.777778" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords -->
+			<item id="97962" min="1" max="1" minEnchant="7" maxEnchant="7" chance="2.777778" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords -->
+			<item id="97962" min="1" max="1" minEnchant="8" maxEnchant="8" chance="2.777778" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords -->
+		</capsuled_items>
+	</item>
+	<item id="102210" name="+5~+7 자켄의 블러드 소드 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Samurai. Death Knight. Phoenix Knight. Hell Knight. Eva's Templar. Shillien Templar. Divine Templar</font> -->
+		<set name="icon" val="icon.special_weapon_onehandsword"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92404" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92404" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+			<item id="92404" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword -->
+		</capsuled_items>
+	</item>
+	<item id="102211" name="+5~+7 코어의 플라즈마 보우 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Sagittarius. Moonlight Sentinel. Ghost Sentinel. Trickster</font> -->
+		<set name="icon" val="icon.weapon_karupis_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92405" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92405" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+			<item id="92405" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow -->
+		</capsuled_items>
+	</item>
+	<item id="102212" name="+5~+7 오르펜의 포이즈닉 소드 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended class>. Titan</font> -->
+		<set name="icon" val="icon.weapon_the_two_handed_sword_of_hero_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92407" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92407" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+			<item id="92407" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword -->
+		</capsuled_items>
+	</item>
+	<item id="102213" name="+5~+7 바이움의 썬더 브레이커 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Blood Rose. Assassin. Adventurer. Wind Rider. Ghost Hunter</font> -->
+		<set name="icon" val="icon.weapon_terakan_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92408" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="92408" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+			<item id="92408" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker -->
+		</capsuled_items>
+	</item>
+	<item id="102214" name="+5~+7 여왕개미의 스톤 크래셔 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.special_weapon_onehandblunt"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92421" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="92421" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+			<item id="92421" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker -->
+		</capsuled_items>
+	</item>
+	<item id="102215" name="+5~+7 아나킴의 디바인 슈터 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended class>. Storm Blaster</font> -->
+		<set name="icon" val="icon.shooter_boss_anakim"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="94888" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+			<item id="94888" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+			<item id="94888" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols -->
+		</capsuled_items>
+	</item>
+	<item id="102216" name="+5~+7 베레스의 소울 이터 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Element Weaver. Apostle. Elemental Master. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.staff_of_bereth"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="96268" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater -->
+			<item id="96268" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater -->
+			<item id="96268" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater -->
+		</capsuled_items>
+	</item>
+	<item id="102217" name="+5~+7 고드의 플레임 스피어 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Dreadnought. Vanguard Rider</font> -->
+		<set name="icon" val="icon.weapon_r110_spear_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97301" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear -->
+			<item id="97301" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear -->
+			<item id="97301" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear -->
+		</capsuled_items>
+	</item>
+	<item id="102218" name="+5~+7 아나이스의 듀얼 피스트 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>WargGrand Khavatari</font> -->
+		<set name="icon" val="icon.weapon_vesper_fighter_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97960" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists -->
+			<item id="97960" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists -->
+			<item id="97960" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists -->
+		</capsuled_items>
+	</item>
+	<item id="102219" name="+5~+7 갈락시아의 에인션트 소드 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended class>. Doombringer</font> -->
+		<set name="icon" val="icon.weapon_dynasty_ancient_sword_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97956" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword -->
+			<item id="97956" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword -->
+			<item id="97956" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword -->
+		</capsuled_items>
+	</item>
+	<item id="102220" name="+5~+7 유리헬의 듀얼 소드 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended classes>. Duelist. Sword Muse. Spectral Dancer</font> -->
+		<set name="icon" val="BranchSys2.icon.br_wp_astarot_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97962" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords -->
+			<item id="97962" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords -->
+			<item id="97962" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords -->
+		</capsuled_items>
+	</item>
+	<item id="102221" name="+5~+7 브리엘의 레이피어 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=eeaa22><Recommended class>. Soul Hound</font> -->
+		<set name="icon" val="icon.weapon_heavenstair_rapier_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97958" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier -->
+			<item id="97958" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier -->
+			<item id="97958" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier -->
+		</capsuled_items>
+	</item>
+	<item id="102222" name="고급 인형 소환권 (각인) 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="100894" min="1" max="1" chance="3.703704" name="고급 여왕개미 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Queen Ant - Sealed -->
+			<item id="100895" min="1" max="1" chance="3.703704" name="고급 오르펜 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Orfen - Sealed -->
+			<item id="100896" min="1" max="1" chance="3.703704" name="고급 코어 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Core - Sealed -->
+			<item id="100897" min="1" max="1" chance="3.703704" name="고급 프린테사 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Frintezza - Sealed -->
+			<item id="100898" min="1" max="1" chance="3.703704" name="고급 자켄 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Zaken - Sealed -->
+			<item id="100899" min="1" max="1" chance="3.703704" name="고급 바이움 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Baium - Sealed -->
+			<item id="100900" min="1" max="1" chance="3.703704" name="고급 안타라스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Antharas - Sealed -->
+			<item id="100901" min="1" max="1" chance="3.703704" name="고급 베히모스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Behemoth - Sealed -->
+			<item id="100902" min="1" max="1" chance="3.703704" name="고급 글라키에스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Glakias - Sealed -->
+			<item id="100903" min="1" max="1" chance="3.703704" name="고급 안드레아스 반 홀터 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Andreas van Halter - Sealed -->
+			<item id="100904" min="1" max="1" chance="3.703704" name="고급 켈빔 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Kelbim - Sealed -->
+			<item id="101390" min="1" max="1" chance="3.703704" name="고급 페리온 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Ferion - Sealed -->
+			<item id="101574" min="1" max="1" chance="3.703704" name="고급 불칸 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Vulcan - Sealed -->
+			<item id="101646" min="1" max="1" chance="3.703704" name="고급 아나킴 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Anakim - Sealed -->
+			<item id="101647" min="1" max="1" chance="3.703704" name="고급 릴리스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Lilith - Sealed -->
+			<item id="101816" min="1" max="1" chance="3.703704" name="고급 몰랑공주 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Princess Molrang - Sealed -->
+			<item id="101817" min="1" max="1" chance="3.703704" name="고급 데이만 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Deiman - Sealed -->
+			<item id="101818" min="1" max="1" chance="3.703704" name="고급 자드나 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Satina - Sealed -->
+			<item id="101819" min="1" max="1" chance="3.703704" name="고급 류미니르 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Ryuminir - Sealed -->
+			<item id="101820" min="1" max="1" chance="3.703704" name="고급 아이젠 켄슐러 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Aizen Kelsour - Sealed -->
+			<item id="101821" min="1" max="1" chance="3.703704" name="고급 킹 이그니스 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - King Ignis - Sealed -->
+			<item id="101822" min="1" max="1" chance="3.703704" name="고급 퀸 네불라 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Queen Nebula - Sealed -->
+			<item id="101823" min="1" max="1" chance="3.703704" name="고급 킹 프로첼라 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - King Procella - Sealed -->
+			<item id="101824" min="1" max="1" chance="3.703704" name="고급 킹 페트람 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - King Petram - Sealed -->
+			<item id="101825" min="1" max="1" chance="3.703704" name="고급 트론 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Tiron - Sealed -->
+			<item id="101826" min="1" max="1" chance="3.703704" name="고급 스칼렛 반 할리샤 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Scarlet van Halisha - Sealed -->
+			<item id="102085" min="1" max="1" chance="3.703704" name="고급 아즈타칸 인형 소환권"/> <!-- Enhanced Doll Summon Coupon - Aztacan - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102223" name="강화석 조각" type="EtcItem">
+		<!-- A material for crafting Greater Upgrade Stone. <font color=bbaa88><How to use></font>. Special craft - Greater Upgrade Stone. <font color=bbaa88>Acquisition:</font>. Tower of Insolence -->
+		<set name="icon" val="icon.soul_bead_fragment"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102224" name="+5~+7 빙결의 흉갑 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. -->
+		<set name="icon" val="icon.armor_t94_u_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93141" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="빙결의 흉갑"/> <!-- Ice Crystal Breastplate - Sealed -->
+			<item id="93141" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="빙결의 흉갑"/> <!-- Ice Crystal Breastplate - Sealed -->
+			<item id="93141" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="빙결의 흉갑"/> <!-- Ice Crystal Breastplate - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102225" name="+5~+7 빙결의 각반 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. -->
+		<set name="icon" val="icon.armor_t94_l_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93142" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="빙결의 각반"/> <!-- Ice Crystal Gaiters - Sealed -->
+			<item id="93142" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="빙결의 각반"/> <!-- Ice Crystal Gaiters - Sealed -->
+			<item id="93142" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="빙결의 각반"/> <!-- Ice Crystal Gaiters - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102226" name="+5~+7 전격의 레더 메일 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. -->
+		<set name="icon" val="icon.armor_t101_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93317" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="전격의 레더 메일"/> <!-- Leather Armor of Lightning - Sealed -->
+			<item id="93317" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="전격의 레더 메일"/> <!-- Leather Armor of Lightning - Sealed -->
+			<item id="93317" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="전격의 레더 메일"/> <!-- Leather Armor of Lightning - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102227" name="+5~+7 전격의 레더 레깅스 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. -->
+		<set name="icon" val="icon.armor_t102_l_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93318" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="전격의 레더 레깅스"/> <!-- Leather Leggings of Lightning - Sealed -->
+			<item id="93318" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="전격의 레더 레깅스"/> <!-- Leather Leggings of Lightning - Sealed -->
+			<item id="93318" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="전격의 레더 레깅스"/> <!-- Leather Leggings of Lightning - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102228" name="+5~+7 화염의 튜닉 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. -->
+		<set name="icon" val="icon.armor_t96_u_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93735" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="화염의 튜닉"/> <!-- Flaming Tunic - Sealed -->
+			<item id="93735" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="화염의 튜닉"/> <!-- Flaming Tunic - Sealed -->
+			<item id="93735" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="화염의 튜닉"/> <!-- Flaming Tunic - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102229" name="+5~+7 화염의 호즈 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. -->
+		<set name="icon" val="icon.armor_t96_l_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93736" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="화염의 호즈"/> <!-- Flaming Stockings - Sealed -->
+			<item id="93736" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="화염의 호즈"/> <!-- Flaming Stockings - Sealed -->
+			<item id="93736" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="화염의 호즈"/> <!-- Flaming Stockings - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102230" name="+5~+7 자켄의 블러드 소드 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended classes>. Samurai. Death Knight. Phoenix Knight. Hell Knight. Eva's Templar. Shillien Templar. Divine Templar</font> -->
+		<set name="icon" val="icon.special_weapon_onehandsword"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93291" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword - Sealed -->
+			<item id="93291" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword - Sealed -->
+			<item id="93291" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102231" name="+5~+7 코어의 플라즈마 보우 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended classes>. Sagittarius. Moonlight Sentinel. Ghost Sentinel. Trickster</font> -->
+		<set name="icon" val="icon.weapon_karupis_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93292" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow - Sealed -->
+			<item id="93292" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow - Sealed -->
+			<item id="93292" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102232" name="+5~+7 오르펜의 포이즈닉 소드 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended class>. Titan</font> -->
+		<set name="icon" val="icon.weapon_the_two_handed_sword_of_hero_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93293" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword - Sealed -->
+			<item id="93293" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword - Sealed -->
+			<item id="93293" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102233" name="+5~+7 바이움의 썬더 브레이커 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended classes>. Blood Rose. Assassin. Adventurer. Wind Rider. Ghost Hunter</font> -->
+		<set name="icon" val="icon.weapon_terakan_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93294" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker - Sealed -->
+			<item id="93294" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker - Sealed -->
+			<item id="93294" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102234" name="+5~+7 여왕개미의 스톤 크래셔 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended classes>. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.special_weapon_onehandblunt"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93295" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker - Sealed -->
+			<item id="93295" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker - Sealed -->
+			<item id="93295" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102235" name="+5~+7 아나킴의 디바인 슈터 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended class>. Storm Blaster</font> -->
+		<set name="icon" val="icon.shooter_boss_anakim"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95422" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols - Sealed -->
+			<item id="95422" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols - Sealed -->
+			<item id="95422" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102236" name="+5~+7 베레스의 소울 이터 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended classes>. Element Weaver. Apostle. Elemental Master. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.staff_of_bereth"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="96269" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater - Sealed -->
+			<item id="96269" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater - Sealed -->
+			<item id="96269" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102237" name="+5~+7 고드의 플레임 스피어 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended classes>. Dreadnought. Vanguard Rider</font> -->
+		<set name="icon" val="icon.weapon_r110_spear_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97302" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear - Sealed -->
+			<item id="97302" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear - Sealed -->
+			<item id="97302" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102238" name="+5~+7 아나이스의 듀얼 피스트 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended classes>. Warg. Grand Khavatari</font> -->
+		<set name="icon" val="icon.weapon_vesper_fighter_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97961" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists - Sealed -->
+			<item id="97961" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists - Sealed -->
+			<item id="97961" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102239" name="+5~+7 갈락시아의 에인션트 소드 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended class>. Doombringer</font> -->
+		<set name="icon" val="icon.weapon_dynasty_ancient_sword_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97957" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword - Sealed -->
+			<item id="97957" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword - Sealed -->
+			<item id="97957" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102240" name="+5~+7 유리헬의 듀얼 소드 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended classes>. Duelist. Sword Muse. Spectral Dancer</font> -->
+		<set name="icon" val="BranchSys2.icon.br_wp_astarot_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97963" min="1" max="1" minEnchant="5" maxEnchant="5" chance="33.33333" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords - Sealed -->
+			<item id="97963" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords - Sealed -->
+			<item id="97963" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102241" name="+5~+7 브리엘의 레이피어 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. <font color=eeaa22><Recommended class>. Soul Hound</font> -->
+		<set name="icon" val="icon.weapon_heavenstair_rapier_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97959" min="1" max="1" chance="33.33333" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier - Sealed -->
+			<item id="97959" min="1" max="1" chance="33.33333" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier - Sealed -->
+			<item id="97959" min="1" max="1" chance="33.33333" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102242" name="베니르의 탈리스만 Lv1" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: 5000 adena. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 1</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="1"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102243" name="베니르의 탈리스만 Lv2" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. MEN +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: 5000 adena. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 1</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="2"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102244" name="베니르의 탈리스만 Lv3" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. MEN +1. DEX +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: 5000 adena. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 1</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="3"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102245" name="베니르의 탈리스만 Lv4" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. MEN +1. DEX +1. WIT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: 5000 adena. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 1</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="4"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102246" name="베니르의 탈리스만 Lv5" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. MEN +1. DEX +1. WIT +1. STR +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: 5000 adena. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 1</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="5"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102247" name="베니르의 탈리스만 Lv6" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +1. MEN +1. DEX +1. WIT +1. STR +1. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>10,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="6"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102248" name="베니르의 탈리스만 Lv7" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +1. DEX +1. WIT +1. STR +1. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>10,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="7"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102249" name="베니르의 탈리스만 Lv8" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +2. DEX +1. WIT +1. STR +1. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>10,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="8"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102250" name="베니르의 탈리스만 Lv9" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +2. DEX +2. WIT +1. STR +1. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>10,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="9"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102251" name="베니르의 탈리스만 Lv10" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +2. DEX +2. WIT +2. STR +1. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>10,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="10"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102252" name="베니르의 탈리스만 Lv11" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +2. DEX +2. WIT +2. STR +2. INT +1. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>10,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 6</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="11"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102253" name="베니르의 탈리스만 Lv12" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +2. MEN +2. DEX +2. WIT +2. STR +2. INT +2. All received Critical Rate -2%. P./ M. Skill Cooldown -1%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>30,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 12</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="12"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102254" name="베니르의 탈리스만 Lv13" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +3. MEN +2. DEX +2. WIT +2. STR +2. INT +2. All received Critical Rate -4%. P./ M. Skill Cooldown -3%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>30,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 12</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="13"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102255" name="베니르의 탈리스만 Lv14" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +3. MEN +3. DEX +2. WIT +2. STR +2. INT +2. All received Critical Rate -6%. P./ M. Skill Cooldown -5%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>30,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 12</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="14"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102256" name="베니르의 탈리스만 Lv15" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +3. MEN +3. DEX +3. WIT +2. STR +2. INT +2. All received Critical Rate -8%. P./ M. Skill Cooldown -7%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>30,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 12</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="15"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102257" name="베니르의 탈리스만 Lv16" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +3. MEN +3. DEX +3. WIT +3. STR +2. INT +2. Max HP +100. Max MP +100. Max CP +100. All received Critical Rate -10%. P./ M. Skill Cooldown -7%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>30,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 12</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="16"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102258" name="베니르의 탈리스만 Lv17" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +3. MEN +3. DEX +3. WIT +3. STR +3. INT +2. Max HP +200. Max MP +200. Max CP +200. All received Critical Rate -10%. P./ M. Skill Cooldown -9%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>30,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 12</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="17"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102259" name="베니르의 탈리스만 Lv18" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +3. MEN +3. DEX +3. WIT +3. STR +3. INT +3. Max HP +300. Max MP +300. Max CP +300. All received Critical Rate -12%. P./ M. Skill Cooldown -9%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>70,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 18</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="18"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102260" name="베니르의 탈리스만 Lv19" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +4. MEN +4. DEX +3. WIT +3. STR +3. INT +3. Max HP +400. Max MP +400. Max CP +400. All received Critical Rate -12%. P./ M. Skill Cooldown -11%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>70,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 18</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="19"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102261" name="베니르의 탈리스만 Lv20" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +4. MEN +4. DEX +4. WIT +4. STR +3. INT +3. Max HP +500. Max MP +500. Max CP +500. All received Critical Rate -14%. P./ M. Skill Cooldown -11%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>70,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 18</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="20"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102262" name="베니르의 탈리스만 Lv21" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +4. MEN +4. DEX +4. WIT +4. STR +4. INT +4. Max HP +600. Max MP +600. Max CP +600. All received Critical Rate -14%. P./ M. Skill Cooldown -13%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>70,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 18</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="21"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102263" name="베니르의 탈리스만 Lv22" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +5. MEN +5. DEX +4. WIT +4. STR +4. INT +4. Max HP +700. Max MP +700. Max CP +700. All received Critical Rate -16%. P./ M. Skill Cooldown -13%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>70,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 18</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="22"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102264" name="베니르의 탈리스만 Lv23" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +5. MEN +5. DEX +5. WIT +5. STR +4. INT +4. Max HP +800. Max MP +800. Max CP +800. All received Critical Rate -16%. P./ M. Skill Cooldown -15%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>70,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 18</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="23"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102265" name="베니르의 탈리스만 Lv24" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +5. MEN +5. DEX +5. WIT +5. STR +5. INT +5. Max HP +900. Max MP +900. Max CP +900. All received Critical Rate -18%. P./ M. Skill Cooldown -15%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>100,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 24</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="24"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102266" name="베니르의 탈리스만 Lv25" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +6. MEN +6. DEX +6. WIT +6. STR +6. INT +6. Max HP +1000. Max MP +1000. Max CP +1000. All received Critical Rate -18%. P./ M. Skill Cooldown -17%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>100,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 24</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="25"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102267" name="베니르의 탈리스만 Lv26" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +7. MEN +6. DEX +6. WIT +6. STR +6. INT +6. Max HP +1200. Max MP +1200. Max CP +1200. All received Critical Rate -18%. P./ M. Skill Cooldown -17%. Skill Power +1%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>100,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 24</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="26"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102268" name="베니르의 탈리스만 Lv27" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +7. MEN +7. DEX +6. WIT +6. STR +6. INT +6. Max HP +1400. Max MP +1400. Max CP +1400. All received Critical Rate -18%. P./ M. Skill Cooldown -17%. Skill Power +2%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>100,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 24</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="27"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102269" name="베니르의 탈리스만 Lv28" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +7. MEN +7. DEX +7. WIT +6. STR +6. INT +6. Max HP +1600. Max MP +1600. Max CP +1600. All received Critical Rate -18%. P./ M. Skill Cooldown -18%. Skill Power +3%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>100,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 24</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="28"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102270" name="베니르의 탈리스만 Lv29" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +7. MEN +7. DEX +7. WIT +7. STR +6. INT +6. Max HP +1800. Max MP +1800. Max CP +1800. All received Critical Rate -18%. P./ M. Skill Cooldown -18%. Skill Power +4%. <font color=bbaa88><Compounding></font>. Materials: Venir's Talisman Fragment. Compounding fee: <font color=eeaa22>100,000 adena</font>. In case of failure, you will get <font color=eeaa22>Venir's Talisman Lv. 24</font>. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="29"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102271" name="베니르의 탈리스만 Lv30" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. CON +7. MEN +7. DEX +7. WIT +7. STR +7. INT +7. Max HP +2000. Max MP +2000. Max CP +2000. All received Critical Rate -18%. P./ M. Skill Cooldown -18%. Skill Power +5%. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.benir_talisman_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="deco1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18024" level="30"/> <!-- Venir's Talisman -->
+		</skills>
+	</item>
+	<item id="102272" name="6월 패스 특전 코인 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. <font color=EEAA22><Special coins required></font>. Augmenting Stone: Weapon (Sealed) (10 pcs.) - 1 coin required. Augmenting Stone: Armor (Sealed) (10 pcs.) - 1 coin required. Augmenting Stone: Accessory (Sealed) (10 pcs.) - 1 coin required. June Pass' Special Pack (Time-limited) (Sealed) (1 pc.) - 5 coins required -->
+		<set name="icon" val="icon.etc_coins_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102273" name="6월 패스 특전 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.event_six_party_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="101531" min="5" max="5" chance="100" name="고급 강화석"/> <!-- Greater Upgrade Stone - Sealed -->
+			<item id="102103" min="5" max="5" chance="100" name="가디언 액세서리 선택권 (기간제)"/> <!-- Selection Coupon: Guardian Accessory (Time-limited) - Sealed -->
+			<item id="102274" min="1" max="1" chance="100" name="+7 탈리스만 선택권 (기간제)"/> <!-- Selection Coupon: +7 Talisman (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102274" name="+7 탈리스만 선택권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain an item of your choice. <font color=EEAA22><Items for exchange></font>. +7 Talisman of Aden Pack (1 pc.) - 1 coupon required. +7 Talisman of Speed Pack (1 pc.) - 1 coupon required. +7 Talisman of Eva Pack (1 pc.) - 1 coupon required. +7 Talisman of Authority Pack (1 pc.) - 1 coupon required. Augmenting Stone: Special Equipment (Sealed) (20 pcs.) - 1 coupon required -->
+		<set name="icon" val="icon.bm_talisman_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102275" name="아덴의 집혼석 Lv1 - 무기 500개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.aden_rune_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95783" min="500" max="500" chance="100" name="아덴의 집혼석 Lv1 - 무기"/> <!-- Aden's Soul Crystal Lv. 1 - Weapon -->
+		</capsuled_items>
+	</item>
+	<item id="102276" name="아덴의 집혼석 Lv1 - 갑옷 500개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.aden_rune_am_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96901" min="500" max="500" chance="100" name="아덴의 집혼석 Lv1 - 갑옷"/> <!-- Aden's Soul Crystal Lv. 1 - Armor -->
+		</capsuled_items>
+	</item>
+	<item id="102277" name="하딘의 집혼석 Lv1 200개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.aden_rune_high_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95803" min="200" max="200" chance="100" name="하딘의 집혼석 Lv1"/> <!-- Hardin's Soul Crystal Lv. 1 -->
+		</capsuled_items>
+	</item>
+	<item id="102278" name="루비/다이아몬드 보석함 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a Ruby/ Diamond Jewelry Box Lv. 1/ 5 of your choice. <font color=EEAA22><Items for exchange></font>. Ruby Jewelry Box Lv. 1 (Sealed) (1 pc.) - 1 coupon required. Diamond Jewelry Box Lv. 1 (Sealed) (1 pc.) - 1 coupon required. Ruby Jewelry Box Lv. 5 (Sealed) (1 pc.) - 160 coupons required. Diamond Jewelry Box Lv. 5 (Sealed) (1 pc.) - 160 coupons required -->
+		<set name="icon" val="icon.bm_jewel_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102279" name="고대의 보급품 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="BranchSys3.icon1.g_auto_shape_shift"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102280" name="마물의 흔적 (기간제)" type="EtcItem">
+		<!-- A material that can be obtained from the corpse of the <font color=EEAA22>Cryptic Creature</font> on the Alligator Island. Take it to Eva's Avatar to get the reward. <Event NPC>. Giran - Eva's Avatar -->
+		<set name="icon" val="icon.etc_debris_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102281" name="에바의 선물 (기간제)" type="EtcItem">
+		<!-- Double-click to summon the fountain and get items. <font color=ff6666>Note!</font>. Event zone: can only be used in Giran's fountain. - Cooldown: 3 min. -->
+		<set name="icon" val="icon.etc_bless_of_eva_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102282" name="마법서 - 점프 어택" type="EtcItem">
+		<!-- A spellbook for learning the Jump Attack skill. <Class>. Grand Khavatari. <Skill effect>. Jumps to the target dealing damage to them and to nearby enemies. Knocks down with a certain chance. When using the skill, the Rushing Retreat's range and retreat distance are increased. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102283" name="마법서 - 점프 어택" type="EtcItem">
+		<!-- A spellbook for learning the Jump Attack skill. <Class>. Grand Khavatari. <Skill effect>. Jumps to the target dealing damage to them and to nearby enemies. Knocks down with a certain chance. When using the skill, the Rushing Retreat's range and retreat distance are increased. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102284" name="마법서 - 백 러시" type="EtcItem">
+		<!-- A spellbook for learning the Rushing Retreat skill. <Class>. Grand Khavatari. <Skill effect>. Retreats back pulling the enemy to you and holding them with a certain chance. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102285" name="마법서 - 백 러시" type="EtcItem">
+		<!-- A spellbook for learning the Rushing Retreat skill. <Class>. Grand Khavatari. <Skill effect>. Retreats back pulling the enemy to you and holding them with a certain chance. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102286" name="마법서 - 파이널 시크릿: 카바타리" type="EtcItem">
+		<!-- A spellbook for learning the Final Secret: Grand Khavatari skill. <Class>. Grand Khavatari. <Skill effect>. Increases P. Atk. Increases P. Skill Critical Damage. Increases P. Skill Power. Increases PvE damage. Increases Bow Resistance. Increases M. Damage Resistance. Increases Atk. Spd. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102287" name="마법서 - 파이널 시크릿: 카바타리" type="EtcItem">
+		<!-- A spellbook for learning the Final Secret: Grand Khavatari skill. <Class>. Grand Khavatari. <Skill effect>. Increases P. Atk. Increases P. Skill Critical Damage. Increases P. Skill Power. Increases PvE damage. Increases Bow Resistance. Increases M. Damage Resistance. Increases Atk. Spd. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102288" name="마법서 - 허리케인 레인포스" type="EtcItem">
+		<!-- A spellbook for learning the Enhanced Hurricane skill. <Class>. Grand Khavatari. <Skill effect>. Increases P. Skill Critical Rate. Increases Atk. Spd. Increases PvE damage. <Skill upgrade>. Hurricane Assault → Double Hurricane Assault. With a certain chance, makes 1 additional attack. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102289" name="마법서 - 허리케인 레인포스" type="EtcItem">
+		<!-- A spellbook for learning the Enhanced Hurricane skill. <Class>. Grand Khavatari. <Skill effect>. Increases P. Skill Critical Rate. Increases Atk. Spd. Increases PvE damage. <Skill upgrade>. Hurricane Assault → Double Hurricane Assault. With a certain chance, makes 1 additional attack. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102290" name="마법서 - 워 로어: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Cacophony of War: Master skill. <Class>. Grand Khavatari. <Skill effect>. <font color="FFBB00">Base effect</font>. Increases Max HP recovering bonus HP. Increases Atk. Spd. Increases Speed. Increases PvE damage. Increases Buff Cancel Resistance. Increases Knockback/ Knockdown Atk. Rate. Increases damage. Increases Skill Power. Decreases P. Skill MP Consumption. <font color="FFBB00">PvP effect</font>. With a certain chance, inflicts Anxiety on nearby enemies. Attacks nearby enemies twice and deals P. damage. There's a certain chance to decrease target's Max HP/ MP. <font color="FFBB00">PvE effect</font>. Attacks nearby enemies thrice dealing P. damage. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102291" name="마법서 - 워 로어: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Cacophony of War: Master skill. <Class>. Grand Khavatari. <Skill effect>. <font color="FFBB00">Base effect</font>. Increases Max HP recovering bonus HP. Increases Atk. Spd. Increases Speed. Increases PvE damage. Increases Buff Cancel Resistance. Increases Knockback/ Knockdown Atk. Rate. Increases damage. Increases Skill Power. Decreases P. Skill MP Consumption. <font color="FFBB00">PvP effect</font>. With a certain chance, inflicts Anxiety on nearby enemies. Attacks nearby enemies twice and deals P. damage. There's a certain chance to decrease target's Max HP/ MP. <font color="FFBB00">PvE effect</font>. Attacks nearby enemies thrice dealing P. damage. -->
+		<set name="icon" val="icon.etc_spell_books_hfighter_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102292" name="에바의 탈리스만 행운 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_treasure_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92455" min="1" max="1" chance="33.33333" name="+5 에바의 탈리스만 상자"/> <!-- +5 Talisman of Eva Pack - Sealed -->
+			<item id="92456" min="1" max="1" chance="33.33333" name="+6 에바의 탈리스만 상자"/> <!-- +6 Talisman of Eva Pack - Sealed -->
+			<item id="92457" min="1" max="1" chance="33.33333" name="+7 에바의 탈리스만 상자"/> <!-- +7 Talisman of Eva Pack - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102293" name="레어 액세서리 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="101289" min="1" max="1" chance="20" name="레어 액세서리 강화 주문서 (기간제)"/> <!-- Scroll: Enchant Rare Accessories (Time-limited) - Sealed -->
+			<item id="95327" min="1" max="1" chance="20" name="여왕개미의 반지"/> <!-- Queen Ant's Ring - Sealed -->
+			<item id="95328" min="1" max="1" chance="20" name="오르펜의 귀걸이"/> <!-- Orfen's Earring - Sealed -->
+			<item id="95330" min="1" max="1" chance="20" name="바이움의 반지"/> <!-- Baium's Ring - Sealed -->
+			<item id="95333" min="1" max="1" chance="20" name="프린테사의 목걸이"/> <!-- Frintezza's Necklace - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102294" name="바이움 탈리스만 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.npoint_tauti_30day_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97449" min="1" max="1" chance="50" name="바이움 탈리스만 강화 주문서"/> <!-- Scroll: Enchant Talisman of Baium - Sealed -->
+			<item id="94119" min="1" max="1" chance="50" name="바이움 탈리스만"/> <!-- Talisman of Baium - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102295" name="+5 보스 무기/특수 방어구 교환권 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.zariche_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97661" min="1" max="1" chance="50" name="+5 보스 무기(각인) 교환권 (기간제)"/> <!-- +5 Boss Weapon Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="98044" min="1" max="1" chance="50" name="+5 특수 방어구(각인) 교환권 (기간제)"/> <!-- +5 Special Armor Coupon (Sealed) (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102296" name="가디언 영웅 교본 - 여우 소환" type="EtcItem">
+		<!-- A book for learning the Fox Call guardian skill. Skill effect: Summons foxes. Summoned foxes use their abilities to slow nearby enemies down and disappear. Guardian: Fox -->
+		<set name="icon" val="icon.guardian_skill_book_red"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="102297" name="+5 얼음 무기/수호 방어구 교환권 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.aka_manaf_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97660" min="1" max="1" chance="50" name="+5 얼음 군주의 무기(각인) 교환권 (기간제)"/> <!-- +5 Frost Lord's Weapon Coupon (Sealed) (Time-limited) - Sealed -->
+			<item id="98794" min="1" max="1" chance="50" name="+5 수호의 방어구(각인) 교환권 (기간제)"/> <!-- +5 Armor of Protection Coupon (Sealed) (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102298" name="+5 팬텀 마스크 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.mask_of_phantom_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="100545" min="1" max="1" chance="100" name="팬텀 마스크"/> <!-- Phantom Mask - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="102299" name="황무지 챌린저 티켓 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_payback_ticket_01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

@@ -1,0 +1,1016 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="1000" name="미공급 - 주먹010" type="Armor">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="gloves"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="60"/>
+		<set name="commissionItemType" val="GLOVES"/>
+		<set name="isAppearanceable" val="true"/>
+		<set name="price" val="37"/>
+		<stats>
+			<stat type="pDef">9</stat>
+		</stats>
+	</item>
+	<item id="1008" name="헤리스의 영수증" type="EtcItem">
+		<!-- Receipt Harrys received after ordering tools. Take this and go to Blacksmith Altran. -->
+		<set name="icon" val="icon.etc_letter_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1009" name="헤리스의 영수증" type="EtcItem">
+		<!-- A receipt that Harrys has received after placing his order for tools. Collect Golem Shards required for crafting the tools. -->
+		<set name="icon" val="icon.etc_letter_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1010" name="골렘의 파편" type="EtcItem">
+		<!-- Shards of rock that have fallen from the Golem's body. Gather 5 and take them to Blacksmith Altran. -->
+		<set name="icon" val="icon.etc_lump_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1011" name="연장 상자" type="EtcItem">
+		<!-- Toolbox containing the tools that Blacksmith Altran Has forged. Take this to Magister Harrys at the temple. -->
+		<set name="icon" val="icon.etc_jewel_box_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1012" name="배달목록" type="EtcItem">
+		<!-- Take the Heavy Wood Box to Trader Jackson. The Cloth Bundle to Trader Silvia. Take the Clay Pot to the Warehouse Keeper Rant. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1013" name="무거운 나무상자" type="EtcItem">
+		<!-- The wooden box to be delivered to Trader Jackson of the weapons shop. -->
+		<set name="icon" val="icon.etc_jewel_box_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1014" name="견직물 묶음" type="EtcItem">
+		<!-- Bolts of cloth that need to be delivered to Trader Silvia of the grocery store. -->
+		<set name="icon" val="icon.etc_piece_of_cloth_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1015" name="점토 항아리" type="EtcItem">
+		<!-- The clay pot that must be delivered to the Warehouse Keeper Rant. -->
+		<set name="icon" val="icon.etc_oil_pot_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1016" name="잭슨의 수령증" type="EtcItem">
+		<!-- The receipt that Jackson Has issued upon receiving his heavy wooden box. Take this to Guard Arnold. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1017" name="실비아의 수령증" type="EtcItem">
+		<!-- The receipt that Silvia Has issued upon receiving her bolts of cloth. Take this to Guard Arnold. -->
+		<set name="icon" val="icon.etc_letter_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1018" name="란트의 수령증" type="EtcItem">
+		<!-- The receipt issued by Warehouse Keeper Rant upon his receiving of the clay pot. Take this to Guard Arnold. -->
+		<set name="icon" val="icon.etc_letter_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1019" name="공문편지" type="EtcItem">
+		<!-- Official letter that the Lord of Gludio Has sent to Sir Colin Windawood, calling a meeting. Deliver this to Sir Windawood. -->
+		<set name="icon" val="icon.etc_letter_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1020" name="미공급 - 플레임 샤드" type="EtcItem">
+		<!-- The item is not available. A flame shard from Salamander. Take it to Grocer Katerina. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1021" name="미공급 - 아이스 샤드" type="EtcItem">
+		<!-- The item is not available. An ice shard from Undine. Take it to Grocer Katerina. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1022" name="리리스의 편지" type="EtcItem">
+		<!-- A letter written by Lilith in longing for her lover who disappeared a thousand years ago. Find out news about her lover for her. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1023" name="테온의 일기장" type="EtcItem">
+		<!-- A diary written by Teon in longing for his lover. Take it to Lilith. -->
+		<set name="icon" val="icon.etc_spell_books_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1024" name="아다만타이트 원석" type="EtcItem">
+		<!-- Adamantite ore. All of it is imported from Gracia. Gather 20 of these and take them to Warehouse Keeper Wilford. -->
+		<set name="icon" val="icon.etc_plate_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1025" name="점토 서판" type="EtcItem">
+		<!-- Tablet praising Beleth that the devil Nerkas possessed. Deliver this to High Priest Biotin. -->
+		<set name="icon" val="icon.etc_plate_glay_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1026" name="은빛의 거미줄" type="EtcItem">
+		<!-- The spider silk of the silver spider. Take this to Trader Unoren of the weapons shop. -->
+		<set name="icon" val="icon.etc_skein_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1027" name="우노렌의 영수증" type="EtcItem">
+		<!-- Unoren's receipt. Take it to Merchant Creamees. -->
+		<set name="icon" val="icon.etc_letter_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1028" name="크리미스의 전표" type="EtcItem">
+		<!-- Ticket issued by the warehouse. Take this and go to Warehouse Keeper Julia. -->
+		<set name="icon" val="icon.etc_ticket_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1029" name="나이트셰이드의 잎" type="EtcItem">
+		<!-- The leaf of the nightshade plant. Take this to Nerupa. -->
+		<set name="icon" val="icon.etc_herb_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1030" name="깨진 두개골" type="EtcItem">
+		<!-- The cracked skull of the Dark Horror. Take this to Magister Vlasty. -->
+		<set name="icon" val="icon.etc_skull_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1031" name="흠집 없는 두개골" type="EtcItem">
+		<!-- Skull of the dark horror. Take this to Magister Vlasty. -->
+		<set name="icon" val="icon.etc_skull_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1032" name="켈티르의 털" type="EtcItem">
+		<!-- Mane of keltirs. It is soft and luxurious, and used to spin thread and yarn. Take this to Cristel. -->
+		<set name="icon" val="icon.etc_mane_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1033" name="털실" type="EtcItem">
+		<!-- Yarn spun out of the fur of keltirs. Take this to the former tailor Warehouse Keeper Rolfe, and he will make it into a the doll's hair. -->
+		<set name="icon" val="icon.etc_skein_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1034" name="소녀의 인형" type="EtcItem">
+		<!-- Doll resembling a Human maiden. Take this to Lighthouse Keeper Rockswell. -->
+		<set name="icon" val="icon.etc_totem_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1035" name="플레이그 더스트" type="EtcItem">
+		<!-- Powder obtained from the Plague Zombie. Take it to Hierarch Asterios. -->
+		<set name="icon" val="icon.etc_powder_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1036" name="안델리아의 편지" type="EtcItem">
+		<!-- Letter from Andellia asking her sister Thalia to send her the fruit of the Mother Tree. -->
+		<set name="icon" val="icon.etc_scroll_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1037" name="세계수의 열매" type="EtcItem">
+		<!-- Fruit that the Mother Tree bears once every few years. Take this to Andellia. -->
+		<set name="icon" val="icon.etc_fruit_green_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1038" name="루미엘의 첫 번째 시" type="EtcItem">
+		<!-- The scroll containing Rumiel Moonshine's first poem. Gather all four and take them to Sentinel Starden. -->
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1039" name="루미엘의 세 번째 시" type="EtcItem">
+		<!-- The scroll containing Rumiel Moonshine's second poem. Gather all four and take them to Sentinel Starden. -->
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1040" name="루미엘의 네 번째 시" type="EtcItem">
+		<!-- The scroll containing Rumiel Moonshine's third poem. Gather all four and take them to Sentinel Starden. -->
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1041" name="루미엘의 다섯 번째 시" type="EtcItem">
+		<!-- The scroll containing Rumiel Moonshine's fourth poem. Gather all four and take them to Sentinel Starden. -->
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1042" name="미공급 - 워렛의 송곳니" type="EtcItem">
+		<!-- The item is not available. A fang of a dead Ratman. Collect these and take them to Master Ellenia. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1043" name="미공급 - 바룰 파울크로우의 송곳니" type="EtcItem">
+		<!-- The item is not available. A fang of Varool Foulclaw, the Ratmen's leader. Take it to Master Ellenia. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1044" name="키르나크의 두개골" type="EtcItem">
+		<!-- Kirunak's skull obtained after his death. Take it to Merchant Creamees. -->
+		<set name="icon" val="icon.etc_skull_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1045" name="미공급 - 좀비 가죽" type="EtcItem">
+		<!-- The item is not available. Skin obtained from zombies. Collect 5 of these and take them to Merchant Minaless. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1046" name="나이트메어 크리스탈" type="EtcItem">
+		<!-- Crystal used by the Succubus Merkenis to cast nightmares. Take this to Hierarch Vellior. -->
+		<set name="icon" val="icon.etc_totem_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1047" name="미공급 - 마법서 - 라이트" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Decrease Weight skill. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="price" val="100"/>
+	</item>
+	<item id="1048" name="미공급 - 마법서 - 마이트" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Might skill. Used by Human Mystics, Elven Mystics and Dark Mystics. Required level: 7. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1049" name="미공급 - 마법서 - 아이스 볼트" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Ice Bolt skill. Used by Human Mystics, Elven Mystics and Dark Mystics. Required level: 7. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1050" name="미공급 - 마법서 - 배틀 힐" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Battle Heal skill. Used by Human Mystics, Elven Mystics and Dark Mystics. Required level: 14. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1051" name="미공급 - 마법서 - 뱀피릭 터치" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Vampiric Touch skill. Used by Human Mystics and Dark Mystics. Required level: 14. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1052" name="미공급 - 마법서 - 플레임 스트라이크" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Flame Strike skill. Used by Wizards, Elven Wizards and Dark Wizards. Required level: 20. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1053" name="미공급 - 마법서 - 큐어 포이즌" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Cure Poison skill. Used by Human Mystics, Elven Mystics and Dark Mystics. Required level: 7. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1054" name="미공급 - 마법서 - 그룹 힐" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Group Heal skill. Used by Human Mystics, Elven Mystics and Dark Mystics. Required level: 14. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1055" name="미공급 - 마법서 - 커스 포이즌" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Curse Poison skill. Used by Human Mystics and Dark Mystics. Required level: 7. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1056" name="미공급 - 마법서 - 커스 위크니스" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Curse of Weakness skill. Used by Human Mystics and Elven Mystics. Required level: 14. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1057" name="미공급 - 마법서 - 서먼 밀" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Summon Meal skill Used by Human Mystics and Elven Mystics. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="1058" name="미공급 - 마법서 - 실드" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Shield skill. Used by Human Mystics, Elven Mystics and Dark Mystics. Required level: 7. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1059" name="미공급 - 마법서 - 노우 에너미" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Know Enemy skill. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="price" val="500"/>
+	</item>
+	<item id="1060" name="HP 회복제" type="EtcItem">
+		<!-- A magic potion that slowly recovers HP. Duration: 15 sec. -->
+		<set name="icon" val="icon.etc_reagent_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="price" val="90"/>
+		<set name="reuse_delay" val="10000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="POTION"/>
+		<set name="is_event_restricted" val="true"/>
+		<set name="for_npc" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2031" level="1"/> <!-- Healing Potion -->
+		</skills>
+	</item>
+	<item id="1061" name="상급 HP 회복제" type="EtcItem">
+		<!-- A magic potion that slowly recovers HP. Duration: 15 sec. -->
+		<set name="icon" val="icon.etc_reagent_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="price" val="330"/>
+		<set name="reuse_delay" val="10000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="POTION"/>
+		<set name="is_event_restricted" val="true"/>
+		<set name="for_npc" val="true"/>
+		<set name="is_sellable" val="false"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2032" level="1"/> <!-- Large Healing Potion -->
+		</skills>
+	</item>
+	<item id="1067" name="추천장" type="EtcItem">
+		<!-- Take the recommendation to Grand Master Roien. -->
+		<set name="icon" val="icon.etc_letter_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1068" name="추천장" type="EtcItem">
+		<!-- Take the recommendation to Grand Magister Gallint. -->
+		<set name="icon" val="icon.etc_letter_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1069" name="세계수의 잎사귀" type="EtcItem">
+		<!-- A leaf of the Mother Tree. Take it to Nerupa. -->
+		<set name="icon" val="icon.etc_leaf_green_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1070" name="심연의 피" type="EtcItem">
+		<!-- Blood that has to be taken to Dark Elf Chief Mitraell. -->
+		<set name="icon" val="icon.etc_spirit_bullet_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1071" name="히아신스의 부적" type="EtcItem">
+		<!-- Charm given by Hierarch Asterios. Go to the water source to seek those who pollute the waters of the Elven village. -->
+		<set name="icon" val="icon.etc_jewel_green_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1072" name="히아신스의 부적" type="EtcItem">
+		<!-- A charm given by Hierarch Asterios. Go to the water source and obtain 5 handfuls of ashes from the Plague Zombies. -->
+		<set name="icon" val="icon.etc_jewel_green_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1073" name="초보용 HP 회복제" type="EtcItem">
+		<!-- A magic potion that slowly recovers MP. -->
+		<set name="icon" val="icon.etc_reagent_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="reuse_delay" val="10000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="POTION"/>
+		<set name="is_event_restricted" val="true"/>
+		<set name="for_npc" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="2031" level="1"/> <!-- Healing Potion -->
+		</skills>
+	</item>
+	<item id="1076" name="칼큘레인의 편지" type="EtcItem">
+		<!-- First half year financial summary of the Iron Gate Guild: balance sheet and profit and loss statement of the Dark Elf Village guild. -->
+		<set name="icon" val="icon.etc_scroll_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1077" name="미공급 - 독주머니" type="EtcItem">
+		<!-- The item is not available. A spider venom sac. Collect 10 of these and take them to Astaron. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1078" name="미공급 - 윈드 샤드" type="EtcItem">
+		<!-- The item is not available. A wind shard from the Wind Spirit Lirein. Collect some and take them to Rizraell. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1079" name="다링의 영수증" type="EtcItem">
+		<!-- Darin's receipt for the magical potion. Take it to Baulro. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1080" name="바울로의 물약" type="EtcItem">
+		<!-- Potion of courage that Baulro Has created for the shy Darin, but its effects are unknown. This must be delivered to Darin. -->
+		<set name="icon" val="icon.etc_lesser_potion_blue_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1081" name="오닉스 비스트의 눈" type="EtcItem">
+		<!-- The first of the three materials Hierarch Talos has asked you to collect. -->
+		<set name="icon" val="icon.etc_eyeball_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1082" name="테인트 스톤" type="EtcItem">
+		<!-- The second of three materials Hierarch Talos asked you to collect. -->
+		<set name="icon" val="icon.etc_totem_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1083" name="서큐버스의 피" type="EtcItem">
+		<!-- The third of three materials Hierarch Talos asked you to collect. -->
+		<set name="icon" val="icon.etc_lesser_potion_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1084" name="미공급 - 글루디오 영주의 표식" type="EtcItem">
+		<!-- The item is not available. A badge indicating that the bearer is carrying out the orders of the Gludio lord. Keep this in your possession and hunt Orcs or werewolves. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1085" name="미공급 - 오크의 뼈 목걸이" type="EtcItem">
+		<!-- The item is not available. A bone necklace that Orc fighters use in their rituals. Take it to Captain Gilbert. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1086" name="미공급 - 늑대인간의 송곳니" type="EtcItem">
+		<!-- The item is not available. A fang from a dead werewolf. Take it to Captain Gilbert. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1087" name="미공급 - 거대 거미의 다리" type="EtcItem">
+		<!-- The item is not available. A leg cut off from Giant Spider. Collect 8 of these and take them to Alshupes. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1088" name="언드리아스의 편지" type="EtcItem">
+		<!-- Abyssal Celebrant Undrias' letter. Take it to Weapon Merchant Iria, Warehouse Keeper Dorankus and Master Trudy. -->
+		<set name="icon" val="icon.etc_scroll_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1089" name="의식용 단검" type="EtcItem">
+		<!-- Ceremonial dagger used during the mass of darkness. Take this to Abyssal Celebrant Undrias. -->
+		<set name="icon" val="icon.weapon_mystic_knife_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1090" name="드레비안 포도주" type="EtcItem">
+		<!-- Holy wine used in the mass of darkness. Take this to Abyssal Celebrant Undrias. -->
+		<set name="icon" val="icon.etc_lesser_potion_purple_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1091" name="가르미엘의 경전" type="EtcItem">
+		<!-- Sacred book used in the mass of darkness. Take this to Abyssal Celebrant Undrias. -->
+		<set name="icon" val="icon.etc_spell_books_red_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1092" name="아루지엔의 편지" type="EtcItem">
+		<!-- The letter that Arujien has written for Greenis. Show it to Gatekeeper Mint. -->
+		<set name="icon" val="icon.etc_scroll_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1093" name="아루지엔의 편지" type="EtcItem">
+		<!-- The letter that Arujien Has written in longing for Greenis. Show this to Trader Herbiel. -->
+		<set name="icon" val="icon.etc_scroll_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1094" name="아루지엔의 편지" type="EtcItem">
+		<!-- Arujien's love letter. Since you have shown it to Mint and Herbiel, return to Arujien. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="1095" name="미공급 - 마법서 - 어택 오라" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Attack Aura skill. Used by Elven Fighters and Dark Fighters. Required level: 10. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="75"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1096" name="미공급 - 마법서 - 엘레멘탈 힐" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Elemental Heal skill. Used by Elven Fighters. Required level: 15. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="550"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1097" name="미공급 마법서 - 드레인 에너지" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Drain HP skill. <Classes>. Dark Knight, Dark Slayer. <Skill effect>. Attacks the target and deals magic damage -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="7461"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="1098" name="미공급 - 마법서 - 윈드 워크" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Wind Walk skill. Used by Clerics, Elven Oracles and Shillien Oracles. Required level: 20. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="1099" name="미공급 - 마법서 - 윈드 셰클" type="EtcItem">
+		<!-- The item is not available. A spellbook for learning the Wind Shackles skill. Used by Human Mystics, Elven Mystics and Dark Mystics. Required level: 14. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="SPELLBOOK"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

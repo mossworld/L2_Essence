@@ -1,0 +1,709 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="49800" toLevel="1" name="일렉트릭 스윙">
+		<!-- An area around the caster. -->
+		<operateType>A1</operateType>
+		<castRange>500</castRange>
+		<effectPoint>-500</effectPoint>
+		<hitTime>2000</hitTime>
+	</skill>
+	<skill id="49801" toLevel="1" name="일렉트릴 오토라이플">
+		<!-- A fan-shaped targeted attack. -->
+		<operateType>A1</operateType>
+		<castRange>500</castRange>
+		<effectPoint>-500</effectPoint>
+		<hitTime>2000</hitTime>
+	</skill>
+	<skill id="49802" toLevel="1" name="일렉트릭 메가 크래쉬">
+		<!-- An area around the target. -->
+		<operateType>A1</operateType>
+		<castRange>500</castRange>
+		<effectPoint>-500</effectPoint>
+		<hitTime>1500</hitTime>
+	</skill>
+	<skill id="49803" toLevel="1" name="일렉트릭 캐논">
+		<!-- An area around the target. -->
+		<operateType>A1</operateType>
+		<castRange>2500</castRange>
+		<effectPoint>-500</effectPoint>
+		<hitTime>5000</hitTime>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+	</skill>
+	<skill id="49804" toLevel="1" name="결정 조각의 특별한 힘">
+		<!-- Allows you to research Crystal Fragments and encounter the Water Dragon with a certain chance. Speed +30. Increases breath gauge. -->
+		<icon>icon.amor_upgrade_crystal</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<hitTime>1000</hitTime>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+	</skill>
+	<skill id="49805" toLevel="1" name="브레스">
+		<!-- A fan-shaped target area. -->
+		<operateType>A1</operateType>
+		<castRange>500</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<isMagic>7</isMagic>
+	</skill>
+	<skill id="49806" toLevel="1" name="워터 웨이브">
+		<!-- The caster's area. -->
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="49807" toLevel="1" name="테일 스트라이크">
+		<!-- A fan-shaped area in front of you/ Stun. -->
+		<icon>icon.skill32713</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49808" toLevel="1" name="테일 스트라이크">
+		<!-- Stuns. -->
+		<icon>icon.skill32713</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49809" toLevel="1" name="스파인 어택">
+		<!-- A target area. -->
+		<operateType>A1</operateType>
+		<castRange>100</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="49810" toLevel="1" name="스파이럴 샷">
+		<!-- The caster's area/ Bleed. -->
+		<icon>icon.skill1511</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="49811" toLevel="1" name="스파이럴 샷">
+		<!-- Bleed. -->
+		<icon>icon.skill1511</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49812" toLevel="1" name="소드 어스퀘이크">
+		<!-- A single target/ Stun. -->
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<castRange>100</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>7000</reuseDelay>
+	</skill>
+	<skill id="49813" toLevel="1" name="소드 어스퀘이크">
+		<!-- Stuns. -->
+		<icon>icon.skill0003</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49814" toLevel="1" name="실드 배쉬">
+		<!-- A fan-shaped area in front of the caster/ Knockdown. -->
+		<icon>icon.skill0352</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49815" toLevel="1" name="실드 배쉬">
+		<!-- Knocked down. -->
+		<icon>icon.skill0352</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49816" toLevel="1" name="실드 대시">
+		<!-- A target area/ Stun. Rush -->
+		<icon>icon.skill10008</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>800</hitTime>
+		<isMagic>6</isMagic>
+		<reuseDelay>12000</reuseDelay>
+	</skill>
+	<skill id="49817" toLevel="1" name="실드 대시">
+		<!-- Stuns. -->
+		<icon>icon.skill10008</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49818" toLevel="1" name="워터 실드">
+		<!-- Buff -->
+		<icon>icon.skill1238</icon>
+		<operateType>A1</operateType>
+		<isMagic>5</isMagic>
+	</skill>
+	<skill id="49819" toLevel="1" name="워터스파우트">
+		<!-- The caster's area/ Pull. -->
+		<icon>icon.skill32709</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+		<reuseDelay>12000</reuseDelay>
+	</skill>
+	<skill id="49820" toLevel="1" name="워터스파우트">
+		<icon>icon.skill32709</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+	</skill>
+	<skill id="49821" toLevel="1" name="스피어 슬래시">
+		<!-- A target area. -->
+		<icon>icon.skill0320</icon>
+		<operateType>A1</operateType>
+		<castRange>80</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>2500</hitTime>
+		<reuseDelay>7000</reuseDelay>
+	</skill>
+	<skill id="49822" toLevel="1" name="파워 크러쉬">
+		<!-- A fan-shaped target area/ Suppression. -->
+		<icon>icon.skill0347</icon>
+		<operateType>A1</operateType>
+		<castRange>80</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>2000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49823" toLevel="1" name="파워 크러쉬">
+		<!-- Slow. -->
+		<icon>icon.skill0347</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49824" toLevel="1" name="파워 봄버">
+		<!-- A single target/ Knockdown. -->
+		<icon>icon.skill10262</icon>
+		<operateType>A1</operateType>
+		<castRange>40</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>1690</hitTime>
+		<reuseDelay>7000</reuseDelay>
+	</skill>
+	<skill id="49825" toLevel="1" name="파워 봄버">
+		<!-- Knocked down. -->
+		<icon>icon.skill10262</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49826" toLevel="1" name="블레이드 슬래시">
+		<!-- A target area. -->
+		<icon>icon.skill0496</icon>
+		<operateType>A1</operateType>
+		<castRange>80</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>1700</hitTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49827" toLevel="1" name="아쿠아 프리즌">
+		<!-- A single target/ Aerial Yoke. -->
+		<icon>icon.skill32644</icon>
+		<operateType>A1</operateType>
+		<castRange>1100</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>2000</hitTime>
+		<isDebuff>true</isDebuff>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49828" toLevel="1" name="아쿠아 프리즌">
+		<!-- Aerial Yoke/ not used. -->
+		<icon>icon.skill32644</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+	</skill>
+	<skill id="49829" toLevel="1" name="매스 서렌더 투 워터">
+		<!-- Atk. Spd./ Casting Spd./ Speed -50%. -->
+		<icon>icon.skill1071</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>2000</hitTime>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49830" toLevel="1" name="아쿠아 힐">
+		<icon>icon.skill1015</icon>
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<hitTime>2000</hitTime>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+		<reuseDelay>15000</reuseDelay>
+	</skill>
+	<skill id="49831" toLevel="1" name="리썰 에로우">
+		<!-- A single target. -->
+		<icon>icon.skill0343</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="49832" toLevel="1" name="애로우 레인">
+		<!-- A target area/ Suppression. -->
+		<icon>icon.skill10772</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>7000</reuseDelay>
+	</skill>
+	<skill id="49833" toLevel="1" name="애로우 레인">
+		<!-- Slow. -->
+		<icon>icon.skill10772</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49834" toLevel="1" name="인피니티 애로우">
+		<!-- A fan-shaped target area. -->
+		<icon>icon.skill10771</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3200</hitTime>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="49835" toLevel="1" name="러시">
+		<!-- Rush/ Aerial Yoke. -->
+		<icon>icon.skill0484</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>800</hitTime>
+		<isMagic>6</isMagic>
+		<reuseDelay>15000</reuseDelay>
+	</skill>
+	<skill id="49836" toLevel="1" name="러시">
+		<icon>icon.skill0484</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49837" toLevel="1" name="워터 슬래셔">
+		<!-- The caster's area/ Stun. -->
+		<icon>icon.skill0526</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>1080</hitTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49838" toLevel="1" name="워터 슬래셔">
+		<!-- Stuns. -->
+		<icon>icon.skill0526</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49839" toLevel="1" name="라이징 웨이브">
+		<!-- A rectangular target area/ Pull. -->
+		<icon>icon.skill19558</icon>
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>1500</hitTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49840" toLevel="1" name="라이징 웨이브">
+		<icon>icon.skill19558</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49841" toLevel="1" name="아쿠아 스파이크">
+		<!-- A single target. -->
+		<icon>icon.skill1417</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+	</skill>
+	<skill id="49842" toLevel="1" name="타이달 웨이브">
+		<!-- A rectangular target area/ Knockback. -->
+		<icon>icon.skill1295</icon>
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>2000</hitTime>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49843" toLevel="1" name="타이달 웨이브">
+		<icon>icon.skill1295</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+	</skill>
+	<skill id="49844" toLevel="1" name="아쿠아 크래쉬">
+		<!-- A single target. -->
+		<icon>icon.skill1293</icon>
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+	</skill>
+	<skill id="49845" toLevel="1" name="아쿠아 스탬프">
+		<!-- The caster's area. -->
+		<icon>icon.skill19558</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49846" toLevel="1" name="아쿠아 스탬프">
+		<icon>icon.skill19558</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49847" toLevel="1" name="인피니티 피스트">
+		<!-- A single target. -->
+		<icon>icon.skill0210</icon>
+		<operateType>A1</operateType>
+		<castRange>40</castRange>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>1690</hitTime>
+		<reuseDelay>5000</reuseDelay>
+	</skill>
+	<skill id="49848" toLevel="1" name="파티 레이지">
+		<!-- Buff -->
+		<icon>icon.item_gragonskill_i02</icon>
+		<operateType>A1</operateType>
+		<hitTime>2000</hitTime>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+		<reuseDelay>10000</reuseDelay>
+	</skill>
+	<skill id="49849" toLevel="1" name="보물의 기운">
+		<!-- Buff -->
+		<icon>icon.skill0110</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+	</skill>
+	<skill id="49852" toLevel="1" name="지원 버프">
+		<!-- Energy that supports adventurers on the new server. -->
+		<icon>icon.skill19209</icon>
+		<operateType>A1</operateType>
+		<effectPoint>1</effectPoint>
+		<isMagic>4</isMagic>
+	</skill>
+	<skill id="49853" toLevel="1" name="자가 석화">
+		<operateType>A1</operateType>
+		<isMagic>7</isMagic>
+	</skill>
+	<skill id="49854" toLevel="1" name="박의 호흡">
+		<!-- Smells like a fresh pumpkin. Speed +300. P. Skill Cooldown -10%. M. Skill Cooldown -10% -->
+		<icon>icon.fafurion_raging_waves_i00</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+		<isMagic>4</isMagic>
+	</skill>
+	<skill id="49855" toLevel="1" name="일렉트릭 캐논">
+		<!-- An area around the target. -->
+		<operateType>A1</operateType>
+		<castRange>2500</castRange>
+		<effectPoint>-500</effectPoint>
+		<hitTime>5000</hitTime>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+		<reuseDelay>3000</reuseDelay>
+	</skill>
+	<skill id="49856" toLevel="1" name="사이락스 워터 스파이럴">
+		<!-- Attacks and pulls. -->
+		<icon>icon.skill32709</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<hitTime>3000</hitTime>
+	</skill>
+	<skill id="49857" toLevel="1" name="사이락스 워터 스파이럴">
+		<icon>icon.skill32709</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-1000</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49858" toLevel="1" name="기절">
+		<!-- Stuns. -->
+		<icon>icon.skill0100</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-500</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49859" toLevel="1" name="에어 어썰트">
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-1332</effectPoint>
+		<mpConsume>155</mpConsume>
+	</skill>
+	<skill id="49860" toLevel="1" name="고어링 차지">
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>83</mpConsume>
+	</skill>
+	<skill id="49861" toLevel="1" name="피닉스 러시">
+		<icon>icon.skill6041</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<effectPoint>-679</effectPoint>
+	</skill>
+	<skill id="49862" toLevel="1" name="돌진">
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<effectPoint>-574</effectPoint>
+		<mpConsume>20</mpConsume>
+	</skill>
+	<skill id="49863" toLevel="1" name="돌진">
+		<operateType>A1</operateType>
+		<castRange>900</castRange>
+		<effectPoint>-574</effectPoint>
+		<mpConsume>20</mpConsume>
+	</skill>
+	<skill id="49864" toLevel="1" name="대시">
+		<operateType>A1</operateType>
+		<castRange>650</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>83</mpConsume>
+	</skill>
+	<skill id="49865" toLevel="3" name="트랜스픽션 어택">
+		<icon>icon.skill0484</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<effectPoint>
+			<value level="1">-352</value>
+			<value level="2">-353</value>
+			<value level="3">-353</value>
+		</effectPoint>
+		<mpConsume>20</mpConsume>
+	</skill>
+	<skill id="49866" toLevel="1" name="퀵 트러스트">
+		<icon>icon.skill11508</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="49867" toLevel="1" name="레이크 어택">
+		<icon>icon.skill6041</icon>
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<effectPoint>-679</effectPoint>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+	</skill>
+	<skill id="49868" toLevel="1" name="충격의 질주">
+		<icon>icon.skill11508</icon>
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<effectPoint>-687</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49869" toLevel="1" name="돌진">
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="49870" toLevel="1" name="돌격">
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="49871" toLevel="1" name="러시 레이드">
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="49872" toLevel="2" name="러시 어택">
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="49873" toLevel="1" name="카오넬 러쉬 레이드">
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="49874" toLevel="1" name="러시 레이드">
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="49875" toLevel="1" name="러시 어택">
+		<operateType>A1</operateType>
+		<castRange>300</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="49876" toLevel="1" name="돌격">
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+		<mpConsume>10</mpConsume>
+	</skill>
+	<skill id="49877" toLevel="1" name="피닉스 러시">
+		<icon>icon.skill6041</icon>
+		<operateType>A1</operateType>
+		<castRange>500</castRange>
+		<effectPoint>-679</effectPoint>
+	</skill>
+	<skill id="49878" toLevel="10" name="러시">
+		<operateType>A1</operateType>
+		<castRange>600</castRange>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="49879" toLevel="1" name="아이젠 러시">
+		<operateType>A1</operateType>
+		<castRange>650</castRange>
+		<effectPoint>-1200</effectPoint>
+		<isMagic>1</isMagic> <!-- Magic Skill -->
+	</skill>
+	<skill id="49880" toLevel="1" name="다리온의 실드 크러쉬">
+		<icon>icon.skill10012</icon>
+		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<effectPoint>-1500</effectPoint>
+	</skill>
+	<skill id="49881" toLevel="1" name="히테르의 스텝 어택">
+		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<effectPoint>-1000</effectPoint>
+		<isMagic>6</isMagic>
+	</skill>
+	<skill id="49884" toLevel="1" name="아레스의 어택">
+		<icon>icon.skill0036</icon>
+		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="49885" toLevel="1" name="테스트용 돌진">
+		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<effectPoint>-400</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49886" toLevel="1" name="순보 찍기">
+		<operateType>A1</operateType>
+		<effectPoint>-100</effectPoint>
+	</skill>
+	<skill id="49887" toLevel="1" name="러시">
+		<icon>icon.sonic_rush</icon>
+		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<effectPoint>-840</effectPoint>
+		<mpConsume>35</mpConsume>
+	</skill>
+	<skill id="49888" toLevel="1" name="실드 대시">
+		<icon>icon.skill10008</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<effectPoint>-1000</effectPoint>
+		<isMagic>6</isMagic>
+	</skill>
+	<skill id="49889" toLevel="1" name="러시">
+		<icon>icon.skill0484</icon>
+		<operateType>A1</operateType>
+		<castRange>400</castRange>
+		<effectPoint>-1000</effectPoint>
+		<isMagic>6</isMagic>
+	</skill>
+	<skill id="49890" toLevel="1" name="루나 인퓨전">
+		<!-- Momentarily transforms into a wolf. -->
+		<icon>icon.s_lunar_infusion</icon>
+		<operateType>A1</operateType>
+		<hitTime>1500</hitTime>
+	</skill>
+	<skill id="49891" toLevel="1" name="더블 클로">
+		<!-- Tears the target with claws. Attacks the target twice. Power 4000. Critical. -->
+		<icon>icon.s_double_claw</icon>
+		<operateType>A1</operateType>
+		<castRange>250</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-50</effectPoint>
+		<hitTime>820</hitTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="49892" toLevel="1" name="라이징 클로">
+		<!-- Tears the target and nearby enemies with claws. Deals P. damage. Power 7000. Ignores Shield Defense. Ignores 15% of the target's defense. Critical. PvP: Attacks up to 3 targets. PvE: Attacks up to 3 targets. -->
+		<icon>icon.s_rising_claw</icon>
+		<operateType>A1</operateType>
+		<castRange>250</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-760</effectPoint>
+		<hitTime>750</hitTime>
+	</skill>
+	<skill id="49893" toLevel="1" name="인새니티">
+		<!-- <font color="FF0000">Wolf skill</font>. Can only be used in the wolf form. Everything you see is blood-red, and your body feels so much stronger now. <Base effect>. P. Atk. +3000. P. Skill Power +12%. P. Skill Critical Damage Speed +10%. <Special effect>. When using <font color=08E8FC>Double Claw Strike</font> and <font color=08E8FC>Claw Sweep</font>, applies <font color=8200ED>Claw Mark</font>. -->
+		<icon>icon.s_insanity</icon>
+		<operateType>A1</operateType>
+		<coolTime>500</coolTime>
+		<hitTime>1500</hitTime>
+	</skill>
+	<skill id="49894" toLevel="1" name="디베스팅 디스암">
+		<!-- <font color="FF0000">Wolf skill</font>. Can only be used in the wolf form. <Disarm/ Knockback skill>. Gathers all might to strike at the target. Deals P. damage. Power 8500. If the target is a player, disarms for 5 sec. Knocks nearby enemies down for 3 sec. -->
+		<icon>icon.s_divesting_disarm</icon>
+		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<coolTime>500</coolTime>
+		<effectPoint>-760</effectPoint>
+		<hitTime>1200</hitTime>
+		<reuseDelay>1000</reuseDelay>
+	</skill>
+	<skill id="49895" toLevel="1" name="디베스팅 디스암">
+		<icon>icon.s_divesting_disarm</icon>
+		<operateType>A1</operateType>
+		<effectPoint>-760</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49896" toLevel="1" name="디베스팅 디스암">
+		<icon>icon.s_divesting_disarm</icon>
+		<operateType>A1</operateType>
+		<castRange>700</castRange>
+		<effectPoint>-9999</effectPoint>
+	</skill>
+	<skill id="49897" toLevel="1" name="발톱의 낙인">
+		<!-- Powerful wolf claws leave a deep scar. <Debuff>. P. Def. -30%. Max HP limit 10% (PvP only) -->
+		<icon>icon.skill30525</icon>
+		<operateType>A1</operateType>
+		<effectPoint>1</effectPoint>
+		<isDebuff>true</isDebuff>
+	</skill>
+	<skill id="49898" toLevel="2" name="생크림 케이크">
+		<!-- Level 1: This delicious cake decorated with whipped cream is luring you with its aroma, and you just cannot resist. CON +1. MEN +1. Max HP +100. Max MP +100. Acquired XP/ SP +5% -->
+		<!-- Level 2: This delicious cake decorated with whipped cream is luring you with its aroma, and you just cannot resist. DEX +1. WIT +1. CON +1. MEN +1. P. Atk. +200. M. Atk. +200. P. Def. +200. M. Def. +200. Max HP +200. Max MP +200. All Critical Rate +2%. PvE damage +1%. Acquired XP/ SP +20% -->
+		<icon>BranchSys.icon.br_birthday_cake_i00</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+		<isMagic>4</isMagic>
+	</skill>
+	<skill id="49899" toLevel="2" name="딸기 케이크">
+		<!-- Level 1: This cake decorated with fresh strawberries is very fluffy and sweet. CON +1. MEN +1. P. Def. +100. M. Def. +100. Max HP +200. Max MP +200. Acquired XP/ SP +10% -->
+		<!-- Level 2: This cake decorated with fresh strawberries is very fluffy and sweet. STR +1. INT +1. DEX +1. WIT +1. CON +1. MEN +1. P. Atk. +200. M. Atk. +200. P. Def. +300. M. Def. +300. Max HP +200. Max MP +200. All Critical Rate +2%. PvE damage +1%. Acquired XP/ SP +30% -->
+		<icon>icon.ev_pink_cake</icon>
+		<operateType>A1</operateType>
+		<hitTime>1000</hitTime>
+		<isMagic>4</isMagic>
+	</skill>
+</list>

@@ -1,0 +1,388 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="86100" toLevel="1" name="오만의 탑 천사들 - 고급">
+		<!-- M. Def. +60 -->
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86101" toLevel="1" name="오만의 탑 천사들 - 최고급">
+		<!-- M. Def. +100 -->
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86102" toLevel="1" name="오만의 탑 천사들 - 희귀">
+		<!-- M. Def. +140 -->
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86103" toLevel="1" name="오만과 편견">
+		<!-- Received M. Skill Critical Rate -1% -->
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86104" toLevel="1" name="거만과 편견">
+		<!-- Received M. Skill Critical Damage -0.5% -->
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86105" toLevel="1" name="자만과 편견">
+		<!-- M. Skill Power when hit -0.5% -->
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86106" toLevel="1" name="교만과 편견">
+		<!-- Received M. Skill Damage in PvP -1% -->
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86107" toLevel="1" name="심해의 부츠 축복 효과">
+		<!-- PvE damage +1%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86108" toLevel="1" name="심해의 부츠 인챈트 축복 효과">
+		<!-- Acquired XP/ SP +10% -->
+		<icon>icon.bless_effect_enchant</icon>
+		<operateType>P</operateType>
+		<effects>
+			<effect name="ExpModify">
+				<amount>10</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>10</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="86109" toLevel="1" name="심해의 부츠 인챈트 축복 효과">
+		<!-- Acquired XP/ SP +20% (+10%) -->
+		<icon>icon.bless_effect_enchant</icon>
+		<operateType>P</operateType>
+		<effects>
+			<effect name="ExpModify">
+				<amount>10</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>10</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="86110" toLevel="1" name="심해의 부츠 인챈트 축복 효과">
+		<!-- Acquired XP/ SP +40% (+20%) -->
+		<icon>icon.bless_effect_enchant</icon>
+		<operateType>P</operateType>
+		<effects>
+			<effect name="ExpModify">
+				<amount>20</amount>
+			</effect>
+			<effect name="SpModify">
+				<amount>20</amount>
+			</effect>
+		</effects>
+	</skill>
+	<skill id="86111" toLevel="1" name="수호의 망토 축복 효과 - 1단계">
+		<!-- Lv. 1. P./ M. Atk. +5. Acquired XP/ SP +1%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86112" toLevel="1" name="수호의 망토 축복 효과 - 2단계">
+		<!-- Lv. 2. P./ M. Atk. +10. Acquired XP/ SP +2%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86113" toLevel="1" name="수호의 망토 축복 효과 - 3단계">
+		<!-- Lv. 3. P./ M. Atk. +15. Acquired XP/ SP +3%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86114" toLevel="1" name="수호의 망토 축복 효과 - 4단계">
+		<!-- Lv. 4. P./ M. Atk. +20. Acquired XP/ SP +4%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86115" toLevel="1" name="수호의 망토 축복 효과 - 5단계">
+		<!-- Lv. 5. P./ M. Atk. +25. Acquired XP/ SP +5%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86116" toLevel="1" name="수호의 망토 축복 효과 - 6단계">
+		<!-- Lv. 6. P./ M. Atk. +30. Acquired XP/ SP +6%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86117" toLevel="1" name="수호의 망토 축복 효과 - 7단계">
+		<!-- Lv. 7. P./ M. Atk. +35. Acquired XP/ SP +7%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86118" toLevel="1" name="수호의 망토 축복 효과 - 8단계">
+		<!-- Lv. 8. P./ M. Atk. +40. Acquired XP/ SP +8%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86119" toLevel="1" name="수호의 망토 축복 효과 - 9단계">
+		<!-- Lv. 9. P./ M. Atk. +45. Acquired XP/ SP +9%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86120" toLevel="1" name="수호의 망토 축복 효과 - 10단계">
+		<!-- Lv. 10. P./ M. Atk. +50. Acquired XP/ SP +10%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86121" toLevel="1" name="수호의 망토 축복 효과 - 11단계">
+		<!-- Lv. 11. P./ M. Atk. +55. Acquired XP/ SP +11%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86122" toLevel="1" name="수호의 망토 축복 효과 - 12단계">
+		<!-- Lv. 12. P./ M. Atk. +60. Acquired XP/ SP +12%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86123" toLevel="1" name="수호의 망토 축복 효과 - 13단계">
+		<!-- Lv. 13. P./ M. Atk. +65. Acquired XP/ SP +13%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86124" toLevel="1" name="수호의 망토 축복 효과 - 14단계">
+		<!-- Lv. 14. P./ M. Atk. +70. Acquired XP/ SP +14%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86125" toLevel="1" name="수호의 망토 축복 효과 - 15단계">
+		<!-- Lv. 15. P./ M. Atk. +100. Acquired XP/ SP +15%. Combat power 1 -->
+		<icon>icon.bless_effect_base</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86126" toLevel="1" name="강렬한 얼음의 기운">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86127" toLevel="1" name="마제스틱 컬렉션">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86128" toLevel="1" name="내실이 튼실해야">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86129" toLevel="1" name="+7 아가시온 컬렉션">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86130" toLevel="1" name="마법 파괴자">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86131" toLevel="1" name="거대한 검">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86132" toLevel="1" name="뾰족한 칼날">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86133" toLevel="1" name="찌르고 베고 ">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86134" toLevel="1" name="악령의 흔적">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86135" toLevel="1" name="팔도류">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86136" toLevel="1" name="우린 함께 할 수 없어">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86137" toLevel="1" name="거인의 발걸음">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86138" toLevel="1" name="보조 장비는 중요해">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86139" toLevel="1" name="푸른 늑대 상하의">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86140" toLevel="1" name="쉬르노엔 상하의">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86141" toLevel="1" name="한계 돌파">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86142" toLevel="1" name="아덴 대륙의 모험가">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86143" toLevel="1" name="보조 액세서리Ⅰ">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86144" toLevel="1" name="누구보다 빠르게">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86145" toLevel="1" name="고요한 분지 토벌대Ⅰ">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86146" toLevel="1" name="바이움의 결정체">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86147" toLevel="1" name="크리티컬 마스터">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86148" toLevel="1" name="슬롯을 확장하자">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86149" toLevel="1" name="장비 6강 도전Ⅰ">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86150" toLevel="1" name="늑대와 춤을">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86151" toLevel="1" name="쉬르노엔 헬멧 3종">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86152" toLevel="1" name="탈룸과 B급 방어구들">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86153" toLevel="1" name="늑대와 둠 헬멧 세트">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86154" toLevel="1" name="양손 둔기와 악몽의 부츠들">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86155" toLevel="1" name="고대검과 악몽의 투구들">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86156" toLevel="1" name="최상급 중갑과 흑광 액세서리">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86157" toLevel="1" name="최상급 경갑과 피닉스 이어링">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86158" toLevel="1" name="최상급 로브와 실드들">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86159" toLevel="1" name="보석 4레벨 세트 Ⅰ">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86160" toLevel="1" name="보석 4레벨 세트 Ⅱ">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86161" toLevel="1" name="수호 망토와 액세서리">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86163" toLevel="1" name="고다드 영지 토벌대Ⅰ">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86164" toLevel="1" name="고다드 영지 토벌대Ⅱ">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86165" toLevel="1" name="탈리스만 세트">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86166" toLevel="1" name="사냥꾼의 귀걸이Ⅰ">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86167" toLevel="1" name="헌터 상의 컬렉션">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86168" toLevel="1" name="헌터 하의 컬렉션">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86169" toLevel="1" name="PC방의 축복 컬렉션">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86170" toLevel="1" name="기본 액세서리들">
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86171" toLevel="1" name="광풍의 투구 인챈트 축복 효과">
+		<!-- Acquired XP/ SP +45% (+5%) -->
+		<icon>icon.bless_effect_enchant</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86172" toLevel="1" name="광풍의 투구 인챈트 축복 효과">
+		<!-- Acquired XP/ SP +50% (+5%) -->
+		<icon>icon.bless_effect_enchant</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86173" toLevel="1" name="홍염의 건틀렛 인챈트 축복 효과">
+		<!-- Acquired XP/ SP +45% (+5%) -->
+		<icon>icon.bless_effect_enchant</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86174" toLevel="1" name="홍염의 건틀렛 인챈트 축복 효과">
+		<!-- Acquired XP/ SP +50% (+5%) -->
+		<icon>icon.bless_effect_enchant</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86175" toLevel="1" name="심해의 부츠 인챈트 축복 효과">
+		<!-- Acquired XP/ SP +45% (+5%) -->
+		<icon>icon.bless_effect_enchant</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86176" toLevel="1" name="심해의 부츠 인챈트 축복 효과">
+		<!-- Acquired XP/ SP +50% (+5%) -->
+		<icon>icon.bless_effect_enchant</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86181" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86182" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86183" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86184" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86185" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86186" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86187" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86188" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86189" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86190" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86191" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86192" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86193" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86194" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86195" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86196" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86197" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86198" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="86199" toLevel="1" name="물리 스킬 크리티컬 피격 대미지 감소">
+		<icon>icon.skill3080</icon>
+		<operateType>A2</operateType>
+	</skill>
+</list>

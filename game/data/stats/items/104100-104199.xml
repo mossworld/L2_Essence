@@ -1,0 +1,1068 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="104100" name="그랑카인의 보물 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104101" name="+5 보스 무기 교환권" type="EtcItem">
+		<!-- Double-click to obtain 1 Boss weapon enchanted to +5 <font color=00FF00>(exchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.boss_weapon_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104102" name="+5 특수 방어구 교환권" type="EtcItem">
+		<!-- Double-click to obtain 1 +5 Special Armor <font color=00FF00>(exchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.rare_armor_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104103" name="미공급 - 로즈 베인 수호 방어구" type="Armor">
+		<!-- An item for crafting Blood Rose Armor's resources. -->
+		<set name="icon" val="icon.armor_t2000_ul_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="1000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104104" name="미공급 - 로즈 베인 랭커 방어구" type="Armor">
+		<!-- An item for crafting Blood Rose Armor's resources. -->
+		<set name="icon" val="icon.armor_t2000_ul_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="1000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104105" name="미공급 - 로즈 베인 일반 방어구" type="Armor">
+		<!-- An item for crafting Blood Rose Armor's resources. -->
+		<set name="icon" val="icon.armor_t2000_ul_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="1000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104106" name="미공급 - 로즈 베인 특수 방어구" type="Armor">
+		<!-- An item for crafting Blood Rose Armor's resources. -->
+		<set name="icon" val="icon.armor_t2000_ul_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="HEAVY"/>
+		<set name="bodypart" val="alldress"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="1000"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104107" name="마법서 - 플로럴 모나크" type="EtcItem">
+		<!-- A spellbook for learning the Kingdom of Plants skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases M. Skill Critical Rate. Increases PvE damage bonus. Increases MP Recovery Rate. Increases Hold Atk. Rate. <Skill upgrade>. <font color=FF8000>Vine Embrace</font> → <font color=FF8000>Mass Vine Embrace</font>. Turns into an AoE skill. Increases Hold Atk. Rate. Increases Hold duration. Adds Spirit Ore consumption. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104108" name="마법서 - 리커버리 시드" type="EtcItem">
+		<!-- A spellbook for learning the Seed of Restoration skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases Max MP. Increases MP Recovery Rate. Recovers MP on killing an enemy. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104109" name="마법서 - 바인 가드" type="EtcItem">
+		<!-- A spellbook for learning the Thorn Vine Protection skill. <Class>. Blood Rose. <Skill effect>. Increases Max HP. Increases HP Recovery Rate. Increases Melee Weapon Resistance. Increases received Skill Critical Rate. Increases received Skill Critical Damage. Increases PvE damage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104110" name="마법서 - 브라이어 스톰" type="EtcItem">
+		<!-- A spellbook for learning the Briar Vortex skill. <Class>. Blood Rose. <Skill effect>. Deals AoE damage. Power is determined by your M. Atk. If the distance to the target is less than 250 when using the skill, power is increased. Decreases M. Def. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104111" name="마법서 - 로즈 어썰트 Lv5" type="EtcItem">
+		<!-- A spellbook for learning the Enchanted Rose's Assault Lv. 5 skill. <Class>. Blood Rose. Instantly moves to the target and attacks twice. Power is determined by your M. Atk. Decreases casting time. Increases power. Increases skill range. <font color="FF0000">Note!. After learning, consumption of Spirit Ore (1 pc.) will be added.</font> -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104112" name="마법서 - 패러사이트 로즈" type="EtcItem">
+		<!-- A spellbook for learning the Parasite Rose skill. <Class>. Blood Rose. <Skill effect>. Deals damage to the target twice. Power is determined by your M. Atk. PvP:. Decreases Max HP. PvE:. Increases attack power. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104113" name="마법서 - 블러디 로즈" type="EtcItem">
+		<!-- A spellbook for learning the Bleeding Rose skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases M. Skill Critical Rate. Increases M. Skill Power. Increases PvE damage bonus. <Skill upgrade>. <font color=FF8000>Rose Attack</font> → <font color=FF8000>Bleeding Rose Attack</font>. Increases power. Increases the number of attacks to 2. Increases range. <font color=FF8000>Briar Vortex</font>. Increases range. <font color=FF8000>Parasite Rose</font>. Increases range. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104114" name="마법서 - 솔리드 바인 로브" type="EtcItem">
+		<!-- A spellbook for learning the Strong Vine Robes skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases Max HP. Increases Max MP. When hit, creates a barrier that decreases received damage and all received Critical Damage. <font color="FF0000">Note!. Skill effects are only applied if Robe is equipped.</font> -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104115" name="마법서 - 퍼퓸 오브 데스" type="EtcItem">
+		<!-- A spellbook for learning the Aroma of Death skill. <Class>. Blood Rose. <Skill effect>. Instantly moves to the target and deals AoE damage. Power is determined by your M. Atk. Decreases Debuff/ Anomaly Resistance. PvP:. Decreases Max HP. PvE:. Increases attack power. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104116" name="마법서 - 리플렉트 일루전" type="EtcItem">
+		<!-- A spellbook for learning the Reflecting Illusion skill. <Class>. Blood Rose. <Skill effect>. When used, recovers HP. Reflects damage for 3 sec. Increases P. Def. Increases M. Def. Increases Debuff/ Anomaly Resistance. Increases received damage from M. counterattack decrease. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104117" name="마법서 - 나이트메어 블러썸" type="EtcItem">
+		<!-- A spellbook for learning the Blooming Nightmare skill. <Class>. Blood Rose. <Skill effect>. Deals AoE damage. Power is determined by your M. Atk. Decreases Skill Critical Damage. Increases received M. Skill Critical Damage. Decreases M. Def. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104118" name="마법서 - 로즈 바인" type="EtcItem">
+		<!-- A spellbook for learning the Rose Thorns skill. <Class>. Blood Rose. <Skill effect>. AoE attack. Power is determined by your M. Atk. Pulls surrounding enemies towards the target, then instantly teleports you back and for a short time increases the range of magic skills. Summons a <font color=FF6666>Cursed Flower</font> to the target's location. <font color=FF6666>Cursed Flower</font>. Attacks surrounding enemies decreasing their M. Def. and Debuff/ Anomaly Resistance before disappearing. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104119" name="마법서 - 이터널 나이트메어" type="EtcItem">
+		<!-- A spellbook for learning the Endless Nightmare skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases PvE damage. <Skill upgrade>. <font color=FF8000>Blooming Nightmare</font> → <font color=FF8000>Blooming Nightmare of Death</font>. Increases the number of attacks to 2. Increases number of targets. Increases attack range. When used, applies <font color=FFFF00>Nightmare Influence</font> to you. Increases Spirit Ore consumption. <font color=FFFF00>Nightmare Influence effect</font>. Increases M. Skill Critical Damage. Increases PvE damage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104120" name="마법서 - 바인 포레스트" type="EtcItem">
+		<!-- A spellbook for learning the Forest of Thorn Vines skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases M. Skill Power. Increases Hold Atk. Rate. Increases Pull Atk. Rate. Increases Debuff/ Anomaly Resistance. Increases Fear Resistance. Increases M. Skill Max Critical Rate. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104121" name="마법서 - 퀸즈 가든" type="EtcItem">
+		<!-- A spellbook for learning the Queen's Garden skill. <Class>. Blood Rose. <Skill effect>. Performs 3 AoE attacks. Power is determined by your M. Atk. When used, applies the <font color=FFFF00>Queen</font> buff to you. <font color=FF6666>Debuff</font>. Decreases Received Healing. Limits HP Recovery Potions' Effect. Rush skills cannot be used. <font color=FF6666>Anomaly</font>. Hold. <font color=FFFF00>Queen</font> Buff. Increases M. Skill Power. Increases PvE damage. When attack skills are used, there's a certain chance to trigger an additional attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104122" name="마법서 - 퀸즈 가든: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Queen's Garden skill. <Class>. Blood Rose. <Skill effect>. Performs 3 AoE attacks. Power is determined by your M. Atk. When used, applies the <font color=FFFF00>Queen</font> buff to you. <font color=FF6666>Debuff</font>. Decreases Received Healing. Limits HP Recovery Potions' Effect. Rush skills cannot be used. <font color=FF6666>Anomaly</font>. Hold. <font color=FFFF00>Queen</font> Buff. Increases M. Skill Power. Increases PvE damage. When attack skills are used, there's a certain chance to trigger an additional attack. When attack skills are used, there's a certain chance to trigger an additional attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104123" name="마법서 - 플로럴 모나크" type="EtcItem">
+		<!-- A spellbook for learning the Kingdom of Plants skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases M. Skill Critical Rate. Increases PvE damage bonus. Increases MP Recovery Rate. Increases Hold Atk. Rate. <Skill upgrade>. <font color=FF8000>Vine Embrace</font> → <font color=FF8000>Mass Vine Embrace</font>. Turns into an AoE skill. Increases Hold Atk. Rate. Increases Hold duration. Adds Spirit Ore consumption. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104124" name="마법서 - 리커버리 시드" type="EtcItem">
+		<!-- A spellbook for learning the Seed of Restoration skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases Max MP. Increases MP Recovery Rate. Recovers MP on killing an enemy. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104125" name="마법서 - 바인 가드" type="EtcItem">
+		<!-- A spellbook for learning the Thorn Vine Protection skill. <Class>. Blood Rose. <Skill effect>. Increases Max HP. Increases HP Recovery Rate. Increases Melee Weapon Resistance. Increases received Skill Critical Rate. Increases received Skill Critical Damage. Increases PvE damage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104126" name="마법서 - 브라이어 스톰" type="EtcItem">
+		<!-- A spellbook for learning the Briar Vortex skill. <Class>. Blood Rose. <Skill effect>. Deals AoE damage. Power is determined by your M. Atk. If the distance to the target is less than 250 when using the skill, power is increased. Decreases M. Def. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104127" name="마법서 - 로즈 어썰트 Lv5" type="EtcItem">
+		<!-- A spellbook for learning the Enchanted Rose's Assault Lv. 5 skill. <Class>. Blood Rose. Instantly moves to the target and attacks twice. Power is determined by your M. Atk. Decreases casting time. Increases power. Increases skill range. <font color="FF0000">Note!. After learning, consumption of Spirit Ore (1 pc.) will be added.</font> -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104128" name="마법서 - 패러사이트 로즈" type="EtcItem">
+		<!-- A spellbook for learning the Parasite Rose skill. <Class>. Blood Rose. <Skill effect>. Deals damage to the target twice. Power is determined by your M. Atk. PvP:. Decreases Max HP. PvE:. Increases attack power. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104129" name="마법서 - 블러디 로즈" type="EtcItem">
+		<!-- A spellbook for learning the Bleeding Rose skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases M. Skill Critical Rate. Increases M. Skill Power. Increases PvE damage bonus. <Skill upgrade>. <font color=FF8000>Rose Attack</font> → <font color=FF8000>Bleeding Rose Attack</font>. Increases power. Increases the number of attacks to 2. Increases range. <font color=FF8000>Briar Vortex</font>. Increases range. <font color=FF8000>Parasite Rose</font>. Increases range. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104130" name="마법서 - 솔리드 바인 로브" type="EtcItem">
+		<!-- A spellbook for learning the Strong Vine Robes skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases Max HP. Increases Max MP. When hit, creates a barrier that decreases received damage and all received Critical Damage. <font color="FF0000">Note!. Skill effects are only applied if Robe is equipped.</font> -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104131" name="마법서 - 퍼퓸 오브 데스" type="EtcItem">
+		<!-- A spellbook for learning the Aroma of Death skill. <Class>. Blood Rose. <Skill effect>. Instantly moves to the target and deals AoE damage. Power is determined by your M. Atk. Decreases Debuff/ Anomaly Resistance. PvP:. Decreases Max HP. PvE:. Increases attack power. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104132" name="마법서 - 리플렉트 일루전" type="EtcItem">
+		<!-- A spellbook for learning the Reflecting Illusion skill. <Class>. Blood Rose. <Skill effect>. When used, recovers HP. Reflects damage for 3 sec. Increases P. Def. Increases M. Def. Increases Debuff/ Anomaly Resistance. Increases received damage from M. counterattack decrease. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104133" name="마법서 - 나이트메어 블러썸" type="EtcItem">
+		<!-- A spellbook for learning the Blooming Nightmare skill. <Class>. Blood Rose. <Skill effect>. Deals AoE damage. Power is determined by your M. Atk. Decreases Skill Critical Damage. Increases received M. Skill Critical Damage. Decreases M. Def. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104134" name="마법서 - 로즈 바인" type="EtcItem">
+		<!-- A spellbook for learning the Rose Thorns skill. <Class>. Blood Rose. <Skill effect>. AoE attack. Power is determined by your M. Atk. Pulls surrounding enemies towards the target, then instantly teleports you back and for a short time increases the range of magic skills. Summons a <font color=FF6666>Cursed Flower</font> to the target's location. <font color=FF6666>Cursed Flower</font>. Attacks surrounding enemies decreasing their M. Def. and Debuff/ Anomaly Resistance before disappearing. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104135" name="마법서 - 이터널 나이트메어" type="EtcItem">
+		<!-- A spellbook for learning the Endless Nightmare skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases PvE damage. <Skill upgrade>. <font color=FF8000>Blooming Nightmare</font> → <font color=FF8000>Blooming Nightmare of Death</font>. Increases the number of attacks to 2. Increases number of targets. Increases attack range. When used, applies <font color=FFFF00>Nightmare Influence</font> to you. Increases Spirit Ore consumption. <font color=FFFF00>Nightmare Influence effect</font>. Increases M. Skill Critical Damage. Increases PvE damage. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104136" name="마법서 - 바인 포레스트" type="EtcItem">
+		<!-- A spellbook for learning the Forest of Thorn Vines skill. <Class>. Blood Rose. <Skill effect>. Increases M. Atk. Increases M. Skill Power. Increases Hold Atk. Rate. Increases Pull Atk. Rate. Increases Debuff/ Anomaly Resistance. Increases Fear Resistance. Increases M. Skill Max Critical Rate. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104137" name="마법서 - 퀸즈 가든" type="EtcItem">
+		<!-- A spellbook for learning the Queen's Garden skill. <Class>. Blood Rose. <Skill effect>. Performs 3 AoE attacks. Power is determined by your M. Atk. When used, applies the <font color=FFFF00>Queen</font> buff to you. <font color=FF6666>Debuff</font>. Decreases Received Healing. Limits HP Recovery Potions' Effect. Rush skills cannot be used. <font color=FF6666>Anomaly</font>. Hold. <font color=FFFF00>Queen</font> Buff. Increases M. Skill Power. Increases PvE damage. When attack skills are used, there's a certain chance to trigger an additional attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104138" name="마법서 - 퀸즈 가든: 마스터" type="EtcItem">
+		<!-- A spellbook for learning the Queen's Garden skill. <Class>. Blood Rose. <Skill effect>. Performs 3 AoE attacks. Power is determined by your M. Atk. When used, applies the <font color=FFFF00>Queen</font> buff to you. <font color=FF6666>Debuff</font>. Decreases Received Healing. Limits HP Recovery Potions' Effect. Rush skills cannot be used. <font color=FF6666>Anomaly</font>. Hold. <font color=FFFF00>Queen</font> Buff. Increases M. Skill Power. Increases PvE damage. When attack skills are used, there's a certain chance to trigger an additional attack. When attack skills are used, there's a certain chance to trigger an additional attack. -->
+		<set name="icon" val="icon.etc_magic_book_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104139" name="피묻은 동전" type="EtcItem">
+		<!-- Can be obtained for killing monsters in the Mafia's Secret Hideout. To take the coins out, you must either throw a Dice, or exchange them for Mysterious Golden Coins through the Black Tracker. -->
+		<set name="icon" val="icon.secret_bloody_coin"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104140" name="아덴의 금화" type="EtcItem">
+		<!-- Can be obtained in the Mafia's Secret Hideout. When used, can be exchanged for various items. -->
+		<set name="icon" val="icon.secret_gold_coin"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104141" name="+6 보스 무기(각인) 교환권 &amp; 특수 방어구(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to choose between +6 Boss Weapon Coupon (Time-limited) and +6 Special Armor Coupon (Sealed). -->
+		<set name="icon" val="BranchSys3.icon1.g_luckygame_card_trade_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104142" name="+9 특수 장비 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sayha_present"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104143" name="환영의 연회 주화 (기간제)" type="EtcItem">
+		<!-- A coin from the Festival of Illusions. Can be exchanged for various items through the special craft. -->
+		<set name="icon" val="icon.etc_11th_token"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104144" name="아즈타칸의 귀걸이 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessory_earring_of_tantaar_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104145" name="페리온의 목걸이 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessory_necklace_of_perion_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104146" name="최고급 인형 소환권 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.doll_summon_1_ticket_fixed_lv3_2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104147" name="마스터 컬렉션 증표 교환권" type="EtcItem">
+		<!-- Double-click to exchange for Master's Collection Mark. -->
+		<set name="icon" val="icon.etc_battle_support_coin_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104148" name="일반 제작: 마스터 컬렉션 증표 3개" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_battle_support_coin_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104149" name="일반 제작: 마스터 컬렉션 증표 10개" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_battle_support_coin_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104150" name="+5 헌터 방어구(각인) 선택권" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_armor_ticket_a"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104151" name="+6 헌터 방어구(각인) 선택권" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_armor_ticket_a"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104152" name="+7 헌터 방어구(각인) 선택권" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_armor_ticket_a"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104153" name="+8 헌터 방어구(각인) 선택권" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.bm_armor_ticket_a"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104154" name="일반 제작: +5~+8 헌터 방어구(각인) 선택권 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.armor_t92_u_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104155" name="일반 제작: +5~+8 사냥꾼의 귀걸이 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessary_earing_of_blessing_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104156" name="일반 제작: 레어 액세서리 강화 주문서 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_scrl_of_ench_fallen_angel"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104157" name="일반 제작: 레어 액세서리 강화 주문서(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_scrl_of_ench_fallen_angel"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104158" name="일반 제작: 아덴의 탈리스만 팩 1~3개" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sheep_agathion_30d_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104159" name="일반 제작: 권능의 탈리스만 팩 1~3개" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_silver_lure_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104160" name="일반 제작: 신속의 탈리스만 팩 1~3개" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_king_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104161" name="일반 제작: 에바의 탈리스만 팩 1~3개" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_treasure_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104162" name="일반 제작: 사냥꾼의 귀걸이 15개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessary_earing_of_blessing_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104163" name="일반 제작: 사냥꾼의 귀걸이 30개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessary_earing_of_blessing_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104164" name="일반 제작: 레어 액세서리 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessory_necklace_of_perion_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104165" name="일반 제작: 레어 액세서리(각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.accessory_necklace_of_perion_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104166" name="보호의 주문서" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. Buffs and debuffs applied to the target remain even after their death. Duration: 20 min. Cooldown: 1 min. The effect does not remain after death. -->
+		<set name="icon" val="icon.etc_training_scroll_kalie_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104167" name="보호의 주문서" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. Buffs and debuffs applied to the target remain even after their death. Duration: 20 min. Cooldown: 1 min. The effect does not remain after death. -->
+		<set name="icon" val="icon.etc_training_scroll_kalie_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104168" name="보호의 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. Buffs and debuffs applied to the target remain even after their death. Duration: 20 min. Cooldown: 1 min. The effect does not remain after death. -->
+		<set name="icon" val="icon.etc_training_scroll_kalie_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104169" name="보호의 주문서 (기간제)" type="EtcItem">
+		<!-- Added (Time-limited), will add a tip that appears when using the skill. -->
+		<set name="icon" val="icon.etc_training_scroll_kalie_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104170" name="보호의 주문서 (기간제)" type="EtcItem">
+		<!-- Added (Time-limited), will add a tip that appears when using the skill. -->
+		<set name="icon" val="icon.etc_training_scroll_kalie_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104171" name="보호의 주문서 (기간제)" type="EtcItem">
+		<!-- Added (Time-limited), will add a tip that appears when using the skill. -->
+		<set name="icon" val="icon.etc_training_scroll_kalie_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104172" name="보호의 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. Buffs and debuffs applied to the target remain even after their death. Duration: 20 min. Cooldown: 1 min. The effect does not remain after death. -->
+		<set name="icon" val="icon.etc_training_scroll_kalie_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104173" name="버서커 주문서" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. STR/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.bereserker_scroll_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104174" name="버서커 주문서" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. STR/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.bereserker_scroll_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104175" name="버서커 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. STR/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.bereserker_scroll_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104176" name="버서커 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. STR/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.bereserker_scroll_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104177" name="버서커 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. STR/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.bereserker_scroll_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104178" name="버서커 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. STR/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.bereserker_scroll_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104179" name="버서커 주문서 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. STR/ INT +1. Atk. Spd./ Casting Spd. +100. Speed +5. Skill Power +5%. Max HP/ MP +5%. Acquired XP/ SP +30%. Paralysis/ Silence/ Fear Resistance +15%. Duration: 20 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.bereserker_scroll_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104180" name="헌터 방어구 타입 변경권 (기간제)" type="EtcItem">
+		<!-- To change the Hunter's armor type, use this coupon and pay a fee. -->
+		<set name="icon" val="icon.ev_armor_type_trade_ticket"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104181" name="버서커 주문서 조각 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain a useful item of your choice. -->
+		<set name="icon" val="icon.etc_lottery_card_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104182" name="일반 제작: +4~+6 아덴의 탈리스만 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sheep_agathion_30d_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104183" name="일반 제작: +4~+6 에바의 탈리스만 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_treasure_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104184" name="일반 제작: +4~+6 신속의 탈리스만 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_king_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104185" name="일반 제작: +4~+6 권능의 탈리스만 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_silver_lure_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104186" name="아덴의 탈리스만 강화 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sheep_agathion_30d_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104187" name="신속의 탈리스만 강화 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_king_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104188" name="에바의 탈리스만 강화 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_pirate_treasure_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104189" name="권능의 탈리스만 강화 패키지 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_silver_lure_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104190" name="플레이 &amp; 복귀 감사 티켓 (기간제)" type="EtcItem">
+		<!-- Required for creating various items through the special craft. -->
+		<set name="icon" val="icon.bm_royal_gold_ticket_all"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104191" name="로즈 베인의 인장 가득 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.ev_20th_rosebox2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104192" name="+0~+3 레어 액세서리(각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.bm_boss_accessory_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104193" name="최고급~영웅 인형 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to choose 1 doll from <font color=FF9955>superior</font> to <font color=FF6666>heroic</font> grade. -->
+		<set name="icon" val="icon.bm_boss_doll_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104194" name="강화된 특수 장비 교환권 : 본 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.bm_belt_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104195" name="마스터 컬렉션 증표 10000개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_battle_support_coin_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104196" name="기란의 성장 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104197" name="강화된 특수 장비 교환권 : 에바&amp;울프 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.bm_belt_ticket_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104198" name="+3~+5 액세서리 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 useful item of your choice. -->
+		<set name="icon" val="icon.bm_accessory_ticket_a"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="104199" name="일반 제작: 인형 소환권(일반~영웅) - 1회" type="EtcItem">
+		<!-- Double-click to summon 1 doll from <font color=dddddd>common</font> to <font color=FF6666>heroic</font> grade. Some dolls cannot be summoned. -->
+		<set name="icon" val="icon.bless_doll_summon_1_ticket_lv1"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>

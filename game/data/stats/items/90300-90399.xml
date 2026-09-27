@@ -1,0 +1,1396 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="90300" name="미공급 - 사냥꾼 타란툴라의 독액" type="EtcItem">
+		<!-- The item is not available. Though lethal, Hunter Tarantula's Venom is used as glue thanks to its ability to harden instantly. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90301" name="미공급 - 포식자 타란툴라의 결석" type="EtcItem">
+		<!-- The item is not available. A transparent stone that can be found in a body of Plunder Tarantula. Very smooth and shiny, used as an adornment. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90302" name="미공급 - 신상 청소 도구 재료 주문서" type="EtcItem">
+		<!-- The item is not available. Priest Gerald tries to make tools for decorating the inner parts of the Temple that is currently under repairs. This is the list of materials that he needs. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SHOW_HTML"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90303" name="미공급 - 박쥐 솜털" type="EtcItem">
+		<!-- The item is not available. Bristles from the neck of a Barbed Bat. Very soft, used for making brushes. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90304" name="미공급 - 트림덴 거미줄" type="EtcItem">
+		<!-- The item is not available. Trimden Web. When its sticky enzyme is removed, it becomes very smooth and gleaming. Used as a fiber for making expensive fabric. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90305" name="미공급 - 케로프 늑대인간의 막대 부적" type="EtcItem">
+		<!-- The item is not available. Kerope Werewolf Charm. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90306" name="전사의 갑주" type="Armor">
+		<set name="icon" val="icon.armor_t33_u_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="chest"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="BONE"/>
+		<set name="weight" val="8970"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="pDef">45</stat>
+		</stats>
+	</item>
+	<item id="90307" name="전사의 각반" type="Armor">
+		<set name="icon" val="icon.armor_t33_l_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="LIGHT"/>
+		<set name="bodypart" val="legs"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="BONE"/>
+		<set name="weight" val="4020"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="pDef">29</stat>
+		</stats>
+	</item>
+	<item id="90308" name="영매의 튜닉" type="Armor">
+		<set name="icon" val="icon.armor_t58_u_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="MAGIC"/>
+		<set name="bodypart" val="chest"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="2080"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="pDef">27</stat>
+			<stat type="maxMp">60</stat>
+		</stats>
+	</item>
+	<item id="90309" name="영매의 호즈" type="Armor">
+		<set name="icon" val="icon.armor_t58_l_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="armor_type" val="MAGIC"/>
+		<set name="bodypart" val="legs"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="weight" val="1030"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="pDef">17</stat>
+			<stat type="maxMp">38</stat>
+		</stats>
+	</item>
+	<item id="90310" name="초보용 MP 회복제" type="EtcItem">
+		<!-- A magic potion that recovers MP. -->
+		<set name="icon" val="icon.etc_lesser_potion_blue_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="commissionItemType" val="POTION"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="material" val="LIQUID"/>
+		<skills>
+			<skill id="39257" level="1"/> <!-- Novice's MP Recovery Potion -->
+		</skills>
+	</item>
+	<item id="90311" name="브로치 Lv1" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. Jewel slots +4. P. Def. +20. M. Def. +20. <font color=bbaa88><Compounding></font>. Materials: Brooches and packages of the same level. In case of failure, the current level remains the same, but materials disappear. -->
+		<set name="icon" val="icon.etc_bm_brooch_lavianrose_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="3000000"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="13656" level="1"/> <!-- Brooch Lv. 1 -->
+			<skill id="13661" level="1"/> <!-- Not used - Brooch: Additional Inventory Slots -->
+		</skills>
+	</item>
+	<item id="90312" name="브로치 Lv2" type="Armor">
+		<!-- <font color=bbaa88><Base effect></font>. Jewel slots +4. P. Def. +100. M. Def. +100. <font color=bbaa88><Compounding></font>. Materials: Brooches and packages of the same level. In case of failure, the current level remains the same, but materials disappear. -->
+		<set name="icon" val="icon.etc_bm_brooch_lavianrose_i01"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="SILVER"/>
+		<set name="weight" val="10"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="13654" level="1" type="ON_EQUIP"/> <!-- Not used - Equip Brooch Lv. 2 -->
+			<skill id="13655" level="1" type="ON_UNEQUIP"/> <!-- Not used - Unequip Brooch Lv. 2 -->
+			<skill id="13657" level="1"/> <!-- Brooch Lv. 2 -->
+			<skill id="13661" level="2"/> <!-- Not used - Brooch: Additional Inventory Slots -->
+		</skills>
+	</item>
+	<item id="90313" name="토파즈 Lv1" type="Armor">
+		<!-- When used, interrupts the target's skill casting. Inflicts 475 fixed damage in PvP. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17701" level="1"/> <!-- Jewel - Topaz -->
+		</skills>
+	</item>
+	<item id="90314" name="토파즈 Lv2" type="Armor">
+		<!-- When used, interrupts the target's skill casting. Inflicts 633 fixed damage in PvP. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17701" level="2"/> <!-- Jewel - Topaz -->
+		</skills>
+	</item>
+	<item id="90315" name="토파즈 Lv3" type="Armor">
+		<!-- When used, interrupts the target's skill casting. Inflicts 950 fixed damage in PvP. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17701" level="3"/> <!-- Jewel - Topaz -->
+		</skills>
+	</item>
+	<item id="90316" name="토파즈 Lv4" type="Armor">
+		<!-- When used, interrupts the target's skill casting. Inflicts 1357 fixed damage in PvP. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17701" level="4"/> <!-- Jewel - Topaz -->
+		</skills>
+	</item>
+	<item id="90317" name="토파즈 Lv5" type="Armor">
+		<!-- When used, interrupts the target's skill casting. Inflicts 2375 fixed damage in PvP. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_topaz_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17701" level="5"/> <!-- Jewel - Topaz -->
+		</skills>
+	</item>
+	<item id="90318" name="가넷 Lv1" type="Armor">
+		<!-- When equipped, Stun/ Pull/ Silence/ Paralysis/ Fear Resistance +3%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_garnet"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="18566" level="1"/> <!-- Jewel - Garnet -->
+		</skills>
+	</item>
+	<item id="90319" name="가넷 Lv2" type="Armor">
+		<!-- When equipped, Stun/ Pull/ Silence/ Paralysis/ Fear Resistance +5%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_garnet"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="18566" level="2"/> <!-- Jewel - Garnet -->
+		</skills>
+	</item>
+	<item id="90320" name="가넷 Lv3" type="Armor">
+		<!-- When equipped, Stun/ Pull/ Silence/ Paralysis/ Fear Resistance +8%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_garnet"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="18566" level="3"/> <!-- Jewel - Garnet -->
+		</skills>
+	</item>
+	<item id="90321" name="가넷 Lv4" type="Armor">
+		<!-- When equipped, Stun/ Pull/ Silence/ Paralysis/ Fear Resistance +11%. Enables a skill that grants immunity to debuffs for 5 sec. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_garnet"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="18567" level="1"/> <!-- Garnet - Special Property -->
+			<skill id="18566" level="4"/> <!-- Jewel - Garnet -->
+		</skills>
+	</item>
+	<item id="90322" name="가넷 Lv5" type="Armor">
+		<!-- When equipped, Stun/ Pull/ Silence/ Paralysis/ Fear Resistance +20%. Grants immunity to debuffs for 15 sec. when using skills. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_garnet"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="18567" level="2"/> <!-- Garnet - Special Property -->
+			<skill id="18566" level="5"/> <!-- Jewel - Garnet -->
+		</skills>
+	</item>
+	<item id="90323" name="제이드 Lv1" type="Armor">
+		<!-- Atk. Spd./ Casting Spd. +1%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_jade_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17707" level="1"/> <!-- Jewel - Jade -->
+		</skills>
+	</item>
+	<item id="90324" name="제이드 Lv2" type="Armor">
+		<!-- Atk. Spd./ Casting Spd. +2%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_jade_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17707" level="2"/> <!-- Jewel - Jade -->
+		</skills>
+	</item>
+	<item id="90325" name="제이드 Lv3" type="Armor">
+		<!-- Atk. Spd./ Casting Spd. +4%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_jade_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17707" level="3"/> <!-- Jewel - Jade -->
+		</skills>
+	</item>
+	<item id="90326" name="제이드 Lv4" type="Armor">
+		<!-- Atk. Spd./ Casting Spd. +7%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_jade_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17707" level="4"/> <!-- Jewel - Jade -->
+		</skills>
+	</item>
+	<item id="90327" name="제이드 Lv5" type="Armor">
+		<!-- Atk. Spd./ Casting Spd. +14%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_jade_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17707" level="5"/> <!-- Jewel - Jade -->
+		</skills>
+	</item>
+	<item id="90328" name="루비 Lv1" type="Armor">
+		<!-- When equipped, Soulshot/ Blessed Soulshot/ Beast Soulshot damage +2%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="55477" level="1"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="90329" name="루비 Lv2" type="Armor">
+		<!-- When equipped, Soulshot/ Blessed Soulshot/ Beast Soulshot damage +3%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="55477" level="2"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="90330" name="루비 Lv3" type="Armor">
+		<!-- When equipped, Soulshot/ Blessed Soulshot/ Beast Soulshot damage +5%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="55477" level="3"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="90331" name="루비 Lv4" type="Armor">
+		<!-- When equipped, Soulshot/ Blessed Soulshot/ Beast Soulshot damage +8%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="55477" level="4"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="90332" name="루비 Lv5" type="Armor">
+		<!-- When equipped, Soulshot/ Blessed Soulshot/ Beast Soulshot damage +16%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_ruby_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="55477" level="5"/> <!-- Ruby -->
+		</skills>
+	</item>
+	<item id="90333" name="사파이어 Lv1" type="Armor">
+		<!-- When equipped, Spiritshot/ Blessed Spiritshot/ Beast Spiritshot damage +2%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_sapphire_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="55481" level="1"/> <!-- Sapphire -->
+		</skills>
+	</item>
+	<item id="90334" name="사파이어 Lv2" type="Armor">
+		<!-- When equipped, Spiritshot/ Blessed Spiritshot/ Beast Spiritshot damage +3%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_sapphire_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="55481" level="2"/> <!-- Sapphire -->
+		</skills>
+	</item>
+	<item id="90335" name="사파이어 Lv3" type="Armor">
+		<!-- When equipped, Spiritshot/ Blessed Spiritshot/ Beast Spiritshot damage +5%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_sapphire_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="55481" level="3"/> <!-- Sapphire -->
+		</skills>
+	</item>
+	<item id="90336" name="사파이어 Lv4" type="Armor">
+		<!-- When equipped, Spiritshot/ Blessed Spiritshot/ Beast Spiritshot damage +8%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_sapphire_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="55481" level="4"/> <!-- Sapphire -->
+		</skills>
+	</item>
+	<item id="90337" name="사파이어 Lv5" type="Armor">
+		<!-- When equipped, Spiritshot/ Blessed Spiritshot/ Beast Spiritshot damage +16%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_sapphire_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="55481" level="5"/> <!-- Sapphire -->
+		</skills>
+	</item>
+	<item id="90338" name="다이아몬드 Lv1" type="Armor">
+		<!-- P. Def. +11. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17708" level="1"/> <!-- Jewel - Diamond -->
+		</skills>
+	</item>
+	<item id="90339" name="다이아몬드 Lv2" type="Armor">
+		<!-- P. Def. +25. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17708" level="2"/> <!-- Jewel - Diamond -->
+		</skills>
+	</item>
+	<item id="90340" name="다이아몬드 Lv3" type="Armor">
+		<!-- P. Def. +50. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17708" level="3"/> <!-- Jewel - Diamond -->
+		</skills>
+	</item>
+	<item id="90341" name="다이아몬드 Lv4" type="Armor">
+		<!-- When equipped, P. Def. +81, received P. Critical Damage -4%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17708" level="4"/> <!-- Jewel - Diamond -->
+		</skills>
+	</item>
+	<item id="90342" name="다이아몬드 Lv5" type="Armor">
+		<!-- When equipped, P. Def. +130, received P. Critical Damage -10%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_diamond_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17708" level="5"/> <!-- Jewel - Diamond -->
+		</skills>
+	</item>
+	<item id="90343" name="펄 Lv1" type="Armor">
+		<!-- M. Def. +7. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_pearl_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17709" level="1"/> <!-- Jewel - Pearl -->
+		</skills>
+	</item>
+	<item id="90344" name="펄 Lv2" type="Armor">
+		<!-- M. Def. +14. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_pearl_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17709" level="2"/> <!-- Jewel - Pearl -->
+		</skills>
+	</item>
+	<item id="90345" name="펄 Lv3" type="Armor">
+		<!-- M. Def. +28. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_pearl_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17709" level="3"/> <!-- Jewel - Pearl -->
+		</skills>
+	</item>
+	<item id="90346" name="펄 Lv4" type="Armor">
+		<!-- When equipped, M. Def. +46, received M. Skill Critical Damage -4%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_pearl_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17709" level="4"/> <!-- Jewel - Pearl -->
+		</skills>
+	</item>
+	<item id="90347" name="펄 Lv5" type="Armor">
+		<!-- When equipped, M. Def. +74, received M. Skill Critical Damage -10%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_pearl_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17709" level="5"/> <!-- Jewel - Pearl -->
+		</skills>
+	</item>
+	<item id="90353" name="바이탈스톤 Lv1" type="Armor">
+		<!-- When equipped, with Sayha's Grace, acquired XP/ SP while hunting +3%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_vital"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17706" level="1"/> <!-- Jewel - Vital Stone -->
+		</skills>
+	</item>
+	<item id="90354" name="바이탈스톤 Lv2" type="Armor">
+		<!-- When equipped, with Sayha's Grace, acquired XP/ SP while hunting +4%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_vital"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17706" level="2"/> <!-- Jewel - Vital Stone -->
+		</skills>
+	</item>
+	<item id="90355" name="바이탈스톤 Lv3" type="Armor">
+		<!-- When equipped, with Sayha's Grace, acquired XP/ SP while hunting +6%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_vital"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17706" level="3"/> <!-- Jewel - Vital Stone -->
+		</skills>
+	</item>
+	<item id="90356" name="바이탈스톤 Lv4" type="Armor">
+		<!-- When equipped, with Sayha's Grace, acquired XP/ SP while hunting +8%, Sayha's Grace Consumption -10%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_vital"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17706" level="4"/> <!-- Jewel - Vital Stone -->
+		</skills>
+	</item>
+	<item id="90357" name="바이탈스톤 Lv5" type="Armor">
+		<!-- When equipped, with Sayha's Grace, acquired XP/ SP while hunting +15%, Sayha's Grace Consumption -30%. Effects of two identical jewels do not stack -->
+		<set name="icon" val="icon.etc_bm_jewel_vital"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="brooch_jewel"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="17706" level="5"/> <!-- Jewel - Vital Stone -->
+		</skills>
+	</item>
+	<item id="90358" name="반짝이는 원석" type="EtcItem">
+		<!-- Can be exchanged for Brooch Lv. 1, Jewels Lv. 3-5 or Jewelry Box by the Game Assistant. -->
+		<set name="icon" val="icon.etc_bm_jewel_piece"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+	</item>
+	<item id="90359" name="행운 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_shhadai"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18588" level="1"/> <!-- Fortune Chest -->
+		</skills>
+	</item>
+	<item id="90360" name="행운의 토파즈 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_topaz_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39243" level="1"/> <!-- Fortune Pack: Topaz -->
+		</skills>
+	</item>
+	<item id="90361" name="행운의 가넷 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_garnet_i01"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39244" level="1"/> <!-- Fortune Pack: Garnet -->
+		</skills>
+	</item>
+	<item id="90362" name="행운의 제이드 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_jade_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39245" level="1"/> <!-- Fortune Pack: Jade -->
+		</skills>
+	</item>
+	<item id="90363" name="행운의 루비 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39246" level="1"/> <!-- Fortune Pack: Ruby -->
+		</skills>
+	</item>
+	<item id="90364" name="행운의 사파이어 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_sapphire_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39247" level="1"/> <!-- Fortune Pack: Sapphire -->
+		</skills>
+	</item>
+	<item id="90365" name="행운의 다이아몬드 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39248" level="1"/> <!-- Fortune Pack: Diamond -->
+		</skills>
+	</item>
+	<item id="90366" name="행운의 펄 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_pearl_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39249" level="1"/> <!-- Fortune Pack: Pearl -->
+		</skills>
+	</item>
+	<item id="90367" name="행운의 바이탈스톤 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_vital_i00"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39250" level="1"/> <!-- Fortune Pack: Vital Stone -->
+		</skills>
+	</item>
+	<item id="90368" name="반짝이는 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="18564" level="1"/> <!-- Shiny Jewelry Box -->
+		</skills>
+	</item>
+	<item id="90369" name="토파즈 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_topaz_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90313" min="1" max="1" chance="100" name="토파즈 Lv1"/> <!-- Topaz Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90370" name="가넷 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_garnet_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90318" min="1" max="1" chance="100" name="가넷 Lv1"/> <!-- Garnet Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90371" name="제이드 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_jade_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90323" min="1" max="1" chance="100" name="제이드 Lv1"/> <!-- Jade Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90372" name="루비 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90328" min="1" max="1" chance="100" name="루비 Lv1"/> <!-- Ruby Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90373" name="사파이어 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_sapphire_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90333" min="1" max="1" chance="100" name="사파이어 Lv1"/> <!-- Sapphire Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90374" name="다이아몬드 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90338" min="1" max="1" chance="100" name="다이아몬드 Lv1"/> <!-- Diamond Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90375" name="펄 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_pearl_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90343" min="1" max="1" chance="100" name="펄 Lv1"/> <!-- Pearl Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90376" name="바이탈스톤 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_vital_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90353" min="1" max="1" chance="100" name="바이탈스톤 Lv1"/> <!-- Vital Stone Lv. 1 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90377" name="토파즈 Lv3 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_topaz_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90315" min="1" max="1" chance="100" name="토파즈 Lv3"/> <!-- Topaz Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90378" name="토파즈 Lv4 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_topaz_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90316" min="1" max="1" chance="100" name="토파즈 Lv4"/> <!-- Topaz Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90379" name="토파즈 Lv5 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_topaz_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90317" min="1" max="1" chance="100" name="토파즈 Lv5"/> <!-- Topaz Lv. 5 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90380" name="가넷 Lv3 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_garnet_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90320" min="1" max="1" chance="100" name="가넷 Lv3"/> <!-- Garnet Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90381" name="가넷 Lv4 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_garnet_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90321" min="1" max="1" chance="100" name="가넷 Lv4"/> <!-- Garnet Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90382" name="가넷 Lv5 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_garnet_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90322" min="1" max="1" chance="100" name="가넷 Lv5"/> <!-- Garnet Lv. 5 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90383" name="제이드 Lv3 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_jade_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90325" min="1" max="1" chance="100" name="제이드 Lv3"/> <!-- Jade Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90384" name="제이드 Lv4 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_jade_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90326" min="1" max="1" chance="100" name="제이드 Lv4"/> <!-- Jade Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90385" name="제이드 Lv5 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_jade_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90327" min="1" max="1" chance="100" name="제이드 Lv5"/> <!-- Jade Lv. 5 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90386" name="루비 Lv3 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90330" min="1" max="1" chance="100" name="루비 Lv3"/> <!-- Ruby Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90387" name="루비 Lv4 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90331" min="1" max="1" chance="100" name="루비 Lv4"/> <!-- Ruby Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90388" name="루비 Lv5 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_ruby_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90332" min="1" max="1" chance="100" name="루비 Lv5"/> <!-- Ruby Lv. 5 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90389" name="사파이어 Lv3 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90335" min="1" max="1" chance="100" name="사파이어 Lv3"/> <!-- Sapphire Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90390" name="사파이어 Lv4 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_sapphire_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90336" min="1" max="1" chance="100" name="사파이어 Lv4"/> <!-- Sapphire Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90391" name="사파이어 Lv5 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_sapphire_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90337" min="1" max="1" chance="100" name="사파이어 Lv5"/> <!-- Sapphire Lv. 5 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90392" name="다이아몬드 Lv3 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90340" min="1" max="1" chance="100" name="다이아몬드 Lv3"/> <!-- Diamond Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90393" name="다이아몬드 Lv4 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90341" min="1" max="1" chance="100" name="다이아몬드 Lv4"/> <!-- Diamond Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90394" name="다이아몬드 Lv5 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_diamond_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90342" min="1" max="1" chance="100" name="다이아몬드 Lv5"/> <!-- Diamond Lv. 5 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90395" name="펄 Lv3 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_pearl_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90340" min="1" max="1" chance="100" name="다이아몬드 Lv3"/> <!-- Diamond Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90396" name="펄 Lv4 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_pearl_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90345" min="1" max="1" chance="100" name="펄 Lv3"/> <!-- Pearl Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90397" name="펄 Lv5 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_pearl_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90346" min="1" max="1" chance="100" name="펄 Lv4"/> <!-- Pearl Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90398" name="바이탈스톤 Lv3 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_vital_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90355" min="1" max="1" chance="100" name="바이탈스톤 Lv3"/> <!-- Vital Stone Lv. 3 - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="90399" name="바이탈스톤 Lv4 보석함" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_vital_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="90356" min="1" max="1" chance="100" name="바이탈스톤 Lv4"/> <!-- Vital Stone Lv. 4 - Sealed -->
+		</capsuled_items>
+	</item>
+</list>

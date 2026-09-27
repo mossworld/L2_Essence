@@ -1,0 +1,986 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="4400" name="흰 천" type="EtcItem">
+		<!-- A reward for eliminating Angels. Collect 1,000 pcs. and bring them to Magister Hanellin. -->
+		<set name="icon" val="icon.etc_piece_of_cloth_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CLOTH"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="4404" name="미공급 - 녹색 디멘션스톤의 파편" type="EtcItem">
+		<!-- The item is not available. A shard of the broken Green Dimensional Stone. Collect all the shards and take them to Researcher Kaplan. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4405" name="미공급 - 푸른색 디멘션스톤의 파편" type="EtcItem">
+		<!-- The item is not available. A shard of the broken Dimensional Stone. Collect all the shards and take them to Researcher Euclie. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4406" name="미공급 - 붉은색 디멘션스톤의 파편" type="EtcItem">
+		<!-- The item is not available. A shard of the broken Dimensional Stone. Collect all the shards and take them to Researcher Pithgon. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="10"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4408" name="악보 - 사랑의 테마" type="EtcItem">
+		<!-- Posthumously released musical score of Gillian. If you take it to Maestro Melody, you can have an echo crystal made. -->
+		<set name="icon" val="icon.etc_musical_note_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4409" name="악보 - 결전의 테마" type="EtcItem">
+		<!-- The musical score for the Battle March of Flames. If you take it to Maestro Melody, you can have an echo crystal made. -->
+		<set name="icon" val="icon.etc_musical_note_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4410" name="악보 - 여행의 테마" type="EtcItem">
+		<!-- Musical score composed by Troubadour Swan. If you take it to Maestro Melody, you can have an echo crystal made. -->
+		<set name="icon" val="icon.etc_musical_note_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4411" name="소리수정 - 여행의 테마" type="EtcItem">
+		<!-- Echo crystal that plays the theme music of a journey. May only be used once. -->
+		<set name="icon" val="icon.etc_echo_crystal_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="reuse_delay" val="20000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<skills>
+			<skill id="2069" level="1"/> <!-- Item - Race Sound Crystal -->
+		</skills>
+	</item>
+	<item id="4412" name="소리수정 - 결전의 테마" type="EtcItem">
+		<!-- Echo crystal that plays the theme music of a battle. -->
+		<set name="icon" val="icon.etc_echo_crystal_i01"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="reuse_delay" val="24000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<skills>
+			<skill id="2068" level="1"/> <!-- Item - Race Sound Crystal -->
+		</skills>
+	</item>
+	<item id="4413" name="소리수정 - 사랑의 테마" type="EtcItem">
+		<!-- Echo crystal that plays the theme music of love. May only be used once. -->
+		<set name="icon" val="icon.etc_echo_crystal_i02"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="reuse_delay" val="24000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<skills>
+			<skill id="2070" level="1"/> <!-- Item - Race Sound Crystal -->
+		</skills>
+	</item>
+	<item id="4414" name="소리수정 - 고독의 테마" type="EtcItem">
+		<!-- Echo crystal that plays the theme music of solitude. May only be used once. -->
+		<set name="icon" val="icon.etc_echo_crystal_i03"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="reuse_delay" val="20000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<skills>
+			<skill id="2072" level="1"/> <!-- Item - Race Sound Crystal -->
+		</skills>
+	</item>
+	<item id="4415" name="소리수정 - 축제의 테마" type="EtcItem">
+		<!-- Echo crystal that plays the theme music of a feast. May only be used once. -->
+		<set name="icon" val="icon.etc_echo_crystal_i04"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="reuse_delay" val="3000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<skills>
+			<skill id="2071" level="1"/> <!-- Item - Race Sound Crystal -->
+		</skills>
+	</item>
+	<item id="4416" name="소리수정 - 축하의 테마" type="EtcItem">
+		<!-- Echo crystal that plays the theme music of a celebration. May only be used once. -->
+		<set name="icon" val="icon.etc_echo_crystal_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="reuse_delay" val="3000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<skills>
+			<skill id="2073" level="1"/> <!-- Item - Theme Sound Crystal -->
+		</skills>
+	</item>
+	<item id="4417" name="소리수정 - 희극의 테마" type="EtcItem">
+		<!-- Echo crystal that plays the theme music of a comedy. May only be used once. -->
+		<set name="icon" val="icon.etc_echo_crystal_i01"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="10"/>
+		<set name="reuse_delay" val="3000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<skills>
+			<skill id="2067" level="1"/> <!-- Item - Theme Sound Crystal -->
+		</skills>
+	</item>
+	<item id="4418" name="악보 - 축하의 테마" type="EtcItem">
+		<!-- Musical score containing the theme music of a celebration. If you take it to Maestro Melody, you can have an echo crystal made. -->
+		<set name="icon" val="icon.etc_musical_note_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4419" name="악보 - 희극의 테마" type="EtcItem">
+		<!-- Musical score containing the theme music of a comedy. If you take it to Maestro Melody, you can have an echo crystal made. -->
+		<set name="icon" val="icon.etc_musical_note_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4420" name="악보 - 고독의 테마" type="EtcItem">
+		<!-- Musical score composed by Musician Nanarin. If you take it to Maestro Melody, you can have an echo crystal made. -->
+		<set name="icon" val="icon.etc_musical_note_i01"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4421" name="악보 - 축제의 테마" type="EtcItem">
+		<!-- Musical score composed by Musician Barbado. If you take it to Maestro Melody, you can have an echo crystal made. -->
+		<set name="icon" val="icon.etc_musical_note_i02"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4433" name="원소석 가루" type="EtcItem">
+		<!-- Elemental stone powder obtained from a stone statue in the Forgotten Temple. Can be sold at any store or taken to Magister Nell. -->
+		<set name="icon" val="icon.etc_powder_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="50"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4434" name="원소석 조각" type="EtcItem">
+		<!-- The shards of Elemental stones obtained from stone statues in the Forgotten Temple. Can be sold at any store or taken to Magister Nell. -->
+		<set name="icon" val="icon.etc_broken_crystal_green_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="weight" val="100"/>
+		<set name="price" val="500"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4435" name="원소석 덩어리" type="EtcItem">
+		<!-- The lumps of Elemental stone obtained from stone statues in the Forgotten Temple. Can be sold at any store or taken to Magister Nell. -->
+		<set name="icon" val="icon.etc_crystal_green_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="CRYSTAL"/>
+		<set name="weight" val="80"/>
+		<set name="price" val="5000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4436" name="벤틀리의 의뢰서" type="EtcItem">
+		<!-- Request to find and bring back jade crystals from creatures such as Fline, Liele, Satyr etc. that inhabit the Enchanted Valley. -->
+		<set name="icon" val="icon.etc_piece_of_paper_gray_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="4437" name="카슨의 의뢰서" type="EtcItem">
+		<!-- Request to recover the works of the ancient sculptor Berona from Hatar Ratmen and Vanor Silenos in the area near the Cemetery. -->
+		<set name="icon" val="icon.etc_piece_of_paper_black_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="4438" name="너클 더스트 날" type="EtcItem">
+		<!-- The item is not available. Key material for Dwarves to make Knuckle Duster. No longer used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="price" val="28044"/>
+		<set name="commissionItemType" val="MAJOR_CRAFTING_INGREDIENTS"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4439" name="아바돈 실드 조각" type="EtcItem">
+		<!-- The item is not available. Key material for Dwarves to make Avadon Shield. No longer used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="60"/>
+		<set name="price" val="2900"/>
+		<set name="commissionItemType" val="MAJOR_CRAFTING_INGREDIENTS"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="4440" name="레시피: 너클 더스트(100%)" type="EtcItem">
+		<!-- For Dwarves only. A recipe for Knuckle Duster. Requires Create Item Lv. 5. The success rate is 100%. -->
+		<set name="icon" val="icon.etc_recipe_yellow_i00"/>
+		<set name="default_action" val="RECIPE"/>
+		<set name="etcitem_type" val="RECIPE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="30"/>
+		<set name="price" val="57400"/>
+		<set name="recipe_id" val="495"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="RECIPE"/>
+		<set name="handler" val="Recipes"/>
+	</item>
+	<item id="4441" name="레시피: 아바돈 실드(100%)" type="EtcItem">
+		<!-- For Dwarves only. A recipe for Avadon Shield. Requires Create Item Lv. 6. The success rate is 100%. -->
+		<set name="icon" val="icon.etc_recipe_red_i00"/>
+		<set name="default_action" val="RECIPE"/>
+		<set name="etcitem_type" val="RECIPE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="30"/>
+		<set name="price" val="10900"/>
+		<set name="recipe_id" val="479"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="RECIPE"/>
+		<set name="handler" val="Recipes"/>
+	</item>
+	<item id="4445" name="빛바랜 힘의 염약 &lt;STR+1 CON-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_str_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4446" name="빛바랜 힘의 염약 &lt;STR+1 DEX-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_str_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4447" name="빛바랜 체력의 염약&lt;CON+1 STR-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_con_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4448" name="빛바랜 체력의 염약&lt;CON+1 DEX-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_con_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4449" name="빛바랜 민첩의 염약&lt;DEX+1 STR-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_dex_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4450" name="빛바랜 민첩의 염약&lt;DEX+1 CON-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_dex_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4451" name="빛바랜 지능의 염약&lt;INT+1 MEN-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_int_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4452" name="빛바랜 지능의 염약&lt;INT+1 WIT-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_int_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4453" name="빛바랜 정신의 염약&lt;MEN+1 INT-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_men_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4454" name="빛바랜 정신의 염약&lt;MEN+1 WIT-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_men_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4455" name="빛바랜 재치의 염약&lt;WIT+1 INT-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_wit_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4456" name="빛바랜 재치의 염약&lt;WIT+1 MEN-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_wit_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="5100"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4457" name="빛바랜 힘의 염약 &lt;STR+1 CON-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_str_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4458" name="빛바랜 힘의 염약 &lt;STR+1 DEX-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_str_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4459" name="빛바랜 체력의 염약&lt;CON+1 STR-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_con_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4460" name="빛바랜 체력의 염약&lt;CON+1 DEX-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_con_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4461" name="빛바랜 민첩의 염약&lt;DEX+1 STR-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_dex_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4462" name="빛바랜 민첩의 염약&lt;DEX+1 CON-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_dex_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4463" name="빛바랜 지능의 염약&lt;INT+1 MEN-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_int_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4464" name="빛바랜 지능의 염약&lt;INT+1 WIT-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_int_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4465" name="빛바랜 정신의 염약&lt;MEN+1 INT-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_men_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4466" name="빛바랜 정신의 염약&lt;MEN+1 WIT-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_men_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4467" name="빛바랜 재치의 염약&lt;WIT+1 INT-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_wit_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4468" name="빛바랜 재치의 염약&lt;WIT+1 MEN-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_wit_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4469" name="빛바랜 힘의 염약 &lt;STR+1 CON-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_str_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4470" name="빛바랜 힘의 염약 &lt;STR+1 DEX-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_str_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4471" name="빛바랜 체력의 염약&lt;CON+1 STR-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_con_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4472" name="빛바랜 체력의 염약&lt;CON+1 DEX-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_con_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4473" name="빛바랜 민첩의 염약&lt;DEX+1 STR-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_dex_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4474" name="빛바랜 민첩의 염약&lt;DEX+1 CON-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_dex_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4475" name="빛바랜 지능의 염약&lt;INT+1 MEN-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_int_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4476" name="빛바랜 지능의 염약&lt;INT+1 WIT-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_int_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4477" name="빛바랜 정신의 염약&lt;MEN+1 INT-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_men_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4478" name="빛바랜 정신의 염약&lt;MEN+1 WIT-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_men_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4479" name="빛바랜 재치의 염약&lt;WIT+1 INT-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_wit_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4480" name="빛바랜 재치의 염약&lt;WIT+1 MEN-1&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_wit_hena_i00"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="35000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4481" name="빛바랜 고급 힘의 염약&lt;STR+1 CON-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_str_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4482" name="빛바랜 고급 힘의 염약&lt;STR+1 DEX-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_str_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4483" name="빛바랜 고급 체력의 염약&lt;CON+1 STR-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_con_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4484" name="빛바랜 고급 체력의 염약&lt;CON+1 DEX-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_con_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4485" name="빛바랜 고급 민첩의 염약&lt;DEX+1 STR-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_dex_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4486" name="빛바랜 고급 민첩의 염약&lt;DEX+1 CON-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_dex_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4487" name="빛바랜 고급 지능의 염약&lt;INT+1 MEN-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_int_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4488" name="빛바랜 고급 지능의 염약&lt;INT+1 WIT-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_int_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4489" name="빛바랜 고급 정신의 염약&lt;MEN+1 INT-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_men_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4490" name="빛바랜 고급 정신의 염약&lt;MEN+1 WIT-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_men_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4491" name="빛바랜 고급 재치의 염약&lt;WIT+1 INT-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_wit_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4492" name="빛바랜 고급 재치의 염약&lt;WIT+1 MEN-3&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_wit_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="12000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4493" name="빛바랜 고급 힘의 염약&lt;STR+1 CON-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_str_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4494" name="빛바랜 고급 힘의 염약&lt;STR+1 DEX-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_str_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4495" name="빛바랜 고급 체력의 염약&lt;CON+1 STR-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_con_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4496" name="빛바랜 고급 체력의 염약&lt;CON+1 DEX-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_con_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4497" name="빛바랜 고급 민첩의 염약&lt;DEX+1 STR-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_dex_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4498" name="빛바랜 고급 민첩의 염약&lt;DEX+1 CON-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_dex_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="4499" name="빛바랜 고급 지능의 염약&lt;INT+1 MEN-2&gt;" type="EtcItem">
+		<!-- A faded colorant that is not used anymore. Can be sold at a shop or used to acquire common craft points. -->
+		<set name="icon" val="icon.etc_int_hena_i01"/>
+		<set name="etcitem_type" val="DYE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="150"/>
+		<set name="price" val="21000"/>
+		<set name="commissionItemType" val="DYES"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+</list>

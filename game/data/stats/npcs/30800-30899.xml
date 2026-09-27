@@ -1,0 +1,3028 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="30827" level="70" type="PetManager" name="런디" title="런디">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+			<param name="HavePet" value="1"/>
+			<param name="silhouette" value="31203"/>
+			<param name="item_baby_pet1" value="2375"/>
+			<param name="item_grown_pet1" value="9882"/>
+			<param name="id_grown_pet1" value="12"/>
+			<param name="class_id_baby_pet1" value="12077"/>
+			<param name="min_lv_pet1" value="55"/>
+			<param name="check_min_lv_pet1" value="1"/>
+			<param name="item_baby_pet2" value="6648"/>
+			<param name="item_grown_pet2" value="10311"/>
+			<param name="id_grown_pet2" value="18"/>
+			<param name="class_id_baby_pet2" value="12780"/>
+			<param name="min_lv_pet2" value="55"/>
+			<param name="check_min_lv_pet2" value="1"/>
+			<param name="item_baby_pet3" value="6650"/>
+			<param name="item_grown_pet3" value="10313"/>
+			<param name="id_grown_pet3" value="19"/>
+			<param name="class_id_baby_pet3" value="12781"/>
+			<param name="min_lv_pet3" value="55"/>
+			<param name="check_min_lv_pet3" value="1"/>
+			<param name="item_baby_pet4" value="6649"/>
+			<param name="item_grown_pet4" value="10312"/>
+			<param name="id_grown_pet4" value="20"/>
+			<param name="class_id_baby_pet4" value="12782"/>
+			<param name="min_lv_pet4" value="55"/>
+			<param name="check_min_lv_pet4" value="1"/>
+			<param name="item_baby_pet5" value="9882"/>
+			<param name="item_grown_pet5" value="10426"/>
+			<param name="id_grown_pet5" value="21"/>
+			<param name="class_id_baby_pet5" value="16025"/>
+			<param name="min_lv_pet5" value="70"/>
+			<param name="check_min_lv_pet5" value="1"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="30828" level="70" type="PetManager" name="워터스" title="워터스">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+			<param name="HavePet" value="1"/>
+			<param name="silhouette" value="31204"/>
+			<param name="item_baby_pet1" value="2375"/>
+			<param name="item_grown_pet1" value="9882"/>
+			<param name="id_grown_pet1" value="12"/>
+			<param name="class_id_baby_pet1" value="12077"/>
+			<param name="min_lv_pet1" value="55"/>
+			<param name="check_min_lv_pet1" value="1"/>
+			<param name="item_baby_pet2" value="6648"/>
+			<param name="item_grown_pet2" value="10311"/>
+			<param name="id_grown_pet2" value="18"/>
+			<param name="class_id_baby_pet2" value="12780"/>
+			<param name="min_lv_pet2" value="55"/>
+			<param name="check_min_lv_pet2" value="1"/>
+			<param name="item_baby_pet3" value="6650"/>
+			<param name="item_grown_pet3" value="10313"/>
+			<param name="id_grown_pet3" value="19"/>
+			<param name="class_id_baby_pet3" value="12781"/>
+			<param name="min_lv_pet3" value="55"/>
+			<param name="check_min_lv_pet3" value="1"/>
+			<param name="item_baby_pet4" value="6649"/>
+			<param name="item_grown_pet4" value="10312"/>
+			<param name="id_grown_pet4" value="20"/>
+			<param name="class_id_baby_pet4" value="12782"/>
+			<param name="min_lv_pet4" value="55"/>
+			<param name="check_min_lv_pet4" value="1"/>
+			<param name="item_baby_pet5" value="9882"/>
+			<param name="item_grown_pet5" value="10426"/>
+			<param name="id_grown_pet5" value="21"/>
+			<param name="class_id_baby_pet5" value="16025"/>
+			<param name="min_lv_pet5" value="70"/>
+			<param name="check_min_lv_pet5" value="1"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="30829" level="70" type="PetManager" name="쿠퍼" title="쿠퍼">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+			<param name="item_baby_pet1" value="2375"/>
+			<param name="item_grown_pet1" value="9882"/>
+			<param name="id_grown_pet1" value="12"/>
+			<param name="class_id_baby_pet1" value="12077"/>
+			<param name="min_lv_pet1" value="55"/>
+			<param name="check_min_lv_pet1" value="1"/>
+			<param name="item_baby_pet2" value="6648"/>
+			<param name="item_grown_pet2" value="10311"/>
+			<param name="id_grown_pet2" value="18"/>
+			<param name="class_id_baby_pet2" value="12780"/>
+			<param name="min_lv_pet2" value="55"/>
+			<param name="check_min_lv_pet2" value="1"/>
+			<param name="item_baby_pet3" value="6650"/>
+			<param name="item_grown_pet3" value="10313"/>
+			<param name="id_grown_pet3" value="19"/>
+			<param name="class_id_baby_pet3" value="12781"/>
+			<param name="min_lv_pet3" value="55"/>
+			<param name="check_min_lv_pet3" value="1"/>
+			<param name="item_baby_pet4" value="6649"/>
+			<param name="item_grown_pet4" value="10312"/>
+			<param name="id_grown_pet4" value="20"/>
+			<param name="class_id_baby_pet4" value="12782"/>
+			<param name="min_lv_pet4" value="55"/>
+			<param name="check_min_lv_pet4" value="1"/>
+			<param name="item_baby_pet5" value="9882"/>
+			<param name="item_grown_pet5" value="10426"/>
+			<param name="id_grown_pet5" value="21"/>
+			<param name="class_id_baby_pet5" value="16025"/>
+			<param name="min_lv_pet5" value="70"/>
+			<param name="check_min_lv_pet5" value="1"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="30830" level="70" type="PetManager" name="조에이" title="조에이">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+			<param name="HavePet" value="1"/>
+			<param name="silhouette" value="31206"/>
+			<param name="item_baby_pet1" value="2375"/>
+			<param name="item_grown_pet1" value="9882"/>
+			<param name="id_grown_pet1" value="12"/>
+			<param name="class_id_baby_pet1" value="12077"/>
+			<param name="min_lv_pet1" value="55"/>
+			<param name="check_min_lv_pet1" value="1"/>
+			<param name="item_baby_pet2" value="6648"/>
+			<param name="item_grown_pet2" value="10311"/>
+			<param name="id_grown_pet2" value="18"/>
+			<param name="class_id_baby_pet2" value="12780"/>
+			<param name="min_lv_pet2" value="55"/>
+			<param name="check_min_lv_pet2" value="1"/>
+			<param name="item_baby_pet3" value="6650"/>
+			<param name="item_grown_pet3" value="10313"/>
+			<param name="id_grown_pet3" value="19"/>
+			<param name="class_id_baby_pet3" value="12781"/>
+			<param name="min_lv_pet3" value="55"/>
+			<param name="check_min_lv_pet3" value="1"/>
+			<param name="item_baby_pet4" value="6649"/>
+			<param name="item_grown_pet4" value="10312"/>
+			<param name="id_grown_pet4" value="20"/>
+			<param name="class_id_baby_pet4" value="12782"/>
+			<param name="min_lv_pet4" value="55"/>
+			<param name="check_min_lv_pet4" value="1"/>
+			<param name="item_baby_pet5" value="9882"/>
+			<param name="item_grown_pet5" value="10426"/>
+			<param name="id_grown_pet5" value="21"/>
+			<param name="class_id_baby_pet5" value="16025"/>
+			<param name="min_lv_pet5" value="70"/>
+			<param name="check_min_lv_pet5" value="1"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="30831" level="70" type="PetManager" name="넬슨" title="넬슨">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+			<param name="HavePet" value="1"/>
+			<param name="silhouette" value="31207"/>
+			<param name="item_baby_pet1" value="2375"/>
+			<param name="item_grown_pet1" value="9882"/>
+			<param name="id_grown_pet1" value="12"/>
+			<param name="class_id_baby_pet1" value="12077"/>
+			<param name="min_lv_pet1" value="55"/>
+			<param name="check_min_lv_pet1" value="1"/>
+			<param name="item_baby_pet2" value="6648"/>
+			<param name="item_grown_pet2" value="10311"/>
+			<param name="id_grown_pet2" value="18"/>
+			<param name="class_id_baby_pet2" value="12780"/>
+			<param name="min_lv_pet2" value="55"/>
+			<param name="check_min_lv_pet2" value="1"/>
+			<param name="item_baby_pet3" value="6650"/>
+			<param name="item_grown_pet3" value="10313"/>
+			<param name="id_grown_pet3" value="19"/>
+			<param name="class_id_baby_pet3" value="12781"/>
+			<param name="min_lv_pet3" value="55"/>
+			<param name="check_min_lv_pet3" value="1"/>
+			<param name="item_baby_pet4" value="6649"/>
+			<param name="item_grown_pet4" value="10312"/>
+			<param name="id_grown_pet4" value="20"/>
+			<param name="class_id_baby_pet4" value="12782"/>
+			<param name="min_lv_pet4" value="55"/>
+			<param name="check_min_lv_pet4" value="1"/>
+			<param name="item_baby_pet5" value="9882"/>
+			<param name="item_grown_pet5" value="10426"/>
+			<param name="id_grown_pet5" value="21"/>
+			<param name="class_id_baby_pet5" value="16025"/>
+			<param name="min_lv_pet5" value="70"/>
+			<param name="check_min_lv_pet5" value="1"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="30832" level="70" type="Folk" name="하딘">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="90"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2578" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="10"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30833" level="70" type="Folk" name="카스파" title="카스파">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="120"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30834" level="70" type="Merchant" name="세마" title="세마">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="120"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30835" level="70" type="Folk" name="이카로스" title="이카로스">
+		<parameters>
+			<param name="MoveAroundSocial" value="114"/>
+			<param name="MoveAroundSocial1" value="114"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="15"/>
+			</speed>
+			<hitTime>740</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="12"/>
+			<height normal="40"/>
+		</collision>
+	</npc>
+	<npc id="30836" level="70" type="Teleporter" name="미네베아" title="미네베아">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="120"/>
+			<param name="IsGateKeeperForCoreTime" value="1"/>
+		</parameters>
+		<race>DARK_ELF</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2578" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="16"/> <!-- Dark Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="25"/>
+		</collision>
+	</npc>
+	<npc id="30837" level="70" type="Merchant" name="우드로우" title="우드로우">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="10"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30838" level="70" type="Merchant" name="우드레이" title="우드레이">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="10"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30839" level="70" type="Merchant" name="홀리" title="홀리">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="85"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30840" level="70" type="Merchant" name="로렌조" title="로렌조">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="120"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="22"/>
+		</collision>
+	</npc>
+	<npc id="30841" level="70" type="Merchant" name="카슨" title="카슨">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="30842" level="70" type="Merchant" name="알렉시스" title="알렉시스">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="75"/>
+		</parameters>
+		<race>ELF</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="15"/> <!-- Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="22"/>
+		</collision>
+	</npc>
+	<npc id="30843" level="70" type="Warehouse" name="롬프" title="롬프">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="150"/>
+		</parameters>
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="18"/> <!-- Dwarves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="17"/>
+		</collision>
+	</npc>
+	<npc id="30844" level="70" type="Warehouse" name="발데랄" title="발데랄">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="150"/>
+		</parameters>
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="18"/> <!-- Dwarves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="17"/>
+		</collision>
+	</npc>
+	<npc id="30845" level="70" type="VillageMasterDwarf" name="클럼프" title="클럼프">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="150"/>
+			<param name="chk_my_cat" value="sub_group_ware"/>
+		</parameters>
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="18"/> <!-- Dwarves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="17"/>
+		</collision>
+	</npc>
+	<npc id="30846" level="70" type="Merchant" name="윌버트" title="윌버트">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="93"/>
+		</parameters>
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<equipment rhand="89"/> <!-- Big Hammer -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="18"/> <!-- Dwarves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="16.5"/>
+		</collision>
+	</npc>
+	<npc id="30847" level="70" type="VillageMasterDwarf" name="페리스" title="페리스">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="85"/>
+			<param name="chk_my_cat" value="sub_group_black"/>
+		</parameters>
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="18"/> <!-- Dwarves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="16.5"/>
+		</collision>
+	</npc>
+	<npc id="30848" level="70" type="Teleporter" name="엘리자베스" title="엘리자베스">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="90"/>
+			<param name="IsGateKeeperForCoreTime" value="1"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30849" level="70" type="VillageMasterFighter" name="세드릭" title="세드릭">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="158"/>
+			<param name="chk_my_cat" value="sub_group_hef"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30850" level="70" type="Folk" name="아이켄" title="아이켄">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="130"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="78"/> <!-- Infernal Master -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30851" level="70" type="Folk" name="켄드라" title="켄드라">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="157"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="21.5"/>
+		</collision>
+	</npc>
+	<npc id="30852" level="70" type="Folk" name="시드넨" title="시드넨">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="79"/>
+		</parameters>
+		<race>ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="15"/> <!-- Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="30853" level="70" type="Folk" name="라이엔" title="라이엔">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="133"/>
+		</parameters>
+		<race>ELF</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="15"/> <!-- Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="25.5"/>
+		</collision>
+	</npc>
+	<npc id="30854" level="70" type="VillageMasterMystic" name="드리키얀" title="드리키얀">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="130"/>
+			<param name="chk_my_cat" value="sub_group_hew"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="MAGE" clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30855" level="70" type="Folk" name="데스몬드" title="데스몬드">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="90"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="40"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="MAGE" clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30856" level="70" type="Folk" name="위노닌" title="위노닌">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="133"/>
+		</parameters>
+		<race>ELF</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="15"/> <!-- Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="25.5"/>
+		</collision>
+	</npc>
+	<npc id="30857" level="70" type="VillageMasterPriest" name="오르벤" title="오르벤">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="135"/>
+			<param name="chk_my_cat" value="sub_group_hec"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30858" level="70" type="Folk" name="로스" title="로스">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="120"/>
+			<param name="skill_sharing_item" value="15307"/>
+			<param name="token_num" value="7"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="38"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30859" level="70" type="Folk" name="비비안" title="비비안">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="120"/>
+			<param name="skill_sharing_item" value="15307"/>
+			<param name="token_num" value="7"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="22.5"/>
+		</collision>
+	</npc>
+	<npc id="30860" level="70" type="Folk" name="플로니아" title="플로니아">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="75"/>
+			<param name="skill_sharing_item" value="15308"/>
+			<param name="token_num" value="7"/>
+		</parameters>
+		<race>ELF</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="15"/> <!-- Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="22"/>
+		</collision>
+	</npc>
+	<npc id="30861" level="70" type="Folk" name="리네트" title="리네트">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="127"/>
+			<param name="skill_sharing_item" value="15308"/>
+			<param name="token_num" value="7"/>
+		</parameters>
+		<race>ELF</race>
+		<sex>MALE</sex>
+		<equipment rhand="192"/> <!-- Arcana Mace -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="15"/> <!-- Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="30862" level="70" type="VillageMasterDElf" name="올트린" title="올트린">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="103"/>
+			<param name="chk_my_cat" value="sub_group_de"/>
+		</parameters>
+		<race>DARK_ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="16"/> <!-- Dark Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30863" level="70" type="Folk" name="게스트" title="게스트">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="120"/>
+		</parameters>
+		<race>DARK_ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="16"/> <!-- Dark Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30864" level="70" type="Folk" name="하넬린" title="하넬린">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+			<param name="skill_sharing_item" value="15309"/>
+			<param name="token_num" value="7"/>
+		</parameters>
+		<race>DARK_ELF</race>
+		<sex>FEMALE</sex>
+		<equipment rhand="206"/> <!-- Demon's Staff -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="16"/> <!-- Dark Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="MAGE" clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="26"/>
+		</collision>
+	</npc>
+	<npc id="30865" level="70" type="VillageMasterOrc" name="라단자" title="라단자">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="95"/>
+			<param name="chk_my_cat" value="sub_group_orc"/>
+		</parameters>
+		<race>ORC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="17"/> <!-- Orcs -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="26"/>
+		</collision>
+	</npc>
+	<npc id="30866" level="70" type="Folk" name="마레스탤라" title="마레스탤라">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="156"/>
+		</parameters>
+		<race>ORC</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="17"/> <!-- Orcs -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="25"/>
+		</collision>
+	</npc>
+	<npc id="30867" level="70" type="Folk" name="래바" title="래바">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="180"/>
+		</parameters>
+		<race>ORC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="17"/> <!-- Orcs -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="30868" level="70" type="Folk" name="에릭 로데마이 경">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="158"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="128" lhand="632"/> <!-- Knight's Sword / Knight's Shield -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30869" level="70" type="PetManager" name="램퍼" title="램퍼">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+			<param name="item_baby_pet1" value="2375"/>
+			<param name="item_grown_pet1" value="9882"/>
+			<param name="id_grown_pet1" value="12"/>
+			<param name="class_id_baby_pet1" value="12077"/>
+			<param name="min_lv_pet1" value="55"/>
+			<param name="check_min_lv_pet1" value="1"/>
+			<param name="item_baby_pet2" value="6648"/>
+			<param name="item_grown_pet2" value="10311"/>
+			<param name="id_grown_pet2" value="18"/>
+			<param name="class_id_baby_pet2" value="12780"/>
+			<param name="min_lv_pet2" value="55"/>
+			<param name="check_min_lv_pet2" value="1"/>
+			<param name="item_baby_pet3" value="6650"/>
+			<param name="item_grown_pet3" value="10313"/>
+			<param name="id_grown_pet3" value="19"/>
+			<param name="class_id_baby_pet3" value="12781"/>
+			<param name="min_lv_pet3" value="55"/>
+			<param name="check_min_lv_pet3" value="1"/>
+			<param name="item_baby_pet4" value="6649"/>
+			<param name="item_grown_pet4" value="10312"/>
+			<param name="id_grown_pet4" value="20"/>
+			<param name="class_id_baby_pet4" value="12782"/>
+			<param name="min_lv_pet4" value="55"/>
+			<param name="check_min_lv_pet4" value="1"/>
+			<param name="item_baby_pet5" value="9882"/>
+			<param name="item_grown_pet5" value="10426"/>
+			<param name="id_grown_pet5" value="21"/>
+			<param name="class_id_baby_pet5" value="16025"/>
+			<param name="min_lv_pet5" value="70"/>
+			<param name="check_min_lv_pet5" value="1"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="63"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="23.5"/>
+		</collision>
+	</npc>
+	<npc id="30870" level="75" type="Folk" name="커티스" title="커티스">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="129" lhand="102"/> <!-- Sword of Revolution / Round Shield -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="16"/> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16"/> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16"/> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16"/> <!-- Very Strong M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30871" level="75" type="Guard" name="브렛" title="브렛">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="275"/> <!-- Longbow -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="16"/> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16"/> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16"/> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16"/> <!-- Very Strong M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="9"/> <!-- Bow -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30872" level="75" type="Guard" name="콘로이" title="콘로이">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="2" lhand="102"/> <!-- Long Sword / Round Shield -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="16"/> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16"/> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16"/> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16"/> <!-- Very Strong M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30873" level="75" type="Guard" name="콜만" title="콜만">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="275"/> <!-- Longbow -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="16"/> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16"/> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16"/> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16"/> <!-- Very Strong M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="9"/> <!-- Bow -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30874" level="75" type="Guard" name="알디스" title="알디스">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="2" lhand="102"/> <!-- Long Sword / Round Shield -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="16"/> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16"/> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16"/> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16"/> <!-- Very Strong M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30875" level="75" type="Guard" name="칼튼" title="칼튼">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="275"/> <!-- Longbow -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="16"/> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16"/> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16"/> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16"/> <!-- Very Strong M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="9"/> <!-- Bow -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30876" level="75" type="Guard" name="이스탄" title="이스탄">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="2" lhand="102"/> <!-- Long Sword / Round Shield -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="16"/> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16"/> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16"/> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16"/> <!-- Very Strong M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30877" level="75" type="Guard" name="그레이슨" title="그레이슨">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="275"/> <!-- Longbow -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="16"/> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16"/> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16"/> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16"/> <!-- Very Strong M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="9"/> <!-- Bow -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30878" level="70" type="Teleporter" name="안젤리나" title="안젤리나">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="90"/>
+			<param name="IsGateKeeperForCoreTime" value="1"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2578" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+	<npc id="30879" level="70" type="Merchant" name="팰톤">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="120"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="21"/>
+		</collision>
+	</npc>
+	<npc id="30880" level="75" type="Guard" name="빅토르 반 데이크" title="빅토르 반 데이크">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="158"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="2"/> <!-- Long Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="16"/> <!-- Very Strong P. Atk. -->
+			<skill id="4411" level="16"/> <!-- Very Strong M. Atk. -->
+			<skill id="4412" level="16"/> <!-- Very Strong P. Def. -->
+			<skill id="4413" level="16"/> <!-- Very Strong M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30881" level="75" type="Guard" name="샌더즈" title="샌더즈">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="120"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="22"/>
+		</collision>
+	</npc>
+	<npc id="30882" level="75" type="Guard" name="국경 수비대원">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="2"/> <!-- Long Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30883" level="75" type="Guard" name="국경 수비대원">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="14"/> <!-- Bow -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="9"/> <!-- Bow -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30884" level="75" type="Guard" name="국경 수비대원">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="2"/> <!-- Long Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30885" level="75" type="Guard" name="국경 수비대원">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="14"/> <!-- Bow -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="9"/> <!-- Bow -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30886" level="75" type="Guard" name="국경 수비대원">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="2"/> <!-- Long Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30887" level="75" type="Guard" name="국경 수비대원">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="14"/> <!-- Bow -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="9"/> <!-- Bow -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30888" level="75" type="Guard" name="국경 수비대원">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="2"/> <!-- Long Sword -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30889" level="75" type="Guard" name="국경 수비대원">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="92"/>
+			<param name="Attack_BoostValue" value="155"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<equipment rhand="14"/> <!-- Bow -->
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="49042.6571486547" hpRegen="8.5" mp="23550" mpRegen="30"/>
+			<attack physical="23610.1029394933" magical="5767.28134561036" random="5" critical="8" accuracy="0" attackSpeed="253" type="BOW" range="1100" distance="10" width="0"/>
+			<defence physical="1839.95121517957" magical="1066.69244923556"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="160"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="9"/> <!-- Bow -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai aggroRange="450" clanHelpRange="300" isAggressive="true"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30890" level="70" type="Merchant" name="에스펜" title="에스펜">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="140"/>
+		</parameters>
+		<race>ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="15"/> <!-- Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="6"/>
+			<height normal="24.5"/>
+		</collision>
+	</npc>
+	<npc id="30891" level="70" type="Merchant" name="베로나" title="베로나">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="90"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="64"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="22.5"/>
+		</collision>
+	</npc>
+	<npc id="30892" level="70" type="Merchant" name="엔베른" title="엔베른">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="110"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="70"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="14"/> <!-- Humans -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="10"/>
+			<height normal="24"/>
+		</collision>
+	</npc>
+	<npc id="30893" level="70" type="Merchant" name="파이엘" title="파이엘">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="75"/>
+		</parameters>
+		<race>ELF</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="60"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="15"/> <!-- Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="22"/>
+		</collision>
+	</npc>
+	<npc id="30894" level="70" type="VillageMasterDwarf" name="나툴스" title="나툴스">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="93"/>
+			<param name="chk_my_cat" value="sub_group_ware"/>
+		</parameters>
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="18"/> <!-- Dwarves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="17.5"/>
+		</collision>
+	</npc>
+	<npc id="30895" level="70" type="Warehouse" name="클럭" title="클럭">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="150"/>
+		</parameters>
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="18"/> <!-- Dwarves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="17"/>
+		</collision>
+	</npc>
+	<npc id="30896" level="70" type="Warehouse" name="미아" title="미아">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="74"/>
+		</parameters>
+		<race>DWARF</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="18"/> <!-- Dwarves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="7"/>
+			<height normal="18"/>
+		</collision>
+	</npc>
+	<npc id="30897" level="70" type="VillageMasterDwarf" name="로만" title="로만">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="85"/>
+			<param name="chk_my_cat" value="sub_group_black"/>
+		</parameters>
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444.46819" hpRegen="7.5" mp="1345.8" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="18"/> <!-- Dwarves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="16.5"/>
+		</collision>
+	</npc>
+	<npc id="30898" level="70" type="Merchant" name="모닝" title="모닝">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="126"/>
+		</parameters>
+		<race>DWARF</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="20"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="18"/> <!-- Dwarves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="8"/>
+			<height normal="17.5"/>
+		</collision>
+	</npc>
+	<npc id="30899" level="70" type="Teleporter" name="플라우엔" title="플라우엔">
+		<parameters>
+			<param name="MoveAroundSocial" value="0"/>
+			<param name="MoveAroundSocial1" value="130"/>
+			<param name="IsGateKeeperForCoreTime" value="1"/>
+		</parameters>
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2444" hpRegen="7.5" mp="1345" mpRegen="2.7"/>
+			<attack physical="688.86373" magical="470.40463" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120"/>
+			<defence physical="295.91597" magical="216.53847"/>
+			<speed>
+				<walk ground="50"/>
+				<run ground="120"/>
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10"/>
+		</stats>
+		<status attackable="false" undying="true"/>
+		<skillList>
+			<skill id="4416" level="15"/> <!-- Elves -->
+			<skill id="4408" level="1"/> <!-- HP Increase (1x) -->
+			<skill id="4409" level="1"/> <!-- MP Increase (1x) -->
+			<skill id="4410" level="11"/> <!-- Average Damage Dealer -->
+			<skill id="4411" level="11"/> <!-- Average M. Atk. -->
+			<skill id="4412" level="11"/> <!-- Average P. Def. -->
+			<skill id="4413" level="11"/> <!-- Average M. Def. -->
+			<skill id="4414" level="2"/> <!-- Standard Type -->
+			<skill id="4415" level="3"/> <!-- One-handed Sword -->
+			<skill id="4045" level="1"/> <!-- Full Magic Attack Resistance -->
+		</skillList>
+		<exCrtEffect>true</exCrtEffect>
+		<ai clanHelpRange="300" aggroRange="450"/>
+		<collision>
+			<radius normal="13"/>
+			<height normal="23"/>
+		</collision>
+	</npc>
+</list>

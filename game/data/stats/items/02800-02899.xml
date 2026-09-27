@@ -1,0 +1,1204 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="2800" name="미공급 - 잭스의 일기장" type="EtcItem">
+		<!-- The item is not available. A diary obtained from Escort Jax. According to Jax, it may help in search of Solt's and Makel's maps. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2801" name="미공급 - 찢어진 지도 조각" type="EtcItem">
+		<!-- The item is not available. A piece of the map that belonged to the former guard Solt. Collect 4 of these. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2802" name="미공급 - 찢어진 지도 조각" type="EtcItem">
+		<!-- The item is not available. A piece of the map that belonged to the former guard Makel. Collect 4 of these. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2803" name="미공급 - 솔트의 지도" type="EtcItem">
+		<!-- The item is not available. A map with the name of the former guard Solt written on it. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2804" name="미공급 - 마켈의 지도" type="EtcItem">
+		<!-- The item is not available. A map with the name of the former guard Makel written on it. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2805" name="미공급 - 합쳐진 지도" type="EtcItem">
+		<!-- The item is not available. Use the map (Alt+M) to find where the lord's gold is hidden. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2806" name="미공급 - 녹슨 열쇠" type="EtcItem">
+		<!-- The item is not available. A rusty key discovered while digging under the tree indicated on the map. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2807" name="미공급 - 금괴" type="EtcItem">
+		<!-- The item is not available. A gold bar engraved with Duke Ashton's seal. Take it to Captain Alex. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2808" name="미공급 - 알란켈의 추천장" type="EtcItem">
+		<!-- The item is not available. A recommendation written by Captain Alex. Take it to Master Luther of the Warrior Guild in Hunters' Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2809" name="미공급 - 탐색자의 증표" type="EtcItem">
+		<!-- The item is not available. The mark given to those who have passed the Test of the Searcher. Required for changing class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2810" name="미공급 - 페린의 보고서" type="EtcItem">
+		<!-- The item is not available. Take it to Perrin in Gludin Harbor. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2811" name="미공급 - 크리스티나의 편지" type="EtcItem">
+		<!-- The item is not available. A letter given by Saint Kristina. Take it to Master Sorius of the Warrior Guild in Gludio. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2812" name="미공급 - 윈디의 그림" type="EtcItem">
+		<!-- The item is not available. A picture of Windy. Take it to Windy. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2813" name="미공급 - 금빛의 상" type="EtcItem">
+		<!-- The item is not available. The reward given by the head of the orphanage. Is it really useful...? -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2814" name="미공급 - 윈디의 조약돌" type="EtcItem">
+		<!-- The item is not available. Pebbles that Windy has picked up in the Wasteland. Take it to Gupu, the head of the orphanage near Gludio. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2815" name="미공급 - 소리우스의 명령서" type="EtcItem">
+		<!-- The item is not available. Take it to Daurin who can be found to the west of the Orc Barracks. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2816" name="미공급 - 첫 번째 밀서" type="EtcItem">
+		<!-- The item is not available. A document of Leto Lizardmen from the Plains of the Lizardmen. Collect all of the letters and take them to Saint Kristina. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2817" name="미공급 - 두 번째 밀서" type="EtcItem">
+		<!-- The item is not available. A document of Leto Lizardmen from the Plains of the Lizardmen. Collect all of the letters and take them to Saint Kristina. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2818" name="미공급 - 세 번째 밀서" type="EtcItem">
+		<!-- The item is not available. A document of Leto Lizardmen from the Plains of the Lizardmen. Collect all of the letters and take them to Saint Kristina. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2819" name="미공급 - 네 번째 밀서" type="EtcItem">
+		<!-- The item is not available. A document of Leto Lizardmen from the Plains of the Lizardmen. Collect all of the letters and take them to Saint Kristina. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2820" name="미공급 - 치유자의 증표" type="EtcItem">
+		<!-- The item is not available. The mark given to those who have passed the Test of the Healer. Required for changing your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2821" name="미공급 - 변혁자의 증표" type="EtcItem">
+		<!-- The item is not available. The mark given to those who have passed the Trial of the Reformer. Required for changing your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2822" name="미공급 - 변화의 서" type="EtcItem">
+		<!-- The item is not available. A book received from Priestess Pupina. Go to the Execution Grounds and slay the undead there with the power of light. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2823" name="미공급 - 소개장" type="EtcItem">
+		<!-- The item is not available. A letter from Priestess Pupina. Take it to Prophet Sla in the Wasteland. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2824" name="미공급 - 슬라의 편지" type="EtcItem">
+		<!-- The item is not available. A letter written by Sla. Take it to Katari who is near the waterfalls in the Neutral Zone. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2825" name="미공급 - 안부편지" type="EtcItem">
+		<!-- The item is not available. A letter sent by Sla to her disciples. Go to the Orc Village, Dwarven Village, and Talking Island in this order. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2826" name="미공급 - 올 마훔의 돈" type="EtcItem">
+		<!-- The item is not available. Ol Mahum money given as a reward. For what...? Nobody knows. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2827" name="미공급 - 카타리의 편지" type="EtcItem">
+		<!-- The item is not available. Katari's reply letter. Collect 3 reply letters from Sla's disciples and take them to Prophet Sla in the Plains of Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2828" name="미공급 - 냐쿠리의 편지" type="EtcItem">
+		<!-- The item is not available. Nyakuri's letter to Sla. Collect 3 letters from Sla's disciples and take them to Prophetess Sla in the Plains of Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2829" name="미공급 - 언데드 목록" type="EtcItem">
+		<!-- The item is not available. Kill Skeleton Shooter, Skeleton Ranger, Skeleton Sniper, Skeleton Convict and Silent Horror in the Elven Ruins and collect their Bone Fragments. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2830" name="미공급 - 라머스의 편지" type="EtcItem">
+		<!-- The item is not available. Ramus' reply letter. Collect 3 reply letters from Sla's disciples and take them to Sla. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2831" name="미공급 - 찢어진 일기조각" type="EtcItem">
+		<!-- The item is not available. A ripped diary containing the final words of a young woman unfairly killed during the witch hunts of Duke Byron Ashton. Collect 7 of these. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2832" name="미공급 - 거대한 못" type="EtcItem">
+		<!-- The item is not available. A large nail embedded in Alraune's skull. Take it to Priestess Pupina in Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2833" name="미공급 - 배신자의 편지" type="EtcItem">
+		<!-- The item is not available. A letter obtained from Ol Mahum Betrayer. Take it to Katari in the swamp area of the Dark Forest. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2834" name="미공급 - 사일런트 호러의 뼛조각" type="EtcItem">
+		<!-- The item is not available. Silent Horror's bone fragment. Take it, along with the rest of the undead bones, to Ramus who can be found in the southern part of Talking Island's Elven Ruins. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2835" name="미공급 - 해골 수색병의 뼛조각" type="EtcItem">
+		<!-- The item is not available. A Skeleton Ranger's bone fragment. Take it, along with the rest of the undead bones, to Ramus who can be found in the southern part of Talking Island's Elven Ruins. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2836" name="미공급 - 해골 저격병의 뼛조각" type="EtcItem">
+		<!-- The item is not available. Skeleton Marksman's bone fragment. Take it, along with the rest of the undead bones, to Ramus who can be found in the southern part of Talking Island's Elven Ruins. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2837" name="미공급 - 전율을 찾는자의 뼛조각" type="EtcItem">
+		<!-- The item is not available. Skeleton Convict's bone fragment. Take it, along with the rest of the undead bones, to Ramus who can be found in the southern part of Talking Island's Elven Ruins. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2838" name="미공급 - 해골 궁수의 뼛조각" type="EtcItem">
+		<!-- The item is not available. A Skeleton Archer's bone fragment. Take it, along with the rest of the undead bones, to Ramus who can be found in the southern part of Talking Island's Elven Ruins. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2839" name="미공급 - 뼛조각" type="EtcItem">
+		<!-- The item is not available. A skeleton's bone fragment. Take it, along with the rest of the undead bones, to Ramus. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2840" name="미공급 - 마도사의 증표" type="EtcItem">
+		<!-- The item is not available. The mark given to those who have passed the Trial of the Magus. Required for changing your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2841" name="미공급 - 루칼의 편지" type="EtcItem">
+		<!-- The item is not available. A letter sent by Bard Rukal to Parina in the Temple of Einhasad in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2842" name="미공급 - 패리나의 편지" type="EtcItem">
+		<!-- The item is not available. A letter sent by Parina to Elder Casian. Apparently it is about the singing flower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2843" name="미공급 - 라일락의 부적" type="EtcItem">
+		<!-- The item is not available. A protection charm created by Elder Casian. Take it and seek out three types of singing flowers. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2844" name="미공급 - 황금의 씨앗" type="EtcItem">
+		<!-- The item is not available. A seed of a singing flower, which absorbs blood in order to bloom. Collect 3 of these and take them to Bard Rukal in the Temple of Einhasad in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2845" name="미공급 - 황금의 씨앗" type="EtcItem">
+		<!-- The item is not available. A seed of a singing flower, which absorbs blood in order to bloom. Collect 3 of these and take them to Bard Rukal in the Temple of Einhasad in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2846" name="미공급 - 황금의 씨앗" type="EtcItem">
+		<!-- The item is not available. A seed of a singing flower, which absorbs blood in order to bloom. Collect 3 of these and take them to Bard Rukal in the Temple of Einhasad in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2847" name="미공급 - 원소의 악보" type="EtcItem">
+		<!-- The item is not available. A music score sheet given by Bard Rukal in the Temple of Einhasad in Dion. Take it and find all Elemental tones. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2848" name="미공급 - 현혹의 물방울" type="EtcItem">
+		<!-- The item is not available. A dazzling tear-shaped jewel. Collect 20 of these and take them to Water Undine in the outskirts of Fellmere Lake. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2849" name="미공급 - 화염의 결정체" type="EtcItem">
+		<!-- The item is not available. A crystal obtained from Ghost Fire. Collect 5 of these and take them to Salamander of the Flames who can be found in the southern part of the Ruins of Despair. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2850" name="미공급 - 하피의 깃털" type="EtcItem">
+		<!-- The item is not available. A feather of a slain Harpy. Collect 20 of these and take them to Wind Sylph who can be found at the Wasteland's southern exit. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2851" name="미공급 - 웜의 날개뼈" type="EtcItem">
+		<!-- The item is not available. A Wyrm's wingbone obtained in the Gorgon Flower Garden. Collect 10 of these and take them to Wind Sylph who can be found at the northern exit from the Wasteland. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2852" name="미공급 - 윈드수스의 갈기털" type="EtcItem">
+		<!-- The item is not available. Mane of a slain Windsus. Collect 10 of these and take them to Wind Sylph who can be found at the northern exit from the Wasteland. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2853" name="미공급 - 강화 괴물눈의 껍질" type="EtcItem">
+		<!-- The item is not available. Skin of a slain Reinforced Monster Eye. Collect 10 of these and take them to Earth Snake who can be found in the outskirts of the Ruins of Agony. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2854" name="미공급 - 강화 돌골렘의 돌가루" type="EtcItem">
+		<!-- The item is not available. Stone powder obtained after slaying a Reinforced Stone Golem. Collect 10 of these and take them to Earth Snake who can be found in the outskirts of the Ruins of Agony. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2855" name="미공급 - 강화 강철 골렘의 파편" type="EtcItem">
+		<!-- The item is not available. A fragment of a destroyed Reinforced Steel Golem. Collect 10 of these and take them to Earth Snake who can be found in the outskirts of the Ruins of Agony. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2856" name="미공급 - 물의 음표" type="EtcItem">
+		<!-- The item is not available. One of the notes that comprise the beautiful melody of the four elements. Take it to Bard Rukal in the Temple of Einhasad in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2857" name="미공급 - 불의 음표" type="EtcItem">
+		<!-- The item is not available. One of the notes that comprise the beautiful melody of the four elements. Take it to Bard Rukal in the Temple of Einhasad in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2858" name="미공급 - 바람의 음표" type="EtcItem">
+		<!-- The item is not available. One of the notes that comprise the beautiful melody of the four elements. Take it to Bard Rukal in the Temple of Einhasad in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2859" name="미공급 - 대지의 음표" type="EtcItem">
+		<!-- The item is not available. One of the notes that comprise the beautiful melody of the four elements. Take it to Bard Rukal in the Temple of Einhasad in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2860" name="미공급 - 살러맨더의 부적" type="EtcItem">
+		<!-- The item is not available. A charm given by Salamander of the Flames. It promises to give Tone of Fire in return for 5 Flame Crystals after you kill Ghost Fire in the Ivory Tower Crater. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2861" name="미공급 - 실프의 부적" type="EtcItem">
+		<!-- The item is not available. A charm given by Wind Sylph. It promises to give the Tone of Wind if you slay Harpies and Wyrms in the Gorgon Flower Garden and collect 20 Harpy's Feathers and 10 Wyrm's Wingbones, as well as 10 Windsus Manes in the Death Pass. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2862" name="미공급 - 운디네의 부적" type="EtcItem">
+		<!-- The item is not available. A charm given by Water Undine. It promises to give the Tone of Water in return for 20 Dazzling Drops that can be obtained from slaying Toad Lord and Stakato Drone in Cruma Marshlands. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2863" name="미공급 - 뱀의 부적" type="EtcItem">
+		<!-- The item is not available. A charm given by Earth Snake. It promises to give the Tone of Earth in return for the materials collected by slaying Reinforced Stone Golems, Reinforced Steel Golems and Reinforced Monster Eyes in the Ivory Tower Crater. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2864" name="미공급 - 발란키의 추천장" type="EtcItem">
+		<!-- The item is not available. A recommendation given by Balanki. Collect three recommendations and take them to Lockirin in the Hall of Elders of the Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2865" name="미공급 - 필라르의 추천장" type="EtcItem">
+		<!-- The item is not available. A recommendation given by Filaur. Collect three recommendations and take them to Lockirin in the Hall of Elders of the Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2866" name="미공급 - 아린의 추천장" type="EtcItem">
+		<!-- The item is not available. A recommendation given by Arin. Collect three recommendations and take them to Lockirin in the Hall of Elders of the Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2867" name="미공급 - 마에스트로의 증표" type="EtcItem">
+		<!-- The item is not available. The mark given to those who have passed the Trial of the Maestro. Required for changing your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2868" name="미공급 - 용병파견서" type="EtcItem">
+		<!-- The item is not available. A letter from Chief Croto who promises to send soldiers. Take it to Lockirin in the Hall of Elders of the Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2869" name="미공급 - 카무르의 그림" type="EtcItem">
+		<!-- The item is not available. A portrait of Kamuru. Go to the Cave of Trials on the Immortal Plateau to seek him out. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2870" name="미공급 - 카무르의 목걸이" type="EtcItem">
+		<!-- The item is not available. A necklace worn by Kamuru. Take it to Chief Croto in the Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2871" name="미공급 - 텔레포트장치의 그림" type="EtcItem">
+		<!-- The item is not available. A picture of a teleport device. Recover the device from Master Toma. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2872" name="미공급 - 텔레포트 장치" type="EtcItem">
+		<!-- The item is not available. A teleport device given by Master Toma. Take it to Arin in the Hall of Elders of the Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_destroyable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2873" name="미공급 - 크루마의 건축" type="EtcItem">
+		<!-- The item is not available. A simple explanation of Cruma Tower's architecture. Take it to Researcher Lorain who can be found at the entrance to Cruma Tower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2874" name="미공급 - 크루마 보고서" type="EtcItem">
+		<!-- The item is not available. A report recording the results of the Cruma Tower research. Take it to Filaur in the Hall of Elders of the Dwarven Village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2875" name="미공급 - 해독제 재료목록" type="EtcItem">
+		<!-- The item is not available. Collect 10 Weird Wasp Needles, 10 Marsh Spider's Webs and 10 Leech Blood Vials and take them to Researcher Lorain at Cruma Tower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2876" name="미공급 - 위어드 비의 독침" type="EtcItem">
+		<!-- The item is not available. Collect 10 of these and take them, along with everything else, to Researcher Lorain who can be found in the outskirts of Cruma Tower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2877" name="미공급 - 늪 거미의 거미줄" type="EtcItem">
+		<!-- The item is not available. Collect 10 of these and take them, along with everything else, to Researcher Lorain who can be found in the outskirts of Cruma Tower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2878" name="미공급 - 거머리의 피" type="EtcItem">
+		<!-- The item is not available. Collect 10 of these and take them, along with everything else, to Researcher Lorain who can be found in the outskirts of Cruma Tower. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2879" name="미공급 - 전쟁령의 증표" type="EtcItem">
+		<!-- The item is not available. The mark given to those who have passed the Test of the War Spirit. Required for changing your class. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2880" name="미공급 - 복수의 토템" type="EtcItem">
+		<!-- The item is not available. The totem granted to Orcs who are ready to punish traitors of their people. Carry it with you while killing Tamlin Orcs. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2881" name="미공급 - 탐린 오크의 머리" type="EtcItem">
+		<!-- The item is not available. The head of a slain Tamlin Orc. Collect 13 or more of these and take them to Priest Somak. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2882" name="미공급 - 전쟁령의 토템" type="EtcItem">
+		<!-- The item is not available. The totem used during the Test of the War Spirit. Take it to the Ancestor Martankus in the Cave of Trials. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2883" name="미공급 - 오림의 계약서" type="EtcItem">
+		<!-- The item is not available. 'I will give you Braki's Remains in exchange for 10 Porta's Eyes, 10 Excuro's Scales and 10 Mordeo's Talons.' -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2884" name="미공급 - 포르타의 눈" type="EtcItem">
+		<!-- The item is not available. A jewel pried from a Porta's eye. Collect 10 of these and take them to Shadow Orim in the Death Pass. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2885" name="미공급 - 엑스쿠로의 비늘" type="EtcItem">
+		<!-- The item is not available. Excuro's scale. Collect 10 of these and take them to Shadow Orim in the Death Pass. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2886" name="미공급 - 모르데오의 발톱" type="EtcItem">
+		<!-- The item is not available. Mordeo's talon. Collect 10 of these and take them to Shadow Orim in the Death Pass. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2887" name="미공급 - 브라키의 유골" type="EtcItem">
+		<!-- The item is not available. The remains of Braki, an ancient Orc hero. Take it, along with the remains of three other heroes, to Priest Somak in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2888" name="미공급 - 페키론의 토템" type="EtcItem">
+		<!-- The item is not available. A guardian totem received from Priest Pekiron. Take it and kill Leto Lizardman Shamans and Chiefs on the Plains of the Lizardmen to recover Tonar's remains. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2889" name="미공급 - 토나르의 두개골" type="EtcItem">
+		<!-- The item is not available. The skull of Tonar, an ancient Orc hero. Take it, along with other remains, to Priest Pekiron in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2890" name="미공급 - 토나르의 갈비뼈" type="EtcItem">
+		<!-- The item is not available. A rib bone of Tonar, an ancient Orc hero. Take it, along with other remains, to Priest Pekiron in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2891" name="미공급 - 토나르의 등뼈" type="EtcItem">
+		<!-- The item is not available. The spine of Tonar, an ancient Orc hero. Take it, along with other remains, to Priest Pekiron in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2892" name="미공급 - 토나르의 팔뼈" type="EtcItem">
+		<!-- The item is not available. An arm bone of Tonar, an ancient Orc hero. Take it, along with other remains, to Priest Pekiron in Oren. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2893" name="미공급 - 토나르의 정강이뼈" type="EtcItem">
+		<!-- The item is not available. A thigh bone of Tonar, an ancient Orc hero. Take it, along with other remains, to Priest Pekiron in Oren. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2894" name="미공급 - 토나르의 유골" type="EtcItem">
+		<!-- The item is not available. The remains of Tonar, an ancient Orc hero. Take it, along with the remains of three other heroes, to Priest Somak in Dion. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2895" name="미공급 - 마나키아의 토템" type="EtcItem">
+		<!-- The item is not available. The totem received from Priest Manakia. Take it with you when going hunting Medusas and Gorgon Queen Stheno to recover Hermodt's remains. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2896" name="미공급 - 헤르모트의 두개골" type="EtcItem">
+		<!-- The item is not available. The skull of Hermodt, an ancient Orc hero. Take it, along with other remains, to Priest Manakia in the Orc Guild of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2897" name="미공급 - 헤르모트의 갈비뼈" type="EtcItem">
+		<!-- The item is not available. A rib bone of Hermodt, an ancient Orc hero. Take it, along with other remains, to Priest Manakia in the Orc Guild of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2898" name="미공급 - 헤르모트의 등뼈" type="EtcItem">
+		<!-- The item is not available. The spine of Hermodt, an ancient Orc hero. Take it, along with other remains, to Priest Manakia in the Orc Guild of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+	<item id="2899" name="미공급 - 헤르모트의 팔뼈" type="EtcItem">
+		<!-- The item is not available. An arm bone of Hermodt, an ancient Orc hero. Take it, along with other remains, to Priest Manakia in the Orc Guild of Giran. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_depositable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_questitem" val="true"/>
+	</item>
+</list>

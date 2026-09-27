@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- 천상의 교환 티켓 -->
+	</npcs>
+
+	<item>
+		<ingredient count="1" id="101751" /> <!-- 천상의 교환 티켓 -->
+		<production count="1" id="99953" /> <!-- 그랑카인의 펜던트 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101751" /> <!-- 천상의 교환 티켓 -->
+		<production count="1" id="99955" /> <!-- 천상의 망토 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101751" /> <!-- 천상의 교환 티켓 -->
+		<production count="1" id="99954" /> <!-- 발라카스 아가시온 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101751" /> <!-- 천상의 교환 티켓 -->
+		<production count="1" id="98240" /> <!-- 드래곤의 알 아가시온 팩 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101751" /> <!-- 천상의 교환 티켓 -->
+		<production count="1" id="100555" /> <!-- 천상의 탈리스만 강화 패키지 -->
+	</item>
+	<item>
+		<ingredient count="1" id="101751" /> <!-- 천상의 교환 티켓 -->
+		<production count="1" id="100589" /> <!-- 팬텀 마스크 강화 패키지 -->
+	</item>
+	<item>
+		<ingredient count="100" id="95570" /> <!-- 명예 주화 -->
+		<production count="1" id="101214" /> <!-- 인형 소환권(영웅) - 1회 -->
+	</item>
+</list>

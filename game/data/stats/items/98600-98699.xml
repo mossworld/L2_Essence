@@ -1,0 +1,1471 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="98600" name="중급 HP 물약 100개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.medium_healing_potion_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97799" min="100" max="100" chance="100" name="중급 HP 물약"/> <!-- Mid-grade HP Recovery Potion -->
+		</capsuled_items>
+	</item>
+	<item id="98601" name="엘모아덴의 탑 시간 충전석 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.timezone_refill_new_i04"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96124" min="2" max="2" chance="100" name="엘모아덴의 탑 시간 충전석"/> <!-- Elmoreden Tower's Time Stone - Sealed -->
+			<item id="96729" min="6" max="6" chance="100" name="아인하사드의 가호"/> <!-- Einhasad's Protection - Sealed -->
+			<item id="91712" min="6" max="6" chance="100" name="사이하의 폭풍 (기간제)"/> <!-- Sayha's Storm (Time-limited) - Sealed -->
+			<item id="91757" min="2" max="2" chance="100" name="마법 램프 가속 물약"/> <!-- Magic Lamp Charging Potion - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98602" name="수련 던전 추가 입장권 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ticket_blue_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96941" min="1" max="1" chance="100" name="수련 던전 추가 입장권"/> <!-- Extra Pass: Training Zone - Sealed -->
+			<item id="96729" min="3" max="3" chance="100" name="아인하사드의 가호"/> <!-- Einhasad's Protection - Sealed -->
+			<item id="91712" min="3" max="3" chance="100" name="사이하의 폭풍 (기간제)"/> <!-- Sayha's Storm (Time-limited) - Sealed -->
+			<item id="91757" min="1" max="1" chance="100" name="마법 램프 가속 물약"/> <!-- Magic Lamp Charging Potion - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98603" name="이달의 선물 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i02"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98604" min="1" max="1" chance="100" name="이달의 선물 - 입장권 (기간제)"/> <!-- Monthly Gift - Ticket (Time-limited) - Sealed -->
+			<item id="98605" min="1" max="1" chance="100" name="이달의 선물 - 수집가 장비 (기간제)"/> <!-- Monthly Gift - Collector's Equipment (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98604" name="이달의 선물 - 입장권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.npoint_valakas_30day_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97425" min="2" max="2" chance="100" name="초월 던전 추가 입장권 (기간제)"/> <!-- Extra Pass: Transcendent Instance Zone (Time-limited) - Sealed -->
+			<item id="94615" min="4" max="4" chance="100" name="잊혀진 정원 시간 충전석 (기간제)"/> <!-- Forgotten Garden's Time Stone (Time-limited) - Sealed -->
+			<item id="94620" min="4" max="4" chance="100" name="원시의 섬 시간 충전석 (기간제)"/> <!-- Primeval Isle's Time Stone (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98605" name="이달의 선물 - 수집가 장비 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.npoint_earring_of_lind_30day_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98606" min="2" max="2" chance="100" name="수집가의 무기 C 팩"/> <!-- Package: Collector's Weapon C - Sealed -->
+			<item id="98607" min="2" max="2" chance="100" name="수집가의 방어구 C 팩"/> <!-- Package: Collector's Armor C - Sealed -->
+			<item id="98608" min="2" max="2" chance="100" name="수집가의 무기 B 팩"/> <!-- Package: Collector's Weapon B - Sealed -->
+			<item id="98609" min="2" max="2" chance="100" name="수집가의 방어구 B 팩"/> <!-- Package: Collector's Armor B - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98606" name="수집가의 무기 C 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_pasis_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97653" min="1" max="1" chance="100" name="수집가의 무기 C"/> <!-- Collector's Weapon C - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98607" name="수집가의 방어구 C 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.pirate_crew_change"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97654" min="1" max="1" chance="100" name="수집가의 방어구 C"/> <!-- Collector's Armor C - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98608" name="수집가의 무기 B 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.weapon_pasis_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98089" min="1" max="1" chance="100" name="수집가의 무기 B"/> <!-- Collector's Weapon B - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98609" name="수집가의 방어구 B 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.pirate_crew_change"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98090" min="1" max="1" chance="100" name="수집가의 방어구 B"/> <!-- Collector's Armor B - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98610" name="축복받은 권능의 탈리스만" type="Armor">
+		<!-- A talisman imbued with the power of authority. Can be enchanted with Scroll: Enchant Ornaments. Max enchant value: +10. Greater Upgrade Stone can be used from +5 to +7. Transcendent Upgrade Stone can be used from +8 and higher. <font color=ff6666>Note!</font>. Effects of two or more talismans with the same name do not stack -->
+		<set name="icon" val="icon.bless_tallisman_of_power_i00"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="talisman"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50352" level="2"/> <!-- Blessed Talisman of Authority -->
+			<skill id="50352" level="4" type="ON_ENCHANT" type_value="1"/> <!-- +1 Blessed Talisman of Authority -->
+			<skill id="50352" level="6" type="ON_ENCHANT" type_value="2"/> <!-- +2 Blessed Talisman of Authority -->
+			<skill id="50352" level="8" type="ON_ENCHANT" type_value="3"/> <!-- +3 Blessed Talisman of Authority -->
+			<skill id="50352" level="10" type="ON_ENCHANT" type_value="4"/> <!-- +4 Blessed Talisman of Authority -->
+			<skill id="50352" level="12" type="ON_ENCHANT" type_value="5"/> <!-- +5 Blessed Talisman of Authority -->
+			<skill id="50352" level="14" type="ON_ENCHANT" type_value="6"/> <!-- +6 Blessed Talisman of Authority -->
+			<skill id="50352" level="16" type="ON_ENCHANT" type_value="7"/> <!-- +7 Blessed Talisman of Authority -->
+			<skill id="50352" level="18" type="ON_ENCHANT" type_value="8"/> <!-- +8 Blessed Talisman of Authority -->
+			<skill id="50352" level="20" type="ON_ENCHANT" type_value="9"/> <!-- +9 Blessed Talisman of Authority -->
+			<skill id="50352" level="22" type="ON_ENCHANT" type_value="10"/> <!-- +10 Blessed Talisman of Authority -->
+		</skills>
+	</item>
+	<item id="98611" name="장신구 강화 주문서" type="EtcItem">
+		<!-- Use to enchant Special Equipment. -->
+		<set name="icon" val="icon.bm_blessed_scrl_of_ench_lbracelet_charm"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="etcitem_type" val="ENCHT_AM"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="40481" level="1"/> <!-- Scroll: Enchant Ornaments -->
+		</skills>
+	</item>
+	<item id="98612" name="마법의 불꽃 10개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_soul_of_shilen"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98425" min="10" max="10" chance="100" name="마법의 불꽃 (기간제)"/> <!-- Magic Fire (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98613" name="사이하의 돌풍 10개 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.ev_magic_flame_game_wind2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98424" min="10" max="10" chance="100" name="사이하의 돌풍 (기간제)"/> <!-- Sayha's Gust (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98614" name="프레야의 얼음 결정 (기간제)" type="EtcItem">
+		<!-- Emits Freya's ice energy. <How to use>. Bring to NPC Jinia in any town to get a buff. -->
+		<set name="icon" val="icon.ev_2022_freya_reward_item"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98615" name="모험자의 강화 주문서" type="EtcItem">
+		<!-- A scroll for enchanting Agathion/ Cloak/ Belt/ Head Accessory/ Adventurer's Talisman. -->
+		<set name="icon" val="icon.etc_training_scroll_kalie_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="40489" level="1"/> <!-- Adventurer's Enchant Scroll -->
+		</skills>
+	</item>
+	<item id="98616" name="감사의 마음을 가득 담은 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.love_mark"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="97175" min="1" max="1" chance="33.33333" name="고급 마법서 교환권"/> <!-- Enhanced Spellbook Coupon - Not available - Sealed -->
+			<item id="97176" min="1" max="1" chance="33.33333" name="최고급 마법서 교환권"/> <!-- Unique Spellbook Coupon - Not available - Sealed -->
+			<item id="97177" min="1" max="1" chance="33.33333" name="희귀 마법서 교환권"/> <!-- Rare Spellbook Coupon - Not available - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98617" name="스위트 레드 와인 (기간제)" type="EtcItem">
+		<!-- Applies a buff when used. <Buff effect>. P. Atk. +50. M. Atk. +50. P. Def. +50. M. Def. +50. Acquired XP/ SP +10%. HP Recovery Rate +3. MP Recovery Rate +3. Duration: 60 min. Cooldown: 1 min. The effect remains after death. -->
+		<set name="icon" val="icon.ev_sweet_red_wine"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="40482" level="1"/> <!-- Sweet Red Wine -->
+		</skills>
+	</item>
+	<item id="98618" name="신비한 포도 (기간제)" type="EtcItem">
+		<!-- Can be used as a material in the special craft. -->
+		<set name="icon" val="icon.ev_mysterious_grape"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98619" name="와인 애호가의 증표 (기간제)" type="EtcItem">
+		<!-- Can be added to a collection or used as a material in the special craft. -->
+		<set name="icon" val="icon.ev_wine_fan_badge"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98620" name="크리스마스 양말 (기간제)" type="EtcItem">
+		<!-- <font color=bbaa88><Properties></font>. CON +1. MEN +1. P. Def. +100. M. Def. +100. Acquired XP/ SP +5%. HP Recovery Rate +4. MP Recovery Rate +4. Boosts stats when in inventory. <font color=eeaa22>Merry Christmas!</font> -->
+		<set name="icon" val="BranchSys.icon.br_xmas_present_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<skills>
+			<skill id="50319" level="1"/> <!-- Christmas Sock -->
+		</skills>
+	</item>
+	<item id="98621" name="얼어붙은 협곡 시간 충전석 (기간제)" type="EtcItem">
+		<!-- Prolongs your session zone's raid for 60 min. <Hunting zone>. Frozen Canyon. - Cooldown: 10 sec. -->
+		<set name="icon" val="icon.ev_220216_refill_60_harnak_limit"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="40487" level="1"/> <!-- Frozen Canyon's Time Stone -->
+		</skills>
+	</item>
+	<item id="98622" name="암살자 무기 - 단검" type="Weapon">
+		<set name="icon" val="icon.assassin_dagger"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DAGGER"/>
+		<set name="bodypart" val="lhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="A"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="106"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<stats>
+			<stat type="randomDamage">5</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="98623" name="무기 외형 - 암살자 무기" type="EtcItem">
+		<!-- A material for changing a weapon's appearance. -->
+		<set name="icon" val="icon.assassin_sword_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="Appearance"/>
+		<skills>
+			<skill id="40485" level="1"/> <!-- Appearance Stone: Assassin's Dagger -->
+		</skills>
+	</item>
+	<item id="98624" name="마법서 - 라이딩 섀도우 와이번" type="EtcItem">
+		<!-- Double-click to learn how to ride Twilight Wyvern. -->
+		<set name="icon" val="icon.etc_spellbook_red_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="40483" level="1"/> <!-- Spellbook: Mount Twilight Wyvern -->
+		</skills>
+	</item>
+	<item id="98625" name="마법서 - 전설의 왕좌" type="EtcItem">
+		<!-- A spellbook for learning the Throne of Legend skill. Skill effect: You sit on the Throne of Legend continuously recovering HP. -->
+		<set name="icon" val="icon.etc_summon_subjob_skillbook_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="40484" level="1"/> <!-- Spellbook: Throne of Legend -->
+		</skills>
+	</item>
+	<item id="98626" name="전설의 귀환석" type="EtcItem">
+		<!-- Teleports to the nearest town. The item does not disappear upon use. -->
+		<set name="icon" val="icon.hero_recall_stone"/>
+		<set name="default_action" val="SKILL_REDUCE_ON_SKILL_SUCCESS"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="40486" level="1"/> <!-- Legendary Teleport Stone -->
+		</skills>
+	</item>
+	<item id="98627" name="방어구 외형 - 예복" type="EtcItem">
+		<!-- Allows you to change your armor appearance. <font color=ff6666><Not available for the following classes></font>. Samurai. Warg. Divine Templar. Element Weaver -->
+		<set name="icon" val="BranchSys2.icon.br_wedding_vail_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="Appearance"/>
+		<skills>
+			<skill id="40488" level="1"/> <!-- Appearance Stone: Formal Wear -->
+		</skills>
+	</item>
+	<item id="98628" name="특수 장비 교환 티켓 200개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.red_save_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98294" min="200" max="200" chance="100" name="특수 장비 교환 티켓 (기간제)"/> <!-- Special Equipment Certificate (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98629" name="특수 장비 교환 티켓 500개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.blue_save_ticket"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="98294" min="500" max="500" chance="100" name="특수 장비 교환 티켓 (기간제)"/> <!-- Special Equipment Certificate (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98630" name="인장 가득 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="2"/>
+		<set name="extractableCountMax" val="2"/>
+		<capsuled_items>
+			<item id="92314" min="1" max="1" chance="100" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="98042" min="1" max="1" chance="3.448276" name="영웅 마법서 상자"/> <!-- Heroic Spellbook Chest - Sealed -->
+			<item id="96300" min="1" max="1" chance="3.448276" name="마법서 - 드래곤 슬레이어"/> <!-- Spellbook: Dragon Slayer -->
+			<item id="96613" min="1" max="1" chance="3.448276" name="마법서 - 익스팬드 다이 포텐셜"/> <!-- Spellbook: Expanded Potential of Dyes -->
+			<item id="96297" min="1" max="1" chance="3.448276" name="얼음 군주의 무기 상자"/> <!-- Frost Lord's Weapon Pack - Sealed -->
+			<item id="96650" min="1" max="1" chance="3.448276" name="수호의 방어구 상자"/> <!-- Armor of Protection Pack - Sealed -->
+			<item id="98063" min="1" max="1" chance="3.448276" name="보스 무기 상자"/> <!-- Boss' Weapon Pack - Sealed -->
+			<item id="98300" min="1" max="1" chance="3.448276" name="특수 방어구 상자"/> <!-- Special Armor Pack - Sealed -->
+			<item id="90992" min="1" max="1" chance="3.448276" name="안타라스의 귀걸이"/> <!-- Antharas' Earring -->
+			<item id="91550" min="1" max="1" chance="3.448276" name="프린테사의 목걸이"/> <!-- Frintezza's Necklace -->
+			<item id="49580" min="1" max="1" chance="3.448276" name="바이움의 반지"/> <!-- Baium's Ring -->
+			<item id="49683" min="1" max="1" chance="3.448276" name="바이움 탈리스만"/> <!-- Talisman of Baium -->
+			<item id="94385" min="1" max="1" chance="3.448276" name="축복받은 레어 액세서리 강화 주문서"/> <!-- Improved Scroll: Enchant Rare Accessories -->
+			<item id="94383" min="1" max="1" chance="3.448276" name="레어 액세서리 강화 주문서"/> <!-- Scroll: Enchant Rare Accessories -->
+			<item id="98628" min="1" max="1" chance="3.448276" name="특수 장비 교환 티켓 200개 팩"/> <!-- Package: Special Equipment Certificate (200 pcs.) - Sealed -->
+			<item id="98629" min="1" max="1" chance="3.448276" name="특수 장비 교환 티켓 500개 팩"/> <!-- Package: Special Equipment Certificate (500 pcs.) - Sealed -->
+			<item id="93739" min="1" max="1" chance="3.448276" name="기란의 인장 1000개 팩"/> <!-- Package: Giran Seal (1000 pcs.) - Sealed -->
+			<item id="97859" min="1" max="1" chance="3.448276" name="안정된 레어 액세서리 강화 주문서"/> <!-- Stable Scroll: Enchant Rare Accessories -->
+			<item id="93255" min="1" max="1" chance="3.448276" name="축복받은 무기 강화 주문서"/> <!-- Blessed Scroll: Enchant Weapon -->
+			<item id="93256" min="1" max="1" chance="3.448276" name="축복받은 갑옷 강화 주문서"/> <!-- Blessed Scroll: Enchant Armor -->
+			<item id="93257" min="1" max="1" chance="3.448276" name="저주받은 무기 강화 주문서"/> <!-- Cursed Scroll: Enchant Weapon -->
+			<item id="93258" min="1" max="1" chance="3.448276" name="저주받은 갑옷 강화 주문서"/> <!-- Cursed Scroll: Enchant Armor -->
+			<item id="96623" min="1" max="1" chance="3.448276" name="염료 강화제"/> <!-- Dye Booster -->
+			<item id="98294" min="1" max="1" chance="3.448276" name="특수 장비 교환 티켓 (기간제)"/> <!-- Special Equipment Certificate (Time-limited) - Sealed -->
+			<item id="91690" min="30" max="30" chance="3.448276" name="특급 HP 물약 (기간제)"/> <!-- Special HP Recovery Potion - Sealed -->
+			<item id="92314" min="20" max="20" chance="3.448276" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="10" max="10" chance="3.448276" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="5" max="5" chance="3.448276" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="2" max="2" chance="3.448276" name="기란의 인장"/> <!-- Giran Seal -->
+			<item id="92314" min="1" max="1" chance="3.448276" name="기란의 인장"/> <!-- Giran Seal -->
+		</capsuled_items>
+	</item>
+	<item id="98631" name="프레야 토벌대 증표 (기간제)" type="EtcItem">
+		<!-- A proof of defeating Freya. <How to use>. Add it to a collection to get additional stat bonuses. Special Craft - Freya Elimination Team -->
+		<set name="icon" val="icon.bm_sayha_token"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98632" name="눈사람 인형 Lv1 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystals collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="98633" name="눈사람 인형 Lv2 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystals collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="98634" name="눈사람 인형 Lv3 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystals collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="98635" name="눈사람 인형 Lv4 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystals collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="98636" name="눈사람 인형 Lv5 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystals collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. <font color=EEAA22>Snowman Doll Lv. 5: Dye Powder</font>. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="98637" name="눈사람 인형 Lv6 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. <font color=EEAA22>Snowman Doll Lv. 6: Jewelry Box Lv. 2</font>. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon. <font color=bbaa88><Snowman Doll Lv. 6></font>. PvE damage +1%, P./ M. Atk. +5, P./ M. Def. +10, acquired XP/ SP +1%, MEN +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50320" level="6"/> <!-- Snowman Doll Lv. 6 -->
+		</skills>
+	</item>
+	<item id="98638" name="눈사람 인형 Lv7 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. <font color=EEAA22>Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack</font>. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon. <font color=bbaa88><Snowman Doll Lv. 7></font>. PvE damage +1%, P./ M. Atk. +10, P./ M. Def. +20, acquired XP/ SP +2%, MEN +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50320" level="7"/> <!-- Snowman Doll Lv. 7 -->
+		</skills>
+	</item>
+	<item id="98639" name="눈사람 인형 Lv8 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. <font color=EEAA22>Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack</font>. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon. <font color=bbaa88><Snowman Doll Lv. 8></font>. PvE damage +2%, P./ M. Atk. +15, P./ M. Def. +30, acquired XP/ SP +3%, MEN +1, CON +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50320" level="8"/> <!-- Snowman Doll Lv. 8 -->
+		</skills>
+	</item>
+	<item id="98640" name="눈사람 인형 Lv9 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. <font color=EEAA22>Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1</font>. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon. <font color=bbaa88><Snowman Doll Lv. 9></font>. PvE damage +2%, P./ M. Atk. +20, P./ M. Def. +40, acquired XP/ SP +4%, MEN +1, CON +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50320" level="9"/> <!-- Snowman Doll Lv. 9 -->
+		</skills>
+	</item>
+	<item id="98641" name="눈사람 인형 Lv10 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. <font color=EEAA22>Snowman Doll Lv. 10: +5 Special Equipment Pack</font>. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon. <font color=bbaa88><Snowman Doll Lv. 10></font>. PvE damage +2%, P./ M. Atk. +25, P./ M. Def. +50, acquired XP/ SP +5%, MEN +1, CON +1, WIT +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50320" level="10"/> <!-- Snowman Doll Lv. 10 -->
+		</skills>
+	</item>
+	<item id="98642" name="눈사람 인형 Lv11 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. <font color=EEAA22>Snowman Doll Lv. 11: Doll Pack Lv. 1-2</font>. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon. <font color=bbaa88><Snowman Doll Lv. 11></font>. PvE damage +3%, P./ M. Atk. +30, P./ M. Def. +60, acquired XP/ SP +6%, MEN +1, CON +1, WIT +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50320" level="11"/> <!-- Snowman Doll Lv. 11 -->
+		</skills>
+	</item>
+	<item id="98643" name="눈사람 인형 Lv12 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. <font color=EEAA22>Snowman Doll Lv. 12: Jewelry Box Lv. 5-6</font>. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon. <font color=bbaa88><Snowman Doll Lv. 12></font>. PvE damage +3%, P./ M. Atk. +35, P./ M. Def. +70, acquired XP/ SP +7%, MEN +1, CON +1, WIT +1, DEX +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50320" level="12"/> <!-- Snowman Doll Lv. 12 -->
+		</skills>
+	</item>
+	<item id="98644" name="눈사람 인형 Lv13 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. <font color=EEAA22>Snowman Doll Lv. 13: Rare Spellbook Coupon</font>. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. Snowman Doll Lv. 15: +7 Boss Weapon Coupon. <font color=bbaa88><Snowman Doll Lv. 13></font>. Received P. Skill Critical Rate -1%, received P. Skill Critical Damage -1%, PvE damage +3%, P./ M. Atk. +40, P./ M. Def. +80, acquired XP/ SP +8%, MEN +1, CON +1, WIT +1, DEX +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50320" level="13"/> <!-- Snowman Doll Lv. 13 -->
+		</skills>
+	</item>
+	<item id="98645" name="눈사람 인형 Lv14 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. <font color=EEAA22>Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack</font>. Snowman Doll Lv. 15: +7 Boss Weapon Coupon. <font color=bbaa88><Snowman Doll Lv. 14></font>. Received P. Skill Critical Rate -3%, received P. Skill Critical Damage -3%, PvE damage +4%, P./ M. Atk. +45, P./ M. Def. +90, acquired XP/ SP +9%, MEN +1, CON +1, WIT +1, DEX +1, INT +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50320" level="14"/> <!-- Snowman Doll Lv. 14 -->
+		</skills>
+	</item>
+	<item id="98646" name="눈사람 인형 Lv15 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystals collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Dye Powder. Snowman Doll Lv. 6: Jewelry Box Lv. 2. Snowman Doll Lv. 7: +0 ~ +4 Talisman Pack. Snowman Doll Lv. 8: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 9: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 10: +5 Special Equipment Pack. Snowman Doll Lv. 11: Doll Pack Lv. 1-2. Snowman Doll Lv. 12: Jewelry Box Lv. 5-6. Snowman Doll Lv. 13: Rare Spellbook Coupon. Snowman Doll Lv. 14: +1 ~ +3 Rare Accessory Pack. <font color=EEAA22>Snowman Doll Lv. 15: +7 Boss Weapon Coupon</font>. <font color=bbaa88><Snowman Doll Lv. 15></font>. Received P. Skill Critical Rate -5%, received P. Skill Critical Damage -5%, PvE damage +5%, P./ M. Atk. +50, P./ M. Def. +100, acquired XP/ SP +10%, all stats +1. <font color=bbaa88><When triggered: Fast Moving></font>. With a 2% chance, Speed +5 for 3 sec. on attack. -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50320" level="15"/> <!-- Snowman Doll Lv. 15 -->
+		</skills>
+	</item>
+	<item id="98647" name="눈사람 인형 Lv1 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="98648" name="눈사람 인형 Lv2 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="98649" name="눈사람 인형 Lv3 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="98650" name="눈사람 인형 Lv4 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="98651" name="눈사람 인형 Lv5 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. <font color=EEAA22>Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero</font>. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+	</item>
+	<item id="98652" name="눈사람 인형 Lv6 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. <font color=EEAA22>Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.)</font>. Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack. <font color=bbaa88><Snowman Doll Lv. 6></font>. PvE damage +1%, P./ M. Atk. +5, P./ M. Def. +10, acquired XP/ SP +1%, MEN +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50593" level="6"/> <!-- Snowman Doll Lv. 6 -->
+		</skills>
+	</item>
+	<item id="98653" name="눈사람 인형 Lv7 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). <font color=EEAA22>Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1</font>. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack. <font color=bbaa88><Snowman Doll Lv. 7></font>. PvE damage +1%, P./ M. Atk. +10, P./ M. Def. +20, acquired XP/ SP +2%, MEN +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50593" level="7"/> <!-- Snowman Doll Lv. 7 -->
+		</skills>
+	</item>
+	<item id="98654" name="눈사람 인형 Lv8 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. <font color=EEAA22>Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.)</font>. Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack. <font color=bbaa88><Snowman Doll Lv. 8></font>. PvE damage +2%, P./ M. Atk. +15, P./ M. Def. +30, acquired XP/ SP +3%, MEN +1, CON +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50593" level="8"/> <!-- Snowman Doll Lv. 8 -->
+		</skills>
+	</item>
+	<item id="98655" name="눈사람 인형 Lv9 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). <font color=EEAA22>Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.)</font>. Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack. <font color=bbaa88><Snowman Doll Lv. 9></font>. PvE damage +2%, P./ M. Atk. +20, P./ M. Def. +40, acquired XP/ SP +4%, MEN +1, CON +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50593" level="9"/> <!-- Snowman Doll Lv. 9 -->
+		</skills>
+	</item>
+	<item id="98656" name="눈사람 인형 Lv10 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). <font color=EEAA22>Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack</font>. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack. <font color=bbaa88><Snowman Doll Lv. 10></font>. PvE damage +2%, P./ M. Atk. +25, P./ M. Def. +50, acquired XP/ SP +5%, MEN +1, CON +1, WIT +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50593" level="10"/> <!-- Snowman Doll Lv. 10 -->
+		</skills>
+	</item>
+	<item id="98657" name="눈사람 인형 Lv11 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. <font color=EEAA22>Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack</font>. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack. <font color=bbaa88><Snowman Doll Lv. 11></font>. PvE damage +3%, P./ M. Atk. +30, P./ M. Def. +60, acquired XP/ SP +6%, MEN +1, CON +1, WIT +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50593" level="11"/> <!-- Snowman Doll Lv. 11 -->
+		</skills>
+	</item>
+	<item id="98658" name="눈사람 인형 Lv12 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. <font color=EEAA22>Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection</font>. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack. <font color=bbaa88><Snowman Doll Lv. 12></font>. PvE damage +3%, P./ M. Atk. +35, P./ M. Def. +70, acquired XP/ SP +7%, MEN +1, CON +1, WIT +1, DEX +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50593" level="12"/> <!-- Snowman Doll Lv. 12 -->
+		</skills>
+	</item>
+	<item id="98659" name="눈사람 인형 Lv13 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. <font color=EEAA22>Snowman Doll Lv. 13: Jewelry Box Lv. 5</font>. Snowman Doll Lv. 14: Rare Accessory Pack. Snowman Doll Lv. 15: Special Armor Pack. <font color=bbaa88><Snowman Doll Lv. 13></font>. Received Critical Rate -1%, received P. Skill Critical Damage -1%, PvE damage +3%, P./ M. Atk. +40, P./ M. Def. +80, acquired XP/ SP +8%, MEN +1, CON +1, WIT +1, DEX +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50593" level="13"/> <!-- Snowman Doll Lv. 13 -->
+		</skills>
+	</item>
+	<item id="98660" name="눈사람 인형 Lv14 (기간제)" type="EtcItem">
+		<!-- Can be crafted using Snow Crystal collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. <font color=EEAA22>Snowman Doll Lv. 14: Rare Accessory Pack</font>. Snowman Doll Lv. 15: Special Armor Pack. <font color=bbaa88><Snowman Doll Lv. 14></font>. Received Critical Rate -3%, received P. Skill Critical Damage -3%, PvE damage +4%, P./ M. Atk. +45, P./ M. Def. +90, acquired XP/ SP +9%, MEN +1, CON +1, WIT +1, DEX +1, INT +1 -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50593" level="14"/> <!-- Snowman Doll Lv. 14 -->
+		</skills>
+	</item>
+	<item id="98661" name="눈사람 인형 Lv15 (기간제)" type="EtcItem">
+		<!-- Can be crafted from Snow Crystals collected in the Frozen Canyon. Use <font color=EEAA22>Snow Crystals</font> to upgrade it through compounding. <font color=bbaa88><Item to craft></font>. Special craft - Snowman Doll. <font color=bbaa88><Received items></font>. Snowman Doll Lv. 5: Enchant Kit: Circlet of Hero. Snowman Doll Lv. 6: Package: Cloak of Protection (2 pcs.). Snowman Doll Lv. 7: Package: Einhasad's Pendant Lv. 1. Snowman Doll Lv. 8: Scroll: Enchant A-grade Armor (6 pcs.). Snowman Doll Lv. 9: Scroll: Enchant A-grade Weapon (3 pcs.). Snowman Doll Lv. 10: Blessed/ Cursed Enchant Scroll Pack. Snowman Doll Lv. 11: +6 ~ +8 Talisman of Aden Pack. Snowman Doll Lv. 12: Package: +6 ~ +8 Cloak of Protection. Snowman Doll Lv. 13: Jewelry Box Lv. 5. Snowman Doll Lv. 14: Rare Accessory Pack. <font color=EEAA22>Snowman Doll Lv. 15: Special Armor Pack</font>. <font color=bbaa88><Snowman Doll Lv. 15></font>. Received P. Skill Critical Rate -5%, received P. Skill Critical Damage -5%, PvE damage +5%, P./ M. Atk. +50, P./ M. Def. +100, acquired XP/ SP +10%, all stats +1. <font color=bbaa88><When triggered: Fast Moving></font>. With a 2% chance, Speed +5 for 3 sec. on attack. -->
+		<set name="icon" val="icon.weapon_snowman_stick_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="50593" level="15"/> <!-- Snowman Doll Lv. 15 -->
+		</skills>
+	</item>
+	<item id="98662" name="스탯 컬렉션 - 자켄의 결정체 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Zaken's Crystal in Stat Collection. -->
+		<set name="icon" val="icon.dragon_blood"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98663" name="스탯 컬렉션 - 오르펜의 결정체 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Orfen's Crystal in Stat Collection. -->
+		<set name="icon" val="icon.orfen_crystal"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98664" name="스탯 컬렉션 - 코어의 결정체 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Core's Crystal in Stat Collection. -->
+		<set name="icon" val="icon.core_crystal"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98665" name="스탯 컬렉션 - 바이움의 결정체 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Baium's Crystal in Stat Collection. -->
+		<set name="icon" val="icon.baium_crystal"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98666" name="스탯 컬렉션 - 여왕개미의 결정체 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Queen Ant's Crystal in Stat Collection. -->
+		<set name="icon" val="icon.queen_ant_crystal"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98667" name="스탯 컬렉션 - 바이움 인형 Lv1 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Baium Doll Lv. 1 in Stat Collection. -->
+		<set name="icon" val="icon.bm_baium_doll_30d"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98668" name="스탯 컬렉션 - 여왕개미 인형 Lv1 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Queen Ant Doll Lv. 1 in Stat Collection. -->
+		<set name="icon" val="icon.bm_queen_ant_doll_30d"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98669" name="스탯 컬렉션 - 오르펜 인형 Lv1 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Orfen Doll Lv. 1 in Stat Collection. -->
+		<set name="icon" val="icon.bm_orfen_doll_30d"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98670" name="스탯 컬렉션 - 프린테사 인형 Lv1 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Frintezza Doll Lv. 1 in Stat Collection. -->
+		<set name="icon" val="icon.bm_doll_frintessa_30d"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98671" name="스탯 컬렉션 - 자켄 인형 Lv1 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Zaken Doll Lv. 1 in Stat Collection. -->
+		<set name="icon" val="icon.bm_zaken_doll_30d"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98672" name="스탯 컬렉션 - 코어 인형 Lv1 (기간제)" type="EtcItem">
+		<!-- Can be used as a replacement for Core Doll Lv. 1 in Stat Collection. -->
+		<set name="icon" val="icon.bm_core_doll_30d"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98673" name="토벌 무기 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_week_package"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="95446" min="1" max="1" chance="5.555555" name="엑스쿠로의 홀"/> <!-- Excuro's Staff - Sealed -->
+			<item id="95447" min="1" max="1" chance="5.555555" name="토르페의 발톱"/> <!-- Torfe's Claw - Sealed -->
+			<item id="95448" min="1" max="1" chance="5.555555" name="거인의 둔기"/> <!-- Giants' Club - Sealed -->
+			<item id="95449" min="1" max="1" chance="5.555555" name="고대의 세검"/> <!-- Ancient Rapier - Sealed -->
+			<item id="95450" min="1" max="1" chance="5.555555" name="수호 전령의 창"/> <!-- Guardian Messenger's Spear - Sealed -->
+			<item id="95451" min="1" max="1" chance="5.555555" name="봉인된 천사의 해머"/> <!-- Sealed Angel's Hammer - Sealed -->
+			<item id="95452" min="1" max="1" chance="5.555555" name="리자드맨 샤먼의 지팡이"/> <!-- Lizardman Shaman's Staff - Sealed -->
+			<item id="95453" min="1" max="1" chance="5.555555" name="리자드맨 슬레이어"/> <!-- Lizard Slayer - Sealed -->
+			<item id="95454" min="1" max="1" chance="5.555555" name="망자의 단검"/> <!-- Deadman's Dagger - Sealed -->
+			<item id="95455" min="1" max="1" chance="5.555555" name="드래곤 본 블레이드"/> <!-- Dragon Bone Blade - Sealed -->
+			<item id="95456" min="1" max="1" chance="5.555555" name="광전사의 검"/> <!-- Berserker's Sword - Sealed -->
+			<item id="95457" min="1" max="1" chance="5.555555" name="셀 마훔 스나이퍼"/> <!-- Sel Mahum Sniper - Sealed -->
+			<item id="95458" min="1" max="1" chance="5.555555" name="투렉 오크 군장의 듀얼소드"/> <!-- Turek Orc Overlord's Dual Swords - Sealed -->
+			<item id="95459" min="1" max="1" chance="5.555555" name="도살자의 대도"/> <!-- Butcher's Long Sword - Sealed -->
+			<item id="96722" min="1" max="1" chance="5.555555" name="거인의 한손 도끼"/> <!-- Giant's One-handed Axe - Sealed -->
+			<item id="96723" min="1" max="1" chance="5.555555" name="거인의 양손 지팡이"/> <!-- Giant's Two-handed Staff - Sealed -->
+			<item id="97237" min="1" max="1" chance="5.555555" name="실레노이의 장창"/> <!-- Spear of Xilenos - Sealed -->
+			<item id="97239" min="1" max="1" chance="5.555555" name="실레노이의 방패"/> <!-- Shield of Xilenos - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98674" name="스탯 컬렉션 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_2018_jewelbox_random"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="98662" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 자켄의 결정체 (기간제)"/> <!-- Stat Collection - Zaken's Crystal (Time-limited) - Sealed -->
+			<item id="98663" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 오르펜의 결정체 (기간제)"/> <!-- Stat Collection - Orfen's Crystal (Time-limited) - Sealed -->
+			<item id="98664" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 코어의 결정체 (기간제)"/> <!-- Stat Collection - Core's Crystal (Time-limited) - Sealed -->
+			<item id="98665" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 바이움의 결정체 (기간제)"/> <!-- Stat Collection - Baium's Crystal (Time-limited) - Sealed -->
+			<item id="98666" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 여왕개미의 결정체 (기간제)"/> <!-- Stat Collection - Queen Ant's Crystal (Time-limited) - Sealed -->
+			<item id="98667" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 바이움 인형 Lv1 (기간제)"/> <!-- Stat Collection - Baium Doll Lv. 1 (Time-limited) - Sealed -->
+			<item id="98668" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 여왕개미 인형 Lv1 (기간제)"/> <!-- Stat Collection - Queen Ant Doll Lv. 1 (Time-limited) - Sealed -->
+			<item id="98669" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 오르펜 인형 Lv1 (기간제)"/> <!-- Stat Collection - Orfen Doll Lv. 1 (Time-limited) - Sealed -->
+			<item id="98670" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 프린테사 인형 Lv1 (기간제)"/> <!-- Stat Collection - Frintezza Doll Lv. 1 (Time-limited) - Sealed -->
+			<item id="98671" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 자켄 인형 Lv1 (기간제)"/> <!-- Stat Collection - Zaken Doll Lv. 1 (Time-limited) - Sealed -->
+			<item id="98672" min="1" max="1" chance="9.090909" name="스탯 컬렉션 - 코어 인형 Lv1 (기간제)"/> <!-- Stat Collection - Core Doll Lv. 1 (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98675" name="최고급 마법서 교환권 &amp; 스탯 컬렉션 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_2018_jewelbox_random"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97122" min="1" max="1" chance="100" name="최고급 마법서 교환권 (기간제)"/> <!-- Unique Spellbook Coupon (Time-limited) - Not available - Sealed -->
+			<item id="98662" min="1" max="1" chance="100" name="스탯 컬렉션 - 자켄의 결정체 (기간제)"/> <!-- Stat Collection - Zaken's Crystal (Time-limited) - Sealed -->
+			<item id="98663" min="1" max="1" chance="100" name="스탯 컬렉션 - 오르펜의 결정체 (기간제)"/> <!-- Stat Collection - Orfen's Crystal (Time-limited) - Sealed -->
+			<item id="98664" min="1" max="1" chance="100" name="스탯 컬렉션 - 코어의 결정체 (기간제)"/> <!-- Stat Collection - Core's Crystal (Time-limited) - Sealed -->
+			<item id="98665" min="1" max="1" chance="100" name="스탯 컬렉션 - 바이움의 결정체 (기간제)"/> <!-- Stat Collection - Baium's Crystal (Time-limited) - Sealed -->
+			<item id="98666" min="1" max="1" chance="100" name="스탯 컬렉션 - 여왕개미의 결정체 (기간제)"/> <!-- Stat Collection - Queen Ant's Crystal (Time-limited) - Sealed -->
+			<item id="98667" min="1" max="1" chance="100" name="스탯 컬렉션 - 바이움 인형 Lv1 (기간제)"/> <!-- Stat Collection - Baium Doll Lv. 1 (Time-limited) - Sealed -->
+			<item id="98668" min="1" max="1" chance="100" name="스탯 컬렉션 - 여왕개미 인형 Lv1 (기간제)"/> <!-- Stat Collection - Queen Ant Doll Lv. 1 (Time-limited) - Sealed -->
+			<item id="98669" min="1" max="1" chance="100" name="스탯 컬렉션 - 오르펜 인형 Lv1 (기간제)"/> <!-- Stat Collection - Orfen Doll Lv. 1 (Time-limited) - Sealed -->
+			<item id="98670" min="1" max="1" chance="100" name="스탯 컬렉션 - 프린테사 인형 Lv1 (기간제)"/> <!-- Stat Collection - Frintezza Doll Lv. 1 (Time-limited) - Sealed -->
+			<item id="98671" min="1" max="1" chance="100" name="스탯 컬렉션 - 자켄 인형 Lv1 (기간제)"/> <!-- Stat Collection - Zaken Doll Lv. 1 (Time-limited) - Sealed -->
+			<item id="98672" min="1" max="1" chance="100" name="스탯 컬렉션 - 코어 인형 Lv1 (기간제)"/> <!-- Stat Collection - Core Doll Lv. 1 (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98676" name="프레야 토벌대 지원 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_freya_gift_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91840" min="5" max="5" chance="100" name="경험치 향상 주문서 (기간제)"/> <!-- XP Growth Scroll (Time-limited) - Sealed -->
+			<item id="93073" min="5" max="5" chance="100" name="사이하의 폭풍 (기간제)"/> <!-- Sayha's Storm (Time-limited) - Sealed -->
+			<item id="93848" min="10" max="10" chance="100" name="은총 쿠키 (기간제)"/> <!-- Sayha's Cookie (Sealed) - Sealed -->
+			<item id="98471" min="50" max="50" chance="100" name="정령탄 교환권 (기간제)"/> <!-- Soulshot Ticket (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98677" name="Lv5~6 보석함 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_bm_jewelbox_main_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="96705" min="1" max="1" chance="6.25" name="베릴 Lv6"/> <!-- Beryl Lv. 6 - Not available -->
+			<item id="92040" min="1" max="1" chance="6.25" name="앰버 Lv6"/> <!-- Amber Lv. 6 - Sealed -->
+			<item id="92050" min="1" max="1" chance="6.25" name="오팔 Lv6"/> <!-- Opal Lv. 6 - Sealed -->
+			<item id="92060" min="1" max="1" chance="6.25" name="코랄 Lv6"/> <!-- Coral Lv. 6 - Not available -->
+			<item id="92070" min="1" max="1" chance="6.25" name="오닉스 Lv6"/> <!-- Onyx Lv. 6 - Not available -->
+			<item id="92080" min="1" max="1" chance="6.25" name="스피넬 Lv6"/> <!-- Spinel Lv. 6 - Not available -->
+			<item id="92090" min="1" max="1" chance="6.25" name="지르콘 Lv6"/> <!-- Zircon Lv. 6 - Not available -->
+			<item id="92100" min="1" max="1" chance="6.25" name="문스톤 Lv6"/> <!-- Moonstone Lv. 6 - Not available -->
+			<item id="96704" min="1" max="1" chance="6.25" name="베릴 Lv5"/> <!-- Beryl Lv. 5 - Not available -->
+			<item id="94518" min="1" max="1" chance="6.25" name="앰버 Lv5"/> <!-- Amber Lv. 5 - Sealed -->
+			<item id="94519" min="1" max="1" chance="6.25" name="오팔 Lv5"/> <!-- Opal Lv. 5 - Sealed -->
+			<item id="94520" min="1" max="1" chance="6.25" name="코랄 Lv5"/> <!-- Coral Lv. 5 - Not available -->
+			<item id="94521" min="1" max="1" chance="6.25" name="오닉스 Lv5"/> <!-- Onyx Lv. 5 - Not available -->
+			<item id="94522" min="1" max="1" chance="6.25" name="스피넬 Lv5"/> <!-- Spinel Lv. 5 - Not available -->
+			<item id="94523" min="1" max="1" chance="6.25" name="지르콘 Lv5"/> <!-- Zircon Lv. 5 - Not available -->
+			<item id="94524" min="1" max="1" chance="6.25" name="문스톤 Lv5"/> <!-- Moonstone Lv. 5 - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="98678" name="축복/저주받은 강화 주문서 (각인) 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. <font color=ff6666>Note!</font>. The pack can be traded, but its contents are <font color=ff6666>unexchangeable</font>. -->
+		<set name="icon" val="icon.event_hero_treasure_box_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93268" min="1" max="1" chance="25" name="축복받은 무기 강화 주문서"/> <!-- Blessed Scroll: Enchant Weapon - Sealed -->
+			<item id="93269" min="1" max="1" chance="25" name="축복받은 갑옷 강화 주문서"/> <!-- Blessed Scroll: Enchant Armor - Sealed -->
+			<item id="93270" min="1" max="1" chance="25" name="저주받은 무기 강화 주문서"/> <!-- Cursed Scroll: Enchant Weapon - Sealed -->
+			<item id="93271" min="1" max="1" chance="25" name="저주받은 갑옷 강화 주문서"/> <!-- Cursed Scroll: Enchant Armor - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98679" name="+7 보스 무기 (각인) 교환권 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain 1 Boss weapon enchanted to +7 <font color=ff6666>(unexchangeable)</font> of your choice. -->
+		<set name="icon" val="icon.boss_weapon_ticket_i00"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98680" name="+7 자켄의 블러드 소드 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Zaken's Blood Sword <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended classes>. Samurai. Death Knight. Phoenix Knight. Hell Knight. Eva's Templar. Shillien Templar. Divine Templar</font> -->
+		<set name="icon" val="icon.special_weapon_onehandsword"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93291" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="자켄의 블러드 소드"/> <!-- Zaken's Blood Sword - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98681" name="+7 코어의 플라즈마 보우 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Core's Plasmic Bow <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended classes>. Sagittarius. Moonlight Sentinel. Ghost Sentinel. Trickster</font> -->
+		<set name="icon" val="icon.weapon_karupis_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93292" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="코어의 플라즈마 보우"/> <!-- Core's Plasmic Bow - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98682" name="+7 오르펜의 포이즈닉 소드 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Orfen's Venom Sword <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended class>. Titan</font> -->
+		<set name="icon" val="icon.weapon_the_two_handed_sword_of_hero_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93293" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="오르펜의 포이즈닉 소드"/> <!-- Orfen's Venom Sword - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98683" name="+7 바이움의 썬더 브레이커 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Baium's Thunder Breaker <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended classes>. Blood Rose. Assassin. Adventurer. Wind Rider. Ghost Hunter</font> -->
+		<set name="icon" val="icon.weapon_terakan_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93294" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="바이움의 썬더 브레이커"/> <!-- Baium's Thunder Breaker - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98684" name="+7 여왕개미의 스톤 크래셔 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Queen Ant's Stone Breaker <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended classes>. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.special_weapon_onehandblunt"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="93295" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="여왕개미의 스톤 크래셔"/> <!-- Queen Ant's Stone Breaker - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98685" name="+7 아나킴의 디바인 슈터 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Anakim's Divine Pistols <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended class>. Storm Blaster</font> -->
+		<set name="icon" val="icon.shooter_boss_anakim"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="95422" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="아나킴의 디바인 슈터"/> <!-- Anakim's Divine Pistols - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98686" name="+7 베레스의 소울 이터 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Beleth's Soul Eater <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended classes>. Element Weaver. Apostle. Elemental Master. Archmage. Mystic Muse. Storm Screamer. Soultaker. Arcana Lord. Spectral Master. Dominator. Doomcryer. Cardinal. Eva's Saint. Shillien Saint</font> -->
+		<set name="icon" val="icon.staff_of_bereth"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="96269" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="베레스의 소울 이터"/> <!-- Beleth's Soul Eater - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98687" name="+7 고드의 플레임 스피어 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Gorde's Flame Spear <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended classes>. Dreadnought. Vanguard Rider</font> -->
+		<set name="icon" val="icon.weapon_r110_spear_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97302" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="고드의 플레임 스피어"/> <!-- Gorde's Flame Spear - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98688" name="+7 갈락시아의 에인션트 소드 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Galaxia's Ancient Sword <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended class>. Doombringer</font> -->
+		<set name="icon" val="icon.weapon_dynasty_ancient_sword_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97957" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="갈락시아의 에인션트 소드"/> <!-- Galaxia's Ancient Sword - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98689" name="+7 브리엘의 레이피어 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Phiriel's Rapier <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended class>. Soul Hound</font> -->
+		<set name="icon" val="icon.weapon_heavenstair_rapier_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97959" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="브리엘의 레이피어"/> <!-- Phiriel's Rapier - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98690" name="+7 아나이스의 듀얼 피스트 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Anais' Fists <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended classes>. Warg. Grand Khavatari</font> -->
+		<set name="icon" val="icon.weapon_vesper_fighter_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97961" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="아나이스의 듀얼 피스트"/> <!-- Anais' Fists - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98691" name="+7 유리헬의 듀얼 소드 (각인) 팩" type="EtcItem">
+		<!-- Double-click to obtain +7 Juriel's Dual Swords <font color=ff6666>(unexchangeable)</font>. <font color=eeaa22><Recommended classes>. Duelist. Sword Muse. Spectral Dancer</font> -->
+		<set name="icon" val="BranchSys2.icon.br_wp_astarot_i00"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="97963" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="유리헬의 듀얼 소드"/> <!-- Juriel's Dual Swords - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98692" name="얼어붙은 협곡 토벌대 보급품 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_freya_sirr_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="91840" min="2" max="2" chance="100" name="경험치 향상 주문서 (기간제)"/> <!-- XP Growth Scroll (Time-limited) - Sealed -->
+			<item id="93073" min="2" max="2" chance="100" name="사이하의 폭풍 (기간제)"/> <!-- Sayha's Storm (Time-limited) - Sealed -->
+			<item id="93848" min="5" max="5" chance="100" name="은총 쿠키 (기간제)"/> <!-- Sayha's Cookie (Sealed) - Sealed -->
+			<item id="98471" min="20" max="20" chance="100" name="정령탄 교환권 (기간제)"/> <!-- Soulshot Ticket (Time-limited) - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98693" name="+6~8 아덴의 탈리스만 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_sheep_agathion_30d_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="92450" min="1" max="1" chance="33.33333" name="+8 아덴의 탈리스만 상자"/> <!-- +8 Talisman of Aden Pack - Sealed -->
+			<item id="92449" min="1" max="1" chance="33.33333" name="+7 아덴의 탈리스만 상자"/> <!-- +7 Talisman of Aden Pack - Sealed -->
+			<item id="92448" min="1" max="1" chance="33.33333" name="+6 아덴의 탈리스만 상자"/> <!-- +6 Talisman of Aden Pack - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98694" name="+6~8 수호의 망토 팩 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_2018_sayha_cloak_back_i01"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="93301" min="1" max="1" minEnchant="8" maxEnchant="8" chance="33.33333" name="수호의 망토"/> <!-- Cloak of Protection - Sealed -->
+			<item id="93301" min="1" max="1" minEnchant="7" maxEnchant="7" chance="33.33333" name="수호의 망토"/> <!-- Cloak of Protection - Sealed -->
+			<item id="93301" min="1" max="1" minEnchant="6" maxEnchant="6" chance="33.33333" name="수호의 망토"/> <!-- Cloak of Protection - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98695" name="레어 액세서리 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_gold_lure_special_box"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="49580" min="1" max="1" chance="10" name="바이움의 반지"/> <!-- Baium's Ring -->
+			<item id="95330" min="1" max="1" chance="10" name="바이움의 반지"/> <!-- Baium's Ring - Sealed -->
+			<item id="6660" min="1" max="1" chance="10" name="여왕개미의 반지"/> <!-- Queen Ant's Ring -->
+			<item id="95327" min="1" max="1" chance="10" name="여왕개미의 반지"/> <!-- Queen Ant's Ring - Sealed -->
+			<item id="90763" min="1" max="1" chance="10" name="자켄의 귀걸이"/> <!-- Zaken's Earring -->
+			<item id="95331" min="1" max="1" chance="10" name="자켄의 귀걸이"/> <!-- Zaken's Earring - Sealed -->
+			<item id="6661" min="1" max="1" chance="10" name="오르펜의 귀걸이"/> <!-- Orfen's Earring -->
+			<item id="95328" min="1" max="1" chance="10" name="오르펜의 귀걸이"/> <!-- Orfen's Earring - Sealed -->
+			<item id="6662" min="1" max="1" chance="10" name="코어의 반지"/> <!-- Core's Ring -->
+			<item id="95329" min="1" max="1" chance="10" name="코어의 반지"/> <!-- Core's Ring - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98696" name="특수 방어구 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.present_of_destination_event"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="94083" min="1" max="1" chance="16.66667" name="마나의 투구"/> <!-- Helmet of Mana -->
+			<item id="94084" min="1" max="1" chance="16.66667" name="마나의 투구"/> <!-- Helmet of Mana - Sealed -->
+			<item id="94301" min="1" max="1" chance="16.66667" name="리벤지 실드"/> <!-- Shield of Vengeance -->
+			<item id="94302" min="1" max="1" chance="16.66667" name="리벤지 실드"/> <!-- Shield of Vengeance - Sealed -->
+			<item id="94299" min="1" max="1" chance="16.66667" name="페이탈 시길"/> <!-- Sigil of Inevitability -->
+			<item id="94300" min="1" max="1" chance="16.66667" name="페이탈 시길"/> <!-- Sigil of Inevitability - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98697" name="정령탄 교환권 (기간제)" type="EtcItem">
+		<!-- Can be exchanged for Soulshots and Blessed Spiritshots. -->
+		<set name="icon" val="icon.etc_exchange_ticket_i03"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="98698" name="Good Bye 2022 상자 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_pi_gift_box_i03"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<set name="extractableCountMin" val="1"/>
+		<set name="extractableCountMax" val="1"/>
+		<capsuled_items>
+			<item id="98063" min="1" max="1" chance="8.333333" name="보스 무기 상자"/> <!-- Boss' Weapon Pack - Sealed -->
+			<item id="98300" min="1" max="1" chance="8.333333" name="특수 방어구 상자"/> <!-- Special Armor Pack - Sealed -->
+			<item id="95327" min="1" max="1" chance="8.333333" name="여왕개미의 반지"/> <!-- Queen Ant's Ring - Sealed -->
+			<item id="95328" min="1" max="1" chance="8.333333" name="오르펜의 귀걸이"/> <!-- Orfen's Earring - Sealed -->
+			<item id="95329" min="1" max="1" chance="8.333333" name="코어의 반지"/> <!-- Core's Ring - Sealed -->
+			<item id="94328" min="1" max="1" chance="8.333333" name="엘릭서 가루"/> <!-- Elixir Powder - Sealed -->
+			<item id="97147" min="2" max="2" chance="8.333333" name="잠재력 강화제"/> <!-- Hidden Power Booster - Sealed -->
+			<item id="91757" min="2" max="2" chance="8.333333" name="마법 램프 가속 물약"/> <!-- Magic Lamp Charging Potion - Sealed -->
+			<item id="94777" min="2" max="2" chance="8.333333" name="(구)버서커 주문서 (기간제)"/> <!-- Berserker's Scroll (Old) (Time-limited) - Sealed -->
+			<item id="94269" min="2" max="2" chance="8.333333" name="공격력 강화 주문서"/> <!-- Scroll: Boost Attack - Sealed -->
+			<item id="94271" min="2" max="2" chance="8.333333" name="방어력 강화 주문서"/> <!-- Scroll: Boost Defense - Sealed -->
+			<item id="91641" min="5" max="5" chance="8.333333" name="사이하의 축복"/> <!-- Sayha's Blessing - Sealed -->
+		</capsuled_items>
+	</item>
+	<item id="98699" name="스타트 패키지 스페셜 에디션 (기간제)" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.bm_month_package"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="94166" min="1" max="1" minEnchant="3" maxEnchant="3" chance="100" name="영웅의 서클릿"/> <!-- Circlet of Hero - Sealed -->
+			<item id="97259" min="1" max="1" minEnchant="2" maxEnchant="2" chance="100" name="리덕션 피어싱 마스크"/> <!-- Piercing Mask - Sealed -->
+			<item id="93297" min="1" max="1" chance="100" name="아인하사드의 펜던트 Lv2"/> <!-- Einhasad's Pendant Lv. 2 - Sealed -->
+			<item id="93301" min="1" max="1" minEnchant="7" maxEnchant="7" chance="100" name="수호의 망토"/> <!-- Cloak of Protection - Sealed -->
+			<item id="91862" min="1" max="1" minEnchant="4" maxEnchant="4" chance="100" name="드래곤의 벨트"/> <!-- Dragon Belt - Sealed -->
+		</capsuled_items>
+	</item>
+</list>

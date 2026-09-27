@@ -1,0 +1,19 @@
+
+// 깃허브 push
+python git_push.py
+
+// 깃허브 update
+python git_update.py
+
+// 깃허브 auto_push
+python git_auto_push.py
+
+// 깃허브 clone
+python git_clone.py
+
+// CLONE
+D:\Game\L2\Source\CLONE
+
+// L2_Essence_Token
+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
+

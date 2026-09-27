@@ -1,0 +1,415 @@
+[URL]
+Protocol=unreal                  ; 사용 프로토콜: Unreal
+ProtocolDescription=Unreal Protocol ; 프로토콜 설명
+Name=Player                     ; 캐릭터 이름 (Player)
+Map=Index.unr                   ; 시작 맵 파일
+LocalMap=Entry.unr              ; 로컬 맵 파일
+Host=                           ; 호스트 주소 (비어 있음)
+MapExt=unr                      ; 맵 확장자
+EXEName=l2.exe                  ; 실행 파일 이름
+SaveExt=usa                     ; 저장 파일 확장자
+Port=7777                       ; 네트워크 포트
+Class=LineageWarrior.MFighter   ; 기본 클래스
+IsL2NetLogin=True               ; 로그인 시 L2Net 사용 여부
+IsL2Console=True                ; 콘솔 사용 여부
+IsL2Seamless=True               ; Seamless 맵 로딩 사용 여부
+ISL2Mark=2                      ; L2 Mark 버전
+ForceAspectRatio=False           ; 강제 종횡비 적용 여부
+AspectRatio=1.334                ; 화면 종횡비
+IsDefaultShaodw=False            ; 기본 그림자 사용 여부
+IsUnderWaterEffect=False         ; 수중 효과 사용 여부
+IsUseCommand=True                ; 명령어 사용 여부
+L2VersionCheck=false             ; 버전 체크 사용 여부
+IsL2MemLog=False                 ; 메모리 로그 사용 여부
+L2ThreadFilter=1                 ; 쓰레드 필터 설정
+L2TestServer=false               ; 테스트 서버 여부
+EnablePurgeLevel=True            ; 캐시 정리 기능 사용 여부
+SharedSky=True                   ; 하늘 공유 기능 사용 여부
+L2MaxPawnResourceLoad=1.0        ; 최대 Pawn 리소스 로드 비율
+L2UseKeyCrypt=true               ; 키 암호화 사용 여부
+L2UseReplayManager=true          ; 리플레이 매니저 사용 여부
+MSNHideWarnMsg=False             ; MSN 경고 메시지 숨김 여부
+EnableSecondWindow=true          ; 다중 창 허용 여부
+EnablePremiumMultiWindow=true    ; 프리미엄 계정 다중 창 허용 여부
+IsUseXMLUI=True                  ; XML UI 사용 여부
+L2ShaderPath=..\system\          ; 쉐이더 경로
+GamePointURL=https://lineage2sow.com/donate  ; 게임 포인트 구매 URL
+GamePointURLAden=https://eu.4game.com/profile/billing ; 아덴 서버 결제 URL
+UseNewPetition=false             ; 새 건의 시스템 사용 여부
+L2HomeURL=http://www.lineage2sow.com/ ; 홈페이지 URL
+L2ClassicHomeURL=https://www.lineage2sow.com/ ; 클래식 홈페이지 URL
+bUse24Hz=false                   ; 24Hz 서버 사용 여부
+L2InGameBoardURL=https://www.lineage2sow.com/ ; 게임 내 게시판 URL
+replayfileversion=18             ; 리플레이 파일 버전
+UseNG=false                      ; NG 기능 사용 여부
+NOGG=true                        ; NOGG 사용 여부
+NOGG_Auth=true                   ; NOGG 인증 사용 여부
+NetSendHardWare=true             ; 하드웨어 기반 네트워크 전송 여부
+L2NVPerfHUD=false                ; 성능 HUD 사용 여부
+NewScreenShot=true               ; 새 스크린샷 기능 사용 여부
+UseUnderwear=True                ; 캐릭터 언더웨어 표시 여부
+[Auth]
+ServerAddr=127.0.0.1            ; 인증 서버 주소
+UseAuthUserData=true             ; 사용자 데이터 인증 사용 여부
+ExternalLogin=false              ; 외부 로그인 사용 여부
+CmdLineLogin=false               ; 커맨드라인 로그인 사용 여부
+UseSecondaryAuth=true            ; 2차 비밀번호 인증 사용 여부
+UseEMailAccount=false            ; 이메일 계정 인증 사용 여부
+ServerAddrChangeCommandLine=false ; 서버 주소 커맨드라인 변경 허용 여부
+PercentUserCnt=true              ; 사용자 수 비율 표시 여부
+FreeUserTwoClient=True           ; 무료 계정 2개 클라이언트 허용 여부
+UseActorEffectSort=true          ; 액터 효과 정렬 사용 여부
+UseNPLogin=false                 ; NP 로그인 사용 여부
+[Collision]
+UseCollisionCheckInSiege=false   ; 공성전 시 충돌 체크 사용 여부
+
+[L2WaterEffect]
+ColorReference=(A=180,R=38,G=56,B=64,RR=150) ; 수중 색상 기준
+EffectResolution=512             ; 수중 효과 해상도
+[LanguageSet]
+Language=0                       ; 언어 설정 (0: 기본)
+
+[FontSet]
+Font=L2Font.gulim                ; 폰트 설정
+Glyph=gulim.gly                  ; 글리프 설정
+[CharacterDisplay]
+Name=true                        ; 캐릭터 이름 표시 여부
+Dist=1000                        ; 캐릭터 표시 거리
+[ClippingRange]
+PawnMax=3.0                      ; Pawn 최대 클리핑 거리
+PawnMin=1.5                      ; Pawn 최소 클리핑 거리
+AntiPortal=1.5                    ; Anti-Portal 거리
+Terrain=8.0                       ; 지형 클리핑 거리
+StaticMesh=4.0                    ; StaticMesh 클리핑 거리
+Projector=0.2                     ; Projector 클리핑 거리
+StaticMeshLod=5.0                 ; StaticMesh LOD 거리
+Pawn=2.0                          ; Pawn 클리핑 거리
+Actor=4.0                         ; Actor 클리핑 거리
+[AutoLogOn]
+IsL2AutoLogOn=Ture               ; 자동 로그인 사용 여부 (오타: True)
+L2ID=zodiac                       ; 자동 로그인 ID
+L2Passwd=zodiac                   ; 자동 로그인 비밀번호
+L2Slot=7                          ; 캐릭터 슬롯
+[Engine.Engine]
+RenderDevice=D3DDrv.D3DRenderDevice       ; 렌더링 장치: Direct3D
+AudioDevice=ALAudio.ALAudioSubsystem      ; 오디오 장치: OpenAL
+NetworkDevice=IpDrv.TcpNetDriver          ; 네트워크 장치: TCP/IP
+DemoRecordingDevice=Engine.DemoRecDriver  ; 데모 녹화 장치
+Console=Engine.Console                     ; 콘솔 장치
+DefaultPlayerMenu=UDebugMenu.UDebugRootWindow ; 기본 플레이어 메뉴
+Language=int                               ; 언어 설정
+GameEngine=Engine.GameEngine               ; 게임 엔진 설정
+EditorEngine=Editor.EditorEngine           ; 에디터 엔진 설정
+GUIController=Engine.BaseGUIController     ; GUI 컨트롤러
+DefaultGame=Engine.GameInfo                ; 기본 게임 모드
+DefaultServerGame=Engine.GameInfo          ; 기본 서버 게임 모드
+ViewportManager=WinDrv.WindowsClient       ; 뷰포트 관리자: Windows
+Render=Render.Render                        ; 렌더링 모듈
+Input=Engine.Input                          ; 입력 모듈
+Canvas=Engine.Canvas                        ; 캔버스 모듈
+DefaultPlayerController=Engine.LineagePlayerController ; 기본 플레이어 컨트롤러
+L2NetHandler=Engine.NetHandler             ; 네트워크 핸들러
+L2Console=NWindow.ConsoleWnd               ; 콘솔 창
+L2Font=NWindow.L2Font                       ; 폰트 모듈
+[Core.System]
+PurgeCacheDays=30               ; 캐시 자동 삭제 기간 (30일)
+SavePath=../Save                 ; 저장 경로
+CachePath=../Cache               ; 캐시 경로
+CacheExt=.uxx                    ; 캐시 확장자
+Paths=../System/*.u              ; 시스템 패키지 경로
+Paths=../StaticMeshes/*.usx      ; 정적 메시 경로
+Paths=../Textures/*.utx          ; 텍스처 경로
+Paths=../Sounds/*.uax            ; 사운드 경로
+Paths=../Voice/*.uax             ; 음성 파일 경로
+Paths=../Maps/*.unr              ; 맵 경로
+Paths=../Animations/*.ukx        ; 애니메이션 파일 경로
+Paths=../Animations/*.uix        ; 애니메이션 파일 경로
+Paths=../SysTextures/*.utx       ; 시스템 텍스처 경로
+Paths=../Animations/*.usk        ; 애니메이션 파일 경로
+Paths=../Saves/*.uvx             ; 저장 파일 경로
+Suppress=DevLoad                 ; 개발용 로드 메시지 숨김
+Suppress=DevSave                 ; 개발용 저장 메시지 숨김
+Suppress=DevNetTraffic           ; 개발용 네트워크 트래픽 숨김
+Suppress=DevGarbage               ; 개발용 GC 메시지 숨김
+Suppress=DevKill                  ; 개발용 Kill 메시지 숨김
+Suppress=DevReplace               ; 개발용 Replace 메시지 숨김
+Suppress=DevCompile               ; 개발용 Compile 메시지 숨김
+Suppress=DevBind                  ; 개발용 Bind 메시지 숨김
+Suppress=DevBsp                   ; 개발용 BSP 메시지 숨김
+[Engine.GameEngine]
+CacheSizeMegs=32                  ; 캐시 크기 (MB)
+UseSound=True                      ; 사운드 사용 여부
+ServerPackages=AmbientCreatures    ; 서버 패키지: AmbientCreatures
+ServerPackages=GamePlay            ; 서버 패키지: GamePlay
+ServerPackages=UnrealGame          ; 서버 패키지: UnrealGame
+[WinDrv.WindowsClient]
+WindowedViewportX=1024             ; 창 모드 가로 해상도
+WindowedViewportY=768              ; 창 모드 세로 해상도
+FullscreenViewportX=1024           ; 전체화면 가로 해상도
+FullscreenViewportY=768            ; 전체화면 세로 해상도
+MenuViewportX=640                  ; 메뉴 화면 가로 해상도
+MenuViewportY=480                  ; 메뉴 화면 세로 해상도
+Brightness=0.800000                 ; 화면 밝기
+Contrast=0.700000                   ; 화면 대비
+Gamma=0.800000                      ; 감마 값
+UseJoystick=True                     ; 조이스틱 사용 여부
+CaptureMouse=True                    ; 마우스 캡처 여부
+StartupFullscreen=False              ; 시작 시 전체화면 여부
+UseWindowFrame=true                  ; 윈도우 프레임 사용 여부
+ScreenFlashes=True                   ; 화면 플래시 효과 사용 여부
+NoLighting=False                     ; 라이팅 적용 여부
+MinDesiredFrameRate=35.0             ; 최소 프레임 레이트
+Decals=True                          ; 데칼 효과 사용 여부
+Coronas=True                         ; Corona 효과 사용 여부
+DecoLayers=True                       ; 장식 레이어 사용 여부
+Projectors=True                        ; 프로젝터 사용 여부
+NoDynamicLights=False                  ; 동적 조명 사용 여부
+ReportDynamicUploads=False             ; 동적 업로드 보고 여부
+TextureDetailInterface=Higher          ; UI 텍스처 디테일
+TextureDetailTerrain=Higher            ; 지형 텍스처 디테일
+TextureDetailWeaponSkin=Higher         ; 무기 스킨 디테일
+TextureDetailPlayerSkin=Higher         ; 플레이어 스킨 디테일
+TextureDetailWorld=Higher              ; 월드 텍스처 디테일
+TextureDetailRenderMap=Higher          ; 렌더 맵 디테일
+TextureDetailLightmap=Higher           ; 라이트맵 디테일
+NoFractalAnim=False                     ; 프랙탈 애니메이션 사용 여부
+ScaleHUDX=0.0                            ; HUD X 스케일
+[ALAudio.ALAudioSubsystem]
+UseEAX=False                       ; EAX 사용 여부
+Use3DSound=False                    ; 3D 사운드 사용 여부
+UseDefaultDriver=True                ; 기본 드라이버 사용 여부
+CompatibilityMode=False              ; 호환 모드 사용 여부
+UsePrecache=True                     ; 사운드 프리캐시 사용 여부
+ReverseStereo=false                  ; 스테레오 반전 여부
+Channels=48                           ; 사운드 채널 수
+MusicVolume=0.1                       ; 음악 볼륨
+AmbientVolume=1.0                     ; 환경 볼륨
+SoundVolume=1.0                       ; 효과음 볼륨
+DopplerFactor=1.0                     ; 도플러 효과 계수
+TimeBetweenHWUpdates=15               ; 하드웨어 업데이트 간격
+DisablePitch=False                     ; 피치 변경 비활성화
+LowQualitySound=False                  ; 저퀄리티 사운드 사용 여부
+[IpDrv.TcpNetDriver]
+AllowDownloads=True               ; 클라이언트 다운로드 허용 여부
+ConnectionTimeout=15.0             ; 연결 타임아웃 (초)
+InitialConnectTimeout=500.0        ; 초기 연결 타임아웃 (초)
+AckTimeout=1.0                      ; ACK 응답 대기 시간
+KeepAliveTime=0.2                   ; KeepAlive 주기
+MaxClientRate=20000                 ; 클라이언트 최대 전송률
+SimLatency=0                        ; 시뮬레이션 지연
+RelevantTimeout=5.0                 ; 중요 정보 타임아웃
+SpawnPrioritySeconds=1.0            ; 스폰 우선 순위 시간
+ServerTravelPause=4.0               ; 서버 이동 시 대기 시간
+NetServerMaxTickRate=20             ; 서버 최대 틱레이트
+LanServerMaxTickRate=35             ; LAN 서버 최대 틱레이트
+DownloadManagers=IpDrv.HTTPDownload ; 다운로드 매니저
+DownloadManagers=Engine.ChannelDownload ; 채널 다운로드 매니저
+[IpDrv.HTTPDownload]
+RedirectToURL=                      ; 리디렉션 URL
+ProxyServerHost=                     ; 프록시 서버 호스트
+ProxyServerPort=3128                 ; 프록시 서버 포트
+UseCompression=True                  ; 압축 사용 여부
+[Engine.DemoRecDriver]
+DemoSpectatorClass=Warriors.CHSpectator ; 데모 시청자 클래스
+MaxClientRate=25000                       ; 클라이언트 최대 전송률
+ConnectionTimeout=15.0                     ; 연결 타임아웃
+InitialConnectTimeout=500.0                ; 초기 연결 타임아웃
+AckTimeout=1.0                             ; ACK 응답 대기 시간
+KeepAliveTime=1.0                          ; KeepAlive 주기
+SimLatency=0                               ; 시뮬레이션 지연
+RelevantTimeout=5.0                         ; 중요 정보 타임아웃
+SpawnPrioritySeconds=1.0                    ; 스폰 우선 순위
+ServerTravelPause=4.0                       ; 서버 이동 대기 시간
+NetServerMaxTickRate=60                     ; 서버 최대 틱레이트
+LanServerMaxTickRate=60                     ; LAN 서버 최대 틱레이트
+[Engine.GameReplicationInfo]
+ServerName=Another Unreal Server       ; 서버 이름
+ShortName=Unreal Server                 ; 서버 단축 이름
+[IpDrv.TcpipConnection]
+SimPacketLoss=0                        ; 패킷 손실 시뮬레이션
+SimLatency=0                           ; 지연 시뮬레이션
+[IpServer.UdpServerQuery]
+GameName=ut                             ; 게임 이름
+[IpDrv.UdpBeacon]
+DoBeacon=True                           ; UDP 비콘 사용 여부
+BeaconTime=0.50                          ; 비콘 주기
+BeaconTimeout=5.0                        ; 비콘 타임아웃
+BeaconProduct=ut                         ; 비콘 제품명
+[XboxDrv.XboxClient]
+TextureDetail=Medium                    ; 텍스처 디테일
+SkinDetail=Medium                        ; 스킨 디테일
+LightmapDetail=High                      ; 라이트맵 디테일
+TextureMinLOD=6                           ; 최소 LOD
+TextureMaxLOD=9                           ; 최대 LOD
+Brightness=0.8                            ; 밝기
+Contrast=0.7                              ; 대비
+Gamma=0.8                                 ; 감마
+NoFractalAnim=True                        ; 프랙탈 애니메이션 사용 안함
+[XBoxAudio.XBoxAudioSubsystem]
+ReverseStereo=False                      ; 스테레오 반전
+Channels=32                               ; 사운드 채널 수
+MusicVolume=1.0                           ; 음악 볼륨
+SoundVolume=1.0                           ; 효과음 볼륨
+AmbientFactor=1.0                         ; 환경음 볼륨 계수
+UsePrecache=True                           ; 사운드 프리캐시 사용 여부
+[D3DDrv.D3DRenderDevice]
+DetailTextures=True                        ; 상세 텍스처 사용
+HighDetailActors=True                       ; 고해상도 액터
+SuperHighDetailActors=True                  ; 초고해상도 액터
+UsePrecaching=True                          ; 프리캐싱 사용
+UseTrilinear=True                            ; 삼선형 필터 사용
+AdapterNumber=-1                             ; 어댑터 번호 (-1 = 기본)
+ReduceMouseLag=True                          ; 마우스 지연 감소
+UseTripleBuffering=False                     ; 트리플 버퍼링 사용 여부
+UseHardwareTL=True                           ; 하드웨어 변환/조명 사용
+UseHardwareVS=True                           ; 하드웨어 버텍스 쉐이더 사용
+UseCubemaps=True                              ; 큐브맵 사용
+DesiredRefreshRate=60                         ; 원하는 새로고침 속도
+UseCompressedLightmaps=True                    ; 압축 라이트맵 사용
+UseStencil=True                                ; 스텐실 버퍼 사용
+Use16bit=False                                 ; 16bit 컬러 사용
+Use16bitTextures=False                          ; 16bit 텍스처 사용
+MaxPixelShaderVersion=255                        ; 최대 픽셀 쉐이더 버전
+UseVSync=False                                    ; 수직 동기화 사용
+LevelOfAnisotropy=1.0                              ; 이방성 필터 수준
+DetailTexMipBias=0.8                                 ; 디테일 텍스처 MIP 바이어스
+DefaultTexMipBias=-0.5                               ; 기본 텍스처 MIP 바이어스
+UseNPatches=False                                     ; N 패치 사용
+TesselationFactor=1.0                                  ; 테셀레이션 계수
+CheckForOverflow=False                                 ; 오버플로우 검사
+[Editor.EditorEngine]
+UseSound=True                            ; 에디터에서 사운드 사용 여부
+CacheSizeMegs=32                          ; 캐시 크기 (MB)
+GridEnabled=True                           ; 격자 표시 여부
+SnapVertices=False                          ; 버텍스 스냅 사용 여부
+SnapDistance=10.0                           ; 스냅 거리
+GridSize=(X=16.0,Y=16.0,Z=16.0)            ; 격자 크기
+RotGridEnabled=True                         ; 회전 격자 사용 여부
+RotGridSize=(Pitch=1024,Yaw=1024,Roll=1024) ; 회전 격자 단위
+GameCommandLine=-log                        ; 게임 명령어 라인
+FovAngleDegrees=90.0                        ; 시야각
+GodMode=True                                ; 갓모드 사용 여부
+AutoSave=True                                ; 자동 저장 사용 여부
+AutoSaveTimeMinutes=5                        ; 자동 저장 간격 (분)
+AutoSaveIndex=6                              ; 자동 저장 인덱스
+UseAxisIndicator=True                         ; 축 표시 사용 여부
+MatineeCurveDetail=0.1                        ; Matinee 곡선 세부 설정
+LoadEntirePackageWhenSaving=0                 ; 저장 시 전체 패키지 로드
+EditPackages=Core                             ; 편집 가능한 패키지 목록
+EditPackages=Engine
+EditPackages=Fire
+EditPackages=Editor
+EditPackages=UWindow
+EditPackages=UnrealEd
+EditPackages=GamePlay
+EditPackages=CameraEffectInfo
+EditPackages=LineageEffect
+EditPackages=LineageEffect2
+EditPackages=LineageEffect3
+EditPackages=LineageEffect_br
+EditPackages=LineageWarrior
+EditPackages=LineageNpc
+EditPackages=LineageNpc2
+EditPackages=LineageNpc3
+EditPackages=LineageNpc4
+EditPackages=LineageNpc5
+EditPackages=LineageNpc_br
+EditPackages=LineageNpcEv
+EditPackages=LineageMonster
+EditPackages=LineageMonster2
+EditPackages=LineageMonster3
+EditPackages=LineageMonster4
+EditPackages=LineageMonster5
+EditPackages=LineageMonster6
+EditPackages=LineageMonster7
+EditPackages=LineageMonster8
+EditPackages=LineageMonster9
+EditPackages=LineageMonster10
+EditPackages=LineageMonster11
+EditPackages=LineageMonster12
+EditPackages=LineageMonster13
+EditPackages=LineageMonster14
+EditPackages=LineageMonster99
+EditPackages=LineageVehicle
+EditPackages=LineageDeco
+EditPackages=UDebugMenu
+EditPackages=LineageSkillEffect
+EditPackages=LineageSceneInfo
+EditPackages=NWindow
+EditPackages=LineageGameplay
+; 편집 가능한 패키지들을 지정, Lineage 관련 자료와 UI/게임플레이 패키지 포함
+[UMenu.UnrealConsole]
+RootWindow=UMenu.UMenuRootWindow     ; 콘솔 루트 윈도우 클래스
+UWindowKey=IK_Esc                    ; 콘솔 열기 키
+ShowDesktop=True                      ; 데스크톱 표시 여부
+[UMenu.UMenuMenuBar]
+ShowHelp=True                          ; 도움말 표시 여부
+GameUMenuDefault=UTMenu.UTGameMenu      ; 게임 메뉴 기본 클래스
+MultiplayerUMenuDefault=UTMenu.UTMultiplayerMenu ; 멀티플레이 메뉴 클래스
+OptionsUMenuDefault=UTMenu.UTOptionsMenu          ; 옵션 메뉴 클래스
+[Engine.GameInfo]
+bLowGore=False           ; 저혈압 모드 (Low Gore) 사용 여부
+bVeryLowGore=False       ; 매우 낮은 혈압 모드 사용 여부
+[UWeb.WebServer]
+;Applications[0]=UTServerAdmin.UTServerAdmin
+;ApplicationPaths[0]=/ServerAdmin
+;Applications[1]=UTServerAdmin.UTImageServer
+;ApplicationPaths[1]=/images
+DefaultApplication=0      ; 웹서버 기본 애플리케이션
+bEnabled=False            ; 웹서버 사용 여부
+[Engine.LevelInfo]
+PhysicsDetailLevel=PDL_Medium   ; 물리 엔진 디테일 수준
+[Engine.Console]
+ConsoleKey=9                   ; 콘솔 키 (기본 F9)
+[WindowPositions]
+GameLog=(X=0,Y=0,XL=512,YL=256) ; 게임 로그 윈도우 위치 및 크기
+[PrimeShop]
+UsePrimeShop=false             ; 프라임샵 사용 여부
+UseClassicPrimeShop=false       ; 클래식 프라임샵 사용 여부
+UseAdenPrimeShop=false          ; 아덴 프라임샵 사용 여부
+UseGoodsInventory=false         ; 아이템 인벤토리 사용 여부
+NewPrimeShop=false              ; 새로운 프라임샵 사용 여부
+[Localize]
+UseLectureMark=false             ; 강의 마크 사용 여부
+UseJapanMinigame1=false          ; 일본 미니게임 사용 여부
+UseTeleportFlag=true             ; 텔레포트 플래그 사용 여부
+UsePCBangPoint=true              ; PC방 포인트 사용 여부
+UsePathtoAwakening=false         ; 각성 경로 사용 여부
+UsePremiumHennaSlot=true         ; 프리미엄 헤나 슬롯 사용 여부
+UseClassicShopTabSetting=true    ; 클래식 상점 탭 설정 사용 여부
+UseAttendanceAuthModify=true     ; 출석 인증 수정 사용 여부
+UseOriginServerSocket=true       ; 원본 서버 소켓 사용 여부
+UseToDoListLive=True                ; 라이브 투두리스트 사용 여부
+UseToDoListClassic=True              ; 클래식 투두리스트 사용 여부
+UseAutoSoulShotLive=true             ; 라이브 오토 소울샷 사용 여부
+UseAutoSoulShotClassic=True          ; 클래식 오토 소울샷 사용 여부
+UsePledgeBonusLive=true              ; 라이브 클랜 보너스 사용 여부
+UsePledgeBonusClassic=True           ; 클래식 클랜 보너스 사용 여부
+UseClassicJewelEnchantBtn=true       ; 클래식 보석 강화 버튼 사용 여부
+UsePledgeV2Live=true                 ; V2 클랜 시스템 라이브 사용 여부
+UsePledgePenaltyEventMsgClassic=true ; 클래식 클랜 패널티 이벤트 메시지 사용 여부
+UsePledgePenaltyEventMsgAden=true    ; 아덴 클랜 패널티 이벤트 메시지 사용 여부
+ShopLcoinCraftDisable=false                ; L코인 제작 비활성화 여부
+ShopLcoinCraftEtcTabDisable=true           ; L코인 기타 탭 비활성화 여부
+ShopLcoinCraftEtcTabName=906               ; L코인 기타 탭 이름 ID
+UseDisableSharedPositionAden=false         ; 공유 위치 비활성화 여부
+UseDeadTimerAden=false                      ; 죽음 타이머 비활성화 여부
+; EP55_201111
+UseEinhasad=true                   ; 에인하사드 시스템 사용 여부 (버프/강화 관련)
+UseVitaminMgrLive=true             ; 라이브 비타민 매니저 사용 여부 (캐릭터 능력치 관리)
+; C40_201111_A
+UsePacketCheck=True                ; 패킷 검증 사용 여부 (치트 방지)
+[VipSystem]
+UseVipInfoWnd=false                ; VIP 정보 창 사용 여부 (라이브)
+UseVipInfoWndAden=false            ; VIP 정보 창 사용 여부 (아덴)
+[CrashReport]
+L2CrashReportURL=http://erreport.lineage2.co.kr/L2ClientError/L2CrashReport.aspx ; 클라이언트 충돌 보고 URL
+L2CRVersion=D10_Global             ; 충돌 보고 버전
+withCrashDump=true                 ; 크래시 덤프 생성 여부
+[Decoration]
+UseRenderRatio=True                ; 장식 렌더링 비율 사용 여부
+[MiniFrameOption]
+Terrain=true                       ; 미니프레임에서 지형 표시 여부
+Effect=true                        ; 미니프레임에서 효과 표시 여부
+Texture=true                       ; 미니프레임에서 텍스처 표시 여부
+Deco=true                          ; 미니프레임에서 장식 표시 여부

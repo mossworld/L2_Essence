@@ -1,0 +1,795 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+	<!-- 101210 COMMON // 일반 -->
+	<!-- 101211 ENHANCED // 고급 -->
+	<!-- 101212 SUPERIOR // 최고급 -->
+	<!-- 101213 RARE // 희귀 -->
+	<!-- 101214 HEROIC // 영웅 -->
+	<!-- 101215 LEGENDARY // 전설 -->
+	<!-- 101216 MYTHIC // 신화 -->
+
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="xsd/RelicCouponData.xsd">
+	<coupon itemId="100887" relicId="49" summonCount="1" /> <!-- 일반 Queen Ant 인형 소환권 -->
+	<coupon itemId="100888" relicId="55" summonCount="1" /> <!-- 일반 Orfen 인형 소환권 -->
+	<coupon itemId="100889" relicId="61" summonCount="1" /> <!-- 일반 Core 인형 소환권 -->
+	<coupon itemId="100890" relicId="73" summonCount="1" /> <!-- 일반 Frintezza 인형 소환권 -->
+	<coupon itemId="100891" relicId="67" summonCount="1" /> <!-- 일반 Zaken 인형 소환권 -->
+	<coupon itemId="100892" relicId="79" summonCount="1" /> <!-- 일반 Baium 인형 소환권 -->
+	<coupon itemId="100893" relicId="85" summonCount="1" /> <!-- 일반 Antharas 인형 소환권 -->
+	<coupon itemId="100894" relicId="50" summonCount="1" /> <!-- 고급 Queen Ant 인형 소환권 -->
+	<coupon itemId="100895" relicId="56" summonCount="1" /> <!-- 고급 Orfen 인형 소환권 -->
+	<coupon itemId="100896" relicId="62" summonCount="1" /> <!-- 고급 Core 인형 소환권 -->
+	<coupon itemId="100897" relicId="74" summonCount="1" /> <!-- 고급 Frintezza 인형 소환권 -->
+	<coupon itemId="100898" relicId="68" summonCount="1" /> <!-- 고급 Zaken 인형 소환권 -->
+	<coupon itemId="100899" relicId="80" summonCount="1" /> <!-- 고급 Baium 인형 소환권 -->
+	<coupon itemId="100900" relicId="86" summonCount="1" /> <!-- 고급 Antharas 인형 소환권 -->
+	<coupon itemId="100901" relicId="97" summonCount="1" /> <!-- 고급 Behemoth 인형 소환권 -->
+	<coupon itemId="100902" relicId="91" summonCount="1" /> <!-- 고급 Glakias 인형 소환권 -->
+	<coupon itemId="100903" relicId="103" summonCount="1" /> <!-- 고급 Andreas van Halter 인형 소환권 -->
+	<coupon itemId="100904" relicId="109" summonCount="1" /> <!-- 고급 Kelbim 인형 소환권 -->
+	<coupon itemId="100905" relicId="51" summonCount="1" /> <!-- 최고급 Queen Ant 인형 소환권 -->
+	<coupon itemId="100906" relicId="57" summonCount="1" /> <!-- 최고급 Orfen 인형 소환권 -->
+	<coupon itemId="100907" relicId="63" summonCount="1" /> <!-- 최고급 Core 인형 소환권 -->
+	<coupon itemId="100908" relicId="75" summonCount="1" /> <!-- 최고급 Frintezza 인형 소환권 -->
+	<coupon itemId="100909" relicId="69" summonCount="1" /> <!-- 최고급 Zaken 인형 소환권 -->
+	<coupon itemId="100910" relicId="81" summonCount="1" /> <!-- 최고급 Baium 인형 소환권 -->
+	<coupon itemId="100911" relicId="87" summonCount="1" /> <!-- 최고급 Antharas 인형 소환권 -->
+	<coupon itemId="100912" relicId="98" summonCount="1" /> <!-- 최고급 Behemoth 인형 소환권 -->
+	<coupon itemId="100913" relicId="92" summonCount="1" /> <!-- 최고급 Glakias 인형 소환권 -->
+	<coupon itemId="100914" relicId="104" summonCount="1" /> <!-- 최고급 Andreas van Halter 인형 소환권 -->
+	<coupon itemId="100915" relicId="110" summonCount="1" /> <!-- 최고급 Kelbim 인형 소환권 -->
+	<coupon itemId="100916" relicId="52" summonCount="1" /> <!-- 희귀 Queen Ant 인형 소환권 -->
+	<coupon itemId="100917" relicId="58" summonCount="1" /> <!-- 희귀 Orfen 인형 소환권 -->
+	<coupon itemId="100918" relicId="64" summonCount="1" /> <!-- 희귀 Core 인형 소환권 -->
+	<coupon itemId="100919" relicId="76" summonCount="1" /> <!-- 희귀 Frintezza 인형 소환권 -->
+	<coupon itemId="100920" relicId="70" summonCount="1" /> <!-- 희귀 Zaken 인형 소환권 -->
+	<coupon itemId="100921" relicId="82" summonCount="1" /> <!-- 희귀 Baium 인형 소환권 -->
+	<coupon itemId="100922" relicId="88" summonCount="1" /> <!-- 희귀 Antharas 인형 소환권 -->
+	<coupon itemId="100923" relicId="99" summonCount="1" /> <!-- 희귀 Behemoth 인형 소환권 -->
+	<coupon itemId="100924" relicId="93" summonCount="1" /> <!-- 희귀 Glakias 인형 소환권 -->
+	<coupon itemId="100925" relicId="105" summonCount="1" /> <!-- 희귀 Andreas van Halter 인형 소환권 -->
+	<coupon itemId="100926" relicId="111" summonCount="1" /> <!-- 희귀 Kelbim 인형 소환권 -->
+	<coupon itemId="100927" relicId="53" summonCount="1" /> <!-- 영웅 Queen Ant 인형 소환권 -->
+	<coupon itemId="100928" relicId="59" summonCount="1" /> <!-- 영웅 Orfen 인형 소환권 -->
+	<coupon itemId="100929" relicId="65" summonCount="1" /> <!-- 영웅 Core 인형 소환권 -->
+	<coupon itemId="100930" relicId="77" summonCount="1" /> <!-- 영웅 Frintezza 인형 소환권 -->
+	<coupon itemId="100931" relicId="71" summonCount="1" /> <!-- 영웅 Zaken 인형 소환권 -->
+	<coupon itemId="100932" relicId="83" summonCount="1" /> <!-- 영웅 Baium 인형 소환권 -->
+	<coupon itemId="100933" relicId="89" summonCount="1" /> <!-- 영웅 Antharas 인형 소환권 -->
+	<coupon itemId="100934" relicId="100" summonCount="1" /> <!-- 영웅 Behemoth 인형 소환권 -->
+	<coupon itemId="100935" relicId="94" summonCount="1" /> <!-- 영웅 Glakias 인형 소환권 -->
+	<coupon itemId="100936" relicId="106" summonCount="1" /> <!-- 영웅 Andreas van Halter 인형 소환권 -->
+	<coupon itemId="100937" relicId="112" summonCount="1" /> <!-- 영웅 Kelbim 인형 소환권 -->
+	<coupon itemId="100938" relicId="54" summonCount="1" /> <!-- 전설 Queen Ant 인형 소환권 -->
+	<coupon itemId="100939" relicId="60" summonCount="1" /> <!-- 전설 Orfen 인형 소환권 -->
+	<coupon itemId="100940" relicId="66" summonCount="1" /> <!-- 전설 Core 인형 소환권 -->
+	<coupon itemId="100941" relicId="78" summonCount="1" /> <!-- 전설 Frintezza 인형 소환권 -->
+	<coupon itemId="100942" relicId="72" summonCount="1" /> <!-- 전설 Zaken 인형 소환권 -->
+	<coupon itemId="100943" relicId="84" summonCount="1" /> <!-- 전설 Baium 인형 소환권 -->
+	<coupon itemId="100944" relicId="90" summonCount="1" /> <!-- 전설 Antharas 인형 소환권 -->
+	<coupon itemId="100945" relicId="101" summonCount="1" /> <!-- 전설 Behemoth 인형 소환권 -->
+	<coupon itemId="100946" relicId="95" summonCount="1" /> <!-- 전설 Glakias 인형 소환권 -->
+	<coupon itemId="100947" relicId="107" summonCount="1" /> <!-- 전설 Andreas van Halter 인형 소환권 -->
+	<coupon itemId="100948" relicId="113" summonCount="1" /> <!-- 전설 Kelbim 인형 소환권 -->
+	<coupon itemId="100949" relicId="102" summonCount="1" /> <!-- 신화 Behemoth 인형 소환권 -->
+	<coupon itemId="100950" relicId="96" summonCount="1" /> <!-- 신화 Glakias 인형 소환권 -->
+	<coupon itemId="100951" relicId="108" summonCount="1" /> <!-- 신화 Andreas van Halter 인형 소환권 -->
+	<coupon itemId="100952" relicId="114" summonCount="1" /> <!-- 신화 Kelbim 인형 소환권 -->
+	<coupon itemId="101267" relicId="23" summonCount="1" /> <!-- 일반 King Petram 인형 소환권 -->
+	<coupon itemId="101268" relicId="19" summonCount="1" /> <!-- 일반 King Procella 인형 소환권 -->
+	<coupon itemId="101269" relicId="1" summonCount="1" /> <!-- 일반 Princess Molrang 인형 소환권 -->
+	<coupon itemId="101390" relicId="115" summonCount="1" /> <!-- 고급 Ferion 인형 소환권 -->
+	<coupon itemId="101391" relicId="116" summonCount="1" /> <!-- 최고급 Ferion 인형 소환권 -->
+	<coupon itemId="101392" relicId="117" summonCount="1" /> <!-- 희귀 Ferion 인형 소환권 -->
+	<coupon itemId="101393" relicId="118" summonCount="1" /> <!-- 영웅 Ferion 인형 소환권 -->
+	<coupon itemId="101394" relicId="119" summonCount="1" /> <!-- 전설 Ferion 인형 소환권 -->
+	<coupon itemId="101395" relicId="120" summonCount="1" /> <!-- 신화 Ferion 인형 소환권 -->
+	<coupon itemId="101484" relicId="13" summonCount="1" /> <!-- 최고급 King Ignis 인형 소환권 -->
+	<coupon itemId="101485" relicId="17" summonCount="1" /> <!-- 최고급 Queen Nebula 인형 소환권 -->
+	<coupon itemId="101486" relicId="21" summonCount="1" /> <!-- 최고급 King Procella 인형 소환권 -->
+	<coupon itemId="101487" relicId="25" summonCount="1" /> <!-- 최고급 King Petram 인형 소환권 -->
+	<coupon itemId="101488" relicId="29" summonCount="1" /> <!-- 최고급 Tiron 인형 소환권 -->
+	<coupon itemId="101489" relicId="33" summonCount="1" /> <!-- 최고급 Scarlet van Halisha 인형 소환권 -->
+	<coupon itemId="101490" relicId="39" summonCount="1" /> <!-- 최고급 Anakim 인형 소환권 -->
+	<coupon itemId="101491" relicId="45" summonCount="1" /> <!-- 최고급 Lilith 인형 소환권 -->
+	<coupon itemId="101573" relicId="121" summonCount="1" /> <!-- 일반 Vulcan 인형 소환권 -->
+	<coupon itemId="101574" relicId="122" summonCount="1" /> <!-- 고급 Vulcan 인형 소환권 -->
+	<coupon itemId="101575" relicId="123" summonCount="1" /> <!-- 최고급 Vulcan 인형 소환권 -->
+	<coupon itemId="101576" relicId="124" summonCount="1" /> <!-- 희귀 Vulcan 인형 소환권 -->
+	<coupon itemId="101577" relicId="121" summonCount="1" /> <!-- 일반 Vulcan 인형 소환권 -->
+	<coupon itemId="101578" relicId="122" summonCount="1" /> <!-- 고급 Vulcan 인형 소환권 -->
+	<coupon itemId="101579" relicId="123" summonCount="1" /> <!-- 최고급 Vulcan 인형 소환권 -->
+	<coupon itemId="101580" relicId="124" summonCount="1" /> <!-- 희귀 Vulcan 인형 소환권 -->
+	<coupon itemId="101581" relicId="125" summonCount="1" /> <!-- 영웅 Vulcan 인형 소환권 -->
+	<coupon itemId="101583" relicId="100" summonCount="1" /> <!-- 영웅 Behemoth 인형 소환권 -->
+	<coupon itemId="101646" relicId="38" summonCount="1" /> <!-- 고급 Anakim 인형 소환권 -->
+	<coupon itemId="101647" relicId="44" summonCount="1" /> <!-- 고급 Lilith 인형 소환권 -->
+	<coupon itemId="101648" relicId="38" summonCount="1" /> <!-- 고급 Anakim 인형 소환권 -->
+	<coupon itemId="101649" relicId="44" summonCount="1" /> <!-- 고급 Lilith 인형 소환권 -->
+	<coupon itemId="101650" relicId="50" summonCount="1" /> <!-- 고급 Queen Ant 인형 소환권 -->
+	<coupon itemId="101651" relicId="56" summonCount="1" /> <!-- 고급 Orfen 인형 소환권 -->
+	<coupon itemId="101652" relicId="62" summonCount="1" /> <!-- 고급 Core 인형 소환권 -->
+	<coupon itemId="101653" relicId="74" summonCount="1" /> <!-- 고급 Frintezza 인형 소환권 -->
+	<coupon itemId="101654" relicId="68" summonCount="1" /> <!-- 고급 Zaken 인형 소환권 -->
+	<coupon itemId="101655" relicId="80" summonCount="1" /> <!-- 고급 Baium 인형 소환권 -->
+	<coupon itemId="101656" relicId="86" summonCount="1" /> <!-- 고급 Antharas 인형 소환권 -->
+	<coupon itemId="101657" relicId="97" summonCount="1" /> <!-- 고급 Behemoth 인형 소환권 -->
+	<coupon itemId="101658" relicId="91" summonCount="1" /> <!-- 고급 Glakias 인형 소환권 -->
+	<coupon itemId="101659" relicId="103" summonCount="1" /> <!-- 고급 Andreas van Halter 인형 소환권 -->
+	<coupon itemId="101660" relicId="109" summonCount="1" /> <!-- 고급 Kelbim 인형 소환권 -->
+	<coupon itemId="101661" relicId="51" summonCount="1" /> <!-- 최고급 Queen Ant 인형 소환권 -->
+	<coupon itemId="101662" relicId="57" summonCount="1" /> <!-- 최고급 Orfen 인형 소환권 -->
+	<coupon itemId="101663" relicId="63" summonCount="1" /> <!-- 최고급 Core 인형 소환권 -->
+	<coupon itemId="101664" relicId="75" summonCount="1" /> <!-- 최고급 Frintezza 인형 소환권 -->
+	<coupon itemId="101665" relicId="69" summonCount="1" /> <!-- 최고급 Zaken 인형 소환권 -->
+	<coupon itemId="101666" relicId="81" summonCount="1" /> <!-- 최고급 Baium 인형 소환권 -->
+	<coupon itemId="101667" relicId="87" summonCount="1" /> <!-- 최고급 Antharas 인형 소환권 -->
+	<coupon itemId="101668" relicId="98" summonCount="1" /> <!-- 최고급 Behemoth 인형 소환권 -->
+	<coupon itemId="101669" relicId="92" summonCount="1" /> <!-- 최고급 Glakias 인형 소환권 -->
+	<coupon itemId="101670" relicId="104" summonCount="1" /> <!-- 최고급 Andreas van Halter 인형 소환권 -->
+	<coupon itemId="101671" relicId="110" summonCount="1" /> <!-- 최고급 Kelbim 인형 소환권 -->
+	<coupon itemId="101672" relicId="39" summonCount="1" /> <!-- 최고급 Anakim 인형 소환권 -->
+	<coupon itemId="101673" relicId="45" summonCount="1" /> <!-- 최고급 Lilith 인형 소환권 -->
+	<coupon itemId="101816" relicId="2" summonCount="1" /> <!-- 고급 Princess Molrang 인형 소환권 -->
+	<coupon itemId="101817" relicId="4" summonCount="1" /> <!-- 고급 Deiman 인형 소환권 -->
+	<coupon itemId="101818" relicId="6" summonCount="1" /> <!-- 고급 Satina 인형 소환권 -->
+	<coupon itemId="101819" relicId="8" summonCount="1" /> <!-- 고급 Ryuminir 인형 소환권 -->
+	<coupon itemId="101820" relicId="10" summonCount="1" /> <!-- 고급 Aizen Kelsour 인형 소환권 -->
+	<coupon itemId="101821" relicId="12" summonCount="1" /> <!-- 고급 King Ignis 인형 소환권 -->
+	<coupon itemId="101822" relicId="16" summonCount="1" /> <!-- 고급 Queen Nebula 인형 소환권 -->
+	<coupon itemId="101823" relicId="20" summonCount="1" /> <!-- 고급 King Procella 인형 소환권 -->
+	<coupon itemId="101824" relicId="24" summonCount="1" /> <!-- 고급 King Petram 인형 소환권 -->
+	<coupon itemId="101825" relicId="28" summonCount="1" /> <!-- 고급 Tiron 인형 소환권 -->
+	<coupon itemId="101826" relicId="32" summonCount="1" /> <!-- 고급 Scarlet van Halisha 인형 소환권 -->
+	<coupon itemId="101982" relicId="34" summonCount="1" /> <!-- 희귀 Scarlet van Halisha 인형 소환권 -->
+	<coupon itemId="101983" relicId="40" summonCount="1" /> <!-- 희귀 Anakim 인형 소환권 -->
+	<coupon itemId="101984" relicId="46" summonCount="1" /> <!-- 희귀 Lilith 인형 소환권 -->
+	<coupon itemId="101985" relicId="35" summonCount="1" /> <!-- 영웅 Scarlet van Halisha 인형 소환권 -->
+	<coupon itemId="101986" relicId="41" summonCount="1" /> <!-- 영웅 Anakim 인형 소환권 -->
+	<coupon itemId="101987" relicId="47" summonCount="1" /> <!-- 영웅 Lilith 인형 소환권 -->
+	<coupon itemId="102084" relicId="127" summonCount="1" /> <!-- 일반 Aztacan 인형 소환권 -->
+	<coupon itemId="102085" relicId="128" summonCount="1" /> <!-- 고급 Aztacan 인형 소환권 -->
+	<coupon itemId="102086" relicId="129" summonCount="1" /> <!-- 최고급 Aztacan 인형 소환권 -->
+	<coupon itemId="102087" relicId="130" summonCount="1" /> <!-- 희귀 Aztacan 인형 소환권 -->
+	<coupon itemId="102088" relicId="131" summonCount="1" /> <!-- 영웅 Aztacan 인형 소환권 -->
+	<coupon itemId="102119" relicId="49" summonCount="1" /> <!-- 일반 Queen Ant 인형 소환권 (Time-limited) -->
+	<coupon itemId="102120" relicId="55" summonCount="1" /> <!-- 일반 Orfen 인형 소환권 (Time-limited) -->
+	<coupon itemId="102121" relicId="61" summonCount="1" /> <!-- 일반 Core 인형 소환권 (Time-limited) -->
+	<coupon itemId="102122" relicId="67" summonCount="1" /> <!-- 일반 Zaken 인형 소환권 (Time-limited) -->
+	<coupon itemId="102123" relicId="79" summonCount="1" /> <!-- 일반 Baium 인형 소환권 (Time-limited) -->
+	<coupon itemId="102124" relicId="85" summonCount="1" /> <!-- 일반 Antharas 인형 소환권 (Time-limited) -->
+	<coupon itemId="102125" relicId="50" summonCount="1" /> <!-- 고급 Queen Ant 인형 소환권 (Time-limited) -->
+	<coupon itemId="102126" relicId="56" summonCount="1" /> <!-- 고급 Orfen 인형 소환권 (Time-limited) -->
+	<coupon itemId="102127" relicId="62" summonCount="1" /> <!-- 고급 Core 인형 소환권 (Time-limited) -->
+	<coupon itemId="102128" relicId="68" summonCount="1" /> <!-- 고급 Zaken 인형 소환권 (Time-limited) -->
+	<coupon itemId="102129" relicId="80" summonCount="1" /> <!-- 고급 Baium 인형 소환권 (Time-limited) -->
+	<coupon itemId="102130" relicId="86" summonCount="1" /> <!-- 고급 Antharas 인형 소환권 (Time-limited) -->
+	<coupon itemId="102133" relicId="133" summonCount="1" /> <!-- 최고급 Princess Molrang 인형 소환권 -->
+	<coupon itemId="102143" relicId="3" summonCount="1" /> <!-- 일반 Deiman 인형 소환권 -->
+	<coupon itemId="102144" relicId="5" summonCount="1" /> <!-- 일반 Satina 인형 소환권 -->
+	<coupon itemId="102145" relicId="7" summonCount="1" /> <!-- 일반 Ryuminir 인형 소환권 -->
+	<coupon itemId="102146" relicId="9" summonCount="1" /> <!-- 일반 Aizen Kelsour 인형 소환권 -->
+	<coupon itemId="102147" relicId="11" summonCount="1" /> <!-- 일반 King Ignis 인형 소환권 -->
+	<coupon itemId="102148" relicId="15" summonCount="1" /> <!-- 일반 Queen Nebula 인형 소환권 -->
+	<coupon itemId="102149" relicId="27" summonCount="1" /> <!-- 일반 Tiron 인형 소환권 -->
+	<coupon itemId="102150" relicId="37" summonCount="1" /> <!-- 일반 Anakim 인형 소환권 -->
+	<coupon itemId="102151" relicId="43" summonCount="1" /> <!-- 일반 Lilith 인형 소환권 -->
+	<coupon itemId="102152" relicId="31" summonCount="1" /> <!-- 일반 Scarlet van Halisha 인형 소환권 -->
+	<coupon itemId="102153" relicId="14" summonCount="1" /> <!-- 희귀 King Ignis 인형 소환권 -->
+	<coupon itemId="102154" relicId="18" summonCount="1" /> <!-- 희귀 Queen Nebula 인형 소환권 -->
+	<coupon itemId="102155" relicId="22" summonCount="1" /> <!-- 희귀 King Procella 인형 소환권 -->
+	<coupon itemId="102156" relicId="26" summonCount="1" /> <!-- 희귀 King Petram 인형 소환권 -->
+	<coupon itemId="102157" relicId="30" summonCount="1" /> <!-- 희귀 Tiron 인형 소환권 -->
+	<coupon itemId="102418" relicId="36" summonCount="1" /> <!-- 전설 Scarlet van Halisha 인형 소환권 -->
+	<coupon itemId="102419" relicId="42" summonCount="1" /> <!-- 전설 Anakim 인형 소환권 -->
+	<coupon itemId="102420" relicId="48" summonCount="1" /> <!-- 전설 Lilith 인형 소환권 -->
+	<coupon itemId="102421" relicId="126" summonCount="1" /> <!-- 전설 Vulcan 인형 소환권 -->
+	<coupon itemId="102422" relicId="132" summonCount="1" /> <!-- 전설 Aztacan 인형 소환권 -->
+
+	<coupon itemId="100814" summonCount="1"> <!-- 인형 소환권 (Common - Superior) - 1 time (Sealed) -->
+		<chanceGroups>
+			<chanceGroups grade="COMMON" chance="50" />
+			<chanceGroups grade="ENHANCED" chance="30" />
+			<chanceGroups grade="SUPERIOR" chance="20" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="100815" summonCount="1"> <!-- 인형 소환권 (Common - Rare) - 1 time (Sealed) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="35" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="24" />
+			<group grade="RARE" chance="11" />
+		</chanceGroups>
+		<disabledDolls>
+		<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101210" summonCount="1"> <!-- 인형 소환권 (일반) - 1 time (Sealed) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+		<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+		<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101211" summonCount="1"> <!-- 인형 소환권 (고급) - 1 time (Sealed) -->
+		<chanceGroups>
+			<group grade="ENHANCED" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101212" summonCount="1"> <!-- 인형 소환권 (최고급) - 1 time (Sealed) -->
+		<chanceGroups>
+			<group grade="SUPERIOR" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101213" summonCount="1"> <!-- 인형 소환권 (희귀) - 1 time (Sealed) -->
+		<chanceGroups>
+			<group grade="RARE" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101214" summonCount="1"> <!-- 인형 소환권 (영웅) - 1 time (Sealed) -->
+		<chanceGroups>
+			<group grade="HEROIC" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="125" /> <!-- 영웅 Vulcan Doll -->
+			<disabled id="131" /> <!-- 영웅 Aztacan Doll -->
+			<disabled id="100" /> <!-- 영웅 Behemoth Doll -->
+			<disabled id="106" /> <!-- 영웅 Andreas van Halter Doll -->
+			<disabled id="112" /> <!-- 영웅 Kelbim Doll -->
+			<disabled id="118" /> <!-- 영웅 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101215" summonCount="1"> <!-- 인형 소환권 (전설) - 1 time (Sealed) -->
+		<chanceGroups>
+			<group grade="LEGENDARY" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="101" /> <!-- 전설 베히모스 인형 -->
+			<disabled id="107" /> <!-- 전설 안드레아스 반 홀터 인형 -->
+			<disabled id="113" /> <!-- 전설 켈빔 인형 -->
+			<disabled id="119" /> <!-- 전설 페리온 인형 -->
+			<disabled id="126" /> <!-- 전설 불칸 인형 -->
+			<disabled id="132" /> <!-- 전설 아즈타칸 인형 -->
+			<disabled id="139" /> <!-- 전설 아나이스 인형 -->
+			<disabled id="145" /> <!-- 전설 갈락시아 인형 -->
+			<disabled id="151" /> <!-- 전설 유리헬 인형 -->
+			<disabled id="157" /> <!-- 전설 브리엘 인형 -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101216" summonCount="1"> <!-- 인형 소환권 (신화) - 1 time (Sealed) -->
+		<chanceGroups>
+			<group grade="MYTHIC" chance="100" />
+		</chanceGroups>
+	</coupon>
+	<coupon itemId="101250" summonCount="1"> <!-- 인형 소환권 (일반) - 1 time -->
+		<chanceGroups>
+			<group grade="COMMON" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101251" summonCount="1"> <!-- 인형 소환권 (고급) - 1 time -->
+		<chanceGroups>
+			<group grade="ENHANCED" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101252" summonCount="1"> <!-- 인형 소환권 (최고급) - 1 time -->
+		<chanceGroups>
+			<group grade="SUPERIOR" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101253" summonCount="1"> <!-- 인형 소환권 (희귀) - 1 time -->
+		<chanceGroups>
+			<group grade="RARE" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101254" summonCount="1"> <!-- 인형 소환권 (영웅) - 1 time -->
+		<chanceGroups>
+			<group grade="HEROIC" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="125" /> <!-- 영웅 Vulcan Doll -->
+			<disabled id="131" /> <!-- 영웅 Aztacan Doll -->
+			<disabled id="100" /> <!-- 영웅 Behemoth Doll -->
+			<disabled id="106" /> <!-- 영웅 Andreas van Halter Doll -->
+			<disabled id="112" /> <!-- 영웅 Kelbim Doll -->
+			<disabled id="118" /> <!-- 영웅 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101255" summonCount="1"> <!-- 인형 소환권 (전설) - 1 time -->
+		<chanceGroups>
+			<group grade="LEGENDARY" chance="100" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="101" /> <!-- 전설 베히모스 인형 -->
+			<disabled id="107" /> <!-- 전설 안드레아스 반 홀터 인형 -->
+			<disabled id="113" /> <!-- 전설 켈빔 인형 -->
+			<disabled id="119" /> <!-- 전설 페리온 인형 -->
+			<disabled id="126" /> <!-- 전설 불칸 인형 -->
+			<disabled id="132" /> <!-- 전설 아즈타칸 인형 -->
+			<disabled id="139" /> <!-- 전설 아나이스 인형 -->
+			<disabled id="145" /> <!-- 전설 갈락시아 인형 -->
+			<disabled id="151" /> <!-- 전설 유리헬 인형 -->
+			<disabled id="157" /> <!-- 전설 브리엘 인형 -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101256" summonCount="1"> <!-- 인형 소환권 (신화) - 1 time -->
+		<chanceGroups>
+			<group grade="MYTHIC" chance="100" />
+		</chanceGroups>
+	</coupon>
+	<coupon itemId="101316" summonCount="1"> <!-- 인형 소환권 (Common - Superior) - 1 time (Time-limited) (Sealed) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="50" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="20" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101317" summonCount="1"> <!-- 인형 소환권 (Common - Rare) - 1 time (Time-limited) (Sealed) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="35" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="24" />
+			<group grade="RARE" chance="11" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101318" summonCount="1"> <!-- 인형 소환권 (Enhanced - Superior) - 1 time (Sealed) -->
+		<chanceGroups>
+			<group grade="ENHANCED" chance="70" />
+			<group grade="SUPERIOR" chance="30" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101584" summonCount="1"> <!-- 인형 소환권 (Common - Rare) - 1 time (Sealed) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="35" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="24" />
+			<group grade="RARE" chance="11" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101676" summonCount="1"> <!-- 인형 소환권 (Common - Rare) - 1 time (Time-limited) (Sealed) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="35" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="24" />
+			<group grade="RARE" chance="11" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101707" summonCount="1"> <!-- 인형 소환권 (Common - Rare) - 1 time (Time-limited) (Sealed) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="35" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="24" />
+			<group grade="RARE" chance="11" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="100812" summonCount="11"> <!-- 인형 소환권 (Common - Superior) - 11 time (Sealed) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="50" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="20" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="100813" summonCount="11"> <!-- 인형 소환권 (Common - Rare) - 11 time (Sealed) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="35" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="24" />
+			<group grade="RARE" chance="11" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101314" summonCount="11"> <!-- 인형 소환권 (Common - Superior) - 11 time (Time-limited) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="50" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="20" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101315" summonCount="11"> <!-- 인형 소환권 (Common - Rare) - 11 time (Time-limited) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="35" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="24" />
+			<group grade="RARE" chance="11" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101318" summonCount="11"> <!-- 인형 소환권 (Enhanced - Superior) - 11 time (Sealed) -->
+		<chanceGroups>
+			<group grade="ENHANCED" chance="70" />
+			<group grade="SUPERIOR" chance="30" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101447" summonCount="11"> <!-- 인형 소환권 (Enhanced - Superior) - 11 time (Time-limited) -->
+		<chanceGroups>
+			<group grade="ENHANCED" chance="70" />
+			<group grade="SUPERIOR" chance="30" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101582" summonCount="11"> <!-- 인형 소환권 (Common - Rare) - 11 time (Sealed) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="35" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="24" />
+			<group grade="RARE" chance="11" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101675" summonCount="11"> <!-- 인형 소환권 (Common - Rare) - 11 time (Time-limited) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="35" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="24" />
+			<group grade="RARE" chance="11" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101706" summonCount="11"> <!-- 인형 소환권 (Common - Rare) - 11 time (Time-limited) -->
+		<chanceGroups>
+			<group grade="COMMON" chance="35" />
+			<group grade="ENHANCED" chance="30" />
+			<group grade="SUPERIOR" chance="24" />
+			<group grade="RARE" chance="11" />
+		</chanceGroups>
+		<disabledDolls>
+			<disabled id="121" /> <!-- 일반 Vulcan Doll -->
+			<disabled id="127" /> <!-- 일반 Aztacan Doll -->
+			<disabled id="122" /> <!-- 고급 Vulcan Doll -->
+			<disabled id="128" /> <!-- 고급 Aztacan Doll -->
+			<disabled id="103" /> <!-- 고급 Andreas van Halter Doll -->
+			<disabled id="109" /> <!-- 고급 Kelbim Doll -->
+			<disabled id="115" /> <!-- 고급 Ferion Doll -->
+			<disabled id="123" /> <!-- 최고급 Vulcan Doll -->
+			<disabled id="129" /> <!-- 최고급 Aztacan Doll -->
+			<disabled id="104" /> <!-- 최고급 Andreas van Halter Doll -->
+			<disabled id="110" /> <!-- 최고급 Kelbim Doll -->
+			<disabled id="116" /> <!-- 최고급 Ferion Doll -->
+			<disabled id="124" /> <!-- 희귀 Vulcan Doll -->
+			<disabled id="130" /> <!-- 희귀 Aztacan Doll -->
+			<disabled id="105" /> <!-- 희귀 Andreas van Halter Doll -->
+			<disabled id="111" /> <!-- 희귀 Kelbim Doll -->
+			<disabled id="117" /> <!-- 희귀 Ferion Doll -->
+		</disabledDolls>
+	</coupon>
+	<coupon itemId="101706" summonCount="1"> <!-- 인형 소환권 - Weekly Chest Ticket (Time-limited) -->
+		<chanceRollGroups>
+			<chanceRoll dollId="50" chance="25" /> <!-- 고급 Queen Ant Doll -->
+			<chanceRoll dollId="56" chance="25" /> <!-- 고급 Orfen Doll -->
+			<chanceRoll dollId="62" chance="25" /> <!-- 고급 Core Doll -->
+			<chanceRoll dollId="74" chance="25" /> <!-- 고급 Frintezza Doll -->
+			<chanceRoll dollId="80" chance="25" /> <!-- 고급 Baium Doll -->
+			<chanceRoll dollId="86" chance="25" /> <!-- 고급 Antharas Doll -->
+			<chanceRoll dollId="98" chance="25" /> <!-- 최고급 Behemoth Doll -->
+			<chanceRoll dollId="92" chance="25" /> <!-- 최고급 Glakias Doll -->
+		</chanceRollGroups>
+	</coupon>
+	<coupon itemId="101706" summonCount="1"> <!-- High-grade 인형 소환권 - Weekly Chest Ticket (Time-limited) -->
+		<chanceRollGroups>
+			<chanceRoll dollId="51" chance="25" /> <!-- 최고급 Queen Ant Doll -->
+			<chanceRoll dollId="57" chance="25" /> <!-- 최고급 Orfen Doll -->
+			<chanceRoll dollId="63" chance="25" /> <!-- 최고급 Core Doll -->
+			<chanceRoll dollId="69" chance="25" /> <!-- 최고급 Zaken Doll -->
+			<chanceRoll dollId="75" chance="25" /> <!-- 최고급 Frintezza Doll -->
+			<chanceRoll dollId="81" chance="25" /> <!-- 최고급 Baium Doll -->
+			<chanceRoll dollId="87" chance="25" /> <!-- 최고급 Antharas Doll -->
+			<chanceRoll dollId="99" chance="25" /> <!-- 희귀 Behemoth Doll -->
+			<chanceRoll dollId="93" chance="25" /> <!-- 희귀 Glakias Doll -->
+		</chanceRollGroups>
+	</coupon>
+	<coupon itemId="101455" summonCount="1"> <!-- High-grade 인형 소환권 - Weekly Chest Ticket (Time-limited) -->
+		<chanceRollGroups>
+			<chanceRoll dollId="51" chance="25" /> <!-- 최고급 Queen Ant Doll -->
+			<chanceRoll dollId="57" chance="25" /> <!-- 최고급 Orfen Doll -->
+			<chanceRoll dollId="63" chance="25" /> <!-- 최고급 Core Doll -->
+			<chanceRoll dollId="69" chance="25" /> <!-- 최고급 Zaken Doll -->
+			<chanceRoll dollId="75" chance="25" /> <!-- 최고급 Frintezza Doll -->
+			<chanceRoll dollId="81" chance="25" /> <!-- 최고급 Baium Doll -->
+			<chanceRoll dollId="87" chance="25" /> <!-- 최고급 Antharas Doll -->
+			<chanceRoll dollId="99" chance="25" /> <!-- 희귀 Behemoth Doll -->
+			<chanceRoll dollId="93" chance="25" /> <!-- 희귀 Glakias Doll -->
+		</chanceRollGroups>
+	</coupon>
+</list>

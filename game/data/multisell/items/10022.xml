@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/multisell.xsd">
+	<npcs>
+		<npc>-1</npc> <!-- 정령탄 교환권 -->
+	</npcs>
+	<item>
+		<ingredient id="90907" count="1" /> <!-- 정령탄 교환권 -->
+		<production id="91927" count="500" /> <!-- 정령탄 -->
+	</item>
+	<item>
+		<ingredient id="90907" count="1" /> <!-- 정령탄 교환권 -->
+		<production id="91928" count="240" /> <!-- 마정탄 -->
+	</item>
+</list>

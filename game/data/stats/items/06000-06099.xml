@@ -1,0 +1,670 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="6002" name="고대의 도자기" type="EtcItem">
+		<!-- Porcelain from the era of an ancient empire found in the Tower of Insolence. It Has not been evaluated by antique experts yet. -->
+		<set name="icon" val="icon.etc_oil_pot_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="8000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="6003" name="고대의 도자기 - 명기" type="EtcItem">
+		<!-- Porcelain from the era of an ancient empire. Judged to be of the highest grade "excellent" porcelain. -->
+		<set name="icon" val="icon.etc_oil_pot_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="80000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="6004" name="고대의 도자기 - 상급" type="EtcItem">
+		<!-- Porcelain from the era of an ancient empire. Considered of the high quality. -->
+		<set name="icon" val="icon.etc_oil_pot_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="16000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="6005" name="고대의 도자기 - 하급" type="EtcItem">
+		<!-- Porcelain from the era of an ancient empire. Judged to be of "low grade" porcelain. -->
+		<set name="icon" val="icon.etc_oil_pot_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="4000"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="6006" name="고대의 도자기 - 최하급" type="EtcItem">
+		<!-- Porcelain from the era of an ancient empire. Judged to be of the "lowest grade" porcelain. -->
+		<set name="icon" val="icon.etc_oil_pot_white_i00"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="10"/>
+		<set name="price" val="2640"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="is_questitem" val="true"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_depositable" val="false"/>
+	</item>
+	<item id="6035" name="마법 시전속도 향상 물약" type="EtcItem">
+		<!-- Increases Casting Spd., when used. -->
+		<set name="icon" val="icon.etc_potion_of_acumen2_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="2400"/>
+		<set name="reuse_delay" val="500"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="POTION"/>
+		<set name="for_npc" val="true"/>
+		<skills>
+			<skill id="2169" level="1"/> <!-- Cast Quickening Potion -->
+		</skills>
+	</item>
+	<item id="6036" name="고급 마법시전속도 향상 물약" type="EtcItem">
+		<!-- Increases Casting Spd., when used. Duration: 5 min. -->
+		<set name="icon" val="icon.etc_potion_of_acumen3_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="20"/>
+		<set name="price" val="3400"/>
+		<set name="reuse_delay" val="500"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="POTION"/>
+		<set name="for_npc" val="true"/>
+		<conditions addName="1" msgId="113">
+			<player flyMounted="false"/>
+		</conditions>
+		<skills>
+			<skill id="2169" level="2"/> <!-- Greater Cast Quickening Potion -->
+		</skills>
+	</item>
+	<item id="6037" name="수면 해제 주문서" type="EtcItem">
+		<!-- If you use it on the target who is asleep, the target will wake up. -->
+		<set name="icon" val="icon.etc_piece_of_paper_white_i00"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<set name="price" val="100"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<skills>
+			<skill id="2170" level="1"/> <!-- Scroll: Cancel Sleep -->
+		</skills>
+	</item>
+	<item id="6038" name="미공급 - 고급 용병배치표(칼/고정)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="60000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6039" name="미공급 - 고급 용병배치표(창/고정)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="80000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6040" name="미공급 - 고급 용병배치표(활/고정)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6041" name="미공급 - 고급 용병배치표(클레릭/고정)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6042" name="미공급 - 고급 용병배치표(위저드/고정)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6043" name="미공급 - 고급 용병배치표(칼/이동)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="60000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6044" name="미공급 - 고급 용병배치표(창/이동)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="80000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6045" name="미공급 - 고급 용병배치표(활/이동)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6046" name="미공급 - 고급 용병배치표(클레릭/이동)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6047" name="미공급 - 고급 용병배치표(위저드/이동)" type="EtcItem">
+		<!-- The item is not available. Cannot be used. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6051" name="고급 용병배치표(칼/고정)" type="EtcItem">
+		<!-- Dion/ Sword/ Stationary. -->
+		<set name="icon" val="icon.mticket_sword_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="60000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6052" name="고급 용병배치표(창/고정)" type="EtcItem">
+		<!-- Dion/ Spear/ Stationary. -->
+		<set name="icon" val="icon.mticket_pole_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="80000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6053" name="고급 용병배치표(활/고정)" type="EtcItem">
+		<!-- Dion/ Bow/ Stationary. -->
+		<set name="icon" val="icon.mticket_bow_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6054" name="고급 용병배치표(클레릭/고정)" type="EtcItem">
+		<!-- Dion/ Healer/ Stationary. -->
+		<set name="icon" val="icon.mticket_cleric_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6055" name="고급 용병배치표(위저드/고정)" type="EtcItem">
+		<!-- Dion/ Wizard/ Stationary. -->
+		<set name="icon" val="icon.mticket_wizard_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6056" name="고급 용병배치표(칼/이동)" type="EtcItem">
+		<!-- Dion/ Sword/ Mobile. -->
+		<set name="icon" val="icon.mticket_sword_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="60000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6057" name="고급 용병배치표(창/이동)" type="EtcItem">
+		<!-- Dion/ Spear/ Mobile. -->
+		<set name="icon" val="icon.mticket_pole_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="80000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6058" name="고급 용병배치표(활/이동)" type="EtcItem">
+		<!-- Dion/ Bow/ Mobile. -->
+		<set name="icon" val="icon.mticket_bow_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6059" name="고급 용병배치표(클레릭/이동)" type="EtcItem">
+		<!-- Dion/ Healer/ Mobile. -->
+		<set name="icon" val="icon.mticket_cleric_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6060" name="고급 용병배치표(위저드/이동)" type="EtcItem">
+		<!-- Dion/ Wizard/ Mobile. -->
+		<set name="icon" val="icon.mticket_wizard_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6064" name="고급 용병배치표(칼/고정)" type="EtcItem">
+		<!-- Giran/ Sword/ Stationary. -->
+		<set name="icon" val="icon.mticket_sword_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="60000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6065" name="고급 용병배치표(창/고정)" type="EtcItem">
+		<!-- Giran/ Spear/ Stationary. -->
+		<set name="icon" val="icon.mticket_pole_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="80000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6066" name="고급 용병배치표(활/고정)" type="EtcItem">
+		<!-- Giran/ Bow/ Stationary. -->
+		<set name="icon" val="icon.mticket_bow_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6067" name="고급 용병배치표(클레릭/고정)" type="EtcItem">
+		<!-- Giran/ Healer/ Stationary. -->
+		<set name="icon" val="icon.mticket_cleric_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6068" name="고급 용병배치표(위저드/고정)" type="EtcItem">
+		<!-- Giran/ Wizard/ Stationary. -->
+		<set name="icon" val="icon.mticket_wizard_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6069" name="고급 용병배치표(칼/이동)" type="EtcItem">
+		<!-- Giran/ Sword/ Mobile. -->
+		<set name="icon" val="icon.mticket_sword_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="60000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6070" name="고급 용병배치표(창/이동)" type="EtcItem">
+		<!-- Giran/ Spear/ Mobile. -->
+		<set name="icon" val="icon.mticket_pole_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="80000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6071" name="고급 용병배치표(활/이동)" type="EtcItem">
+		<!-- Giran/ Bow/ Mobile. -->
+		<set name="icon" val="icon.mticket_bow_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6072" name="고급 용병배치표(클레릭/이동)" type="EtcItem">
+		<!-- Giran/ Healer/ Mobile. -->
+		<set name="icon" val="icon.mticket_cleric_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6073" name="고급 용병배치표(위저드/이동)" type="EtcItem">
+		<!-- Giran/ Wizard/ Mobile. -->
+		<set name="icon" val="icon.mticket_wizard_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6077" name="고급 용병배치표(칼/고정)" type="EtcItem">
+		<!-- Oren/ Sword/ Stationary. -->
+		<set name="icon" val="icon.mticket_sword_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="60000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6078" name="고급 용병배치표(창/고정)" type="EtcItem">
+		<!-- Oren/ Spear/ Stationary. -->
+		<set name="icon" val="icon.mticket_pole_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="80000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6079" name="고급 용병배치표(활/고정)" type="EtcItem">
+		<!-- Oren/ Bow/ Stationary. -->
+		<set name="icon" val="icon.mticket_bow_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6080" name="고급 용병배치표(클레릭/고정)" type="EtcItem">
+		<!-- Oren/ Healer/ Stationary. -->
+		<set name="icon" val="icon.mticket_cleric_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6081" name="고급 용병배치표(위저드/고정)" type="EtcItem">
+		<!-- Oren/ Wizard/ Stationary. -->
+		<set name="icon" val="icon.mticket_wizard_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6082" name="고급 용병배치표(칼/이동)" type="EtcItem">
+		<!-- Oren/ Sword/ Mobile. -->
+		<set name="icon" val="icon.mticket_sword_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="60000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6083" name="고급 용병배치표(창/이동)" type="EtcItem">
+		<!-- Oren/ Spear/ Mobile. -->
+		<set name="icon" val="icon.mticket_pole_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="80000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6084" name="고급 용병배치표(활/이동)" type="EtcItem">
+		<!-- Oren/ Bow/ Mobile. -->
+		<set name="icon" val="icon.mticket_bow_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6085" name="고급 용병배치표(클레릭/이동)" type="EtcItem">
+		<!-- Oren/ Healer/ Mobile. -->
+		<set name="icon" val="icon.mticket_cleric_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6086" name="고급 용병배치표(위저드/이동)" type="EtcItem">
+		<!-- Oren/ Wizard/ Mobile. -->
+		<set name="icon" val="icon.mticket_wizard_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6090" name="고급 용병배치표(칼/고정)" type="EtcItem">
+		<!-- Aden/ Sword/ Stationary. -->
+		<set name="icon" val="icon.mticket_sword_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="60000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6091" name="고급 용병배치표(창/고정)" type="EtcItem">
+		<!-- Aden/ Spear/ Stationary. -->
+		<set name="icon" val="icon.mticket_pole_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="80000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6092" name="고급 용병배치표(활/고정)" type="EtcItem">
+		<!-- Aden/ Bow/ Stationary. -->
+		<set name="icon" val="icon.mticket_bow_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6093" name="고급 용병배치표(클레릭/고정)" type="EtcItem">
+		<!-- Aden/ Healer/ Stationary. -->
+		<set name="icon" val="icon.mticket_cleric_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6094" name="고급 용병배치표(위저드/고정)" type="EtcItem">
+		<!-- Aden/ Wizard/ Stationary. -->
+		<set name="icon" val="icon.mticket_wizard_fix_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6095" name="고급 용병배치표(칼/이동)" type="EtcItem">
+		<!-- Aden/ Sword/ Mobile. -->
+		<set name="icon" val="icon.mticket_sword_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="60000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6096" name="고급 용병배치표(창/이동)" type="EtcItem">
+		<!-- Aden/ Spear/ Mobile. -->
+		<set name="icon" val="icon.mticket_pole_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="80000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6097" name="고급 용병배치표(활/이동)" type="EtcItem">
+		<!-- Aden/ Bow/ Mobile. -->
+		<set name="icon" val="icon.mticket_bow_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="100000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6098" name="고급 용병배치표(클레릭/이동)" type="EtcItem">
+		<!-- Aden/ Healer/ Mobile. -->
+		<set name="icon" val="icon.mticket_cleric_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+	<item id="6099" name="고급 용병배치표(위저드/이동)" type="EtcItem">
+		<!-- Aden/ Wizard/ Mobile. -->
+		<set name="icon" val="icon.mticket_wizard_move_i00"/>
+		<set name="etcitem_type" val="CASTLE_GUARD"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="price" val="200000"/>
+		<set name="is_stackable" val="true"/>
+		<set name="commissionItemType" val="OTHER_ITEM"/>
+		<set name="handler" val="MercTicket"/>
+	</item>
+</list>

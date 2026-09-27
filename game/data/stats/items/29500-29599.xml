@@ -1,0 +1,1520 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/items.xsd">
+	<item id="29500" name="미공급 - 마력의 반지" type="Armor">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="mDef">18</stat>
+		</stats>
+	</item>
+	<item id="29501" name="미공급 - 흑진주 반지" type="Armor">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="mDef">20</stat>
+		</stats>
+	</item>
+	<item id="29502" name="미공급 - 엘븐 링" type="Armor">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="mDef">22</stat>
+		</stats>
+	</item>
+	<item id="29503" name="미공급 - 미스릴 반지" type="Armor">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="mDef">24</stat>
+		</stats>
+	</item>
+	<item id="29504" name="미공급 - 헌신의 반지" type="Armor">
+		<!-- The item is not available. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_freightable" val="true"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="mDef">16</stat>
+		</stats>
+	</item>
+	<item id="29505" name="미공급 - 일반 VIP충전 주문서" type="EtcItem">
+		<!-- The item is not available. Allows to regain 1000 VIP Points when used. (Not used) -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<skills>
+			<skill id="55700" level="1"/> <!-- Scroll: Dance of Fire -->
+		</skills>
+	</item>
+	<item id="29506" name="미공급 - 중급 VIP충전 주문서" type="EtcItem">
+		<!-- The item is not available. Allows to regain 5000 VIP Points when used. (Not used) -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<skills>
+			<skill id="55700" level="1"/> <!-- Scroll: Dance of Fire -->
+		</skills>
+	</item>
+	<item id="29507" name="미공급 - 상급 VIP충전 주문서" type="EtcItem">
+		<!-- The item is not available. Allows to regain 20000 VIP Points when used. (Not used) -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<skills>
+			<skill id="55700" level="1"/> <!-- Scroll: Dance of Fire -->
+		</skills>
+	</item>
+	<item id="29508" name="미공급 - 최상급 VIP충전 주문서" type="EtcItem">
+		<!-- The item is not available. Allows to regain 100000 VIP Points when used. (Not used) -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="commissionItemType" val="SCROLL_OTHER"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<skills>
+			<skill id="55700" level="1"/> <!-- Scroll: Dance of Fire -->
+		</skills>
+	</item>
+	<item id="29509" name="미공급 - 축복의 깃털-npc용 임시" type="EtcItem">
+		<!-- The item is not available. Blessed feather that allows to resurrect right in the place of death. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29510" name="미공급 - 초보자 패키지 - 1단계" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="34603" min="5000" max="5000" chance="100" name="미공급 - 신비한 무급 정령탄"/> <!-- Mysterious No-grade Soulshot - Not Available - Not available -->
+			<item id="34610" min="1000" max="1000" chance="100" name="미공급 - 신비한 축복받은 무급 마정탄"/> <!-- Mysterious Blessed No-grade Spiritshot - Not Available - Not available -->
+			<item id="29648" min="30" max="30" chance="100" name="미공급 - EXP/SP 부스트 주문서 - 일반"/> <!-- XP/SP Scroll - Normal - Not Available - Not available -->
+			<item id="49032" min="1" max="1" chance="100" name="소어링 버드"/> <!-- Eva's Mark - 30-day -->
+			<item id="49000" min="1" max="1" chance="100" name="미공급 - 아가시온 봉인 팔찌 - 싱어&amp;댄서"/> <!-- Agathion Seal Bracelet - Singer and Dancer - Not Available - Not available -->
+			<item id="29651" min="50" max="50" chance="100" name="미공급 - 체력회복제"/> <!-- Healing Potion - Not Available - Not available -->
+			<item id="10650" min="30" max="30" chance="100" name="모험가용 귀환 주문서"/> <!-- Novice's Scroll of Escape - Sealed -->
+			<item id="49036" min="30" max="30" chance="100" name="모험가용 이동속도 향상 물약"/> <!-- Novice's Wind Walk Potion - Sealed -->
+			<item id="29653" min="30" max="30" chance="100" name="미공급 - 초보자용 공격속도 향상 물약"/> <!-- Novice's Large Haste Potion - Not Available - Not available -->
+			<item id="29511" min="1" max="1" chance="100" name="미공급 - 초보자 패키지 - 2단계"/> <!-- Novice Kit Lv. 2 - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29511" name="미공급 - 초보자 패키지 - 2단계" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29512" min="1" max="1" chance="100" name="미공급 - 초보자 패키지 - 3단계"/> <!-- Novice Kit Lv. 3 - Not Available - Not available -->
+			<item id="29654" min="30" max="30" chance="100" name="미공급 - 1차전직 버프 주문서"/> <!-- 1st Class Buff Scroll - Not Available - Not available -->
+		</capsuled_items>
+		<conditions msgId="113" addName="1">
+			<player level="10"/>
+		</conditions>
+	</item>
+	<item id="29512" name="미공급 - 초보자 패키지 - 3단계" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29527" min="1" max="1" chance="100" name="미공급 - 세이버*엘븐 소드"/> <!-- Saber*Elven Sword - Not Available - Not available -->
+			<item id="34604" min="9000" max="9000" chance="100" name="미공급 - 신비한 정령탄 - D그레이드"/> <!-- Mysterious D-grade Soulshot - Not Available - Not available -->
+			<item id="34611" min="2000" max="2000" chance="100" name="미공급 - 신비한 축복받은 마정탄 - D그레이드"/> <!-- Mysterious Blessed D-grade Spiritshot - Not Available - Not available -->
+			<item id="29513" min="1" max="1" chance="100" name="미공급 - 초보자 패키지 - 4단계"/> <!-- Novice Kit Lv. 4 - Not Available - Not available -->
+		</capsuled_items>
+		<conditions msgId="113" addName="1">
+			<player level="20"/>
+		</conditions>
+	</item>
+	<item id="29513" name="미공급 - 초보자 패키지 - 4단계" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29529" min="1" max="1" chance="100" name="미공급 - 마력의 목걸이 제작 팩"/> <!-- Package: Necklace of Magic Making - Not Available - Not available -->
+			<item id="34604" min="9000" max="9000" chance="100" name="미공급 - 신비한 정령탄 - D그레이드"/> <!-- Mysterious D-grade Soulshot - Not Available - Not available -->
+			<item id="34611" min="2000" max="2000" chance="100" name="미공급 - 신비한 축복받은 마정탄 - D그레이드"/> <!-- Mysterious Blessed D-grade Spiritshot - Not Available - Not available -->
+			<item id="29514" min="1" max="1" chance="100" name="미공급 - 초보자 패키지 - 5단계"/> <!-- Novice Kit Lv. 5 - Not Available - Not available -->
+		</capsuled_items>
+		<conditions msgId="113" addName="1">
+			<player level="25"/>
+		</conditions>
+	</item>
+	<item id="29514" name="미공급 - 초보자 패키지 - 5단계" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29530" min="1" max="1" chance="100" name="미공급 - 타이거 아이 제작 팩"/> <!-- Package: Tiger's Eye Making - Not Available - Not available -->
+			<item id="34604" min="9000" max="9000" chance="100" name="미공급 - 신비한 정령탄 - D그레이드"/> <!-- Mysterious D-grade Soulshot - Not Available - Not available -->
+			<item id="34611" min="2000" max="2000" chance="100" name="미공급 - 신비한 축복받은 마정탄 - D그레이드"/> <!-- Mysterious Blessed D-grade Spiritshot - Not Available - Not available -->
+			<item id="29515" min="1" max="1" chance="100" name="미공급 - 초보자 패키지 - 6단계"/> <!-- Novice Kit Lv. 6 - Not Available - Not available -->
+		</capsuled_items>
+		<conditions msgId="113" addName="1">
+			<player level="30"/>
+		</conditions>
+	</item>
+	<item id="29515" name="미공급 - 초보자 패키지 - 6단계" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29649" min="10" max="10" chance="100" name="미공급 - EXP/SP 부스트 주문서 - 중급"/> <!-- XP/SP Scroll - Medium - Not Available - Not available -->
+			<item id="34604" min="9000" max="9000" chance="100" name="미공급 - 신비한 정령탄 - D그레이드"/> <!-- Mysterious D-grade Soulshot - Not Available - Not available -->
+			<item id="34611" min="2000" max="2000" chance="100" name="미공급 - 신비한 축복받은 마정탄 - D그레이드"/> <!-- Mysterious Blessed D-grade Spiritshot - Not Available - Not available -->
+			<item id="29516" min="1" max="1" chance="100" name="미공급 - 초보자 패키지 - 7단계"/> <!-- Novice Kit Lv. 7 - Not Available - Not available -->
+		</capsuled_items>
+		<conditions msgId="113" addName="1">
+			<player level="35"/>
+		</conditions>
+	</item>
+	<item id="29516" name="미공급 - 초보자 패키지 - 7단계" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="49573" min="1" max="1" chance="100" name="블랙 싸울아비"/> <!-- Samurai Black Long Sword - 30-day -->
+		</capsuled_items>
+		<conditions msgId="113" addName="1">
+			<player level="40"/>
+		</conditions>
+	</item>
+	<item id="29517" name="미공급 - 고급 귀환 주문서" type="EtcItem">
+		<!-- The item is not available. Teleports to the nearest village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<skills>
+			<skill id="55001" level="1"/> <!-- Improved Scroll of Escape -->
+		</skills>
+	</item>
+	<item id="29518" name="미공급 - 축복받은 부활 주문서" type="EtcItem">
+		<!-- The item is not available. A magic scroll that resurrects a dead party member fully recovering their XP. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<skills>
+			<skill id="55002" level="1"/> <!-- Blessed Scroll of Resurrection -->
+		</skills>
+	</item>
+	<item id="29519" name="미공급 - EXP/SP 부스트 주문서 - 중급" type="EtcItem">
+		<!-- The item is not available. For 20 min., acquired XP/ SP while hunting +40%. The effect remains after death. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="55000" level="3"/> <!-- Acquired XP/ SP Scroll - Mid-grade -->
+		</skills>
+	</item>
+	<item id="29520" name="미공급 - VIP 코인" type="EtcItem">
+		<!-- The item is not available. Required for purchasing various items from Game Assistants. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="29521" name="미공급 - 신비한 무급 정령탄 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29023" min="1000" max="1000" chance="100" name="미공급 - 신비한 무급 정령탄"/> <!-- Mysterious No-grade Soulshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29522" name="미공급 - 신비한 무급 축복받은 마정탄 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29024" min="1000" max="1000" chance="100" name="미공급 - 신비한 축복받은 무급 마정탄"/> <!-- Mysterious Blessed No-grade Spiritshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29523" name="미공급 - 신비한 D급 정령탄 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29025" min="1000" max="1000" chance="100" name="미공급 - 신비한 정령탄 - D그레이드"/> <!-- Mysterious D-grade Soulshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29524" name="미공급 - 신비한 D급 축복받은 마정탄 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29026" min="1000" max="1000" chance="100" name="미공급 - 신비한 축복받은 마정탄 - D그레이드"/> <!-- Mysterious Blessed D-grade Spiritshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29525" name="미공급 - 신비한 C급 정령탄 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29027" min="1000" max="1000" chance="100" name="미공급 - 신비한 정령탄 - C그레이드"/> <!-- Mysterious C-grade Soulshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29526" name="미공급 - 신비한 C급 축복받은 마정탄 1000개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29028" min="1000" max="1000" chance="100" name="미공급 - 신비한 축복받은 마정탄 - C그레이드"/> <!-- Mysterious Blessed C-grade Spiritshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29527" name="미공급 - 세이버*엘븐 소드" type="Weapon">
+		<!-- The item is not available. Available for 30 d. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2510"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="enchant_enabled" val="true"/>
+		<stats>
+			<stat type="pAtk">96</stat>
+			<stat type="mAtk">47</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="29528" name="미공급 - 엘븐 링 제작 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="100"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="1903" min="7" max="7" chance="100.0" name="엘븐 링 조각"/> <!-- Elven Ring Piece -->
+			<item id="1886" min="1" max="1" chance="100.0" name="은제 거푸집"/> <!-- Silver Mold -->
+			<item id="1884" min="30" max="30" chance="100.0" name="강화 실"/> <!-- Cord -->
+			<item id="1865" min="6" max="6" chance="100.0" name="연마제"/> <!-- Varnish -->
+			<item id="1458" min="20" max="20" chance="100.0" name="결정체 - D그레이드"/> <!-- D-grade Crystal -->
+			<item id="2130" min="4" max="4" chance="100.0" name="젬스톤 - D그레이드"/> <!-- D-grade Gemstone -->
+		</capsuled_items>
+	</item>
+	<item id="29529" name="미공급 - 마력의 목걸이 제작 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="100"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="1900" min="5" max="5" chance="100" name="마력의 목걸이 체인"/> <!-- Necklace of Magic Chain -->
+			<item id="1886" min="1" max="1" chance="100" name="은제 거푸집"/> <!-- Silver Mold -->
+			<item id="1878" min="15" max="15" chance="100" name="질긴 끈"/> <!-- Durable Braid -->
+			<item id="1865" min="3" max="3" chance="100" name="연마제"/> <!-- Varnish -->
+			<item id="1458" min="18" max="18" chance="100" name="결정체 - D그레이드"/> <!-- D-grade Crystal -->
+			<item id="2130" min="3" max="3" chance="100" name="젬스톤 - D그레이드"/> <!-- D-grade Gemstone -->
+		</capsuled_items>
+	</item>
+	<item id="29530" name="미공급 - 타이거 아이 제작 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="100"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="1901" min="6" max="6" chance="100" name="타이거 아이 스톤"/> <!-- Tiger's Eye Stone -->
+			<item id="1886" min="1" max="1" chance="100" name="은제 거푸집"/> <!-- Silver Mold -->
+			<item id="1884" min="30" max="30" chance="100" name="강화 실"/> <!-- Cord -->
+			<item id="1865" min="6" max="6" chance="100" name="연마제"/> <!-- Varnish -->
+			<item id="1458" min="22" max="22" chance="100" name="결정체 - D그레이드"/> <!-- D-grade Crystal -->
+			<item id="2130" min="4" max="4" chance="100" name="젬스톤 - D그레이드"/> <!-- D-grade Gemstone -->
+		</capsuled_items>
+	</item>
+	<item id="29531" name="미공급 - 신비한 무급 격수 사냥 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29023" min="5000" max="5000" chance="100" name="미공급 - 신비한 무급 정령탄"/> <!-- Mysterious No-grade Soulshot - Not Available - Not available -->
+			<item id="29648" min="15" max="15" chance="100" name="미공급 - EXP/SP 부스트 주문서 - 일반"/> <!-- XP/SP Scroll - Normal - Not Available - Not available -->
+			<item id="29011" min="15" max="15" chance="100" name="미공급 - 1차전직 버프 주문서"/> <!-- 1st Class Buff Scroll - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29532" name="미공급 - 신비한 무급 법사 사냥 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29024" min="1000" max="1000" chance="100" name="미공급 - 신비한 축복받은 무급 마정탄"/> <!-- Mysterious Blessed No-grade Spiritshot - Not Available - Not available -->
+			<item id="29648" min="15" max="15" chance="100" name="미공급 - EXP/SP 부스트 주문서 - 일반"/> <!-- XP/SP Scroll - Normal - Not Available - Not available -->
+			<item id="29011" min="15" max="15" chance="100" name="미공급 - 1차전직 버프 주문서"/> <!-- 1st Class Buff Scroll - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29533" name="미공급 - 신비한 D급 격수 사냥 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29025" min="5000" max="5000" chance="100" name="미공급 - 신비한 정령탄 - D그레이드"/> <!-- Mysterious D-grade Soulshot - Not Available - Not available -->
+			<item id="29648" min="15" max="15" chance="100" name="미공급 - EXP/SP 부스트 주문서 - 일반"/> <!-- XP/SP Scroll - Normal - Not Available - Not available -->
+			<item id="29011" min="15" max="15" chance="100" name="미공급 - 1차전직 버프 주문서"/> <!-- 1st Class Buff Scroll - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29534" name="미공급 - 신비한 D급 법사 사냥 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29026" min="1000" max="1000" chance="100" name="미공급 - 신비한 축복받은 마정탄 - D그레이드"/> <!-- Mysterious Blessed D-grade Spiritshot - Not Available - Not available -->
+			<item id="29648" min="15" max="15" chance="100" name="미공급 - EXP/SP 부스트 주문서 - 일반"/> <!-- XP/SP Scroll - Normal - Not Available - Not available -->
+			<item id="29011" min="15" max="15" chance="100" name="미공급 - 1차전직 버프 주문서"/> <!-- 1st Class Buff Scroll - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29535" name="미공급 - 신비한 C급 격수 사냥 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29027" min="5000" max="5000" chance="100" name="미공급 - 신비한 정령탄 - C그레이드"/> <!-- Mysterious C-grade Soulshot - Not Available - Not available -->
+			<item id="29648" min="15" max="15" chance="100" name="미공급 - EXP/SP 부스트 주문서 - 일반"/> <!-- XP/SP Scroll - Normal - Not Available - Not available -->
+			<item id="29011" min="15" max="15" chance="100" name="미공급 - 1차전직 버프 주문서"/> <!-- 1st Class Buff Scroll - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29536" name="미공급 - 신비한 C급 법사 사냥 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29028" min="1000" max="1000" chance="100" name="미공급 - 신비한 축복받은 마정탄 - C그레이드"/> <!-- Mysterious Blessed C-grade Spiritshot - Not Available - Not available -->
+			<item id="29648" min="15" max="15" chance="100" name="미공급 - EXP/SP 부스트 주문서 - 일반"/> <!-- XP/SP Scroll - Normal - Not Available - Not available -->
+			<item id="29011" min="15" max="15" chance="100" name="미공급 - 1차전직 버프 주문서"/> <!-- 1st Class Buff Scroll - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29537" name="미공급 - 헤어 액세서리용 생명의 돌" type="EtcItem">
+		<!-- The item is not available. Used by Blacksmiths to add special properties to a head accessory. (Not used) -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29538" name="미공급 - 무급 정령탄" type="EtcItem">
+		<!-- The item is not available. Soulshots increase a weapon's power. Used with No-grade weapons. Take it to the Game Assistant to exchange for a new Soulshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SOULSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="3"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="29539" name="미공급 - 축복받은 무급 마정탄" type="EtcItem">
+		<!-- The item is not available. Spiritshots increase a weapon's magic power. Used with No-grade weapons. Take it to the Game Assistant to exchange for a new Spiritshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SPIRITSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="4"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="BlessedSpiritShot"/>
+		<skills>
+			<skill id="9300" level="1"/> <!-- Blessed No-grade Spiritshot -->
+		</skills>
+	</item>
+	<item id="29540" name="미공급 - 정령탄 - D그레이드" type="EtcItem">
+		<!-- The item is not available. Soulshots increase a weapon's power. Used with D-grade weapons. Take it to the Game Assistant to exchange for a new Soulshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SOULSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="2"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="29541" name="미공급 - 축복받은 마정탄 - D그레이드" type="EtcItem">
+		<!-- The item is not available. Spiritshots increase a weapon's magic power. Used with D-grade weapons. Take it to the Game Assistant to exchange for a new Spiritshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SPIRITSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="D"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="4"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="BlessedSpiritShot"/>
+		<skills>
+			<skill id="9301" level="1"/> <!-- Mysterious Blessed D-grade Spiritshot -->
+		</skills>
+	</item>
+	<item id="29542" name="미공급 - 정령탄 - C그레이드" type="EtcItem">
+		<!-- The item is not available. Soulshots increase a weapon's power. Used with C-grade weapons. Take it to the Game Assistant to exchange for a new Soulshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SOULSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="2"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="29543" name="미공급 - 축복받은 마정탄 - C그레이드" type="EtcItem">
+		<!-- The item is not available. Spiritshots increase a weapon's magic power. Used with C-grade weapons. Take it to the Game Assistant to exchange for a new Spiritshot. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SPIRITSHOT"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="2"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="handler" val="BlessedSpiritShot"/>
+		<skills>
+			<skill id="9302" level="1"/> <!-- Mysterious Blessed C-grade Spiritshot -->
+		</skills>
+	</item>
+	<item id="29544" name="미공급 - 크로니클 계승자의 고급 반지" type="Armor">
+		<!-- The item is not available. HP +10%, HP Recovery Rate +10%, P./ M. Accuracy +1, Weight Limit +5000. Increases Atk. Spd. and Casting Spd. Effects of two identical rings do not stack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="mDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="55040" level="1"/> <!-- Greater Scion Ring -->
+		</skills>
+	</item>
+	<item id="29545" name="미공급 - 고급 귀환 주문서" type="EtcItem">
+		<!-- The item is not available. Teleports to the nearest village. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="55033" level="1"/> <!-- Improved Scroll of Escape -->
+		</skills>
+	</item>
+	<item id="29546" name="미공급 - 축복받은 부활 주문서" type="EtcItem">
+		<!-- The item is not available. A magic scroll that resurrects a dead party member fully recovering their XP. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="120"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="55034" level="1"/> <!-- Blessed Scroll of Resurrection -->
+		</skills>
+	</item>
+	<item id="29547" name="미공급 - 무기 강화 주문서-D그레이드" type="EtcItem">
+		<!-- The item is not available. For D-grade weapons. P. Atk. +4 for one-handed swords/ blunts, daggers, spears. P. Atk. +5 for two-handed swords/ blunts, fists, dual swords. P. Atk. +8 for bows. M. Atk. +3 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. Enchanting is safe up to +3. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="55005" level="1"/> <!-- Scroll: Enchant D-grade Weapon -->
+		</skills>
+	</item>
+	<item id="29548" name="미공급 - 갑옷 강화 주문서-D그레이드" type="EtcItem">
+		<!-- The item is not available. For D-grade armor and accessories. P. Def. +1. Starting from +4, P. Def. +3, HP is increased with each enchant value. Enchanting is safe up to +4. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="55006" level="1"/> <!-- Scroll: Enchant D-grade Armor -->
+		</skills>
+	</item>
+	<item id="29549" name="미공급 - 무기 강화 주문서-C그레이드" type="EtcItem">
+		<!-- The item is not available. For C-grade weapons. P. Atk. +4 for one-handed swords/ blunts, daggers, spears. P. Atk. +5 for two-handed swords/ blunts, fists, dual swords. P. Atk. +8 for bows. M. Atk. +3 for all weapons. Starting from +4, P./ M. Atk. bonus is doubled. Enchanting is safe up to +3. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="55007" level="1"/> <!-- Scroll: Enchant C-grade Weapon -->
+		</skills>
+	</item>
+	<item id="29550" name="미공급 - 갑옷 강화 주문서-C그레이드" type="EtcItem">
+		<!-- The item is not available. For C-grade armor and accessories. P. Def. +1. Starting from +4, P. Def. +3, HP is increased with each enchant value. Enchanting is safe up to +4. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="EnchantScrolls"/>
+		<skills>
+			<skill id="55008" level="1"/> <!-- Scroll: Enchant C-grade Armor -->
+		</skills>
+	</item>
+	<item id="29551" name="미공급 - 크로니클 계승자의 반지 조각" type="EtcItem">
+		<!-- The item is not available. Material for enchanting Ring of Chronicle Heir sold by the Game Assistant. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="MATERIAL"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29552" name="미공급 - 1차 전직 버프 주문서" type="EtcItem">
+		<!-- The item is not available. For 20 min., activates the following effects: Shield Lv. 2, Might Lv. 2, Concentration Lv. 2, Acumen Lv. 1, Wind Walk Lv. 1, Focus Lv. 1, Agility Lv. 1, Empower Lv. 1. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="immediate_effect" val="true"/>
+		<skills>
+			<skill id="55035" level="1"/> <!-- 1st Class Buff Scroll -->
+		</skills>
+	</item>
+	<item id="29553" name="미공급 - 2차 전직 버프 주문서" type="EtcItem">
+		<!-- The item is not available. For 20 min., activates the following effects: Shield Lv. 3, Acumen Lv. 2, Wind Walk Lv. 2, Focus Lv. 2, Regeneration Lv. 1, Guidance Lv. 1, Death Whisper Lv. 1, Magic Barrier Lv. 1, Blessed Body Lv. 1, Blessed Soul Lv. 1, Haste Lv. 1, Agility Lv. 2. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="PAPER"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="immediate_effect" val="true"/>
+		<skills>
+			<skill id="55036" level="2"/> <!-- 2nd Class Buff Scroll -->
+		</skills>
+	</item>
+	<item id="29554" name="미공급 - 순간 체력 회복제" type="EtcItem">
+		<!-- The item is not available. A magic potion that instantly recovers HP. No cooldown. Cannot be used when HP is full. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="55037" level="1"/> <!-- Quick Healing Potion -->
+		</skills>
+	</item>
+	<item id="29555" name="미공급 - 고급 순간 체력 회복제" type="EtcItem">
+		<!-- The item is not available. Magic potion that instantly restores great amount of HP. No cooldown. Cannot be used when HP is full. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="etcitem_type" val="POTION"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="55038" level="1"/> <!-- Large Quick Healing Potion -->
+		</skills>
+	</item>
+	<item id="29556" name="미공급 - 크로니클 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29557" name="미공급 - 신비한 무급 정령탄 100개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29023" min="100" max="100" chance="100.0" name="미공급 - 신비한 무급 정령탄"/> <!-- Mysterious No-grade Soulshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29558" name="미공급 - 신비한 무급 축복받은 마정탄 100개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29024" min="100" max="100" chance="100.0" name="미공급 - 신비한 축복받은 무급 마정탄"/> <!-- Mysterious Blessed No-grade Spiritshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29559" name="미공급 - 신비한 D급 정령탄 100개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29025" min="100" max="100" chance="100.0" name="미공급 - 신비한 정령탄 - D그레이드"/> <!-- Mysterious D-grade Soulshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29560" name="미공급 - 신비한 D급 축복받은 마정탄 100개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29026" min="100" max="100" chance="100.0" name="미공급 - 신비한 축복받은 마정탄 - D그레이드"/> <!-- Mysterious Blessed D-grade Spiritshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29561" name="미공급 - 신비한 C급 정령탄 100개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29027" min="100" max="100" chance="100.0" name="미공급 - 신비한 정령탄 - C그레이드"/> <!-- Mysterious C-grade Soulshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29562" name="미공급 - 신비한 C급 축복받은 마정탄 100개 팩" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="29028" min="100" max="100" chance="100.0" name="미공급 - 신비한 축복받은 마정탄 - C그레이드"/> <!-- Mysterious Blessed C-grade Spiritshot - Not Available - Not available -->
+		</capsuled_items>
+	</item>
+	<item id="29563" name="미공급 - 럭키 코인" type="EtcItem">
+		<!-- The item is not available. A coin for the Premium Lucky Game (several coins are required). -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29564" name="미공급 - 출석 코인" type="EtcItem">
+		<!-- The item is not available. A coin given in reward for Attendance. Can be exchanged for various items by the Game Assistant. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="LEATHER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29565" name="미공급 - EXP/SP 부스트 주문서" type="EtcItem">
+		<!-- The item is not available. For 60 min., acquired XP/ SP while hunting +20%. The effect remains after death. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="LIQUID"/>
+		<set name="weight" val="5"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="etcitem_type" val="SCROLL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="55041" level="1"/> <!-- Acquired XP/ SP -->
+		</skills>
+	</item>
+	<item id="29566" name="미공급 - 출석보상 경험치의 룬" type="EtcItem">
+		<!-- The item is not available. Available for 7 d. When in inventory, acquired XP/ SP while hunting +10%. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="etcitem_type" val="ENCHT_ATTR_RUNE"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_premium" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="time" val="10080"/>
+		<skills>
+			<skill id="55042" level="1"/> <!-- Attendance XP Rune -->
+		</skills>
+	</item>
+	<item id="29567" name="미공급 - 6일차 출석 선물" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29568" name="미공급 - 7일차 출석 선물" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29569" name="미공급 - 13일차 출석 선물" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29570" name="미공급 - 14일차 출석 선물" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29571" name="미공급 - 20일차 출석 선물" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29572" name="미공급 - 21일차 출석 선물" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29573" name="미공급 - 27일차 출석 선물" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29574" name="미공급 - 28일차 출석 선물" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29575" name="미공급 - 여왕개미의 반지 Lv1" type="Armor">
+		<!-- The item is not available. Available for 30 d. MP +9, Infection Atk. Rate and Resistance +10%, P./ M. Accuracy +1, P./ M. Atk. +20%. Effects of two identical rings do not stack. Cannot be enchanted. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="enchant_enabled" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="commissionItemType" val="RING"/>
+		<stats>
+			<stat type="mDef">32</stat>
+			<stat type="maxMp">9</stat>
+		</stats>
+		<skills>
+			<skill id="3562" level="1"/> <!-- Not used - Queen Ant's Ring -->
+		</skills>
+	</item>
+	<item id="29576" name="미공급 - 오르펜의 귀걸이 Lv1" type="Armor">
+		<!-- The item is not available. Available for 30 d. MP +19, Fear/ Hold/ Silence Atk. Rate and Resistance +10%, Received Healing +2%, Skill MP Consumption -2%. Effects of two identical earrings do not stack. Cannot be enchanted. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rear;lear"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="commissionItemType" val="EARRING"/>
+		<stats>
+			<stat type="mDef">51</stat>
+			<stat type="maxMp">19</stat>
+		</stats>
+		<skills>
+			<skill id="3560" level="1"/> <!-- Not used - Orfen's Earring -->
+		</skills>
+	</item>
+	<item id="29577" name="미공급 - 코어의 반지 Lv1" type="Armor">
+		<!-- The item is not available. Available for 30 d. MP +9, Silence/ Fear Atk. Rate and Resistance +10%, P./ M. Evasion +1, received damage -2%. Effects of two identical rings do not stack. Cannot be enchanted. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<set name="commissionItemType" val="RING"/>
+		<stats>
+			<stat type="mDef">32</stat>
+			<stat type="maxMp">9</stat>
+		</stats>
+		<skills>
+			<skill id="3563" level="1"/> <!-- Not used - Core's Ring -->
+		</skills>
+	</item>
+	<item id="29578" name="미공급 - 레어 액세서리 Lv1 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="39058" level="1"/> <!-- Rare Accessory Pack -->
+		</skills>
+	</item>
+	<item id="29579" name="미공급 - 소어링 버드" type="Armor">
+		<!-- The item is not available. An item for commemorating the launch of L2 Legacy server. Enables a skill that teleports you to the nearest village. Cooldown: 60 min. <font color=eeaa22>Equipped in the left head accessory slot.</font> -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="hair"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="STEEL"/>
+		<set name="weight" val="10"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<skills>
+			<skill id="39025" level="1"/> <!-- Return -->
+		</skills>
+	</item>
+	<item id="29580" name="미공급 - dreamin7 쿠폰" type="EtcItem">
+		<!-- The item is not available. Can be exchanged for Saber*Elven Sword (30-day) enchanted to +7 or higher. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="material" val="LIQUID"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29581" name="미공급 - LineageII 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="FISH"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="55044" level="1"/> <!-- Lineage II Chest -->
+		</skills>
+	</item>
+	<item id="29582" name="미공급 - Chronicle 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="FISH"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="55045" level="1"/> <!-- Chronicle Chest -->
+		</skills>
+	</item>
+	<item id="29583" name="미공급 - Memories 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="FISH"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ItemSkills"/>
+		<skills>
+			<skill id="55046" level="1"/> <!-- Memories Chest -->
+		</skills>
+	</item>
+	<item id="29584" name="미공급 - 앤젤 캣의 축복 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="handler" val="ExtractableItems"/>
+		<capsuled_items>
+			<item id="35669" min="1" max="1" chance="100" name="앤젤 캣의 축복"/> <!-- Angel Cat's Blessing - 30-day -->
+		</capsuled_items>
+	</item>
+	<item id="29585" name="미공급 - 세련된 로맨틱 샤프롱" type="Armor">
+		<!-- The item is not available. Refined Romantic Chapeau (30-day). Enables the Blessed Body and Wind Walk skills. <font color=eeaa22>Equipped in the left head accessory slot.</font> -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="hairall"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="WOOD"/>
+		<set name="weight" val="10"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<skills>
+			<skill id="55047" level="1"/> <!-- Romantic Chapeau - Blessed Body -->
+			<skill id="55048" level="1"/> <!-- Romantic Chapeau - Wind Walk -->
+		</skills>
+	</item>
+	<item id="29586" name="미공급 - 세련된 로맨틱 샤프롱(30일) 상자" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+	<item id="29587" name="미공급 - 아가시온 봉인 팔찌 - 싱어&amp;댄서" type="Armor">
+		<!-- The item is not available. A bracelet for summoning Agathion Singer and Dancer. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="bodypart" val="lbracelet"/>
+		<set name="is_oly_restricted" val="true"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="weight" val="150"/>
+		<set name="material" val="SILVER"/>
+		<skills>
+			<skill id="3267" level="1" type="ON_UNEQUIP"/> <!-- Unsummon Agathion -->
+			<skill id="21233" level="1" type="ON_EQUIP"/> <!-- Summon Agathion Singer and Dancer -->
+			<skill id="23234" level="1"/> <!-- Agathion's Cute Trick - Singer and Dancer -->
+		</skills>
+	</item>
+	<item id="29588" name="미공급 - 블랙 싸울아비 30일 박스" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="time" val="43200"/>
+	</item>
+	<item id="29589" name="미공급 - 블랙 싸울아비 30일 박스" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="43200"/>
+	</item>
+	<item id="29590" name="미공급 - 블랙 싸울아비" type="Weapon">
+		<!-- The item is not available. Cannot be enchanted or imbued with special properties. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2340"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pAtk">155</stat>
+			<stat type="mAtk">70</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="29591" name="미공급 - 블랙 싸울아비" type="Weapon">
+		<!-- The item is not available. Cannot be enchanted or imbued with special properties. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="weapon_type" val="DUAL"/>
+		<set name="bodypart" val="lrhand"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="crystal_type" val="C"/>
+		<set name="material" val="FINE_STEEL"/>
+		<set name="weight" val="2340"/>
+		<set name="soulshots" val="1"/>
+		<set name="spiritshots" val="1"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="pAtk">155</stat>
+			<stat type="mAtk">70</stat>
+			<stat type="rCrit">8</stat>
+			<stat type="pAtkSpd">325</stat>
+			<stat type="randomDamage">10</stat>
+			<stat type="pAtkRange">40</stat>
+		</stats>
+	</item>
+	<item id="29592" name="미공급 - 소어링 버드 30일 박스" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+		<set name="time" val="43200"/>
+	</item>
+	<item id="29593" name="미공급 - 소어링 버드 30일 박스" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="PEEL"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="PAPER"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="time" val="43200"/>
+	</item>
+	<item id="29594" name="미공급 - 크로니클 계승자의 고급 반지" type="Armor">
+		<!-- The item is not available. HP +10%, HP Recovery Rate +10%, P./ M. Accuracy +1, Weight Limit +5000. Increases Atk. Spd. and Casting Spd. Effects of two identical rings do not stack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<stats>
+			<stat type="mDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="55040" level="1"/> <!-- Greater Scion Ring -->
+		</skills>
+	</item>
+	<item id="29595" name="미공급 - 크로니클 계승자의 고급 반지" type="Armor">
+		<!-- The item is not available. HP +10%, HP Recovery Rate +10%, P./ M. Accuracy +1, Weight Limit +5000. Increases Atk. Spd. and Casting Spd. Effects of two identical rings do not stack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="10080"/>
+		<stats>
+			<stat type="mDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="55040" level="1"/> <!-- Greater Scion Ring -->
+		</skills>
+	</item>
+	<item id="29596" name="미공급 - 크로니클 계승자의 고급 반지" type="Armor">
+		<!-- The item is not available. HP +10%, HP Recovery Rate +10%, P./ M. Accuracy +1, Weight Limit +5000. Increases Atk. Spd. and Casting Spd. Effects of two identical rings do not stack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="21600"/>
+		<stats>
+			<stat type="mDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="55040" level="1"/> <!-- Greater Scion Ring -->
+		</skills>
+	</item>
+	<item id="29597" name="미공급 - 크로니클 계승자의 고급 반지" type="Armor">
+		<!-- The item is not available. HP +10%, HP Recovery Rate +10%, P./ M. Accuracy +1, Weight Limit +5000. Increases Atk. Spd. and Casting Spd. Effects of two identical rings do not stack. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="EQUIP"/>
+		<set name="bodypart" val="rfinger;lfinger"/>
+		<set name="immediate_effect" val="true"/>
+		<set name="material" val="GOLD"/>
+		<set name="weight" val="150"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="time" val="43200"/>
+		<stats>
+			<stat type="mDef">14</stat>
+		</stats>
+		<skills>
+			<skill id="55040" level="1"/> <!-- Greater Scion Ring -->
+		</skills>
+	</item>
+	<item id="29598" name="미공급 - 크로니클 계승자의 고급 장비 랜덤박스" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="FISH"/>
+		<set name="is_tradable" val="false"/>
+		<set name="is_dropable" val="false"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+		<set name="is_freightable" val="true"/>
+	</item>
+	<item id="29599" name="미공급 - 크로니클 계승자의 고급 장비 랜덤박스" type="EtcItem">
+		<!-- Double-click to obtain various items. -->
+		<set name="icon" val="icon.etc_ertheia2"/>
+		<set name="default_action" val="SKILL_REDUCE"/>
+		<set name="material" val="FISH"/>
+		<set name="is_sellable" val="false"/>
+		<set name="is_stackable" val="true"/>
+	</item>
+</list>
