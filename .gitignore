@@ -27,3 +27,5 @@ Thumbs.db
 # 🔒 보안 파일 및 Git 자동화 파이썬 스크립트류 전체 제외
 .env_token
 git_*.py
+
+.env
